@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "mcp__plugin_playwright_playwright__browser_network_requests",
+      "mcp__plugin_playwright_playwright__browser_run_code",
+      "Bash(npm install)",
+      "Bash(chmod:*)",
+      "Bash(npx tsc:*)",
+      "Bash(tree:*)",
+      "Bash(npx tsx:*)",
+      "Bash(npx playwright install:*)",
+      "mcp__plugin_playwright_playwright__browser_snapshot",
+      "mcp__plugin_playwright_playwright__browser_take_screenshot",
+      "Bash(ls:*)",
+      "mcp__plugin_playwright_playwright__browser_press_key",
+      "mcp__plugin_playwright_playwright__browser_click",
+      "Bash(grep:*)",
+      "mcp__plugin_playwright_playwright__browser_evaluate",
+      "mcp__plugin_playwright_playwright__browser_wait_for"
+    ]
+  }
+}
