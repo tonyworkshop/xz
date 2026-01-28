@@ -29,7 +29,9 @@ export function generateMarkdown(
 
   lines.push('---');
   lines.push(`title: "${title}"`);
-  lines.push(`author: ${topic.author.name}`);
+  if (topic.author.name) {
+    lines.push(`author: ${topic.author.name}`);
+  }
   lines.push(`date: ${topic.create_time}`);
   lines.push(`topic_id: ${topic.topic_id}`);
   lines.push(`source: ${sourceUrl}`);
@@ -48,7 +50,6 @@ export function generateMarkdown(
   lines.push('');
 
   // 元信息
-  lines.push(`**作者**: ${topic.author.name}`);
   lines.push(`**发布时间**: ${formatDateTime(topic.create_time)}`);
   if (topic.likes_count) {
     lines.push(`**点赞数**: ${topic.likes_count}`);
@@ -80,12 +81,12 @@ export function generateMarkdown(
       lines.push('');
     }
   } else if (topic.type === 'question' && topic.question) {
-    lines.push('## 提问');
+    lines.push(topic.author.name ? `## 提问 | ${topic.author.name}` : '## 提问');
     lines.push('');
     lines.push(topic.question.text || '');
     lines.push('');
   } else if (topic.type === 'answer' && topic.answer) {
-    lines.push('## 回答');
+    lines.push('## 回答 | 许哲');
     lines.push('');
     lines.push(topic.answer.text || '');
     lines.push('');
@@ -99,13 +100,13 @@ export function generateMarkdown(
     }
   } else if (topic.type === 'q&a') {
     if (topic.question) {
-      lines.push('## 提问');
+      lines.push(topic.author.name ? `## 提问 | ${topic.author.name}` : '## 提问');
       lines.push('');
       lines.push(topic.question.text || '');
       lines.push('');
     }
     if (topic.answer) {
-      lines.push('## 回答');
+      lines.push('## 回答 | 许哲');
       lines.push('');
       lines.push(topic.answer.text || '');
       lines.push('');

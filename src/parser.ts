@@ -95,9 +95,9 @@ export function normalizeTopic(rawTopic: any): Topic {
     topic_id: rawTopic.topic_id || rawTopic.id,
     create_time: rawTopic.create_time || rawTopic.created_at,
     author: {
-      user_id: rawTopic.owner?.user_id || rawTopic.author?.user_id || '',
-      name: rawTopic.owner?.name || rawTopic.author?.name || '',
-      avatar_url: rawTopic.owner?.avatar_url || rawTopic.author?.avatar_url,
+      user_id: rawTopic.owner?.user_id || rawTopic.author?.user_id || rawTopic.question?.owner?.user_id || '',
+      name: rawTopic.owner?.name || rawTopic.author?.name || rawTopic.question?.owner?.name || '',
+      avatar_url: rawTopic.owner?.avatar_url || rawTopic.author?.avatar_url || rawTopic.question?.owner?.avatar_url,
     },
     type: rawTopic.type || 'talk',
     likes_count: rawTopic.likes?.count || rawTopic.likes_count || 0,
