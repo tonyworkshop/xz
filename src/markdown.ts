@@ -29,9 +29,6 @@ export function generateMarkdown(
 
   lines.push('---');
   lines.push(`title: "${title}"`);
-  if (topic.author.name) {
-    lines.push(`author: ${topic.author.name}`);
-  }
   lines.push(`date: ${topic.create_time}`);
   lines.push(`topic_id: ${topic.topic_id}`);
   lines.push(`source: ${sourceUrl}`);
@@ -81,7 +78,7 @@ export function generateMarkdown(
       lines.push('');
     }
   } else if (topic.type === 'question' && topic.question) {
-    lines.push(topic.author.name ? `## 提问 | ${topic.author.name}` : '## 提问');
+    lines.push(`## 提问 | ${topic.author.name || '匿名用户'}`);
     lines.push('');
     lines.push(topic.question.text || '');
     lines.push('');
@@ -100,7 +97,7 @@ export function generateMarkdown(
     }
   } else if (topic.type === 'q&a') {
     if (topic.question) {
-      lines.push(topic.author.name ? `## 提问 | ${topic.author.name}` : '## 提问');
+      lines.push(`## 提问 | ${topic.author.name || '匿名用户'}`);
       lines.push('');
       lines.push(topic.question.text || '');
       lines.push('');
