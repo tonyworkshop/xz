@@ -294,8 +294,8 @@ export class ZsxqScraper {
    * 由于 DOM 中无 topicId，采用按顺序点击 + API 识别的方式。
    */
   async fetchTopicComments(topic: Topic): Promise<Comment[] | null> {
-    if (!this.page || !this.context) {
-      throw new Error('Page/Context 未初始化');
+    if (!this.page) {
+      throw new Error('Page 未初始化');
     }
 
     const topicId = topic.topic_id;
@@ -303,16 +303,8 @@ export class ZsxqScraper {
     try {
       log(`获取帖子完整评论: ${topicId}`);
 
-      // 尝试通过模态框方案获取评论（文本匹配定位按钮）
-      const modalResult = await this.fetchCommentsViaModal(topic);
-      if (modalResult !== null) {
-        return modalResult;
-      }
-
-      // fallback: 新标签页方案
-      const currentUrl = this.page.url();
-      log(`模态框方案未匹配，fallback 到新标签页: ${topicId}\n当前主页面 URL: ${currentUrl}`);
-      return await this.fetchCommentsViaNewTab(topicId);
+      // 通过模态框方案获取评论（文本匹配定位按钮）
+      return await this.fetchCommentsViaModal(topic);
     } catch (error) {
       logError(`获取帖子评论失败: ${topicId}`, error);
       return null;
@@ -442,7 +434,7 @@ export class ZsxqScraper {
       log(`帖子无评论: ${topicId}`);
     }
 
-    return comments.length > 0 ? comments : null;
+    return comments;  // 返回空数组也是成功（帖子无评论）
   }
 
   /**
@@ -509,33 +501,6 @@ export class ZsxqScraper {
     } catch (error) {
       logError('关闭模态框失败', error);
     }
-  }
-
-  /**
-   * fallback：通过新标签页获取评论（导航到详情页后解析 HTML）
-   */
-  private async fetchCommentsViaNewTab(topicId: string): Promise<Comment[] | null> {
-    if (!this.context) return null;
-
-    const detailPage = await this.context.newPage();
-
-    const detailUrl = `https://wx.zsxq.com/dweb2/index/topic_detail/${topicId}`;
-    log(`[fallback] 打开详情页\n${detailUrl}`);
-    await detailPage.goto(detailUrl, { waitUntil: 'networkidle' });
-    await randomDelay(1500, 2500);
-
-    // 从详情页 HTML 解析评论
-    const comments = await parseCommentsFromHTML(detailPage);
-
-    await detailPage.close();
-
-    if (comments.length > 0) {
-      log(`[fallback] 获取到 ${comments.length} 条评论`);
-    } else {
-      log(`未获取到帖子评论: ${topicId}`);
-    }
-
-    return comments.length > 0 ? comments : null;
   }
 
   /**

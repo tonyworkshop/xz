@@ -25,13 +25,11 @@ export function generateMarkdown(
 
   // Frontmatter
   const title = extractTitle(topic);
-  const sourceUrl = `https://wx.zsxq.com/dweb2/index/topic_detail/${topic.topic_id}`;
 
   lines.push('---');
   lines.push(`title: "${title}"`);
   lines.push(`date: ${topic.create_time}`);
   lines.push(`topic_id: ${topic.topic_id}`);
-  lines.push(`source: ${sourceUrl}`);
   lines.push(`type: ${topic.type}`);
   if (topic.likes_count) {
     lines.push(`likes: ${topic.likes_count}`);
