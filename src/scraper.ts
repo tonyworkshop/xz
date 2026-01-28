@@ -82,8 +82,8 @@ export class ZsxqScraper {
     }
 
     try {
-      log('导航到星球页面...');
       const url = `https://wx.zsxq.com/dweb2/index/group/${this.groupId}`;
+      log(`导航到星球页面\n${url}`);
       await this.page.goto(url, { waitUntil: 'networkidle' });
 
       // 等待页面加载
@@ -310,7 +310,8 @@ export class ZsxqScraper {
       }
 
       // fallback: 新标签页方案
-      log(`模态框方案未匹配，fallback 到新标签页: ${topicId}`);
+      const currentUrl = this.page.url();
+      log(`模态框方案未匹配，fallback 到新标签页: ${topicId}\n当前主页面 URL: ${currentUrl}`);
       return await this.fetchCommentsViaNewTab(topicId);
     } catch (error) {
       logError(`获取帖子评论失败: ${topicId}`, error);
@@ -410,6 +411,7 @@ export class ZsxqScraper {
     // 滚动按钮到可视区域并点击
     await button.scrollIntoViewIfNeeded();
     await randomDelay(300, 500);
+    log(`点击"查看详情"按钮 (topicId: ${topicId})`);
     await button.click();
 
     // 等待模态框出现
@@ -518,6 +520,7 @@ export class ZsxqScraper {
     const detailPage = await this.context.newPage();
 
     const detailUrl = `https://wx.zsxq.com/dweb2/index/topic_detail/${topicId}`;
+    log(`[fallback] 打开详情页\n${detailUrl}`);
     await detailPage.goto(detailUrl, { waitUntil: 'networkidle' });
     await randomDelay(1500, 2500);
 
