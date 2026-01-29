@@ -242,6 +242,7 @@ def main():
     parser = argparse.ArgumentParser(description="知识星球 Topics & Comments 抓取工具")
     parser.add_argument("--auto", action="store_true", help="自动模式：自动滚动抓取所有内容")
     parser.add_argument("--wait-login", type=int, default=0, help="等待登录的秒数（自动模式下使用）")
+    parser.add_argument("--open", action="store_true", help="仅打开浏览器，不做任何操作")
     args = parser.parse_args()
 
     ensure_output_dirs()
@@ -251,9 +252,11 @@ def main():
     print("知识星球 Topics & Comments 抓取工具")
     print("=" * 60)
     print(f"目标星球: {GROUP_ID}")
-    print(f"Topics 输出: {TOPICS_OUTPUT_DIR.absolute()}")
-    print(f"Comments 输出: {COMMENTS_OUTPUT_DIR.absolute()}")
-    print(f"模式: {'自动' if args.auto else '手动'}")
+    if not args.open:
+        print(f"Topics 输出: {TOPICS_OUTPUT_DIR.absolute()}")
+        print(f"Comments 输出: {COMMENTS_OUTPUT_DIR.absolute()}")
+    mode_str = "仅打开" if args.open else ("自动" if args.auto else "手动")
+    print(f"模式: {mode_str}")
     print("=" * 60)
     print("\n启动浏览器中...")
 
@@ -267,26 +270,16 @@ def main():
         )
         page = context.new_page()
 
-        # 注册响应拦截
-        page.on("response", handle_response)
-
         # 导航到目标页面
         print(f"\n正在打开: {TARGET_URL}")
         page.goto(TARGET_URL, wait_until="domcontentloaded")
 
-        if args.auto:
-            # 自动模式
-            if args.wait_login > 0:
-                print(f"\n等待 {args.wait_login} 秒进行登录...")
-                page.wait_for_timeout(args.wait_login * 1000)
-
-            auto_fetch_all(page)
-        else:
-            # 手动模式
+        if args.open:
+            # 仅打开模式：不注册响应拦截
             print("\n" + "=" * 60)
-            print("请在浏览器中登录（如已登录则忽略）")
-            print("登录后滚动页面以加载更多内容")
-            print("按 Ctrl+C 退出并保存所有数据")
+            print("仅打开浏览器模式")
+            print("可手动登录或检查页面状态")
+            print("按 Ctrl+C 退出")
             print("=" * 60 + "\n")
 
             try:
@@ -294,12 +287,37 @@ def main():
                     page.wait_for_timeout(1000)
             except KeyboardInterrupt:
                 pass
+        else:
+            # 注册响应拦截（正常模式）
+            page.on("response", handle_response)
 
-        print(f"\n" + "=" * 60)
-        print(f"Topics 文件: {topics_captured_count} 个 -> {TOPICS_OUTPUT_DIR.absolute()}")
-        print(f"Comments 文件: {comments_captured_count} 个 -> {COMMENTS_OUTPUT_DIR.absolute()}")
-        print(f"已处理 topics: {len(processed_topic_ids)} 个")
-        print("=" * 60)
+            if args.auto:
+                # 自动模式
+                if args.wait_login > 0:
+                    print(f"\n等待 {args.wait_login} 秒进行登录...")
+                    page.wait_for_timeout(args.wait_login * 1000)
+
+                auto_fetch_all(page)
+            else:
+                # 手动模式
+                print("\n" + "=" * 60)
+                print("请在浏览器中登录（如已登录则忽略）")
+                print("登录后滚动页面以加载更多内容")
+                print("按 Ctrl+C 退出并保存所有数据")
+                print("=" * 60 + "\n")
+
+                try:
+                    while running:
+                        page.wait_for_timeout(1000)
+                except KeyboardInterrupt:
+                    pass
+
+            print(f"\n" + "=" * 60)
+            print(f"Topics 文件: {topics_captured_count} 个 -> {TOPICS_OUTPUT_DIR.absolute()}")
+            print(f"Comments 文件: {comments_captured_count} 个 -> {COMMENTS_OUTPUT_DIR.absolute()}")
+            print(f"已处理 topics: {len(processed_topic_ids)} 个")
+            print("=" * 60)
+
         context.close()
 
 

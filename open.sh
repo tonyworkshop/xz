@@ -1,1 +1,1 @@
-npx tsx src/index.ts --mode=open
+python py/fetch_topic.py --open
