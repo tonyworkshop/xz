@@ -5,6 +5,7 @@
 """
 
 import json
+import logging
 import random
 import signal
 import sys
@@ -13,6 +14,13 @@ from pathlib import Path
 from urllib.parse import urlparse, parse_qs
 
 from playwright.sync_api import sync_playwright, Response
+
+# 配置 logging
+logging.basicConfig(
+    format='%(asctime)s [%(levelname)s] %(message)s',
+    datefmt='%H:%M:%S'
+)
+logger = logging.getLogger(__name__)
 
 # 配置
 GROUP_ID = "28888825825151"
@@ -142,7 +150,9 @@ def handle_response(response: Response):
 
 def find_topic_button(page, text_snippet: str):
     """在页面中查找包含指定文本的 app-topic，返回其"查看详情"按钮"""
+    logger.debug(f"find_topic_button: 搜索文本 '{text_snippet[:30]}...'")
     if not text_snippet:
+        logger.debug("find_topic_button: 文本为空，返回 None")
         return None
 
     # 查找包含该文本的 app-topic 元素索引
@@ -154,6 +164,7 @@ def find_topic_button(page, text_snippet: str):
         return -1;
     }''', text_snippet)
 
+    logger.debug(f"find_topic_button: 匹配结果 index={match_index}")
     if match_index == -1:
         return None
 
@@ -163,18 +174,25 @@ def find_topic_button(page, text_snippet: str):
         return topics[idx]?.querySelector('div.details-container .text');
     }''', match_index)
 
-    return button.as_element()
+    element = button.as_element()
+    logger.debug(f"find_topic_button: 按钮元素 {'找到' if element else '未找到'}")
+    return element
 
 
 def click_detail_button(page, button):
     """点击按钮打开模态框"""
+    logger.debug("click_detail_button: 开始点击按钮")
     try:
+        logger.debug("click_detail_button: 滚动按钮到可见区域")
         button.scroll_into_view_if_needed()
+        logger.debug("click_detail_button: 执行点击")
         button.click()
+        logger.debug("click_detail_button: 等待模态框出现...")
         page.wait_for_selector('div.topic-detail', timeout=5000)
+        logger.debug("click_detail_button: 模态框已出现")
         return True
     except Exception as e:
-        print(f"  打开模态框失败: {e}")
+        logger.error(f"click_detail_button: 打开模态框失败 - {e}")
         return False
 
 
@@ -182,12 +200,14 @@ def scroll_modal_for_comments(page):
     """在模态框内滚动，触发 comments API 请求"""
     global comments_finished
     comments_finished = False
+    logger.debug("scroll_modal_for_comments: 开始滚动加载评论")
 
     max_scrolls = 50
     for scroll_count in range(max_scrolls):
         if comments_finished:
-            print(f"  评论加载完毕 (滚动 {scroll_count + 1} 次)")
+            logger.info(f"  评论加载完毕 (滚动 {scroll_count + 1} 次)")
             break
+        logger.debug(f"scroll_modal_for_comments: 第 {scroll_count + 1} 次滚动")
         # 在模态框内滚动（不是 window）
         page.evaluate('''() => {
             const modal = document.querySelector('div.topic-detail');
@@ -198,19 +218,34 @@ def scroll_modal_for_comments(page):
 
 def close_modal(page):
     """关闭模态框"""
+    logger.debug("close_modal: 开始关闭模态框")
     try:
-        # 点击关闭按钮或模态框外部
-        close_btn = page.query_selector('div.topic-detail .close-btn')
-        if close_btn:
-            close_btn.click()
+        # 检查模态框是否存在并获取其位置
+        modal = page.query_selector('div.topic-detail')
+        if modal:
+            box = modal.bounding_box()
+            if box:
+                logger.debug(f"close_modal: 模态框位置 x={box['x']:.0f}, y={box['y']:.0f}, w={box['width']:.0f}, h={box['height']:.0f}")
+                # 点击模态框左侧外部的遮罩区域（绝对坐标）
+                click_x = max(10, box['x'] - 50)  # 模态框左侧 50px，但至少是 10
+                click_y = box['y'] + 100  # 模态框内偏上位置的高度
+            else:
+                logger.debug("close_modal: 无法获取模态框 bounding_box，使用默认点击位置")
+                click_x, click_y = 10, 300
         else:
-            # 按 Escape 键关闭
-            page.keyboard.press('Escape')
+            logger.debug("close_modal: 未找到模态框元素")
+            return True  # 模态框不存在，视为已关闭
+
+        # 点击遮罩区域关闭（使用绝对坐标）
+        logger.debug(f"close_modal: 点击绝对坐标 ({click_x:.0f}, {click_y:.0f})")
+        page.mouse.click(click_x, click_y)
+
+        logger.debug("close_modal: 等待模态框消失...")
         page.wait_for_selector('div.topic-detail', state='detached', timeout=3000)
+        logger.debug("close_modal: 模态框已关闭")
         return True
     except Exception as e:
-        print(f"  关闭模态框失败: {e}")
-        # 强制刷新页面恢复
+        logger.error(f"close_modal: 关闭失败 - {e}")
         return False
 
 
@@ -220,21 +255,23 @@ def process_pending_comments(page):
 
     batch = list(pending_topics)  # 复制当前批次
     pending_topics.clear()
+    logger.debug(f"process_pending_comments: 处理 {len(batch)} 个待处理 topics")
 
-    for topic_info in batch:
+    for i, topic_info in enumerate(batch):
         topic_id = topic_info["topic_id"]
         text_snippet = topic_info["text"]
 
         if topic_id in processed_topic_ids:
+            logger.debug(f"process_pending_comments: topic_id={topic_id} 已处理，跳过")
             continue
 
         comments_finished = False
-        print(f"\n→ 抓取评论: topic_id={topic_id}")
+        logger.info(f"\n→ 抓取评论: topic_id={topic_id} ({i+1}/{len(batch)})")
 
         # 通过文本匹配找到帖子的"查看详情"按钮
         button = find_topic_button(page, text_snippet)
         if not button:
-            print(f"  未找到帖子按钮，跳过 (text: {text_snippet[:20]}...)")
+            logger.warning(f"  未找到帖子按钮，跳过 (text: {text_snippet[:20]}...)")
             processed_topic_ids.add(topic_id)
             continue
 
@@ -243,18 +280,25 @@ def process_pending_comments(page):
             processed_topic_ids.add(topic_id)
             continue
 
+        logger.debug("process_pending_comments: 等待初始评论加载...")
         page.wait_for_timeout(1500)  # 等待初始评论加载
 
         # 在模态框内滚动加载评论
         scroll_modal_for_comments(page)
 
         # 关闭模态框
-        close_modal(page)
+        logger.debug("process_pending_comments: 关闭模态框")
+        if not close_modal(page):
+            logger.warning(f"  关闭模态框失败，尝试按 Escape")
+            page.keyboard.press("Escape")
+            page.wait_for_timeout(500)
 
         processed_topic_ids.add(topic_id)
+        logger.debug(f"process_pending_comments: topic_id={topic_id} 处理完成")
 
         # 随机延时
         delay = random.randint(1000, 2000)
+        logger.debug(f"process_pending_comments: 随机延时 {delay}ms")
         page.wait_for_timeout(delay)
 
 
@@ -326,7 +370,16 @@ def main():
     parser.add_argument("--auto", action="store_true", help="自动模式：自动滚动抓取所有内容")
     parser.add_argument("--wait-login", type=int, default=0, help="等待登录的秒数（自动模式下使用）")
     parser.add_argument("--open", action="store_true", help="仅打开浏览器，不做任何操作")
+    parser.add_argument("--debug", action="store_true", help="启用 DEBUG 日志（详细）")
+    parser.add_argument("--info", action="store_true", help="启用 INFO 日志（默认）")
     args = parser.parse_args()
+
+    # 设置日志级别
+    if args.debug:
+        logger.setLevel(logging.DEBUG)
+        logger.info("日志级别: DEBUG")
+    else:
+        logger.setLevel(logging.INFO)
 
     ensure_output_dirs()
     signal.signal(signal.SIGINT, signal_handler)
