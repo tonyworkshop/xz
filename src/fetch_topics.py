@@ -490,6 +490,83 @@ def update_fetch(page, max_clicks: int):
     print("=" * 60)
 
 
+def manual_fetch(page):
+    """手动模式：仅拦截保存，用户自己滚动"""
+    print("\n" + "=" * 60)
+    print("手动模式：仅拦截保存网络请求")
+    print("请在浏览器中登录（如已登录则忽略）")
+    print("登录后滚动页面以加载更多内容")
+    print("按 Ctrl+C 退出并保存所有数据")
+    print("=" * 60 + "\n")
+
+    try:
+        while running:
+            page.wait_for_timeout(1000)
+    except KeyboardInterrupt:
+        pass
+
+
+def manual_fetch_with_limit(page, max_topics: int):
+    """手动模式 + N 限制：监听点击事件，达到 N 个后提示并退出"""
+    global comments_finished, current_topic_page_id
+
+    print("\n" + "=" * 60)
+    print(f"手动模式：抓取 {max_topics} 个 topics 后自动停止")
+    print("请在浏览器中手动点击 '查看详情' 打开评论")
+    print("按 Ctrl+C 提前退出")
+    print("=" * 60 + "\n")
+
+    # 使用空 cache 开始（每次都是新的计数）
+    click_cache = {}
+    total_clicked = 0
+
+    try:
+        while running and total_clicked < max_topics:
+            # 获取页面所有 topic 的 key 信息
+            topic_infos = get_all_topic_keys(page)
+
+            # 检查是否有新的已点击 topic（通过检测 cache 外的 topic）
+            for info in topic_infos:
+                key = info["key"]
+                if key and key not in click_cache:
+                    # 检查这个 topic 是否已经有模态框打开（用户手动点击了）
+                    modal = page.query_selector('div.topic-detail')
+                    if modal:
+                        logger.info(f"\n→ 检测到手动点击 topic: key={key[:8]}...")
+
+                        # 重置评论状态
+                        current_topic_page_id = 0
+                        comments_finished = False
+
+                        # 等待用户滚动加载评论
+                        logger.info("  等待用户滚动加载评论...")
+                        while not comments_finished:
+                            page.wait_for_timeout(1000)
+                            # 检查模态框是否还存在
+                            if not page.query_selector('div.topic-detail'):
+                                break
+
+                        # 标记为已点击
+                        click_cache[key] = datetime.now().isoformat()
+                        total_clicked += 1
+                        logger.info(f"  ✓ 已处理 ({total_clicked}/{max_topics})")
+
+                        if total_clicked >= max_topics:
+                            break
+
+            page.wait_for_timeout(500)
+
+    except KeyboardInterrupt:
+        pass
+
+    print("\n" + "=" * 60)
+    print(f"手动抓取完成！")
+    print(f"本次处理: {total_clicked} 个 topics")
+    print(f"Topics 文件: {topics_captured_count} 个")
+    print(f"Comments 文件: {comments_captured_count} 个")
+    print("=" * 60)
+
+
 def signal_handler(sig, frame):
     """处理 Ctrl+C 退出"""
     global running
@@ -503,9 +580,9 @@ def signal_handler(sig, frame):
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="知识星球 Topics & Comments 抓取工具")
-    parser.add_argument("--auto", action="store_true", help="自动模式：自动滚动抓取所有内容")
-    parser.add_argument("--update", type=int, metavar="N", help="更新模式：抓取最新 N 个 topics 的评论")
-    parser.add_argument("--wait-login", type=int, default=0, help="等待登录的秒数（自动模式下使用）")
+    parser.add_argument("--manual", action="store_true", help="手动模式：仅拦截保存，不自动滚动")
+    parser.add_argument("--update", type=int, metavar="N", help="抓取最新 N 个 topics 的评论")
+    parser.add_argument("--wait-login", type=int, default=0, help="等待登录的秒数")
     parser.add_argument("--open", action="store_true", help="仅打开浏览器，不做任何操作")
     parser.add_argument("--debug", action="store_true", help="启用 DEBUG 日志（详细）")
     parser.add_argument("--info", action="store_true", help="启用 INFO 日志（默认）")
@@ -528,7 +605,14 @@ def main():
     if not args.open:
         print(f"Topics 输出: {TOPICS_OUTPUT_DIR.absolute()}")
         print(f"Comments 输出: {COMMENTS_OUTPUT_DIR.absolute()}")
-    mode_str = "仅打开" if args.open else ("更新" if args.update else ("自动" if args.auto else "手动"))
+    if args.open:
+        mode_str = "仅打开"
+    elif args.manual:
+        mode_str = "手动" + (f"(限{args.update}个)" if args.update else "")
+    elif args.update:
+        mode_str = f"更新({args.update}个)"
+    else:
+        mode_str = "全量"
     print(f"模式: {mode_str}")
     print("=" * 60)
     print("\n启动浏览器中...")
@@ -564,43 +648,36 @@ def main():
             # 注册响应拦截（正常模式）
             page.on("response", handle_response)
 
+            # 等待登录（如果指定）
+            if args.wait_login > 0:
+                print(f"\n等待 {args.wait_login} 秒进行登录...")
+                page.wait_for_timeout(args.wait_login * 1000)
+
             if args.update:
-                # 更新模式
-                logger.warning("=" * 50)
-                logger.warning(f"【更新模式】将抓取最新 {args.update} 个 topics 的评论")
-                logger.warning("=" * 50)
-                if args.wait_login > 0:
-                    print(f"\n等待 {args.wait_login} 秒进行登录...")
-                    page.wait_for_timeout(args.wait_login * 1000)
-
-                update_fetch(page, args.update)
-            elif args.auto:
-                # 自动模式
-                logger.warning("=" * 50)
-                logger.warning("【自动模式】将自动滚动并抓取所有 topics 和 comments")
-                logger.warning("=" * 50)
-                if args.wait_login > 0:
-                    print(f"\n等待 {args.wait_login} 秒进行登录...")
-                    page.wait_for_timeout(args.wait_login * 1000)
-
-                auto_fetch_all(page)
-            else:
-                # 手动模式
+                if args.manual:
+                    # 手动模式 + N 限制
+                    logger.warning("=" * 50)
+                    logger.warning(f"【手动模式】抓取 {args.update} 个后自动停止")
+                    logger.warning("=" * 50)
+                    manual_fetch_with_limit(page, args.update)
+                else:
+                    # 自动更新模式
+                    logger.warning("=" * 50)
+                    logger.warning(f"【更新模式】将抓取最新 {args.update} 个 topics 的评论")
+                    logger.warning("=" * 50)
+                    update_fetch(page, args.update)
+            elif args.manual:
+                # 纯手动模式
                 logger.warning("=" * 50)
                 logger.warning("【手动模式】仅拦截保存网络请求，不会自动抓取评论")
-                logger.warning("如需自动抓取，请使用: --auto 参数")
                 logger.warning("=" * 50)
-                print("\n" + "=" * 60)
-                print("请在浏览器中登录（如已登录则忽略）")
-                print("登录后滚动页面以加载更多内容")
-                print("按 Ctrl+C 退出并保存所有数据")
-                print("=" * 60 + "\n")
-
-                try:
-                    while running:
-                        page.wait_for_timeout(1000)
-                except KeyboardInterrupt:
-                    pass
+                manual_fetch(page)
+            else:
+                # 默认：自动全量抓取
+                logger.warning("=" * 50)
+                logger.warning("【全量模式】将自动滚动并抓取所有 topics 和 comments")
+                logger.warning("=" * 50)
+                auto_fetch_all(page)
 
             print(f"\n" + "=" * 60)
             print(f"Topics 文件: {topics_captured_count} 个 -> {TOPICS_OUTPUT_DIR.absolute()}")

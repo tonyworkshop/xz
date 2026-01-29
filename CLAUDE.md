@@ -14,6 +14,7 @@ xz/
 ├── pyproject.toml      # Python 项目配置
 ├── uv.lock             # 依赖锁定
 ├── run.sh
+├── update.sh
 ├── open.sh
 ├── .gitignore
 ├── .python-version     # Python 版本
@@ -31,14 +32,20 @@ xz/
 # 首次：打开浏览器登录
 uv run python src/fetch_topics.py --open
 
-# 自动抓取（全量）
-uv run python src/fetch_topics.py --auto
+# 默认：自动全量抓取
+uv run python src/fetch_topics.py
 
 # 更新抓取（最新 N 个）
 uv run python src/fetch_topics.py --update 30
 
+# 手动模式（仅拦截，用户自己滚动）
+uv run python src/fetch_topics.py --manual
+
+# 手动模式 + 限制（抓 N 个后停止）
+uv run python src/fetch_topics.py --update 30 --manual
+
 # 等待登录后自动抓取
-uv run python src/fetch_topics.py --auto --wait-login=30
+uv run python src/fetch_topics.py --wait-login=30
 
 ## 浏览器调试与验证
 **禁止使用 `uv run python src/fetch_topics.py` 启动浏览器进行调试验证。**

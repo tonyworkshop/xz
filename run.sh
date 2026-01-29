@@ -1,1 +1,1 @@
-uv run ./src/fetch_topics.py --auto --debug
+uv run ./src/fetch_topics.py --debug
