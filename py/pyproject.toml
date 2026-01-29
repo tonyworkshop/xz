@@ -1,0 +1,8 @@
+[project]
+name = "zsxq-fetcher"
+version = "0.1.0"
+description = "知识星球 Topics 抓取工具"
+requires-python = ">=3.13"
+dependencies = [
+    "playwright>=1.57.0",
+]
