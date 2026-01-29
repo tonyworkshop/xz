@@ -18,7 +18,8 @@
       "Bash(grep:*)",
       "mcp__plugin_playwright_playwright__browser_evaluate",
       "mcp__plugin_playwright_playwright__browser_wait_for",
-      "Bash(uv run:*)"
+      "Bash(uv run:*)",
+      "Bash(sqlite3:*)"
     ]
   }
 }
