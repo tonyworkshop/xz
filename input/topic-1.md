@@ -1,0 +1,21 @@
+curl 'https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1' \
+-H 'Host: api.zsxq.com' \
+-H 'Connection: keep-alive' \
+-H 'X-Request-Id: 4e21a3caa-9a7b-cb77-7dc8-22b168d52bc' \
+-H 'X-Version: 2.88.0' \
+-H 'sec-ch-ua-platform: "macOS"' \
+-H 'sec-ch-ua: "Chromium";v="145", "Not:A-Brand";v="99"' \
+-H 'X-Timestamp: 1769652150' \
+-H 'sec-ch-ua-mobile: ?0' \
+-H 'X-Aduid: b4affcd3e-7255-6c62-912c-1381c42e0c1' \
+-H 'X-Signature: 464d880614b780094b008fcd700b983778c02e9f' \
+-H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36' \
+-H 'Accept: application/json, text/plain, */*' \
+-H 'Origin: https://wx.zsxq.com' \
+-H 'Sec-Fetch-Site: same-site' \
+-H 'Sec-Fetch-Mode: cors' \
+-H 'Sec-Fetch-Dest: empty' \
+-H 'Referer: https://wx.zsxq.com/' \
+-H 'Accept-Language: en-US,en;q=0.9' \
+--cookie 'zsxq_access_token=5A807387-1DF2-4707-9127-72F4342F83BE_A9C20F2C5CAECA87; abtest_env=product' \
+--proxy http://localhost:9091
