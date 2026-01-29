@@ -436,6 +436,9 @@ def main():
 
             if args.auto:
                 # 自动模式
+                logger.warning("=" * 50)
+                logger.warning("【自动模式】将自动滚动并抓取所有 topics 和 comments")
+                logger.warning("=" * 50)
                 if args.wait_login > 0:
                     print(f"\n等待 {args.wait_login} 秒进行登录...")
                     page.wait_for_timeout(args.wait_login * 1000)
@@ -443,6 +446,10 @@ def main():
                 auto_fetch_all(page)
             else:
                 # 手动模式
+                logger.warning("=" * 50)
+                logger.warning("【手动模式】仅拦截保存网络请求，不会自动抓取评论")
+                logger.warning("如需自动抓取，请使用: --auto 参数")
+                logger.warning("=" * 50)
                 print("\n" + "=" * 60)
                 print("请在浏览器中登录（如已登录则忽略）")
                 print("登录后滚动页面以加载更多内容")
