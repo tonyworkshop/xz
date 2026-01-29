@@ -39,6 +39,7 @@ TOPICS_API_PATTERN = f"api.zsxq.com/v2/groups/{GROUP_ID}/topics"
 COMMENTS_API_PATTERN = "api.zsxq.com/v2/topics/"
 TOPICS_OUTPUT_DIR = Path(__file__).parent.parent / "output" / "topics"
 COMMENTS_OUTPUT_DIR = Path(__file__).parent.parent / "output" / "comments"
+CLICK_CACHE_PATH = Path(__file__).parent.parent / "output" / "click_detail.json"
 USER_DATA_DIR = Path(__file__).parent / ".browser_data"
 
 # 统计
@@ -47,8 +48,6 @@ comments_captured_count = 0
 running = True
 
 # 全局状态
-pending_topics = []              # 待处理的 topic 队列，每项为 {topic_id, text}
-processed_topic_ids = set()      # 已处理的 topic_id
 comments_finished = False        # 当前 topic 评论是否加载完毕
 current_topic_page_id = 0        # 当前 topic 的评论页码（每个 topic 独立计数）
 
@@ -57,6 +56,58 @@ def ensure_output_dirs():
     """确保输出目录存在"""
     TOPICS_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     COMMENTS_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+
+def load_click_cache() -> dict:
+    """加载点击缓存"""
+    if CLICK_CACHE_PATH.exists():
+        try:
+            with open(CLICK_CACHE_PATH, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            logger.warning(f"加载点击缓存失败: {e}")
+    return {}
+
+
+def save_click_cache(cache: dict):
+    """保存点击缓存到磁盘"""
+    try:
+        with open(CLICK_CACHE_PATH, "w", encoding="utf-8") as f:
+            json.dump(cache, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        logger.error(f"保存点击缓存失败: {e}")
+
+
+def get_all_topic_keys(page) -> list:
+    """
+    获取页面所有 app-topic 的 key 信息
+    返回: [{index, key, hasContent, contentType, outerHTMLSnippet}, ...]
+    """
+    return page.evaluate('''() => {
+        function djb2Hash(str) {
+            let hash = 5381;
+            for (let i = 0; i < str.length; i++) {
+                hash = ((hash << 5) + hash) + str.charCodeAt(i);
+            }
+            return (hash >>> 0).toString(16);
+        }
+
+        const topics = document.querySelectorAll('app-topic');
+        return Array.from(topics).map((topic, index) => {
+            const answerContent = topic.querySelector('app-answer-content');
+            const talkContent = topic.querySelector('app-talk-content');
+            const content = answerContent || talkContent;
+            const contentType = answerContent ? 'answer' : (talkContent ? 'talk' : null);
+
+            return {
+                index: index,
+                key: content ? djb2Hash(content.outerHTML) : null,
+                hasContent: !!content,
+                contentType: contentType,
+                outerHTMLSnippet: topic.outerHTML.substring(0, 200)
+            };
+        });
+    }''')
 
 
 def save_topics_response(data: dict, url: str):
@@ -123,17 +174,6 @@ def handle_response(response: Response):
                 data = response.json()
                 if "resp_data" in data and "topics" in data.get("resp_data", {}):
                     save_topics_response(data, url)
-
-                    # 将新 topic 加入待处理队列（保存 topic_id 和文本用于匹配）
-                    pending_ids = {t["topic_id"] for t in pending_topics}
-                    for topic in data.get("resp_data", {}).get("topics", []):
-                        topic_id = str(topic.get("topic_id"))
-                        if topic_id and topic_id not in processed_topic_ids and topic_id not in pending_ids:
-                            # 提取帖子文本内容（用于在页面中定位）
-                            text = (topic.get("talk", {}).get("text") or
-                                    topic.get("question", {}).get("text") or
-                                    topic.get("answer", {}).get("text") or "")
-                            pending_topics.append({"topic_id": topic_id, "text": text[:50]})
         except Exception as e:
             print(f"解析 topics 响应失败: {e}")
 
@@ -174,34 +214,17 @@ def handle_response(response: Response):
             print(f"解析 comments 响应失败: {e}")
 
 
-def find_topic_button(page, text_snippet: str):
-    """在页面中查找包含指定文本的 app-topic，返回其"查看详情"按钮"""
-    logger.debug(f"find_topic_button: 搜索文本 '{text_snippet[:30]}...'")
-    if not text_snippet:
-        logger.debug("find_topic_button: 文本为空，返回 None")
-        return None
+def get_topic_details_button(page, topic_index: int):
+    """获取指定索引的 app-topic 的"查看详情"按钮"""
+    logger.debug(f"get_topic_details_button: 获取 index={topic_index} 的按钮")
 
-    # 查找包含该文本的 app-topic 元素索引
-    match_index = page.evaluate('''(searchText) => {
-        const topics = document.querySelectorAll('app-topic');
-        for (let i = 0; i < topics.length; i++) {
-            if (topics[i].textContent.includes(searchText)) return i;
-        }
-        return -1;
-    }''', text_snippet)
-
-    logger.debug(f"find_topic_button: 匹配结果 index={match_index}")
-    if match_index == -1:
-        return None
-
-    # 获取该 app-topic 内的"查看详情"按钮
     button = page.evaluate_handle('''(idx) => {
         const topics = document.querySelectorAll('app-topic');
         return topics[idx]?.querySelector('div.details-container .text');
-    }''', match_index)
+    }''', topic_index)
 
     element = button.as_element()
-    logger.debug(f"find_topic_button: 按钮元素 {'找到' if element else '未找到'}")
+    logger.debug(f"get_topic_details_button: 按钮元素 {'找到' if element else '未找到'}")
     return element
 
 
@@ -274,65 +297,87 @@ def close_modal(page):
         return False
 
 
-def process_pending_comments(page):
-    """处理待处理队列中的所有 topic（通过点击模态框方式）"""
+def process_all_topics_on_page(page, click_cache: dict) -> int:
+    """
+    处理当前页面上所有 app-topic 元素
+    返回: 本次处理（点击）的 topic 数量
+    """
     global comments_finished, current_topic_page_id
 
-    batch = list(pending_topics)  # 复制当前批次
-    pending_topics.clear()
-    logger.debug(f"process_pending_comments: 处理 {len(batch)} 个待处理 topics")
+    # 获取页面所有 topic 的 key 信息
+    topic_infos = get_all_topic_keys(page)
+    logger.info(f"页面上共有 {len(topic_infos)} 个 app-topic 元素")
 
-    for i, topic_info in enumerate(batch):
-        topic_id = topic_info["topic_id"]
-        text_snippet = topic_info["text"]
+    clicked_count = 0
 
-        if topic_id in processed_topic_ids:
-            logger.debug(f"process_pending_comments: topic_id={topic_id} 已处理，跳过")
+    for info in topic_infos:
+        index = info["index"]
+        key = info["key"]
+        has_content = info["hasContent"]
+        content_type = info["contentType"]
+        html_snippet = info["outerHTMLSnippet"]
+
+        # 检查是否有 content 元素
+        if not has_content or not key:
+            logger.error(f"[严重错误] app-topic index={index} 没有 content 元素!")
+            logger.error(f"  contentType: {content_type}")
+            logger.error(f"  outerHTML 片段: {html_snippet}")
+            # 保存缓存并退出
+            save_click_cache(click_cache)
+            logger.error("已保存 click_cache，程序退出。请检查页面结构。")
+            sys.exit(1)
+
+        # 检查是否已点击过
+        if key in click_cache:
+            logger.debug(f"topic index={index} key={key[:8]}... 已点击过，跳过")
             continue
 
-        # 检查 comments 文件是否已存在
-        if comments_file_exists(topic_id):
-            logger.info(f"  ⏭ 评论文件已存在，跳过: {topic_id}_*.json")
-            processed_topic_ids.add(topic_id)
+        logger.info(f"\n→ 处理 topic: index={index}, key={key[:8]}..., type={content_type}")
+
+        # 获取"查看详情"按钮
+        button = get_topic_details_button(page, index)
+        if not button:
+            logger.warning(f"  未找到查看详情按钮，标记为已处理并跳过")
+            click_cache[key] = datetime.now().isoformat()
+            save_click_cache(click_cache)
             continue
 
-        # 每个新 topic 开始时重置页码
+        # 重置评论状态
         current_topic_page_id = 0
         comments_finished = False
-        logger.info(f"\n→ 抓取评论: topic_id={topic_id} ({i+1}/{len(batch)})")
-
-        # 通过文本匹配找到帖子的"查看详情"按钮
-        button = find_topic_button(page, text_snippet)
-        if not button:
-            logger.warning(f"  未找到帖子按钮，跳过 (text: {text_snippet[:20]}...)")
-            processed_topic_ids.add(topic_id)
-            continue
 
         # 点击打开模态框
         if not click_detail_button(page, button):
-            processed_topic_ids.add(topic_id)
+            logger.warning(f"  打开模态框失败，标记为已处理并跳过")
+            click_cache[key] = datetime.now().isoformat()
+            save_click_cache(click_cache)
             continue
 
-        logger.debug("process_pending_comments: 等待初始评论加载...")
-        page.wait_for_timeout(1500)  # 等待初始评论加载
+        logger.debug("等待初始评论加载...")
+        page.wait_for_timeout(1500)
 
         # 在模态框内滚动加载评论
         scroll_modal_for_comments(page)
 
         # 关闭模态框
-        logger.debug("process_pending_comments: 关闭模态框")
+        logger.debug("关闭模态框")
         if not close_modal(page):
             logger.warning(f"  关闭模态框失败，尝试按 Escape")
             page.keyboard.press("Escape")
             page.wait_for_timeout(500)
 
-        processed_topic_ids.add(topic_id)
-        logger.debug(f"process_pending_comments: topic_id={topic_id} 处理完成")
+        # 标记为已点击并立即保存
+        click_cache[key] = datetime.now().isoformat()
+        save_click_cache(click_cache)
+        clicked_count += 1
+        logger.info(f"  ✓ 已处理并保存 (累计点击: {clicked_count})")
 
         # 随机延时 (topic 间隔 5-8 秒)
         delay = random.randint(5000, 8000)
-        logger.debug(f"process_pending_comments: 随机延时 {delay}ms")
+        logger.debug(f"随机延时 {delay}ms")
         page.wait_for_timeout(delay)
+
+    return clicked_count
 
 
 def auto_fetch_all(page):
@@ -341,38 +386,35 @@ def auto_fetch_all(page):
     print("开始自动抓取...")
     print("=" * 60)
 
-    no_new_topics_count = 0
-    max_no_new_attempts = 5  # 连续 5 次没有新 topics 则认为到底
+    # 加载点击缓存
+    click_cache = load_click_cache()
+    print(f"已加载点击缓存: {len(click_cache)} 个已处理 topics")
+
+    total_clicked = 0
+    no_new_click_count = 0
+    max_no_new_attempts = 5  # 连续 5 次没有新点击则认为到底
 
     while True:
-        # 记录当前状态
-        prev_pending = len(pending_topics)
-        prev_processed = len(processed_topic_ids)
+        # 处理当前页面上的所有 topics
+        print(f"\n处理当前页面 topics... (缓存中已有: {len(click_cache)})")
+        clicked = process_all_topics_on_page(page, click_cache)
+        total_clicked += clicked
 
-        # 滚动加载一批 topics
-        print(f"\n滚动加载 topics... (已处理: {prev_processed}, 待处理: {prev_pending})")
+        if clicked > 0:
+            print(f"本轮点击了 {clicked} 个 topics")
+            no_new_click_count = 0
+        else:
+            no_new_click_count += 1
+            print(f"本轮无新点击 ({no_new_click_count}/{max_no_new_attempts})")
+
+        # 连续多次无新点击，认为已处理完当前可见内容
+        if no_new_click_count >= max_no_new_attempts:
+            break
+
+        # 滚动加载更多 topics
+        print("滚动加载更多内容...")
         page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
         page.wait_for_timeout(2500)
-
-        # 检查是否有新 topics
-        new_count = len(pending_topics) - prev_pending
-        if new_count > 0:
-            print(f"新增 {new_count} 个 topics")
-            no_new_topics_count = 0
-
-            # 处理这批 topics 的评论
-            if len(pending_topics) > 0:
-                process_pending_comments(page)
-        else:
-            no_new_topics_count += 1
-            print(f"无新增 topics ({no_new_topics_count}/{max_no_new_attempts})")
-
-            # 连续多次无新内容，认为已到底
-            if no_new_topics_count >= max_no_new_attempts:
-                # 最后处理剩余的待处理 topics
-                if len(pending_topics) > 0:
-                    process_pending_comments(page)
-                break
 
         # 随机延时
         delay = random.randint(1000, 2000)
@@ -380,7 +422,8 @@ def auto_fetch_all(page):
 
     print("\n" + "=" * 60)
     print(f"自动抓取完成！")
-    print(f"共处理 {len(processed_topic_ids)} 个 topics")
+    print(f"本次点击: {total_clicked} 个 topics")
+    print(f"缓存中共有: {len(click_cache)} 个已处理 topics")
     print(f"Topics 文件: {topics_captured_count} 个")
     print(f"Comments 文件: {comments_captured_count} 个")
     print("=" * 60)
@@ -392,7 +435,6 @@ def signal_handler(sig, frame):
     print(f"\n\n捕获到退出信号")
     print(f"Topics 文件: {topics_captured_count} 个 -> {TOPICS_OUTPUT_DIR.absolute()}")
     print(f"Comments 文件: {comments_captured_count} 个 -> {COMMENTS_OUTPUT_DIR.absolute()}")
-    print(f"已处理 topics: {len(processed_topic_ids)} 个")
     running = False
     sys.exit(0)
 
@@ -491,7 +533,6 @@ def main():
             print(f"\n" + "=" * 60)
             print(f"Topics 文件: {topics_captured_count} 个 -> {TOPICS_OUTPUT_DIR.absolute()}")
             print(f"Comments 文件: {comments_captured_count} 个 -> {COMMENTS_OUTPUT_DIR.absolute()}")
-            print(f"已处理 topics: {len(processed_topic_ids)} 个")
             print("=" * 60)
 
         context.close()
