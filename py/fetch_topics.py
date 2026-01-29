@@ -37,8 +37,8 @@ GROUP_ID = CONFIG["group_id"]
 TARGET_URL = f"https://wx.zsxq.com/group/{GROUP_ID}"
 TOPICS_API_PATTERN = f"api.zsxq.com/v2/groups/{GROUP_ID}/topics"
 COMMENTS_API_PATTERN = "api.zsxq.com/v2/topics/"
-TOPICS_OUTPUT_DIR = Path(__file__).parent.parent / "output" / "json" / "topics"
-COMMENTS_OUTPUT_DIR = Path(__file__).parent.parent / "output" / "json" / "comments"
+TOPICS_OUTPUT_DIR = Path(__file__).parent.parent / "output" / "topics"
+COMMENTS_OUTPUT_DIR = Path(__file__).parent.parent / "output" / "comments"
 USER_DATA_DIR = Path(__file__).parent / ".browser_data"
 
 # 统计
