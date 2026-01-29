@@ -1,0 +1,203 @@
+{
+  "captured_at": "2026-01-29T22:12:55.943584",
+  "url": "https://api.zsxq.com/v2/topics/4844188242142288/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4844188242142288",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5122415554412884,
+          "create_time": "2024-08-09T01:30:11.121+0800",
+          "owner": {
+            "user_id": 144254841842,
+            "name": "许哲",
+            "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+            "location": "美国"
+          },
+          "text": "具体股票要具体分析，不能一概而论，我只是讲个大概的数值概念",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 1522154448425212,
+              "parent_comment_id": 5122415554412884,
+              "create_time": "2024-08-09T09:03:27.159+0800",
+              "owner": {
+                "user_id": 212851528288121,
+                "name": "清扬婉兮",
+                "avatar_url": "https://images.zsxq.com/Frt9auhwntDux_7rwrXUEmkUNVw8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZoD1_B8-kGUhi9PV-gdyWwflF98=",
+                "location": "上海"
+              },
+              "text": "明白，感谢许大。到今天为止，流动性危机算是接触了么？许大对于美此次是否能实现软着路的看法呢",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5122415558522284,
+          "create_time": "2024-08-09T09:00:51.079+0800",
+          "owner": {
+            "user_id": 551148242114,
+            "name": "毕老师",
+            "avatar_url": "https://images.zsxq.com/Fn15NOCVAWt8JYAN9Wb9QGbFxbFG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:LKnIFYRolo4m3KRRmiY4EsNGs7s=",
+            "location": "江苏"
+          },
+          "text": "有没有课代表说说，现在是40-100倍的区间？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 4844285525445118,
+              "parent_comment_id": 5122415558522284,
+              "create_time": "2024-08-09T11:09:57.950+0800",
+              "owner": {
+                "user_id": 51284521888844,
+                "name": "小青鱼",
+                "avatar_url": "https://images.zsxq.com/FgB3WqDOR3-VV6dS7qdWVexb1R4s?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6gfWE3lxZ_J3f5nQNFbwEwAvG1A=",
+                "location": "北京"
+              },
+              "text": "目前标普500估值是25.2",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 551148242114,
+                "name": "毕老师",
+                "avatar_url": "https://images.zsxq.com/Fn15NOCVAWt8JYAN9Wb9QGbFxbFG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:LKnIFYRolo4m3KRRmiY4EsNGs7s="
+              }
+            },
+            {
+              "comment_id": 4844285112421148,
+              "parent_comment_id": 5122415558522284,
+              "create_time": "2024-08-12T23:38:45.187+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "请教一个，这个在哪可以查到",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51284521888844,
+                "name": "小青鱼",
+                "avatar_url": "https://images.zsxq.com/FgB3WqDOR3-VV6dS7qdWVexb1R4s?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6gfWE3lxZ_J3f5nQNFbwEwAvG1A="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1522154414552542,
+          "create_time": "2024-08-09T11:32:51.491+0800",
+          "owner": {
+            "user_id": 48811511812258,
+            "name": "扫地的",
+            "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+            "location": "湖南"
+          },
+          "text": "纳指的估值是多少",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 4844285518285118,
+              "parent_comment_id": 1522154414552542,
+              "create_time": "2024-08-09T18:44:40.280+0800",
+              "owner": {
+                "user_id": 51284521888844,
+                "name": "小青鱼",
+                "avatar_url": "https://images.zsxq.com/FgB3WqDOR3-VV6dS7qdWVexb1R4s?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6gfWE3lxZ_J3f5nQNFbwEwAvG1A=",
+                "location": "北京"
+              },
+              "text": "纳指100估值是33.2",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg="
+              }
+            },
+            {
+              "comment_id": 8855482214224182,
+              "parent_comment_id": 1522154414552542,
+              "create_time": "2024-08-10T04:52:55.433+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+                "location": "湖南"
+              },
+              "text": "谢谢，在哪里看估值，查了东财和雪球都没看到显示",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51284521888844,
+                "name": "小青鱼",
+                "avatar_url": "https://images.zsxq.com/FgB3WqDOR3-VV6dS7qdWVexb1R4s?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6gfWE3lxZ_J3f5nQNFbwEwAvG1A="
+              }
+            },
+            {
+              "comment_id": 5122415584422244,
+              "parent_comment_id": 1522154414552542,
+              "create_time": "2024-08-10T07:32:46.017+0800",
+              "owner": {
+                "user_id": 51284521888844,
+                "name": "小青鱼",
+                "avatar_url": "https://images.zsxq.com/FgB3WqDOR3-VV6dS7qdWVexb1R4s?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6gfWE3lxZ_J3f5nQNFbwEwAvG1A=",
+                "location": "北京"
+              },
+              "text": "wind手机端",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

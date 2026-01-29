@@ -1,0 +1,71 @@
+{
+  "captured_at": "2026-01-29T21:30:52.295886",
+  "url": "https://api.zsxq.com/v2/topics/4848114415525188/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4848114415525188",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1525442244251552,
+          "create_time": "2025-03-19T00:19:39.660+0800",
+          "owner": {
+            "user_id": 88812221412582,
+            "name": "伟大的mkf",
+            "avatar_url": "https://images.zsxq.com/FmGSrqiUuQKM7kIq4_HjW6K2aJBF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1YNGcxNUH-_eK4CLa5Z6iSLaKcY=",
+            "location": "云南"
+          },
+          "text": "《重构全球贸易体系：用户指南》—智堡mikko翻译",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8858225545181412,
+          "create_time": "2025-03-19T09:48:08.734+0800",
+          "owner": {
+            "user_id": 48811511812258,
+            "name": "扫地的",
+            "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+            "location": "湖南"
+          },
+          "text": "黄金什么情况下会暴跌？会不涨？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 8858225215484142,
+              "parent_comment_id": 8858225545181412,
+              "create_time": "2025-03-20T22:40:29.229+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+                "location": "湖南"
+              },
+              "text": "thanks",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png"
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

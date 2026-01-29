@@ -1,0 +1,46 @@
+{
+  "captured_at": "2026-01-29T22:11:27.871251",
+  "url": "https://api.zsxq.com/v2/topics/4844182821851828/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4844182821851828",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855484842458252,
+          "create_time": "2024-08-14T16:07:10.453+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "内蒙古"
+          },
+          "text": "买财险的人觉得自己赚了，因为计划书上的数字的确反映了我赚到了好几个点的收益率。卖财险的人也觉得自己赚了，佣金满满。保司也觉得自己赚了，得到了负利率，借100还80。所有人都赚了，那钱从哪来呢？赚的是谁的钱呢？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1522151424248212,
+          "create_time": "2024-08-15T15:10:24.786+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "内蒙古"
+          },
+          "text": "实在不好意思，是我混淆了财险和储蓄险。我其实是一直针对储蓄险来提问的，而储蓄险这个名字本身也有误导性。储蓄险不像是保险，而更像一款理财产品，如类固收，所以才有了评论里的追问",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "captured_at": "2026-01-29T21:32:00.734225",
+  "url": "https://api.zsxq.com/v2/topics/4848118412488148/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4848118412488148",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5121518158858214,
+          "create_time": "2025-03-13T11:25:06.213+0800",
+          "owner": {
+            "user_id": 51448144552224,
+            "name": "饺子",
+            "avatar_url": "https://images.zsxq.com/FvXdtvNVeoxJny3NufdKEcm1ThIa?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9dz0zZ8H9OANaomIvtSdRuDcnVo=",
+            "location": "广东"
+          },
+          "text": "记得许大去年说铜是供需失衡的，现在涨疯了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1
+        }
+      ],
+      "index": ""
+    }
+  }
+}

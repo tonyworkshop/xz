@@ -1,0 +1,100 @@
+{
+  "captured_at": "2026-01-29T21:17:38.305469",
+  "url": "https://api.zsxq.com/v2/topics/5125584845442184/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5125584845442184",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2858458554145851,
+          "create_time": "2025-05-13T12:57:13.749+0800",
+          "owner": {
+            "user_id": 144254841842,
+            "name": "许哲",
+            "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+            "location": "美国"
+          },
+          "text": "持有的标的本身上涨了，盈利是更多的，因为整体Delta为正，这种时候是好事。",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 5121421211545114,
+              "parent_comment_id": 2858458554145851,
+              "create_time": "2025-05-13T14:29:01.306+0800",
+              "owner": {
+                "user_id": 184551142122222,
+                "name": "Animal Lov*",
+                "avatar_url": "https://images.zsxq.com/FmX-6J5gLT2tIChrpL5WoMxq1VNf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k9OuIi_T8JXd-RvYld00OQekOuo=",
+                "location": "北京"
+              },
+              "text": "许大，long put和call在正股大幅上涨的时候换期权是跟随价格换更高行权价吗？先不考虑到期日。\n我理解long call跟着股价roll到更高的价格，如果持仓张数不变，那么持仓金额会变小。这样出现回调的话，价格回撤会比较少（gamma也变小了），这种算变相的减仓吧？这个时候是增加long put的张数还是把long put roll到更高价格啊？",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 8858458528224522,
+              "parent_comment_id": 2858458554145851,
+              "create_time": "2025-05-13T20:48:19.318+0800",
+              "owner": {
+                "user_id": 818111142514452,
+                "name": "ql",
+                "avatar_url": "https://images.zsxq.com/FnC9ren92yFdt6TnFFSFVeqYt-dr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RWFQ9DKyJwi9NIZliW-hOmQRZqk=",
+                "location": "上海"
+              },
+              "text": "明白了，感谢指点[抱拳]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 2858458854111421,
+              "parent_comment_id": 2858458554145851,
+              "create_time": "2025-05-14T19:05:54.207+0800",
+              "owner": {
+                "user_id": 88842588422552,
+                "name": "wayne",
+                "alias": "红蓝刷子",
+                "avatar_url": "https://images.zsxq.com/FhbKJaiTM90FiP6ImhmQ1PYIn-Xz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hncicjpHsoyrSMesYLzCUK3t49o=",
+                "location": "北京"
+              },
+              "text": "感觉张数更重要，毕竟是为了吃肥尾",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 184551142122222,
+                "name": "Animal Lov*",
+                "avatar_url": "https://images.zsxq.com/FmX-6J5gLT2tIChrpL5WoMxq1VNf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k9OuIi_T8JXd-RvYld00OQekOuo="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

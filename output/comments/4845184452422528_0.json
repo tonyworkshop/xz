@@ -1,0 +1,31 @@
+{
+  "captured_at": "2026-01-29T21:03:34.160313",
+  "url": "https://api.zsxq.com/v2/topics/4845184452422528/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4845184452422528",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1525114822828412,
+          "create_time": "2025-07-14T16:28:36.810+0800",
+          "owner": {
+            "user_id": 48412851458528,
+            "name": "macrochen",
+            "avatar_url": "https://images.zsxq.com/Fhpc9u4wd6YWLqO66mibUIp5hJkI?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MFmMynz457hFfIvRPHbqM4WSIqs=",
+            "location": "浙江"
+          },
+          "text": "既要相信规律，拥抱科学：在做人生重大决策时，比如健康、投资、职业规划，要相信大概率事件，遵循科学和统计给出的建议。不要因为某个朋友的个例，就去否定经过大规模验证的规律。这是利用确定性的智慧。\n 又要敬畏意外，做好备份：永远要承认“黑天鹅”的存在。不要把鸡蛋放在一个篮子里，要给自己留有余地。比如，买一份保险、存一笔应急金、在系统中设置冗余备份。这是为随机性可能遇到的风险做准备。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1
+        }
+      ],
+      "index": ""
+    }
+  }
+}

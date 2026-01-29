@@ -1,0 +1,140 @@
+{
+  "captured_at": "2026-01-29T20:56:14.373339",
+  "url": "https://api.zsxq.com/v2/topics/5124212825551554/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5124212825551554",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8858181141881882,
+          "create_time": "2025-09-07T14:56:39.794+0800",
+          "owner": {
+            "user_id": 28258824852841,
+            "name": "fwdf",
+            "avatar_url": "https://images.zsxq.com/FsVwSPjN8JfQm8Y06QwLU8YfpIco?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4bm-4ApujMlt26iWt8xk8h3mUzw=",
+            "location": "湖南"
+          },
+          "text": "xauusd这些合约哪里是坑？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 2858181111585451,
+              "parent_comment_id": 8858181141881882,
+              "create_time": "2025-09-07T23:48:11.718+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "你能拿到的融资利率会差于黄金期货的升贴水，一旦开始了就变成英国子公司的客户，就要被交换数据了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28258824852841,
+                "name": "fwdf",
+                "avatar_url": "https://images.zsxq.com/FsVwSPjN8JfQm8Y06QwLU8YfpIco?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4bm-4ApujMlt26iWt8xk8h3mUzw="
+              }
+            },
+            {
+              "comment_id": 1525858888214152,
+              "parent_comment_id": 8858181141881882,
+              "create_time": "2025-09-08T00:40:40.717+0800",
+              "owner": {
+                "user_id": 28258824852841,
+                "name": "fwdf",
+                "avatar_url": "https://images.zsxq.com/FsVwSPjN8JfQm8Y06QwLU8YfpIco?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4bm-4ApujMlt26iWt8xk8h3mUzw=",
+                "location": "湖南"
+              },
+              "text": "12月期货比现货多约50多元，算成年化大约5.2%。这个值差不多算公平的吧？\n\n另外，如果CRS交换信息，期货与黄金现货合约盈亏也要像股票一样计税吗？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 5121818888244154,
+              "parent_comment_id": 8858181141881882,
+              "create_time": "2025-09-08T00:50:58.959+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "无风险利率是4%，你肯定亏了，做市商黑你多少看各自良心",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28258824852841,
+                "name": "fwdf",
+                "avatar_url": "https://images.zsxq.com/FsVwSPjN8JfQm8Y06QwLU8YfpIco?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4bm-4ApujMlt26iWt8xk8h3mUzw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5121818885554184,
+          "create_time": "2025-09-07T20:18:27.238+0800",
+          "owner": {
+            "user_id": 818221851841542,
+            "name": "jelawat",
+            "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fp8Z2mElz4XDsFUsYPJ_x3l5H8U=",
+            "location": "浙江"
+          },
+          "text": "cdf合约是指cfd合约吗？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 1525858888252412,
+              "parent_comment_id": 5121818885554184,
+              "create_time": "2025-09-07T23:47:30.008+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "是CFD价差合约",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fp8Z2mElz4XDsFUsYPJ_x3l5H8U="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "captured_at": "2026-01-29T20:43:44.864209",
+  "url": "https://api.zsxq.com/v2/topics/55188128552814554/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "55188128552814554",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2852228588858541,
+          "create_time": "2025-11-30T16:37:38.526+0800",
+          "owner": {
+            "user_id": 48282484488228,
+            "name": "沙瓜 微*巨无霸吃醋*",
+            "avatar_url": "https://images.zsxq.com/FgEFqBZVPHZPHymqxoanRkAkBBJQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:z6XK3OLaApptzt97jPXd_1xqjWA=",
+            "location": "江苏"
+          },
+          "text": "不过好像让他脱锚也挺难的。使用量太大，市场池子深，少量抛压吸收很容易吸收。之前几次大雷几天就修复了。不透明和足够大似乎也成了他的王牌。他有点虚拟世界央行的意思了。怎么让这玩意露出底裤似乎挺难，你们说说咋整。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 5125551211442544,
+              "parent_comment_id": 2852228588858541,
+              "create_time": "2025-11-30T18:22:12.499+0800",
+              "owner": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+                "location": "广东"
+              },
+              "text": "不理解Tether为什么要操作这些，明明躺着就已经赢了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48282484488228,
+                "name": "沙瓜 微*巨无霸吃醋*",
+                "avatar_url": "https://images.zsxq.com/FgEFqBZVPHZPHymqxoanRkAkBBJQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:z6XK3OLaApptzt97jPXd_1xqjWA="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4845558481582848,
+          "create_time": "2025-11-30T21:39:37.902+0800",
+          "owner": {
+            "user_id": 28458118128451,
+            "name": "GLJ",
+            "avatar_url": "https://images.zsxq.com/Fh7Xa49xNwPmeeDwhcKKSTsa4Ll-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5PwsrGbG0nvk1_3Z4PTEBv_wQzg=",
+            "location": "上海"
+          },
+          "text": "usdt不行的话，usdc可以吗？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4845558424412848,
+              "parent_comment_id": 4845558481582848,
+              "create_time": "2025-12-01T12:13:31.448+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "合规方面做的要好很多，USDC所有的存款都老老实实存银行里，但万万没想到硅谷银行自己差点出事，而Circle存款在硅谷银行里的比例太高了，导致了一次危机。其他方面做的都是不错的。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28458118128451,
+                "name": "GLJ",
+                "avatar_url": "https://images.zsxq.com/Fh7Xa49xNwPmeeDwhcKKSTsa4Ll-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5PwsrGbG0nvk1_3Z4PTEBv_wQzg="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "captured_at": "2026-01-29T21:35:31.661525",
+  "url": "https://api.zsxq.com/v2/topics/4848221845212458/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4848221845212458",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1525454588528852,
+          "create_time": "2025-03-02T17:52:12.804+0800",
+          "owner": {
+            "user_id": 422214855212818,
+            "name": "sky",
+            "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c=",
+            "location": "美国"
+          },
+          "text": "<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" /> 请问许大，是不是sell monthly put 来养？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 8858282811885552,
+              "parent_comment_id": 1525454588528852,
+              "create_time": "2025-03-02T17:53:05.767+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "看你用什么工具了，如果你美股里用 YINN 这类的话，有周期更短的期权",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c="
+              }
+            },
+            {
+              "comment_id": 5121515528281144,
+              "parent_comment_id": 1525454588528852,
+              "create_time": "2025-03-03T09:26:38.157+0800",
+              "owner": {
+                "user_id": 51542488184854,
+                "name": "Johnson",
+                "avatar_url": "https://images.zsxq.com/FuK4er97yEPJOk0wvpmVuyRFN3It?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYq9SVJnlOk-rkC89A7EDN5acoc=",
+                "location": "上海"
+              },
+              "text": "许大，大A长期震荡磨损严重，otm call会不会浪费了……",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 2858282251512521,
+              "parent_comment_id": 1525454588528852,
+              "create_time": "2025-03-03T09:28:19.421+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "所以要用尖峰养肥尾",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51542488184854,
+                "name": "Johnson",
+                "avatar_url": "https://images.zsxq.com/FuK4er97yEPJOk0wvpmVuyRFN3It?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYq9SVJnlOk-rkC89A7EDN5acoc="
+              }
+            },
+            {
+              "comment_id": 1525454452525222,
+              "parent_comment_id": 1525454588528852,
+              "create_time": "2025-03-03T11:02:03.140+0800",
+              "owner": {
+                "user_id": 818548144188442,
+                "name": "阿力",
+                "avatar_url": "https://images.zsxq.com/Fsks8S_MgmGUFXiihjfyCTbLU0fU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lYmevgEDC3pS85h9DLjOWywwuKc=",
+                "location": "江苏"
+              },
+              "text": "尖峰养肥尾，然后等待黑天鹅，是这么理解吗？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8858282255554542,
+          "create_time": "2025-03-02T20:38:55.494+0800",
+          "owner": {
+            "user_id": 48512845118228,
+            "name": "曼慢",
+            "avatar_url": "https://images.zsxq.com/FqKFl-_proLreyyDJLk6IE4MlTDj?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:llgtaXbF9pRDJFWLbTiiSXNOy0s=",
+            "location": "江苏"
+          },
+          "text": "可惜国内没有周期权[发呆]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

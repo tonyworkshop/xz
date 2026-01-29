@@ -1,0 +1,46 @@
+{
+  "captured_at": "2026-01-29T21:58:05.030913",
+  "url": "https://api.zsxq.com/v2/topics/2858228525482411/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2858228525482411",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1522181481812512,
+          "create_time": "2024-10-19T20:33:51.273+0800",
+          "owner": {
+            "user_id": 48852821585288,
+            "name": "守朴抱一",
+            "avatar_url": "https://images.zsxq.com/FkEquiqtMb_MRvYFPbhZb70PeJTq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HoHJtlfEIHYDcof6S84jEEX2NCg=",
+            "location": "上海"
+          },
+          "text": "为什么要去找寻垃圾呢？[疑问]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5122484421822224,
+          "create_time": "2024-10-20T02:43:02.115+0800",
+          "owner": {
+            "user_id": 48811511812258,
+            "name": "扫地的",
+            "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+            "location": "湖南"
+          },
+          "text": "应该是想了解有啥影响吧，蝴蝶效应",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

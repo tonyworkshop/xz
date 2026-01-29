@@ -1,0 +1,62 @@
+{
+  "captured_at": "2026-01-29T21:53:34.916266",
+  "url": "https://api.zsxq.com/v2/topics/1525488855581842/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1525488855581842",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5122811255285444,
+          "create_time": "2024-11-15T07:55:21.315+0800",
+          "owner": {
+            "user_id": 2441442451,
+            "name": "盛智博",
+            "avatar_url": "https://images.zsxq.com/FuVJ1bcgjmwxLLEt9X4sJp1s1hJJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:105pFTrNSUKil4u3AlQkMq_e1II=",
+            "location": "美国"
+          },
+          "text": "就是工种不同 没必要纠结，当你需要mac的时候，你不会问出选那个操作系统的问题",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5122811281214224,
+          "create_time": "2024-11-15T18:12:03.585+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "mac的生态其实还好，比linux强多了，如果没有刚需软件缺失的话，用起来还是很爽的",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5122811518455124,
+          "create_time": "2024-11-17T14:53:25.711+0800",
+          "owner": {
+            "user_id": 182548252281142,
+            "name": "ATA",
+            "avatar_url": "https://images.zsxq.com/Fny-7_lKgHk1kyShvh0Stm4p5sw9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nktag6SinKuYYKazw1Y5l2VP4EY=",
+            "location": "江苏"
+          },
+          "text": "全家桶和硬件成本优势。高端领域，mac更有性价比",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "captured_at": "2026-01-29T21:26:39.148741",
+  "url": "https://api.zsxq.com/v2/topics/4845555888114288/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4845555888114288",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8858242522424582,
+          "create_time": "2025-04-09T13:28:17.207+0800",
+          "owner": {
+            "user_id": 15284152825542,
+            "name": "日高晏眠人",
+            "alias": "日高晏眠人",
+            "avatar_url": "https://images.zsxq.com/FmgqRiV7eHEKrbLz9Xl-x3x6bxNL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T2Ffk5JVbDOQvMcAUztpXo4fpQc=",
+            "location": "广东"
+          },
+          "text": "这篇文章通过对比两位投资家纳西姆·塔勒布（Nassim Taleb）和维克多·尼德霍夫（Victor Niederhoffer）的理念与实践，揭示了金融市场中风险认知的根本分歧。塔勒布提出“黑天鹅”理论，认为传统金融模型严重低估了极端不可预测事件的影响。他通过购买价外期权（out-of-the-money options）构建反脆弱策略：在市场平静时持续小额亏损，但一旦发生剧烈波动（如战争、金融危机），即可获得巨额收益。这种策略的核心是承认人类无法预测未来，转而通过严格纪律防范尾部风险。\n\n尼德霍夫则代表传统量化思维的盲点，他依赖统计模型和历史数据，卖出期权以赚取稳定收益，却在1997年市场崩盘和“9·11”等黑天鹅事件中破产。两人的哲学差异映射了卡尔·波普尔（不可知论）与弗朗西斯·高尔顿（统计决定论）的思想对立。塔勒布的个人经历——从黎巴嫩内战到罹患罕见喉癌——强化了他对不确定性的敬畏，而尼德霍夫的失败印证了过度自信的代价。文章最终指出，真正的勇气并非追求短期辉煌，而是通过系统性防御机制抵御未知风险，这种反直觉的生存智慧在高度不确定的现代市场中更具现实意义。",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1525414244112412,
+          "create_time": "2025-04-09T13:30:30.584+0800",
+          "owner": {
+            "user_id": 144254841842,
+            "name": "许哲",
+            "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+            "location": "美国"
+          },
+          "text": "塔勒布的书的主旨内容思想都是一样的，我们并不真的能预测未来，必须反脆弱",
+          "likes_count": 3,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2858242848221511,
+          "create_time": "2025-04-09T16:04:06.449+0800",
+          "owner": {
+            "user_id": 48412851458528,
+            "name": "macrochen",
+            "avatar_url": "https://images.zsxq.com/Fhpc9u4wd6YWLqO66mibUIp5hJkI?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MFmMynz457hFfIvRPHbqM4WSIqs=",
+            "location": "浙江"
+          },
+          "text": "塔勒布的策略：“我的整个玩法就是建立在相信‘黑天鹅’一定会来的基础上。”",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

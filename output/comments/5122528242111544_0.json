@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T22:54:29.115652",
+  "url": "https://api.zsxq.com/v2/topics/5122528242111544/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5122528242111544",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844584525124118,
+          "create_time": "2024-04-11T19:05:08.189+0800",
+          "owner": {
+            "user_id": 182214414442152,
+            "name": "沧浪之水",
+            "avatar_url": "https://images.zsxq.com/Fj9rhHUyQQutaXUlwJAF7yj_-tNN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EylsJhjXOj1WizQD7L9GtH73E9I=",
+            "location": "河北"
+          },
+          "text": "rmb会不会像日yuan一样，长期成为低息货币[吐]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "captured_at": "2026-01-29T22:02:10.767868",
+  "url": "https://api.zsxq.com/v2/topics/1525421425281442/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1525421425281442",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5122445545185244,
+          "create_time": "2024-09-30T19:20:29.166+0800",
+          "owner": {
+            "user_id": 51515155858444,
+            "name": "朱嘉宇。",
+            "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o=",
+            "location": "上海"
+          },
+          "text": "因为成本更低，所以泡沫维持的时间会更长吗？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2855442452845521,
+          "create_time": "2024-10-01T23:27:37.071+0800",
+          "owner": {
+            "user_id": 51422815528214,
+            "name": "左",
+            "avatar_url": "https://images.zsxq.com/FokVGz_5f_0EHBjRGHgZPWBpxtwB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PTOlggDOLoFqcGyafFtGOyzrGnE=",
+            "location": "河南"
+          },
+          "text": "那这个杠杆放出来的钱最终是给谁用来买股票的呢？是券商有更充裕的资金通过融资借给股民的意思吗？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 8855442452214582,
+              "parent_comment_id": 2855442452845521,
+              "create_time": "2024-10-02T01:19:15.290+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "是的，扩展大家的Margin",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51422815528214,
+                "name": "左",
+                "avatar_url": "https://images.zsxq.com/FokVGz_5f_0EHBjRGHgZPWBpxtwB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PTOlggDOLoFqcGyafFtGOyzrGnE="
+              }
+            },
+            {
+              "comment_id": 1522114152455452,
+              "parent_comment_id": 2855442452845521,
+              "create_time": "2024-10-02T11:09:11.152+0800",
+              "owner": {
+                "user_id": 28842885554841,
+                "name": "Ting",
+                "avatar_url": "https://images.zsxq.com/FpKSgKi-POJFFS6CO9dCPM1qy_vA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FsASy9LGVj0vMf1bPQ4uD7g7ZJc=",
+                "location": "上海"
+              },
+              "text": "许大 之前您说的“券商保险公司这类的金融机构可以用股票市场的一些本来⻛险评估为高⻛险的资产，比如沪深 300ETF这类的资产和央行做一次互换” 这里说的高风险资产是指这些金融机构自营资金买入的资产吗？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8855442481515852,
+          "create_time": "2024-10-02T18:31:27.554+0800",
+          "owner": {
+            "user_id": 818221851841542,
+            "name": "jelawat",
+            "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fp8Z2mElz4XDsFUsYPJ_x3l5H8U=",
+            "location": "浙江"
+          },
+          "text": "（思考）那剩下还不了的贷款怎么办？\n银行降低存款利率，理财产品亏损，把损失丢给储户。或者先记在银行账上，以后“慢慢还”？",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

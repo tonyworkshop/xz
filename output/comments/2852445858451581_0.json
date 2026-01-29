@@ -1,0 +1,112 @@
+{
+  "captured_at": "2026-01-29T21:08:52.090759",
+  "url": "https://api.zsxq.com/v2/topics/2852445858451581/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2852445858451581",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2858481158411251,
+          "create_time": "2025-06-16T07:36:44.174+0800",
+          "owner": {
+            "user_id": 841141585521852,
+            "name": "林恩诺",
+            "avatar_url": "https://images.zsxq.com/Fntb28Ei8L4wFxzciWHEDn-ovSzz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hA9zpPrXDg42qOiq8cMccFRVCJA=",
+            "location": "浙江"
+          },
+          "text": "是的，非常感谢许哲大大的解答",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848281142421448,
+          "create_time": "2025-06-16T10:11:11.724+0800",
+          "owner": {
+            "user_id": 544481241114514,
+            "name": "编辑阿琨",
+            "avatar_url": "https://images.zsxq.com/FuMiceDPSMmAHj5D3MS6zQQGS4FE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0lp3g3KQXM5oaHWmGMutPSI0DRA=",
+            "location": "新加坡"
+          },
+          "text": "许大，如果不考虑捕获黑天鹅这个角度的话 （这部分可以买vix call或者qqq put） 买UVXY leap put是否是一个确定性相对很大收益率也不错的策略？ 我能想到的风险是leap put成交量小，如果想用稍微多一点仓位的话很可能陷入流动性陷阱",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 5121452252814514,
+              "parent_comment_id": 4848281142421448,
+              "create_time": "2025-06-16T17:55:59.834+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "对的，这个东西流动性很差是个问题",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 544481241114514,
+                "name": "编辑阿琨",
+                "avatar_url": "https://images.zsxq.com/FuMiceDPSMmAHj5D3MS6zQQGS4FE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0lp3g3KQXM5oaHWmGMutPSI0DRA="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2858481154822211,
+          "create_time": "2025-06-16T10:17:40.344+0800",
+          "owner": {
+            "user_id": 544481241114514,
+            "name": "编辑阿琨",
+            "avatar_url": "https://images.zsxq.com/FuMiceDPSMmAHj5D3MS6zQQGS4FE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0lp3g3KQXM5oaHWmGMutPSI0DRA=",
+            "location": "新加坡"
+          },
+          "text": "同时 天上不会掉馅饼。如果uvxy leap put确定性这么高收益又不错的话难道不会市场上的套利者蜂拥而至致使这个机会消失？就如同做空vxx的借券成本极高一样。所以这个策略的风险在哪里呢？我只想到了流动性/ask-bid spread 这方面的风险，不知道还有哪些风险没考虑到",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8858425525184452,
+              "parent_comment_id": 2858481154822211,
+              "create_time": "2025-06-16T17:56:22.308+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "蜂拥而至的话，利润都是可能消失的，这个对所有交易都是如此",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 544481241114514,
+                "name": "编辑阿琨",
+                "avatar_url": "https://images.zsxq.com/FuMiceDPSMmAHj5D3MS6zQQGS4FE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0lp3g3KQXM5oaHWmGMutPSI0DRA="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

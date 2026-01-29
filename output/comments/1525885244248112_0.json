@@ -1,0 +1,55 @@
+{
+  "captured_at": "2026-01-29T21:31:27.396493",
+  "url": "https://api.zsxq.com/v2/topics/1525885244248112/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1525885244248112",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8858281128222482,
+          "create_time": "2025-03-17T11:50:53.407+0800",
+          "owner": {
+            "user_id": 15281188218842,
+            "name": "Ming",
+            "avatar_url": "https://images.zsxq.com/FtlE0C7mNjYWXsUOrbaNbRrmeh48?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Fwh0zvCClrNmijiyT5qOvXDey-4=",
+            "location": "上海"
+          },
+          "text": "“不同的受众”这个怎么理解？一直觉得是游资选择限购标的炒作（比如最近是国泰那只）造成的",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2858222854885551,
+              "parent_comment_id": 8858281128222482,
+              "create_time": "2025-03-31T16:48:15.722+0800",
+              "owner": {
+                "user_id": 28484285585511,
+                "name": "正道沧桑",
+                "avatar_url": "https://images.zsxq.com/FuoDQaCAgdkZD6IEukU0oHQ5rRfa?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XSg-rlZZsqJhGNMr4BA3lBZBROA=",
+                "location": "广东"
+              },
+              "text": "我也感觉是这样，每次 a 跌，部分外围 etf，只要没套牢盘的暴力拉升几天，后面还是跌回去了。感觉就是部分资金当做 a 股在炒",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 15281188218842,
+                "name": "Ming",
+                "avatar_url": "https://images.zsxq.com/FtlE0C7mNjYWXsUOrbaNbRrmeh48?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Fwh0zvCClrNmijiyT5qOvXDey-4="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

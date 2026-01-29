@@ -1,0 +1,135 @@
+{
+  "captured_at": "2026-01-29T21:13:24.922152",
+  "url": "https://api.zsxq.com/v2/topics/2852488112814521/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2852488112814521",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8858454844814482,
+          "create_time": "2025-05-26T19:50:45.133+0800",
+          "owner": {
+            "user_id": 5812221454,
+            "name": "小蘑菇",
+            "avatar_url": "https://images.zsxq.com/FolnEpajOa2kfpGdpHYVvdlmG6pc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qdI5boER7XrYNQtfXbgfTNiuMwc=",
+            "location": "湖北"
+          },
+          "text": "高度近视不敢献血",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2858454844455551,
+          "create_time": "2025-05-26T20:19:46.704+0800",
+          "owner": {
+            "user_id": 51284521888844,
+            "name": "小青鱼",
+            "avatar_url": "https://images.zsxq.com/FgB3WqDOR3-VV6dS7qdWVexb1R4s?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6gfWE3lxZ_J3f5nQNFbwEwAvG1A=",
+            "location": "北京"
+          },
+          "text": "并没有优先这回事，都需要付费购买",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8858454814588152,
+              "parent_comment_id": 2858454844455551,
+              "create_time": "2025-05-27T08:59:21.894+0800",
+              "owner": {
+                "user_id": 88242224524582,
+                "name": "carpe diem",
+                "avatar_url": "https://images.zsxq.com/FmEJNu5jC5rwBlPV_jHlCTW-zz7U?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bqgXgo1MNn13CMMBymRTZDFPW7k=",
+                "location": "浙江"
+              },
+              "text": "都需要用钱的。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51284521888844,
+                "name": "小青鱼",
+                "avatar_url": "https://images.zsxq.com/FgB3WqDOR3-VV6dS7qdWVexb1R4s?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6gfWE3lxZ_J3f5nQNFbwEwAvG1A="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5121424184218424,
+          "create_time": "2025-05-27T09:03:56.596+0800",
+          "owner": {
+            "user_id": 225181822281,
+            "name": "梁山",
+            "avatar_url": "https://images.zsxq.com/FlMmzJkwanLN8QQ4y8M_UF85vG0h?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2ekBparkwGIjoiLUbngFsJWnono=",
+            "location": "上海"
+          },
+          "text": "你但凡用过血就知道「献血者优先」是啥意思了。如果你认为「献血200cc」有益或无害健康的话，那怎么解释「摔伤失血200cc」是危害健康？  星球里还是讨论投资相关的哈，你这个问题可以问知乎",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1525121122121112,
+          "create_time": "2025-05-27T10:14:25.556+0800",
+          "owner": {
+            "user_id": 48888218821448,
+            "name": "后中先",
+            "avatar_url": "https://images.zsxq.com/FgMU4F6QPUmflR3useJkg84ci1zi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o0dwW_iV0MVOnxzlk7z1whiVWY0=",
+            "location": "江苏"
+          },
+          "text": "必然有影响，用常识思考下",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2858415821888581,
+          "create_time": "2025-07-27T13:55:15.970+0800",
+          "owner": {
+            "user_id": 28484285585511,
+            "name": "正道沧桑",
+            "avatar_url": "https://images.zsxq.com/FuoDQaCAgdkZD6IEukU0oHQ5rRfa?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XSg-rlZZsqJhGNMr4BA3lBZBROA=",
+            "location": "广东"
+          },
+          "text": "用的时候就知道了，并没有优先那回事。鲜血类似于捐款给了红➕，你想帮的普通人得不到好处，反而养肥了他们。所以很多人直接去灾区捐物资或者给了韩红。鲜血也一样的道理",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848214851888528,
+          "create_time": "2025-07-27T13:57:26.685+0800",
+          "owner": {
+            "user_id": 28484285585511,
+            "name": "正道沧桑",
+            "avatar_url": "https://images.zsxq.com/FuoDQaCAgdkZD6IEukU0oHQ5rRfa?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XSg-rlZZsqJhGNMr4BA3lBZBROA=",
+            "location": "广东"
+          },
+          "text": "医院实际操作的时候，都是要求家属献血了才给用血，一般的家属就会高价通过中介去找人献血，病人才有血用。都是生意",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

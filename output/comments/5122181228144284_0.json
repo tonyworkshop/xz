@@ -1,0 +1,222 @@
+{
+  "captured_at": "2026-01-29T23:01:48.761260",
+  "url": "https://api.zsxq.com/v2/topics/5122181228144284/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5122181228144284",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844542814884128,
+          "create_time": "2024-03-28T14:15:53.465+0800",
+          "owner": {
+            "user_id": 51511412418454,
+            "name": "Li Zhao",
+            "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578=",
+            "location": "卢森堡"
+          },
+          "text": "谢谢许大，判断短期不会涨的债券是因为fed不能进入负利率么？为什么这是个套利交易组合呢？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855254252845822,
+          "create_time": "2024-03-28T20:45:45.775+0800",
+          "owner": {
+            "user_id": 88281821284812,
+            "name": "Gabriel",
+            "avatar_url": "https://images.zsxq.com/Fv8SJb-omWvX4N4xZvh32DmAat1H?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uJvU_kjcu3OpJEKMKQ7zNha9Yic=",
+            "location": "广东"
+          },
+          "text": "国债的vol一直很低，不加杠杆的情况下，short call的收益率是不是不会很高？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 1522421481128582,
+              "parent_comment_id": 8855254252845822,
+              "create_time": "2024-03-30T15:44:15.360+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "成正比的，所以可以加杠杆",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88281821284812,
+                "name": "Gabriel",
+                "avatar_url": "https://images.zsxq.com/Fv8SJb-omWvX4N4xZvh32DmAat1H?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uJvU_kjcu3OpJEKMKQ7zNha9Yic="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1522421424514522,
+          "create_time": "2024-03-28T20:48:23.617+0800",
+          "owner": {
+            "user_id": 51511412418454,
+            "name": "Li Zhao",
+            "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578=",
+            "location": "卢森堡"
+          },
+          "text": "我理解这里short call的收益是拿来买long vol的，目标是vol的提高，short call的本身收益不是目的",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 6,
+          "replied_comments": [
+            {
+              "comment_id": 1522421424424852,
+              "parent_comment_id": 1522421424514522,
+              "create_time": "2024-03-28T21:02:12.934+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "是的，short call 是套利了，因为算下来不仅仅是负利率，还负很多。但如果真如此的话国债的vol要疯。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51511412418454,
+                "name": "Li Zhao",
+                "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578="
+              }
+            },
+            {
+              "comment_id": 8855254252251142,
+              "parent_comment_id": 1522421424514522,
+              "create_time": "2024-03-28T21:04:37.800+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "short call 短债本身在那个时候就是一个套利了，long vol 是拿这个做了一个免费期权的组合",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51511412418454,
+                "name": "Li Zhao",
+                "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578="
+              }
+            },
+            {
+              "comment_id": 1522421484851122,
+              "parent_comment_id": 1522421424514522,
+              "create_time": "2024-03-30T13:02:53.673+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "我想我可能没表达完整，其实short options 的累积操作效应是我默认的，就缺省了。其实不是赌绝对不会负利率而是算了累积后的国债做空价格在一个很深的负利率，用期权滚成本的帖子里我附加一下关于债的内容。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51511412418454,
+                "name": "Li Zhao",
+                "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578="
+              }
+            },
+            {
+              "comment_id": 1522421481481242,
+              "parent_comment_id": 1522421424514522,
+              "create_time": "2024-03-30T15:31:59.033+0800",
+              "owner": {
+                "user_id": 51511412418454,
+                "name": "Li Zhao",
+                "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578=",
+                "location": "卢森堡"
+              },
+              "text": "谢谢许大，我确实有些疑问，现在大概明白了，应该是atm或者otm的call，如果otm都被行权，那么fed要降很多息，负到很远，如果真这样long vol的回报会很肥",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 1522421481128552,
+              "parent_comment_id": 1522421424514522,
+              "create_time": "2024-03-30T15:43:38.112+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "嗯，累积期权费的话算下来负利率到可怕，那vol就炸了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51511412418454,
+                "name": "Li Zhao",
+                "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578="
+              }
+            },
+            {
+              "comment_id": 2855254214158441,
+              "parent_comment_id": 1522421424514522,
+              "create_time": "2024-03-30T16:09:03.639+0800",
+              "owner": {
+                "user_id": 51511412418454,
+                "name": "Li Zhao",
+                "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578=",
+                "location": "卢森堡"
+              },
+              "text": "魔鬼在细节里，如何选择标的，选择哪一档的行权价，选择到期日，long vol的配比，整体布局的结构还是精巧",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

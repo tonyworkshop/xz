@@ -1,0 +1,71 @@
+{
+  "captured_at": "2026-01-29T22:27:03.767340",
+  "url": "https://api.zsxq.com/v2/topics/8855424514515412/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8855424514515412",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1522481548241252,
+          "create_time": "2024-06-26T10:42:21.815+0800",
+          "owner": {
+            "user_id": 48282484488228,
+            "name": "沙瓜 微*巨无霸吃醋*",
+            "avatar_url": "https://images.zsxq.com/FgEFqBZVPHZPHymqxoanRkAkBBJQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:z6XK3OLaApptzt97jPXd_1xqjWA=",
+            "location": "江苏"
+          },
+          "text": "Ai怎么应对虚张声势",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 1522481548545882,
+              "parent_comment_id": 1522481548241252,
+              "create_time": "2024-06-26T10:53:18.351+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "我同意幸顿教授的看法，AI理解完整的人类情绪没有什么障碍，人类能理解的情绪和情况AI都能理解",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48282484488228,
+                "name": "沙瓜 微*巨无霸吃醋*",
+                "avatar_url": "https://images.zsxq.com/FgEFqBZVPHZPHymqxoanRkAkBBJQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:z6XK3OLaApptzt97jPXd_1xqjWA="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4844512851522518,
+          "create_time": "2024-06-26T11:17:37.862+0800",
+          "owner": {
+            "user_id": 48885445482828,
+            "name": "文心",
+            "avatar_url": "https://images.zsxq.com/Fj92B1UWJisGFc6N456rg-9B_z7G?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SbfY6Ch5Fw7_Sb2qYrkPuLuCmBw=",
+            "location": "上海"
+          },
+          "text": "几年前看过相关论文，当时还是最小化后悔算法之类的，也不错了，maj这些都已经挺成熟了，非完全信息对ai构不成壁垒",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

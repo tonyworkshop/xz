@@ -1,0 +1,93 @@
+{
+  "captured_at": "2026-01-29T21:48:32.860755",
+  "url": "https://api.zsxq.com/v2/topics/8858424585258852/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8858424585258852",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1522812545111122,
+          "create_time": "2024-12-27T17:39:29.156+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "把追着贷的贷款贷出来，然后出去吃美债利差，同时short put CNH/USD[捂脸]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 2855145151215251,
+              "parent_comment_id": 1522812545111122,
+              "create_time": "2024-12-31T23:09:11.013+0800",
+              "owner": {
+                "user_id": 454584241428,
+                "name": "Richard",
+                "avatar_url": "https://images.zsxq.com/Fk6dKn0NBfEK3b43GrPR8YbwQs9J?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-kONGtrk9uCRCxuWmf-n1jaJxDc=",
+                "location": "广东"
+              },
+              "text": "这个思路很好啊，主要风险是啥？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 8855148818481552,
+              "parent_comment_id": 1522812545111122,
+              "create_time": "2025-01-04T14:02:52.109+0800",
+              "owner": {
+                "user_id": 414855882224558,
+                "name": "恐慌收割大师兄",
+                "avatar_url": "https://images.zsxq.com/Fjufi_vEZJGNqlMg2U9AZtcvIEHH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FmMB9b-Xima_Bfj0MSHkgq0D6CE=",
+                "location": "新加坡"
+              },
+              "text": "这个策略本质还是杠杆策略。。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 454584241428,
+                "name": "Richard",
+                "avatar_url": "https://images.zsxq.com/Fk6dKn0NBfEK3b43GrPR8YbwQs9J?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-kONGtrk9uCRCxuWmf-n1jaJxDc="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8855145822221412,
+          "create_time": "2024-12-27T20:14:49.335+0800",
+          "owner": {
+            "user_id": 48811511812258,
+            "name": "扫地的",
+            "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+            "location": "湖南"
+          },
+          "text": "两边的实际资本回报率差别越来越大，且投资消费意愿天渊之别\n\n失业了，银行不给贷款",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

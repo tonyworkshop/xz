@@ -1,0 +1,46 @@
+{
+  "captured_at": "2026-01-29T23:03:35.318762",
+  "url": "https://api.zsxq.com/v2/topics/1522515214444182/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1522515214444182",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1522581182152512,
+          "create_time": "2024-03-21T11:28:58.813+0800",
+          "owner": {
+            "user_id": 15558282185242,
+            "name": "青弦",
+            "avatar_url": "https://images.zsxq.com/FlmANoiH6TYDBTYV-uiHEcRfCSz-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-EzVzmYAuQqbm8RzXhGmb23U0sk=",
+            "location": "江苏"
+          },
+          "text": "NVLink提升了，能耗也下降了。4090还能搞个测评，这些都是超玩具了，门槛太高。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855254128522122,
+          "create_time": "2024-03-31T22:19:52.141+0800",
+          "owner": {
+            "user_id": 51515254845254,
+            "name": "Jamie Yang",
+            "avatar_url": "https://images.zsxq.com/FrlQv2KWl5RBVGrB9w7eGemJOpNp?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gfYZTAR7Sw8Xfw9mVWu0qxNwpZU=",
+            "location": "美国"
+          },
+          "text": "旗舰GPU基本上首先用于训练，需要大存储和高通讯带宽。int4 fp4肯定很有用，它让模型数据的存储和通讯要求都降低了。推理实际用的GPU常常很烂。推理用到的模型是被裁剪过的，不可能是训练大小的模型，只会精度更低feature更少。如果不够用调整就是了。现在更大的问题仍然是推理模型一张卡放不下，如果多卡推理就需要额外的网络支持。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

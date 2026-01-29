@@ -1,0 +1,115 @@
+{
+  "captured_at": "2026-01-29T21:43:23.087389",
+  "url": "https://api.zsxq.com/v2/topics/8858152181188242/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8858152181188242",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8858811841481282,
+          "create_time": "2025-01-27T22:30:35.497+0800",
+          "owner": {
+            "user_id": 8421148482,
+            "name": "胖子托尼",
+            "avatar_url": "https://images.zsxq.com/Fpm8iXTpC5nDA_yqMDGvqx29SUsF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YH4Tx7XSo-lZIPHK65PxpgR91YE=",
+            "location": "海南"
+          },
+          "text": "微软CEO看法类似：we just can't get enough of",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "images": [
+            {
+              "image_id": 211452288514551,
+              "type": "png",
+              "thumbnail": {
+                "url": "https://images.zsxq.com/FlL0N3s_WXGrMHzAX3Rpg8Na7Q9x?imageMogr2/auto-orient/thumbnail/380x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:88VEhRqMhTsVA8vPa3S7GEV8nSg=",
+                "width": 380,
+                "height": 256
+              },
+              "large": {
+                "url": "https://images.zsxq.com/FlL0N3s_WXGrMHzAX3Rpg8Na7Q9x?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BsKqmkDt6PeLcNTk3kB_S_7HlXA=",
+                "width": 800,
+                "height": 539
+              },
+              "original": {
+                "url": "https://images.zsxq.com/FlL0N3s_WXGrMHzAX3Rpg8Na7Q9x?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zEqfQOrqgDPPctRvyKqcdFnp8gw=",
+                "width": 1218,
+                "height": 820,
+                "size": 241380
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1525588584254812,
+          "create_time": "2025-01-28T03:59:44.542+0800",
+          "owner": {
+            "user_id": 51122225814514,
+            "name": "真的是大风",
+            "avatar_url": "https://images.zsxq.com/Fkn-ClpPFW1Hwi24llEUR8EORsy3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kiOuegSdjap8s5te2lgHJrX0w-g=",
+            "location": "上海"
+          },
+          "text": "这个事情有点像第一次工业革命，蒸汽机把煤炭的利用效率大大提高，按说煤炭应该少用一些，然而事实是，煤炭的使用速度大大提高",
+          "likes_count": 2,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 2858811812584551,
+              "parent_comment_id": 1525588584254812,
+              "create_time": "2025-01-28T04:04:55.818+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "是的，杰文斯悖论",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51122225814514,
+                "name": "真的是大风",
+                "avatar_url": "https://images.zsxq.com/Fkn-ClpPFW1Hwi24llEUR8EORsy3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kiOuegSdjap8s5te2lgHJrX0w-g="
+              }
+            },
+            {
+              "comment_id": 1525588584851822,
+              "parent_comment_id": 1525588584254812,
+              "create_time": "2025-01-28T10:18:13.818+0800",
+              "owner": {
+                "user_id": 184551142122222,
+                "name": "Animal Lov*",
+                "avatar_url": "https://images.zsxq.com/FmX-6J5gLT2tIChrpL5WoMxq1VNf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k9OuIi_T8JXd-RvYld00OQekOuo=",
+                "location": "北京"
+              },
+              "text": "价格也上涨了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51122225814514,
+                "name": "真的是大风",
+                "avatar_url": "https://images.zsxq.com/Fkn-ClpPFW1Hwi24llEUR8EORsy3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kiOuegSdjap8s5te2lgHJrX0w-g="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

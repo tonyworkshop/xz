@@ -1,0 +1,87 @@
+{
+  "captured_at": "2026-01-29T21:38:48.479977",
+  "url": "https://api.zsxq.com/v2/topics/1525844281854242/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1525844281854242",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4848545154544428,
+          "create_time": "2025-02-22T06:57:35.498+0800",
+          "owner": {
+            "user_id": 48811511812258,
+            "name": "扫地的",
+            "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+            "location": "湖南"
+          },
+          "text": "收到！",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2858252125255881,
+          "create_time": "2025-02-22T06:59:33.445+0800",
+          "owner": {
+            "user_id": 48811511812258,
+            "name": "扫地的",
+            "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+            "location": "湖南"
+          },
+          "text": "期权需要移仓吗，选择10天左右到期成本是否还行？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8858252115248422,
+          "create_time": "2025-02-23T00:07:55.008+0800",
+          "owner": {
+            "user_id": 48551488858818,
+            "name": "大薯条",
+            "avatar_url": "https://images.zsxq.com/FpeHJyZVplHN6uW9pc1Z5_rACSV3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2D0PuUPog9sVZUcnW1awBdDUccI=",
+            "location": "江苏"
+          },
+          "text": "更激进点用两倍做多黄金UGL的期权可以吗",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2858252118481551,
+              "parent_comment_id": 8858252115248422,
+              "create_time": "2025-02-23T11:01:10.122+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+                "location": "湖南"
+              },
+              "text": "不如直接gold",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48551488858818,
+                "name": "大薯条",
+                "avatar_url": "https://images.zsxq.com/FpeHJyZVplHN6uW9pc1Z5_rACSV3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2D0PuUPog9sVZUcnW1awBdDUccI="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

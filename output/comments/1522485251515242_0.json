@@ -1,0 +1,282 @@
+{
+  "captured_at": "2026-01-29T22:42:41.059835",
+  "url": "https://api.zsxq.com/v2/topics/1522485251515242/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1522485251515242",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2855221888841241,
+          "create_time": "2024-05-17T10:47:38.895+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "谢谢🙏",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5122558111545514,
+          "create_time": "2024-05-17T10:59:04.542+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "我想了想，我short put吸vxx，然后long超额的otm uvxy是不是一个好策略呢？\n\n低成本拿vxx，如果vxx继续降，uvxy的put给我兜底（uvxy有杠杆损耗应该比vxx跌得也更厉害）；如果VIX涨的话uvxy put作废，吃到long vxx本身的差价，只要我uvxy的put买得足够便宜就能覆盖。\n\n我在想是不是同时我去long一个特别虚的vxx或uvxy call就能实现反脆弱呢？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855221882121152,
+          "create_time": "2024-05-17T13:43:32.019+0800",
+          "owner": {
+            "user_id": 215841242228441,
+            "name": "翎玄",
+            "avatar_url": "https://images.zsxq.com/FiktLNAY9PbeuM1ptrBjpM-2eA93?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y-KazVfd3UE2kP-IEK1-EwAKMTg=",
+            "location": "广东"
+          },
+          "text": "这么低收租好难呦 直接leap long call otm vix会不会好一些呦",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 5,
+          "replied_comments": [
+            {
+              "comment_id": 5122558158414584,
+              "parent_comment_id": 8855221882121152,
+              "create_time": "2024-05-17T20:36:37.919+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "我想了一下，觉得可以考虑short uvxy + 2x long call vxx，但具体怎么配感觉有点难。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 215841242228441,
+                "name": "翎玄",
+                "avatar_url": "https://images.zsxq.com/FiktLNAY9PbeuM1ptrBjpM-2eA93?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y-KazVfd3UE2kP-IEK1-EwAKMTg="
+              }
+            },
+            {
+              "comment_id": 4844551851282148,
+              "parent_comment_id": 8855221882121152,
+              "create_time": "2024-05-17T20:37:16.699+0800",
+              "owner": {
+                "user_id": 215841242228441,
+                "name": "翎玄",
+                "avatar_url": "https://images.zsxq.com/FiktLNAY9PbeuM1ptrBjpM-2eA93?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y-KazVfd3UE2kP-IEK1-EwAKMTg=",
+                "location": "广东"
+              },
+              "text": "点差大 流动性差 不好做的感觉呢",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 5122558584142414,
+              "parent_comment_id": 8855221882121152,
+              "create_time": "2024-05-18T20:09:43.814+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "我今天想了一天，我感觉可以long UVIX leap otm put + rolling long UVIX call。除非发生超大危机，否则前者蹿升后肯定长期还是会被升水和杠杆损耗干下来，这头其实近似就吃到Theta了，大概率这头会长期盈利。然后再去rolling call去买蹿升的彩票，因为前面的是买方，最大亏损是确定的，而且还有损耗，如果VIX长期不窜升，这个也能赚到钱；如果窜升了，后面的call只要能把前面的最大亏损覆盖掉就稳赢，而且大概率蹿升后还会回落，leap结构保证大概率是赢得，出现小概率事件，例如2020式的崩盘或前者快到期的时候突然蹿升，前者其实VIX暴涨收益或久期中蹿升的盈利应该也能覆盖掉前者。关键就在于具体比例怎么配以及put的流动性上，不知道有没有什么问题，我感觉思路没什么问题，看具体怎么做好一些[捂脸]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 215841242228441,
+                "name": "翎玄",
+                "avatar_url": "https://images.zsxq.com/FiktLNAY9PbeuM1ptrBjpM-2eA93?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y-KazVfd3UE2kP-IEK1-EwAKMTg="
+              }
+            },
+            {
+              "comment_id": 4844551511424818,
+              "parent_comment_id": 8855221882121152,
+              "create_time": "2024-05-18T22:45:01.830+0800",
+              "owner": {
+                "user_id": 421155242584128,
+                "name": "大道出迷途",
+                "avatar_url": "https://images.zsxq.com/FiF5HRK6XpaKf253WZV3H1I6nDg7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rxjSwrluqLkKhKMXlwwqSXlVE3Y=",
+                "location": "浙江"
+              },
+              "text": "你看下点差，基本没法下手",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 4844551245858428,
+              "parent_comment_id": 8855221882121152,
+              "create_time": "2024-05-19T10:51:37.196+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "等下周开盘了我看下😂",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 421155242584128,
+                "name": "大道出迷途",
+                "avatar_url": "https://images.zsxq.com/FiF5HRK6XpaKf253WZV3H1I6nDg7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rxjSwrluqLkKhKMXlwwqSXlVE3Y="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1522448515544142,
+          "create_time": "2024-05-18T04:30:27.862+0800",
+          "owner": {
+            "user_id": 422214855212818,
+            "name": "sky",
+            "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c=",
+            "location": "美国"
+          },
+          "text": "<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" /> 许大 请问怎样有效的降低long vix 的成本？ 谢谢",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 1522448515544112,
+              "parent_comment_id": 1522448515544142,
+              "create_time": "2024-05-18T04:31:38.478+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "rolling short vix index put",
+              "likes_count": 3,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c="
+              }
+            },
+            {
+              "comment_id": 8855221848822152,
+              "parent_comment_id": 1522448515544142,
+              "create_time": "2024-05-18T04:37:00.524+0800",
+              "owner": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c=",
+                "location": "美国"
+              },
+              "text": "看了下 vix 低位时候 short vix put 已经没有什么油水了😂",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 4844551828852818,
+              "parent_comment_id": 1522448515544142,
+              "create_time": "2024-05-18T05:01:57.788+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "其实还是有的，如果你计算累积的话",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c="
+              }
+            },
+            {
+              "comment_id": 8855221244412212,
+              "parent_comment_id": 1522448515544142,
+              "create_time": "2024-05-18T09:22:21.669+0800",
+              "owner": {
+                "user_id": 421155242584128,
+                "name": "大道出迷途",
+                "avatar_url": "https://images.zsxq.com/FiF5HRK6XpaKf253WZV3H1I6nDg7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rxjSwrluqLkKhKMXlwwqSXlVE3Y=",
+                "location": "浙江"
+              },
+              "text": "Vix put 虚值的好像都没报价了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

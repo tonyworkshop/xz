@@ -1,0 +1,326 @@
+{
+  "captured_at": "2026-01-29T22:42:08.775662",
+  "url": "https://api.zsxq.com/v2/topics/1522484584881522/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1522484584881522",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1522412214418882,
+          "create_time": "2024-05-22T17:30:14.277+0800",
+          "owner": {
+            "user_id": 48841218821188,
+            "name": "溪林苑",
+            "avatar_url": "https://images.zsxq.com/Fisl87L7JTx6He22E3GfnRNNvh_c?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qrtBeD4wUvR-O1nBrphnA-Ge1NQ=",
+            "location": "福建"
+          },
+          "text": "屠宰场逐渐对肉提高注水量，售价不但没降，还缓慢地涨价了。以前买半斤吃饱，慢慢地变成要买1斤、2斤……才能吃饱了。",
+          "likes_count": 3,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855245518421212,
+          "create_time": "2024-05-23T00:05:34.489+0800",
+          "owner": {
+            "user_id": 48811511812258,
+            "name": "扫地的",
+            "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+            "location": "湖南"
+          },
+          "text": "中国人民银行发行的人民币背后的资产原来80%+是外汇，现在降低到40%+的水平了。换成国内金融机构对应的债权，这个过程是不是就是人民币贬值的过程？也是6.7到7.3的原因？现在降到40%这个怎么推论出来的？",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 1522412281122142,
+              "parent_comment_id": 8855245518421212,
+              "create_time": "2024-05-23T06:25:33.107+0800",
+              "owner": {
+                "user_id": 142458225252,
+                "name": "耿一铭",
+                "avatar_url": "https://images.zsxq.com/Ft_gu7zlezkMrg2lgE_Dd7DlmppW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T42dvtowL1Iu3bA_Uavt0R_Xnaw=",
+                "location": "香港"
+              },
+              "text": "不是推论出来的，是央行资产负债表上的事实信息",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg="
+              }
+            },
+            {
+              "comment_id": 1522412522452482,
+              "parent_comment_id": 8855245518421212,
+              "create_time": "2024-05-23T10:37:40.022+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+                "location": "湖南"
+              },
+              "text": "原来如此，谢谢",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 142458225252,
+                "name": "耿一铭",
+                "avatar_url": "https://images.zsxq.com/Ft_gu7zlezkMrg2lgE_Dd7DlmppW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T42dvtowL1Iu3bA_Uavt0R_Xnaw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5122542181241124,
+          "create_time": "2024-05-24T20:01:02.236+0800",
+          "owner": {
+            "user_id": 51515254845254,
+            "name": "Jamie Yang",
+            "avatar_url": "https://images.zsxq.com/FrlQv2KWl5RBVGrB9w7eGemJOpNp?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gfYZTAR7Sw8Xfw9mVWu0qxNwpZU=",
+            "location": "美国"
+          },
+          "text": "所以对外援助和对外贷款是不是输出货币的好办法呢？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4844524228452488,
+              "parent_comment_id": 5122542181241124,
+              "create_time": "2024-05-27T06:31:14.783+0800",
+              "owner": {
+                "user_id": 28484285585511,
+                "name": "正道沧桑",
+                "avatar_url": "https://images.zsxq.com/FuoDQaCAgdkZD6IEukU0oHQ5rRfa?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XSg-rlZZsqJhGNMr4BA3lBZBROA=",
+                "location": "广东"
+              },
+              "text": "那要看本币的地位，没有美元的地位，援助和贷款只是人缘不好的土财主花钱请一群屌丝吃饭交个朋友，人家拿了本币回头就换美元吃了利差而已。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51515254845254,
+                "name": "Jamie Yang",
+                "avatar_url": "https://images.zsxq.com/FrlQv2KWl5RBVGrB9w7eGemJOpNp?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gfYZTAR7Sw8Xfw9mVWu0qxNwpZU="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8855248848258852,
+          "create_time": "2024-05-31T00:19:05.647+0800",
+          "owner": {
+            "user_id": 585151582444424,
+            "name": "Sabrina Ma",
+            "avatar_url": "https://images.zsxq.com/Fht0EALhGEg67KkNRyjaTJawqsA4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kRvtpFjs61-ONNS5rkqCzRp9-U0=",
+            "location": "上海"
+          },
+          "text": "那如何对抗通胀呢？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2855218884224841,
+              "parent_comment_id": 8855248848258852,
+              "create_time": "2024-06-13T08:38:04.159+0800",
+              "owner": {
+                "user_id": 241181822142881,
+                "name": "小踏哥哥",
+                "avatar_url": "https://images.zsxq.com/Fker9Cwwvvvypykv3khL6a3zvp5V?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:c4S5v1BVt6yK49fqHCRtuVz7j78=",
+                "location": "河北"
+              },
+              "text": "持有生产资料，",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 585151582444424,
+                "name": "Sabrina Ma",
+                "avatar_url": "https://images.zsxq.com/Fht0EALhGEg67KkNRyjaTJawqsA4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kRvtpFjs61-ONNS5rkqCzRp9-U0="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5122585158224114,
+          "create_time": "2024-06-19T20:58:08.745+0800",
+          "owner": {
+            "user_id": 454584241428,
+            "name": "Richard",
+            "avatar_url": "https://images.zsxq.com/Fk6dKn0NBfEK3b43GrPR8YbwQs9J?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-kONGtrk9uCRCxuWmf-n1jaJxDc=",
+            "location": "广东"
+          },
+          "text": "货币湮灭带来通缩，债务货币化会通胀，两个叠加是通缩还是通胀？没懂",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 5122585158124214,
+              "parent_comment_id": 5122585158224114,
+              "create_time": "2024-06-19T21:18:15.745+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "看印钞还债的速度能否超越货币湮灭的速度了",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 454584241428,
+                "name": "Richard",
+                "avatar_url": "https://images.zsxq.com/Fk6dKn0NBfEK3b43GrPR8YbwQs9J?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-kONGtrk9uCRCxuWmf-n1jaJxDc="
+              }
+            },
+            {
+              "comment_id": 1522481112182422,
+              "parent_comment_id": 5122585158224114,
+              "create_time": "2024-06-28T12:35:38.496+0800",
+              "owner": {
+                "user_id": 111841445251212,
+                "name": "Liang💨💨",
+                "alias": "大Liang",
+                "avatar_url": "https://images.zsxq.com/FjsBzboEagqcVANBZ6ZUYUccds_j?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yeczTs4oa2a2zWL7E6SwPKRJhGU=",
+                "location": "广东"
+              },
+              "text": "许大，这两个速度可以通过哪些指标数据来对比？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 8855451482215552,
+              "parent_comment_id": 5122585158224114,
+              "create_time": "2024-07-18T15:41:14.296+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "看社融",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 111841445251212,
+                "name": "Liang💨💨",
+                "alias": "大Liang",
+                "avatar_url": "https://images.zsxq.com/FjsBzboEagqcVANBZ6ZUYUccds_j?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yeczTs4oa2a2zWL7E6SwPKRJhGU="
+              }
+            },
+            {
+              "comment_id": 8855451484454552,
+              "parent_comment_id": 5122585158224114,
+              "create_time": "2024-07-18T18:21:10.919+0800",
+              "owner": {
+                "user_id": 111841445251212,
+                "name": "Liang💨💨",
+                "alias": "大Liang",
+                "avatar_url": "https://images.zsxq.com/FjsBzboEagqcVANBZ6ZUYUccds_j?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yeczTs4oa2a2zWL7E6SwPKRJhGU=",
+                "location": "广东"
+              },
+              "text": "刚去看了下，上半年增量很大，虽然与同期比是少增的，是不是可以理解为目前印的速度是超越湮灭速度的？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1522128154411852,
+          "create_time": "2024-07-18T15:39:42.302+0800",
+          "owner": {
+            "user_id": 28284145512241,
+            "name": "吴拆",
+            "avatar_url": "https://images.zsxq.com/FupHRqw37TnnbOee2wKuOqHuCapw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qxHXVWsLVnMh6QSjSJSmI22gpJ8=",
+            "location": "广东"
+          },
+          "text": "许大，文中最后提到忽如其来的通货膨胀，想请教您，为何这个过程不是逐渐发生，而是忽如其来的呢？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 1522128154482212,
+              "parent_comment_id": 1522128154411852,
+              "create_time": "2024-07-18T15:41:34.372+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "恶性通胀都是短时间爆发的",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28284145512241,
+                "name": "吴拆",
+                "avatar_url": "https://images.zsxq.com/FupHRqw37TnnbOee2wKuOqHuCapw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qxHXVWsLVnMh6QSjSJSmI22gpJ8="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

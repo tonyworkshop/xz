@@ -1,0 +1,121 @@
+{
+  "captured_at": "2026-01-29T21:06:56.473977",
+  "url": "https://api.zsxq.com/v2/topics/4845214512545558/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4845214512545558",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1525145521814582,
+          "create_time": "2025-06-24T07:30:30.550+0800",
+          "owner": {
+            "user_id": 88814288881152,
+            "name": "关平",
+            "avatar_url": "https://images.zsxq.com/FoE_HQDIQifaEcZMqM_nBS_hKTO-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wQjGAaw7fd6Fkp_3p3LItmlGwBg=",
+            "location": "广东"
+          },
+          "text": "美卡+IBKR us呢[疑问]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 4848258821414428,
+              "parent_comment_id": 1525145521814582,
+              "create_time": "2025-06-24T23:07:03.193+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "只是可能征税，现在还没有",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88814288881152,
+                "name": "关平",
+                "avatar_url": "https://images.zsxq.com/FoE_HQDIQifaEcZMqM_nBS_hKTO-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wQjGAaw7fd6Fkp_3p3LItmlGwBg="
+              }
+            },
+            {
+              "comment_id": 5121451148111484,
+              "parent_comment_id": 1525145521814582,
+              "create_time": "2025-06-24T23:22:41.392+0800",
+              "owner": {
+                "user_id": 88814288881152,
+                "name": "关平",
+                "avatar_url": "https://images.zsxq.com/FoE_HQDIQifaEcZMqM_nBS_hKTO-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wQjGAaw7fd6Fkp_3p3LItmlGwBg=",
+                "location": "广东"
+              },
+              "text": "许大，您觉得需要提前换美卡吗[大哭]还是继续保留港卡[疑问]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 8858428841114452,
+              "parent_comment_id": 1525145521814582,
+              "create_time": "2025-06-25T04:23:57.583+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "我都备了",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88814288881152,
+                "name": "关平",
+                "avatar_url": "https://images.zsxq.com/FoE_HQDIQifaEcZMqM_nBS_hKTO-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wQjGAaw7fd6Fkp_3p3LItmlGwBg="
+              }
+            },
+            {
+              "comment_id": 2858428815888121,
+              "parent_comment_id": 1525145521814582,
+              "create_time": "2025-06-25T07:11:26.426+0800",
+              "owner": {
+                "user_id": 88814288881152,
+                "name": "关平",
+                "avatar_url": "https://images.zsxq.com/FoE_HQDIQifaEcZMqM_nBS_hKTO-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wQjGAaw7fd6Fkp_3p3LItmlGwBg=",
+                "location": "广东"
+              },
+              "text": "许大，方便说一下用的什么美卡，目前对于cnid来说只有华美这种能开美卡了[捂脸]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

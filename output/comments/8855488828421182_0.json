@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T22:33:49.635414",
+  "url": "https://api.zsxq.com/v2/topics/8855488828421182/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8855488828421182",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5122581118214514,
+          "create_time": "2024-06-13T09:43:43.630+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "广东"
+          },
+          "text": "结合许大前段时间的回答提过，这个过程持续的时间会很久很久。等联储利率再回到零的时候会不会结束这下降的趋势？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

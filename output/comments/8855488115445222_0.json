@@ -1,0 +1,55 @@
+{
+  "captured_at": "2026-01-29T22:31:47.056395",
+  "url": "https://api.zsxq.com/v2/topics/8855488115445222/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8855488115445222",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855218158544452,
+          "create_time": "2024-06-16T23:05:42.210+0800",
+          "owner": {
+            "user_id": 88848544885182,
+            "name": "格格",
+            "avatar_url": "https://images.zsxq.com/FoaVIwdYTT3TIYt43yWpqlrW1TNZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CxkdQJbWaQzt9rKIg77nLlPEUT4=",
+            "location": "河南"
+          },
+          "text": "感谢许大，初期已经是哀鸿遍野，不敢想了，苟活一天算一天吧",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4844228422421188,
+              "parent_comment_id": 8855218158544452,
+              "create_time": "2024-09-23T12:36:44.309+0800",
+              "owner": {
+                "user_id": 88518888558842,
+                "name": "你的锅",
+                "avatar_url": "https://images.zsxq.com/FnM1VTxCEdqlKF101HcNQAsF-fXt?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:12WBh6Rg5ZYwYDQ6i0F5kl_hmmQ=",
+                "location": "天津"
+              },
+              "text": "美日房价最高点回落接近65%，这么看国内房价还得再跌个30%",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88848544885182,
+                "name": "格格",
+                "avatar_url": "https://images.zsxq.com/FoaVIwdYTT3TIYt43yWpqlrW1TNZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CxkdQJbWaQzt9rKIg77nLlPEUT4="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

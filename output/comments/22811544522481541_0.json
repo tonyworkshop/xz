@@ -1,0 +1,71 @@
+{
+  "captured_at": "2026-01-29T20:46:41.059273",
+  "url": "https://api.zsxq.com/v2/topics/22811544522481541/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "22811544522481541",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4845445485288218,
+          "create_time": "2025-11-05T18:53:52.584+0800",
+          "owner": {
+            "user_id": 28518212548821,
+            "name": "王*",
+            "avatar_url": "https://images.zsxq.com/FpbcsiwzmxZhz898X_u3hPCj5y0S?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Fpr71ntj83n3AjoVsyUtxTz5P20=",
+            "location": "北京"
+          },
+          "text": "可以用银来替代吗？比如二级市场上的银交易，当然要考虑二者比价之间的变动",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 5125225288188844,
+              "parent_comment_id": 4845445485288218,
+              "create_time": "2025-11-06T20:02:12.575+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "本质上是矿业企业买了一个年期权送给买token的买家作为融资的财务费用，白银的期权iv高很多，矿业企业的支出会高出一大截。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28518212548821,
+                "name": "王*",
+                "avatar_url": "https://images.zsxq.com/FpbcsiwzmxZhz898X_u3hPCj5y0S?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Fpr71ntj83n3AjoVsyUtxTz5P20="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4845445582118428,
+          "create_time": "2025-11-07T13:12:38.489+0800",
+          "owner": {
+            "user_id": 51542488184854,
+            "name": "Johnson",
+            "avatar_url": "https://images.zsxq.com/FuK4er97yEPJOk0wvpmVuyRFN3It?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYq9SVJnlOk-rkC89A7EDN5acoc=",
+            "location": "上海"
+          },
+          "text": "理论上是不是所有标的都可以用许老师这套方法做一遍……现货+远期put构成的资产包",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

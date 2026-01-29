@@ -1,0 +1,109 @@
+{
+  "captured_at": "2026-01-29T22:17:35.876470",
+  "url": "https://api.zsxq.com/v2/topics/8855412112144852/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8855412112144852",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855485128284412,
+          "create_time": "2024-07-28T19:24:43.904+0800",
+          "owner": {
+            "user_id": 825144882182,
+            "name": "奇奇",
+            "avatar_url": "https://images.zsxq.com/FubaH3v7QHE4gINRee6301V6oz10?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TR6wsTK0YpXN6AFAjEe98mDbv6k=",
+            "location": "江苏"
+          },
+          "text": "感觉是在问凸性的哲学层面",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2855485118181441,
+          "create_time": "2024-07-29T21:36:38.985+0800",
+          "owner": {
+            "user_id": 215841242228441,
+            "name": "翎玄",
+            "avatar_url": "https://images.zsxq.com/FiktLNAY9PbeuM1ptrBjpM-2eA93?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y-KazVfd3UE2kP-IEK1-EwAKMTg=",
+            "location": "广东"
+          },
+          "text": "反面分析 凸性在什么情况下更劣势呢 是长期趋势判断错误却持续投资吗？ 比如长期稳定下跌 持续买call虽然是凸性策略 但是结果不如持续卖put的凹性策略",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 4844288841555558,
+              "parent_comment_id": 2855485118181441,
+              "create_time": "2024-07-30T14:08:12.021+0800",
+              "owner": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+                "location": "上海"
+              },
+              "text": "长期稳定下跌也不该买call或者卖put呀，凸性策略我个人理解是“更有优势的策略”。就比如同样是做空，sqqq的call是比tqqq的put更有优势的；同样是做多，tqqq的call是比sqqq的put更有优势的",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 215841242228441,
+                "name": "翎玄",
+                "avatar_url": "https://images.zsxq.com/FiktLNAY9PbeuM1ptrBjpM-2eA93?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y-KazVfd3UE2kP-IEK1-EwAKMTg="
+              }
+            },
+            {
+              "comment_id": 8855488851224182,
+              "parent_comment_id": 2855485118181441,
+              "create_time": "2024-07-30T14:09:22.799+0800",
+              "owner": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+                "location": "上海"
+              },
+              "text": "又比如深度itm call是比直接持有现货是有优势的，因为节省了保证金的同时，最大亏损减少，潜在盈利空间不变",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 215841242228441,
+                "name": "翎玄",
+                "avatar_url": "https://images.zsxq.com/FiktLNAY9PbeuM1ptrBjpM-2eA93?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y-KazVfd3UE2kP-IEK1-EwAKMTg="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1525151158424222,
+          "create_time": "2025-06-08T23:17:08.666+0800",
+          "owner": {
+            "user_id": 118511218281852,
+            "name": "姜莉",
+            "avatar_url": "https://images.zsxq.com/FiIP0-PgP6Jiix11NES-6jM384iq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zs_stU-e9WnCJzuR1j6z1YEo36w=",
+            "location": "广东"
+          },
+          "text": "盈增亏缩，get到新词。赢冲输缩的同义词",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

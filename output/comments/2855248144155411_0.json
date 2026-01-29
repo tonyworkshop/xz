@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T22:43:23.026903",
+  "url": "https://api.zsxq.com/v2/topics/2855248144155411/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2855248144155411",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855221552888252,
+          "create_time": "2024-05-15T07:37:19.612+0800",
+          "owner": {
+            "user_id": 548285512514114,
+            "name": "宴宾客",
+            "avatar_url": "https://images.zsxq.com/Fn_G3WjkdNwND-hPjvUAJfas7sI0?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HdzhvMhEoc5rC7oJKv5JTUm3ZEg=",
+            "location": "陕西"
+          },
+          "text": "是哦 我想偏了，菜了菜了 关于交易的问题也在想，但基本每次群友们都帮我问了，暂时也想不到更好的问题，我先跟着喝喝汤就好",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

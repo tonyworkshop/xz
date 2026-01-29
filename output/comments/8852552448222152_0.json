@@ -1,0 +1,121 @@
+{
+  "captured_at": "2026-01-29T21:30:07.847751",
+  "url": "https://api.zsxq.com/v2/topics/8852552448222152/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8852552448222152",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5121551288128544,
+          "create_time": "2025-03-25T09:30:31.611+0800",
+          "owner": {
+            "user_id": 51154552482454,
+            "name": "Yingkun",
+            "avatar_url": "https://images.zsxq.com/FhL57VgNoQ1EXT4jAfM6S7ELMy5r?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6LJ82zksUVNzdzP5vaf5G01EkXc=",
+            "location": "北京"
+          },
+          "text": "<e type=\"mention\" uid=\"212815222852181\" title=\"%40li\" /> 感觉收益折现+净资产这步也比较奇怪，一般要么DCF，要么单看净资产-清算价值。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 2858228855554121,
+              "parent_comment_id": 5121551288128544,
+              "create_time": "2025-03-25T10:42:22.045+0800",
+              "owner": {
+                "user_id": 212815222852181,
+                "name": "li",
+                "avatar_url": "https://images.zsxq.com/FsiwgH7IvaHvkFAmokv_A3Q-6Lin?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EcSL6vKHjtKjTHVESS4riDyQOyY=",
+                "location": "辽宁"
+              },
+              "text": "因为自由现金流折现模型是永续的 估值起来偏差太大 而且自由现金流计算也不方便 我试着看看能不能用简单的方法 把股票想象成一个10年期债券 估值起来好把握一点",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51154552482454,
+                "name": "Yingkun",
+                "avatar_url": "https://images.zsxq.com/FhL57VgNoQ1EXT4jAfM6S7ELMy5r?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6LJ82zksUVNzdzP5vaf5G01EkXc="
+              }
+            },
+            {
+              "comment_id": 1525444221121182,
+              "parent_comment_id": 5121551288128544,
+              "create_time": "2025-03-29T08:33:17.118+0800",
+              "owner": {
+                "user_id": 51154552482454,
+                "name": "Yingkun",
+                "avatar_url": "https://images.zsxq.com/FhL57VgNoQ1EXT4jAfM6S7ELMy5r?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6LJ82zksUVNzdzP5vaf5G01EkXc=",
+                "location": "北京"
+              },
+              "text": "明白你为什么这样做业绩收益线性外推了，但股票和债券是两种资产，投资还是先定性再定量",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 212815222852181,
+                "name": "li",
+                "avatar_url": "https://images.zsxq.com/FsiwgH7IvaHvkFAmokv_A3Q-6Lin?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EcSL6vKHjtKjTHVESS4riDyQOyY="
+              }
+            },
+            {
+              "comment_id": 1525444215525452,
+              "parent_comment_id": 5121551288128544,
+              "create_time": "2025-03-30T19:29:48.459+0800",
+              "owner": {
+                "user_id": 212815222852181,
+                "name": "li",
+                "avatar_url": "https://images.zsxq.com/FsiwgH7IvaHvkFAmokv_A3Q-6Lin?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EcSL6vKHjtKjTHVESS4riDyQOyY=",
+                "location": "辽宁"
+              },
+              "text": "请指教是否正确 我觉得除了贴现率不一样 股票和债券没什么区别",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51154552482454,
+                "name": "Yingkun",
+                "avatar_url": "https://images.zsxq.com/FhL57VgNoQ1EXT4jAfM6S7ELMy5r?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6LJ82zksUVNzdzP5vaf5G01EkXc="
+              }
+            },
+            {
+              "comment_id": 1525444214118482,
+              "parent_comment_id": 5121551288128544,
+              "create_time": "2025-03-30T23:43:34.149+0800",
+              "owner": {
+                "user_id": 51154552482454,
+                "name": "Yingkun",
+                "avatar_url": "https://images.zsxq.com/FhL57VgNoQ1EXT4jAfM6S7ELMy5r?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6LJ82zksUVNzdzP5vaf5G01EkXc=",
+                "location": "北京"
+              },
+              "text": "股票和债券，一个是股权，一个是债权，性质上属于两种投资类别，权利、潜在义务、风险、收益、估值方法都差别极大。虽然表面上可以统一用DCF估值，但内在定性和分析方法完全不同。可以先参考DeepSeek的总结和它的引文做粗略了解，最好找一些靠谱的投资教程来系统地了解：<e type=\"web\" href=\"https%3A%2F%2Fyb.tencent.com%2Fs%2Fd66ryCvUZzts\" title=\"%E8%85%BE%E8%AE%AF%E5%85%83%E5%AE%9D%20-%20%E8%BD%BB%E6%9D%BE%E5%B7%A5%E4%BD%9C%20%E5%A4%9A%E7%82%B9%E7%94%9F%E6%B4%BB\" />",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 212815222852181,
+                "name": "li",
+                "avatar_url": "https://images.zsxq.com/FsiwgH7IvaHvkFAmokv_A3Q-6Lin?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EcSL6vKHjtKjTHVESS4riDyQOyY="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

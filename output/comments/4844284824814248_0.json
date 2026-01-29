@@ -1,0 +1,99 @@
+{
+  "captured_at": "2026-01-29T22:34:42.117178",
+  "url": "https://api.zsxq.com/v2/topics/4844284824814248/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4844284824814248",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855218551282812,
+          "create_time": "2024-06-10T18:43:54.596+0800",
+          "owner": {
+            "user_id": 552484118154,
+            "name": "文刀",
+            "avatar_url": "https://images.zsxq.com/Fh0eO8Zu7xC21s4GBm0N1mHA3ytb?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nysFVsSy8NGbZfPpxtGUDydt5UY=",
+            "location": "北京"
+          },
+          "text": "许大，美国的电力设施支持技术革命吗？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 5122581228425454,
+              "parent_comment_id": 8855218551282812,
+              "create_time": "2024-06-10T19:10:05.098+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "悬啊，所以做多了铜",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 552484118154,
+                "name": "文刀",
+                "avatar_url": "https://images.zsxq.com/Fh0eO8Zu7xC21s4GBm0N1mHA3ytb?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nysFVsSy8NGbZfPpxtGUDydt5UY="
+              }
+            },
+            {
+              "comment_id": 1522485228158212,
+              "parent_comment_id": 8855218551282812,
+              "create_time": "2024-06-10T19:29:27.650+0800",
+              "owner": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+                "location": "山东"
+              },
+              "text": "做多铜是因为技术革命需要电力，压注漂亮可能像中国一样搞大基建嘛？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 4844518884441528,
+              "parent_comment_id": 8855218551282812,
+              "create_time": "2024-06-12T22:02:09.841+0800",
+              "owner": {
+                "user_id": 88281254554142,
+                "name": "杞人",
+                "avatar_url": "https://images.zsxq.com/FkUY68UxMEvZLpcE76O8CMDDuHRc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RDUPBy3VkeJdujsVxMpKP3pFHbI=",
+                "location": "新西兰"
+              },
+              "text": "电线会用到大量铜",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png"
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

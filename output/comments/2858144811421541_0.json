@@ -1,0 +1,137 @@
+{
+  "captured_at": "2026-01-29T21:35:13.409849",
+  "url": "https://api.zsxq.com/v2/topics/2858144811421541/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2858144811421541",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5121515455281144,
+          "create_time": "2025-03-03T18:07:39.741+0800",
+          "owner": {
+            "user_id": 184215825254242,
+            "name": "all in",
+            "avatar_url": "https://images.zsxq.com/FtFTMUtKVZzGlty7UEE2LwS10XMD?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oqREb6UhfVk0sgI-tETQy8VaN78=",
+            "location": "浙江"
+          },
+          "text": "远期vix不动？😳",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8858282422244852,
+          "create_time": "2025-03-03T19:05:35.974+0800",
+          "owner": {
+            "user_id": 225858145221,
+            "name": "彭磊Jimmy",
+            "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+            "location": "北京"
+          },
+          "text": "黑天鹅的时候根据事件性质有可能远端动的少而近端巨震，另外也有vix本身不动而近端iv剧增的情况",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 1525454144144282,
+              "parent_comment_id": 8858282422244852,
+              "create_time": "2025-03-03T19:19:26.697+0800",
+              "owner": {
+                "user_id": 184551142122222,
+                "name": "Animal Lov*",
+                "avatar_url": "https://images.zsxq.com/FmX-6J5gLT2tIChrpL5WoMxq1VNf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k9OuIi_T8JXd-RvYld00OQekOuo=",
+                "location": "北京"
+              },
+              "text": "我记得vix期权应该是美式期权，如果远端实值call跟不上的话我是不是可以提前行权进行套利which is impossible？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            },
+            {
+              "comment_id": 8858282422424142,
+              "parent_comment_id": 8858282422244852,
+              "create_time": "2025-03-03T19:22:57.013+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "欧式的，不到期无法行权",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 184551142122222,
+                "name": "Animal Lov*",
+                "avatar_url": "https://images.zsxq.com/FmX-6J5gLT2tIChrpL5WoMxq1VNf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k9OuIi_T8JXd-RvYld00OQekOuo="
+              }
+            },
+            {
+              "comment_id": 2858282422421851,
+              "parent_comment_id": 8858282422244852,
+              "create_time": "2025-03-03T19:24:15.932+0800",
+              "owner": {
+                "user_id": 184551142122222,
+                "name": "Animal Lov*",
+                "avatar_url": "https://images.zsxq.com/FmX-6J5gLT2tIChrpL5WoMxq1VNf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k9OuIi_T8JXd-RvYld00OQekOuo=",
+                "location": "北京"
+              },
+              "text": "这枚解释的通了….感谢",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            },
+            {
+              "comment_id": 8858282442514252,
+              "parent_comment_id": 8858282422244852,
+              "create_time": "2025-03-04T08:48:27.065+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "是的，vix飙升的时候近期已经天崩地裂了远期vix可能还情绪稳定。有一个办法是近期的可以roll，但因为倒挂的存在也是有风险的。",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": true,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 184551142122222,
+                "name": "Animal Lov*",
+                "avatar_url": "https://images.zsxq.com/FmX-6J5gLT2tIChrpL5WoMxq1VNf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k9OuIi_T8JXd-RvYld00OQekOuo="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

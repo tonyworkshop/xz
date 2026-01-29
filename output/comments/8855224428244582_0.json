@@ -1,0 +1,55 @@
+{
+  "captured_at": "2026-01-29T22:48:00.573047",
+  "url": "https://api.zsxq.com/v2/topics/8855224428244582/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8855224428244582",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844555452151848,
+          "create_time": "2024-05-03T06:14:17.269+0800",
+          "owner": {
+            "user_id": 28882258154421,
+            "name": "Max_峯",
+            "avatar_url": "https://images.zsxq.com/FhKkSU8CJAAx67nRH0qjE21A-vqq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s6ttUTEAfwD-cI04Qhd5_Bia0FQ=",
+            "location": "湖北"
+          },
+          "text": "太贵了真买不起几张[流泪]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8855222521885542,
+              "parent_comment_id": 4844555452151848,
+              "create_time": "2024-05-03T08:55:10.197+0800",
+              "owner": {
+                "user_id": 51288542884184,
+                "name": "lsh",
+                "avatar_url": "https://images.zsxq.com/Fp7EGJMFbm6O_2ky87VL88pxFjDC?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JTcOCUhvfNtiglKFZRIdobTxQco=",
+                "location": "美国"
+              },
+              "text": "等什么时候资产做起来，其他抵押物很多的时候，就可以收期权费了，现在一张一张卖[大哭]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28882258154421,
+                "name": "Max_峯",
+                "avatar_url": "https://images.zsxq.com/FhKkSU8CJAAx67nRH0qjE21A-vqq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s6ttUTEAfwD-cI04Qhd5_Bia0FQ="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

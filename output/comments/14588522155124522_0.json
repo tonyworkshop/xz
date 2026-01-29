@@ -1,0 +1,77 @@
+{
+  "captured_at": "2026-01-29T20:45:15.778045",
+  "url": "https://api.zsxq.com/v2/topics/14588522155124522/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "14588522155124522",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2852551851512141,
+          "create_time": "2025-11-18T13:10:15.767+0800",
+          "owner": {
+            "user_id": 182245228224182,
+            "name": "hellojcb",
+            "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+            "location": "北京"
+          },
+          "text": "<e type=\"mention\" uid=\"144254841842\" title=\"%40%E8%AE%B8%E5%93%B2\" /> 谢谢许大，我一开始是这么理解的，但是后来去研究了一下TheOCC.com上面的filings。<e type=\"web\" href=\"https%3A%2F%2Finfomemo.theocc.com%2Finfomemos%3Fnumber%3D57592\" title=\"https%3A%2F%2Finfomemo.theocc.com%2Finfomemos%3Fnumber%3D57592\" /> 以及<e type=\"web\" href=\"https%3A%2F%2Finfomemo.theocc.com%2Finfomemos%3Fnumber%3D57601\" title=\"https%3A%2F%2Finfomemo.theocc.com%2Finfomemos%3Fnumber%3D57601\" />。一个是tqqq的拆股一个是uvxy的合股都是11月20号，tqqq那个好像不影响流动性，并不生成新的期权，调整的是执行价。相反uvxy会变成uvxy1，这个肯定要是要影响流动性的因为变成老期权了。要麻烦许大帮忙看一下我的理解对不对，谢谢许大！",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 1524228551885452,
+              "parent_comment_id": 2852551851512141,
+              "create_time": "2025-11-18T18:40:51.566+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "你理解的应该是对的，它会让你原来持有的TQQQ期权的执行价变化，所以你几乎不用操作",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8="
+              }
+            },
+            {
+              "comment_id": 8852551825511512,
+              "parent_comment_id": 2852551851512141,
+              "create_time": "2025-11-18T21:08:41.438+0800",
+              "owner": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+                "location": "北京"
+              },
+              "text": "谢谢许大！",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

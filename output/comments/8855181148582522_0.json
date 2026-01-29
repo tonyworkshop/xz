@@ -1,0 +1,131 @@
+{
+  "captured_at": "2026-01-29T22:09:36.107755",
+  "url": "https://api.zsxq.com/v2/topics/8855181148582522/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8855181148582522",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1522158255454112,
+          "create_time": "2024-08-21T10:25:12.712+0800",
+          "owner": {
+            "user_id": 414822418441558,
+            "name": "乡紳",
+            "avatar_url": "https://images.zsxq.com/FuuOjwFr07Xfhj-62rtufxW6VxU1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zG0mnsqnSX6TtJUrIwZ7tvlbGkg=",
+            "location": "广东"
+          },
+          "text": "想起彼得林奇说，很多传统企业的超额价值是土地",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2855481528144211,
+          "create_time": "2024-08-21T19:55:21.678+0800",
+          "owner": {
+            "user_id": 15548424888442,
+            "name": "药氪佬",
+            "avatar_url": "https://images.zsxq.com/FpgWcu7bSNCj1x2KjUjnd26HVEjJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QXVyEmMdVeG7scYjz4mz0GlWhZo=",
+            "location": "四川"
+          },
+          "text": "中国压箱底的企业有哪些？长江电力，茅台？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 5122418288155554,
+              "parent_comment_id": 2855481528144211,
+              "create_time": "2024-08-22T21:14:35.161+0800",
+              "owner": {
+                "user_id": 212851528288121,
+                "name": "清扬婉兮",
+                "avatar_url": "https://images.zsxq.com/Frt9auhwntDux_7rwrXUEmkUNVw8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZoD1_B8-kGUhi9PV-gdyWwflF98=",
+                "location": "上海"
+              },
+              "text": "压箱底的应该是人民群众的吃苦耐劳精神",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 15548424888442,
+                "name": "药氪佬",
+                "avatar_url": "https://images.zsxq.com/FpgWcu7bSNCj1x2KjUjnd26HVEjJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QXVyEmMdVeG7scYjz4mz0GlWhZo="
+              }
+            },
+            {
+              "comment_id": 8855424842142252,
+              "parent_comment_id": 2855481528144211,
+              "create_time": "2024-08-29T16:56:06.136+0800",
+              "owner": {
+                "user_id": 48548152251228,
+                "name": "露露",
+                "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aGnF__7MPCA0sdOjfUp4dVdT6o8=",
+                "location": "上海"
+              },
+              "text": "会不会是腾讯这种互联网公路设施？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 15548424888442,
+                "name": "药氪佬",
+                "avatar_url": "https://images.zsxq.com/FpgWcu7bSNCj1x2KjUjnd26HVEjJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QXVyEmMdVeG7scYjz4mz0GlWhZo="
+              }
+            },
+            {
+              "comment_id": 2855421845828221,
+              "parent_comment_id": 2855481528144211,
+              "create_time": "2024-09-05T20:43:59.231+0800",
+              "owner": {
+                "user_id": 544812224154444,
+                "name": "大头",
+                "avatar_url": "https://images.zsxq.com/FlNm4t8QMw9eEwE-qDcchV2lagE5?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5sbxi2sVS6w_l7IORcQ24O7hEvc=",
+                "location": "湖北"
+              },
+              "text": "我认为不可能，互联网的替代很容易，也很快的……土地的话，我想到的是港口……例如，地理位置得天独厚的上港",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48548152251228,
+                "name": "露露",
+                "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aGnF__7MPCA0sdOjfUp4dVdT6o8="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5122418248822884,
+          "create_time": "2024-08-22T13:37:54.560+0800",
+          "owner": {
+            "user_id": 212851528288121,
+            "name": "清扬婉兮",
+            "avatar_url": "https://images.zsxq.com/Frt9auhwntDux_7rwrXUEmkUNVw8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZoD1_B8-kGUhi9PV-gdyWwflF98=",
+            "location": "上海"
+          },
+          "text": "这个回复视角很👌，学习了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

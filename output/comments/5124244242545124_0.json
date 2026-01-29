@@ -1,0 +1,175 @@
+{
+  "captured_at": "2026-01-29T20:50:18.258760",
+  "url": "https://api.zsxq.com/v2/topics/5124244242545124/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5124244242545124",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4848121414121128,
+          "create_time": "2025-10-11T15:34:58.362+0800",
+          "owner": {
+            "user_id": 28482885144521,
+            "name": "大谷",
+            "avatar_url": "https://images.zsxq.com/Fj9rhHUyQQutaXUlwJAF7yj_-tNN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EylsJhjXOj1WizQD7L9GtH73E9I=",
+            "location": "北京"
+          },
+          "text": "国内中证1000交易挺活跃",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848121418428258,
+          "create_time": "2025-10-11T15:46:36.893+0800",
+          "owner": {
+            "user_id": 582218842411214,
+            "name": "大童",
+            "avatar_url": "https://images.zsxq.com/FrHKK7FBUHQGK3jFzNPWgCAZVpaS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7zscvMXJGlIGJHoMYqQvYrGtStk=",
+            "location": "浙江"
+          },
+          "text": "但像中证1000im这种标的其实近月的年化贴水率是大于远月的，卖call这一端的定价也会反应。严格意义上来说不算吃贴水",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 5,
+          "replied_comments": [
+            {
+              "comment_id": 8858141518852222,
+              "parent_comment_id": 4848121418428258,
+              "create_time": "2025-10-11T16:04:27.615+0800",
+              "owner": {
+                "user_id": 51542488184854,
+                "name": "Johnson",
+                "avatar_url": "https://images.zsxq.com/FuK4er97yEPJOk0wvpmVuyRFN3It?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYq9SVJnlOk-rkC89A7EDN5acoc=",
+                "location": "上海"
+              },
+              "text": "是啊，除非近端sell put就能全部吃完，但是一个暴跌就抓瞎了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 582218842411214,
+                "name": "大童",
+                "avatar_url": "https://images.zsxq.com/FrHKK7FBUHQGK3jFzNPWgCAZVpaS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7zscvMXJGlIGJHoMYqQvYrGtStk="
+              }
+            },
+            {
+              "comment_id": 2858141518851851,
+              "parent_comment_id": 4848121418428258,
+              "create_time": "2025-10-11T16:06:38.859+0800",
+              "owner": {
+                "user_id": 582218842411214,
+                "name": "大童",
+                "avatar_url": "https://images.zsxq.com/FrHKK7FBUHQGK3jFzNPWgCAZVpaS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7zscvMXJGlIGJHoMYqQvYrGtStk=",
+                "location": "浙江"
+              },
+              "text": "嗯，既要享受日历的theta又要吃贴水的话，应该是卖近端的put去嫖远端的otm call，rr变种",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51542488184854,
+                "name": "Johnson",
+                "avatar_url": "https://images.zsxq.com/FuK4er97yEPJOk0wvpmVuyRFN3It?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYq9SVJnlOk-rkC89A7EDN5acoc="
+              }
+            },
+            {
+              "comment_id": 4848121418888488,
+              "parent_comment_id": 4848121418428258,
+              "create_time": "2025-10-11T16:09:19.194+0800",
+              "owner": {
+                "user_id": 51542488184854,
+                "name": "Johnson",
+                "avatar_url": "https://images.zsxq.com/FuK4er97yEPJOk0wvpmVuyRFN3It?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYq9SVJnlOk-rkC89A7EDN5acoc=",
+                "location": "上海"
+              },
+              "text": "远端的otm贴水享受的不多吧，应该要深度itm才能吃完远端贴水",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 582218842411214,
+                "name": "大童",
+                "avatar_url": "https://images.zsxq.com/FrHKK7FBUHQGK3jFzNPWgCAZVpaS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7zscvMXJGlIGJHoMYqQvYrGtStk="
+              }
+            },
+            {
+              "comment_id": 8858141518888142,
+              "parent_comment_id": 4848121418428258,
+              "create_time": "2025-10-11T16:12:20.061+0800",
+              "owner": {
+                "user_id": 582218842411214,
+                "name": "大童",
+                "avatar_url": "https://images.zsxq.com/FrHKK7FBUHQGK3jFzNPWgCAZVpaS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7zscvMXJGlIGJHoMYqQvYrGtStk=",
+                "location": "浙江"
+              },
+              "text": "那就不如只算年化贴水率去吃期货了，用期权收益不大",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51542488184854,
+                "name": "Johnson",
+                "avatar_url": "https://images.zsxq.com/FuK4er97yEPJOk0wvpmVuyRFN3It?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYq9SVJnlOk-rkC89A7EDN5acoc="
+              }
+            },
+            {
+              "comment_id": 4848121418281858,
+              "parent_comment_id": 4848121418428258,
+              "create_time": "2025-10-11T16:59:20.257+0800",
+              "owner": {
+                "user_id": 51542488184854,
+                "name": "Johnson",
+                "avatar_url": "https://images.zsxq.com/FuK4er97yEPJOk0wvpmVuyRFN3It?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYq9SVJnlOk-rkC89A7EDN5acoc=",
+                "location": "上海"
+              },
+              "text": "确实，期货毕竟只要12%保证金，深度itm也不便宜……没有完美的方法",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 582218842411214,
+                "name": "大童",
+                "avatar_url": "https://images.zsxq.com/FrHKK7FBUHQGK3jFzNPWgCAZVpaS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7zscvMXJGlIGJHoMYqQvYrGtStk="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2858141485281481,
+          "create_time": "2025-10-14T05:21:48.812+0800",
+          "owner": {
+            "user_id": 48811511812258,
+            "name": "扫地的",
+            "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+            "location": "湖南"
+          },
+          "text": "有个策略就是无杠杠持有股指期货吃贴水",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

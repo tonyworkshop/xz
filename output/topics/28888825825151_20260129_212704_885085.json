@@ -1,0 +1,3762 @@
+{
+  "captured_at": "2026-01-29T21:27:04.885119",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=20&end_time=2025-04-07T16%3A13%3A29.468%2B0800",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 5125551124142824,
+          "topic_uid": "5125551124142824",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "许大，请问。期权交易中长期买方是负ev和卖方是正ev这个说法是正确的吗，或者说这个说法的底层逻辑是什么？\n二是卖方如果卖得足够分散，最终收敛到得收益也是正的。\n但是期权定价不应该是无套利的吗？",
+            "expired": true,
+            "anonymous": true,
+            "owner_detail": {
+              "questions_count": 3,
+              "estimated_join_time": ">1Y",
+              "status": "joined"
+            },
+            "owner_location": "广东"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "肯定不是这样的，最近买方大胜"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2025-04-14T07:44:37.946+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-13T23:08:12.956+0800",
+              "owner": {
+                "user_id": 118814421545882,
+                "name": "王昊",
+                "avatar_url": "https://images.zsxq.com/Fl5DkUvVYhzzCqO7UUFz6G_gmbSm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2Vj7JxfLyaAS0iEmY5wRbPhFfGk="
+              }
+            },
+            {
+              "create_time": "2025-04-12T21:29:04.033+0800",
+              "owner": {
+                "user_id": 548488552488254,
+                "name": "杨帆 1596199*",
+                "avatar_url": "https://images.zsxq.com/FvQRzJYLrPZ2BP8w7h_ylQGNC4r4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nILgCEkFsaKWAoVn6UJZz5M575c="
+              }
+            },
+            {
+              "create_time": "2025-04-08T19:23:03.508+0800",
+              "owner": {
+                "user_id": 88255842518412,
+                "name": "罗爷",
+                "avatar_url": "https://images.zsxq.com/FjNN1dyvKBQjDoRJa1Hls8JhW3eR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6CWcFkcYxlaONIoBylXlgjdmsv0="
+              }
+            },
+            {
+              "create_time": "2025-04-08T10:50:31.865+0800",
+              "owner": {
+                "user_id": 548848585244144,
+                "name": "知己",
+                "avatar_url": "https://images.zsxq.com/FinHNNaiJ_9uXMKLvIb3CiiXKA4p?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XLuYgdz8Z4t9-QyGhe0LnhjUJXs="
+              }
+            },
+            {
+              "create_time": "2025-04-08T01:32:47.492+0800",
+              "owner": {
+                "user_id": 182514815451282,
+                "name": "Build",
+                "avatar_url": "https://images.zsxq.com/FpkenlquY8TowYnJkrsn30za5F1E?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qfoGGcFJrp8i2JYZAzlo85NRRiQ="
+              }
+            },
+            {
+              "create_time": "2025-04-07T19:29:40.112+0800",
+              "owner": {
+                "user_id": 422184558515458,
+                "name": "凸面万岁",
+                "alias": "Unknown",
+                "avatar_url": "https://images.zsxq.com/FmXktJLqiyoryC6VUmDBFINju3MN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:niEBFwcourZslDwgzmwMaVRJyjc="
+              }
+            },
+            {
+              "create_time": "2025-04-07T18:08:10.823+0800",
+              "owner": {
+                "user_id": 415454152452228,
+                "name": "Good",
+                "avatar_url": "https://images.zsxq.com/FmFU0MAKiDXvO8VKzp-VwwpABbFW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4NRuRRejfE8pLZfTHwjF9NGSqAE="
+              }
+            },
+            {
+              "create_time": "2025-04-07T18:07:59.147+0800",
+              "owner": {
+                "user_id": 415814458285888,
+                "name": "Januaryy",
+                "avatar_url": "https://images.zsxq.com/FpeEOBdRFthOkh4WOYLbrJLgAJrq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IrmeV7bwPgIsOAoAwzoZdgG-Hkc="
+              }
+            },
+            {
+              "create_time": "2025-04-07T16:58:19.904+0800",
+              "owner": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fp8Z2mElz4XDsFUsYPJ_x3l5H8U="
+              }
+            }
+          ],
+          "likes_count": 15,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 15
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 977,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2025-04-07T16:12:50.492+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "肯定不是这样的，最近买方大胜"
+        },
+        {
+          "topic_id": 8852228885148252,
+          "topic_uid": "8852228885148252",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "<e type=\"text_bold\" title=\"%E6%9C%AA%E6%9D%A5%E4%B8%8D%E5%8F%AF%E6%B5%8B%EF%BC%8C%E4%BD%86%E6%88%91%E4%BB%AC%E6%9C%89%E5%8A%9E%E6%B3%95\" />\n\n美股最近下跌的速度大家也都看到了，个把月NDX指数几乎不回头跌了21%。虽然我一直说美股估值高估值高，但能预料到就是这个时间点跌那么老多吗？并不能，因为未来是不可预测的。\n\n这个跌法上次遇到还是2020年的时候，彼时COVID-19开始在北美蔓延的时候连续两次熔断还记忆犹新。对宏观经济面影响最大 ...",
+            "article": {
+              "title": "未来不可测，但我们有办法",
+              "article_id": "juxpj5xxf3wx",
+              "article_url": "https://articles.zsxq.com/id_juxpj5xxf3wx.html",
+              "inline_article_url": "https://articles.zsxq.com/inline_form/id_juxpj5xxf3wx.html"
+            }
+          },
+          "latest_likes": [
+            {
+              "create_time": "2026-01-27T23:17:36.533+0800",
+              "owner": {
+                "user_id": 51541128285284,
+                "name": "瑞琦 Ricky",
+                "avatar_url": "https://images.zsxq.com/Ft72TmxFrJuuGkhgJnD5dJx2oxVS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4TSdPA66t31wdsnREm7cbE0yta0="
+              }
+            },
+            {
+              "create_time": "2026-01-17T02:59:46.994+0800",
+              "owner": {
+                "user_id": 585245244811244,
+                "name": "JohnWick",
+                "avatar_url": "https://images.zsxq.com/FriPNhroJK4D9CDWPIqsZmrE_jvR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lm0VGP2l7okLIP_67x4T5_dVUUA="
+              }
+            },
+            {
+              "create_time": "2025-12-30T12:48:53.217+0800",
+              "owner": {
+                "user_id": 552185522524,
+                "name": "sniper",
+                "avatar_url": "https://images.zsxq.com/Frl8TdeeQmdh8p-1a2Sgi8Cp6-iL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CE06-LhwQTEtStrsn3VbQ3UqUt8="
+              }
+            },
+            {
+              "create_time": "2025-11-15T20:56:29.186+0800",
+              "owner": {
+                "user_id": 88845222285482,
+                "name": "Judy",
+                "avatar_url": "https://images.zsxq.com/Fhg4-Dg8tsGwZuNIckbuFAMDVFdB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ihP648dcFCN_yJlVfQRH_d8N3GI="
+              }
+            },
+            {
+              "create_time": "2025-10-27T16:44:56.806+0800",
+              "owner": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o="
+              }
+            },
+            {
+              "create_time": "2025-09-25T22:01:53.174+0800",
+              "owner": {
+                "user_id": 581241545454584,
+                "name": "奕飒",
+                "avatar_url": "https://images.zsxq.com/FqPPhpMKTvuPLcKsJPC1_RFAf72d?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YXv9Mkx_jqEpVGavlHE1GvJPlFc="
+              }
+            },
+            {
+              "create_time": "2025-08-12T06:22:05.911+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg="
+              }
+            },
+            {
+              "create_time": "2025-07-17T16:48:38.132+0800",
+              "owner": {
+                "user_id": 48288855544148,
+                "name": "CQ",
+                "avatar_url": "https://images.zsxq.com/Fi5yHs--aMYcZpcGoCowtn-fOtnM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5OwIboWE7NJGFw4xqfF0ybGnLSk="
+              }
+            },
+            {
+              "create_time": "2025-05-26T18:00:02.906+0800",
+              "owner": {
+                "user_id": 48844458585888,
+                "name": "朱黎黎",
+                "avatar_url": "https://images.zsxq.com/FrrWLdjLxHTaFSYH1vcPyEpicubG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JSftn3h94m5vKKW-ZyzGgN_6ALo="
+              }
+            },
+            {
+              "create_time": "2025-05-24T18:15:49.513+0800",
+              "owner": {
+                "user_id": 15412115122852,
+                "name": "金闪闪的劳伦斯",
+                "avatar_url": "https://images.zsxq.com/FhQ_sKQq5bTTNNVjYS1gCg1mYinA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BDE6FiA8MC7oMN3k4LrnwnQNFgA="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 8858248282225552,
+              "create_time": "2025-04-06T16:13:18.189+0800",
+              "owner": {
+                "user_id": 51588551541484,
+                "name": "全垒打",
+                "avatar_url": "https://images.zsxq.com/FgEesHhlKXWFWyL-YrcaACZ32GoT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:O39ggVtUnXskARHQF6LyXSkVyx0=",
+                "location": "香港"
+              },
+              "text": "先存在看",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 4848528585554158,
+              "create_time": "2025-04-06T16:13:35.560+0800",
+              "owner": {
+                "user_id": 548214152484284,
+                "name": "Carolina",
+                "avatar_url": "https://images.zsxq.com/FvpnxOY52A42N0qgN7MGVr6_CbC-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9iuohHhgro4q1NsO0v_I-gbH0Ik=",
+                "location": "江苏"
+              },
+              "text": "先保存，然后一边喝☕一边吃🍦一边慢慢👀～[得意][得意][得意]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 4848528585558858,
+              "create_time": "2025-04-06T16:15:20.390+0800",
+              "owner": {
+                "user_id": 818282288121452,
+                "name": "joy",
+                "avatar_url": "https://images.zsxq.com/FshN07pRgOfefhOJX_cfdDd6p8q7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:L5OWJg1oD64uWA9qjIhdpuhwfCQ=",
+                "location": "内蒙古"
+              },
+              "text": "抓起手边的🍵立刻看！[旺柴]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 4848528585525248,
+              "create_time": "2025-04-06T16:30:15.310+0800",
+              "owner": {
+                "user_id": 841521482858182,
+                "name": "大头鱼（Piggy）",
+                "avatar_url": "https://images.zsxq.com/FouIY7XlXxkItTt15qXtfbTFfndo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9lohAUf1FkIWVk0CB7RhAlukzDM=",
+                "location": "广东"
+              },
+              "text": "先存先赞再说[偷笑]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 1525415454144852,
+              "create_time": "2025-04-06T16:45:16.388+0800",
+              "owner": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+                "location": "上海"
+              },
+              "text": "DRB上没有太长期的期权、最长只有一年期的、IBIT倒是有两年以上的，但短期期权最短只有周期权",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 8858248282424242,
+              "create_time": "2025-04-06T16:48:03.858+0800",
+              "owner": {
+                "user_id": 88441848854552,
+                "name": "　　　　　　　　",
+                "avatar_url": "https://images.zsxq.com/Fm9TStZxHt3kmOewrLlmx5Hq8X6P?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-Hd9Rc-i7vVPrj6mw5S7MQcU9ds=",
+                "location": "福建"
+              },
+              "text": "还是那句话，不管是QQQ还是大饼都不如投许大来的直接",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "images": [
+                {
+                  "image_id": 188182251185452,
+                  "type": "jpg",
+                  "thumbnail": {
+                    "url": "https://images.zsxq.com/Fk2BIwYM5MxyXsEwYKuJ5WLGUKbE?imageMogr2/auto-orient/thumbnail/380x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-8yPLfDRXaW2nnP__NQQx9JIbgw=",
+                    "width": 380,
+                    "height": 216
+                  },
+                  "large": {
+                    "url": "https://images.zsxq.com/Fk2BIwYM5MxyXsEwYKuJ5WLGUKbE?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:doa7D3jLFXvsnwv1p1V-n02lI4w=",
+                    "width": 594,
+                    "height": 337
+                  }
+                }
+              ],
+              "replies_count": 2
+            }
+          ],
+          "annotation": "<e type=\"hashtag\" hid=\"48811422114218\" title=\"%23%E6%8E%A8%E8%8D%90%E9%80%9A%E8%AF%BB%23\" /><e type=\"hashtag\" hid=\"15588211882142\" title=\"%23QQQAI%20%E7%9B%B8%E5%85%B3%23\" />",
+          "likes_count": 95,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 95
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 31,
+          "reading_count": 1,
+          "readers_count": 1087,
+          "digested": true,
+          "sticky": false,
+          "create_time": "2025-04-06T16:08:19.596+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": true
+          },
+          "title": "未来不可测，但我们有办法",
+          "columns": [
+            {
+              "column_id": 158552485412,
+              "name": "必知必会"
+            }
+          ]
+        },
+        {
+          "topic_id": 8852228858415122,
+          "topic_uid": "8852228858415122",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 244122822114211,
+              "name": "Pretty_fen*",
+              "avatar_url": "https://images.zsxq.com/FnjVI2lqj3bBqamu5h1WF8SvSKAJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xA7BN27Vz-1It_hXJCQ_ezuKqXU=",
+              "location": "浙江"
+            },
+            "images": [
+              {
+                "image_id": 188118828144812,
+                "type": "jpg",
+                "thumbnail": {
+                  "url": "https://images.zsxq.com/FrffiRMzmt_bxMvIrG9PJga-r7wN?imageMogr2/auto-orient/thumbnail/380x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5pVTIWIA8z5Nkg95tcVOEhykCsM=",
+                  "width": 380,
+                  "height": 508
+                },
+                "large": {
+                  "url": "https://images.zsxq.com/FrffiRMzmt_bxMvIrG9PJga-r7wN?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Nv0KfJ3asuNrzOlaf-D28vi2fhY=",
+                  "width": 800,
+                  "height": 1070
+                },
+                "original": {
+                  "url": "https://images.zsxq.com/FrffiRMzmt_bxMvIrG9PJga-r7wN?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-B1HzvJQV6eIw3QSt3ta2H3ky68=",
+                  "width": 1100,
+                  "height": 1471,
+                  "size": 237728
+                }
+              },
+              {
+                "image_id": 811441151422142,
+                "type": "jpg",
+                "thumbnail": {
+                  "url": "https://images.zsxq.com/FiX-A2q5QQ_XitBsi46Ij15TVUID?imageMogr2/auto-orient/thumbnail/380x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pnBM-tkiJpXUB_fQotVjegzr9Gs=",
+                  "width": 380,
+                  "height": 195
+                },
+                "large": {
+                  "url": "https://images.zsxq.com/FiX-A2q5QQ_XitBsi46Ij15TVUID?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TvxJ79HNq3TctVwF7pWXaE0ZELw=",
+                  "width": 800,
+                  "height": 411
+                },
+                "original": {
+                  "url": "https://images.zsxq.com/FiX-A2q5QQ_XitBsi46Ij15TVUID?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YCd_HxqaHCD_cXRMLTf1Qvkx1VE=",
+                  "width": 1350,
+                  "height": 694,
+                  "size": 75362
+                }
+              }
+            ]
+          },
+          "latest_likes": [
+            {
+              "create_time": "2025-04-12T21:29:33.937+0800",
+              "owner": {
+                "user_id": 548488552488254,
+                "name": "杨帆 1596199*",
+                "avatar_url": "https://images.zsxq.com/FvQRzJYLrPZ2BP8w7h_ylQGNC4r4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nILgCEkFsaKWAoVn6UJZz5M575c="
+              }
+            },
+            {
+              "create_time": "2025-04-06T19:37:57.812+0800",
+              "owner": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fp8Z2mElz4XDsFUsYPJ_x3l5H8U="
+              }
+            },
+            {
+              "create_time": "2025-04-06T16:48:10.695+0800",
+              "owner": {
+                "user_id": 142181518452,
+                "name": "Ewan",
+                "avatar_url": "https://images.zsxq.com/Fpcv5IcySOyKNJ7N-JHUPZ48kqDT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yaxAk-4G6ZEWC__XmvypH5mlrXo="
+              }
+            },
+            {
+              "create_time": "2025-04-06T14:49:37.176+0800",
+              "owner": {
+                "user_id": 48888218821448,
+                "name": "后中先",
+                "avatar_url": "https://images.zsxq.com/FgMU4F6QPUmflR3useJkg84ci1zi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o0dwW_iV0MVOnxzlk7z1whiVWY0="
+              }
+            },
+            {
+              "create_time": "2025-04-06T13:23:54.162+0800",
+              "owner": {
+                "user_id": 548848585244144,
+                "name": "知己",
+                "avatar_url": "https://images.zsxq.com/FinHNNaiJ_9uXMKLvIb3CiiXKA4p?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XLuYgdz8Z4t9-QyGhe0LnhjUJXs="
+              }
+            },
+            {
+              "create_time": "2025-04-06T12:38:46.643+0800",
+              "owner": {
+                "user_id": 51284811128584,
+                "name": "CTV",
+                "avatar_url": "https://images.zsxq.com/FqlP75ExTC_6xUDzdASyslcwX_FF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HL2HZtTWvdlvypHo0DVYbqoVScA="
+              }
+            },
+            {
+              "create_time": "2025-04-06T11:20:25.878+0800",
+              "owner": {
+                "user_id": 15284152825542,
+                "name": "日高晏眠人",
+                "alias": "日高晏眠人",
+                "avatar_url": "https://images.zsxq.com/FmgqRiV7eHEKrbLz9Xl-x3x6bxNL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T2Ffk5JVbDOQvMcAUztpXo4fpQc="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 2858215511545851,
+              "create_time": "2025-04-26T02:23:58.561+0800",
+              "owner": {
+                "user_id": 585581551884154,
+                "name": "Michel Fou*",
+                "avatar_url": "https://images.zsxq.com/FhkmH6yOAUEAI-ZUZhiCLTbfSDHW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qjx_qCr2u2Qr5JXL5w8TDcykLzk=",
+                "location": "台湾"
+              },
+              "text": "最近好像又缓和了，请问大佬现在对美股怎么看，会不会有进一步下跌的风险",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 9,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 9
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 2,
+          "reading_count": 1,
+          "readers_count": 965,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2025-04-06T10:06:00.310+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "「图片」"
+        },
+        {
+          "topic_id": 5125551221115544,
+          "topic_uid": "5125551221115544",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "许大，祝贺您抓到黑天鹅。请问如果远端的保护已变实值，要做什么调整吗？谢谢",
+            "expired": true,
+            "anonymous": true,
+            "owner_detail": {
+              "questions_count": 5,
+              "estimated_join_time": ">1Y",
+              "status": "joined"
+            },
+            "owner_location": "上海"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "平一些，roll一些"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2025-10-27T16:33:19.038+0800",
+              "owner": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o="
+              }
+            },
+            {
+              "create_time": "2025-06-09T00:22:48.590+0800",
+              "owner": {
+                "user_id": 118511218281852,
+                "name": "姜莉",
+                "avatar_url": "https://images.zsxq.com/FiIP0-PgP6Jiix11NES-6jM384iq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zs_stU-e9WnCJzuR1j6z1YEo36w="
+              }
+            },
+            {
+              "create_time": "2025-05-09T11:58:39.389+0800",
+              "owner": {
+                "user_id": 554215442114,
+                "name": "Stephen",
+                "avatar_url": "https://images.zsxq.com/FjdrEuuDCUSemjZKFa_QxR5US6rM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5P7uCbHCaNMzU0yyE1vBHDIWRZk="
+              }
+            },
+            {
+              "create_time": "2025-04-14T07:44:46.183+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-12T21:29:36.678+0800",
+              "owner": {
+                "user_id": 548488552488254,
+                "name": "杨帆 1596199*",
+                "avatar_url": "https://images.zsxq.com/FvQRzJYLrPZ2BP8w7h_ylQGNC4r4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nILgCEkFsaKWAoVn6UJZz5M575c="
+              }
+            },
+            {
+              "create_time": "2025-04-07T23:41:37.453+0800",
+              "owner": {
+                "user_id": 88824882248112,
+                "name": "Sunshine",
+                "avatar_url": "https://images.zsxq.com/FgzyYVoaZoHGCFvcIYFiHhmYyQFe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:egoHxlERY5b39rsRnA5pqdGa5T0="
+              }
+            },
+            {
+              "create_time": "2025-04-07T16:58:00.571+0800",
+              "owner": {
+                "user_id": 815254124418522,
+                "name": "想牵驴的mE",
+                "avatar_url": "https://images.zsxq.com/FkEEHRQ0FXOa1y9wClUek-4pv7KU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W_mfnp_kCMKR5RFZRibaY2WCUGo="
+              }
+            },
+            {
+              "create_time": "2025-04-05T18:37:30.537+0800",
+              "owner": {
+                "user_id": 215581121228111,
+                "name": "Blessing",
+                "avatar_url": "https://images.zsxq.com/FjB5E22fUzhQkLH5sYhBa74hVSbN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2sCEl8D4ESkL1nxit5yViYUzJpE="
+              }
+            },
+            {
+              "create_time": "2025-04-05T17:18:11.155+0800",
+              "owner": {
+                "user_id": 88255842518412,
+                "name": "罗爷",
+                "avatar_url": "https://images.zsxq.com/FjNN1dyvKBQjDoRJa1Hls8JhW3eR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6CWcFkcYxlaONIoBylXlgjdmsv0="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 8858248848158522,
+              "create_time": "2025-04-05T07:16:28.162+0800",
+              "owner": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+                "location": "上海"
+              },
+              "text": "谢谢许大。只是现在波动率这么高，新roll的会不会成本太高？",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "replies_count": 25
+            },
+            {
+              "comment_id": 1525415424818552,
+              "parent_comment_id": 8858248848158522,
+              "create_time": "2025-04-06T05:29:39.541+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "Roll仓你开的新仓是高IV，你平的也是高IV，所以只是平移，如果早先开的是低IV，并不吃亏。",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png"
+              }
+            },
+            {
+              "comment_id": 8858248254528512,
+              "parent_comment_id": 8858248848158522,
+              "create_time": "2025-04-06T07:56:21.063+0800",
+              "owner": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+                "location": "上海"
+              },
+              "text": "谢谢许大",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 8858248282881422,
+              "parent_comment_id": 8858248848158522,
+              "create_time": "2025-04-06T15:38:02.238+0800",
+              "owner": {
+                "user_id": 544481241114514,
+                "name": "编辑阿琨",
+                "avatar_url": "https://images.zsxq.com/FuMiceDPSMmAHj5D3MS6zQQGS4FE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0lp3g3KQXM5oaHWmGMutPSI0DRA=",
+                "location": "新加坡"
+              },
+              "text": "许大，用otm put来对冲极端事件和直接买入vixy对冲有无优劣？个人感觉otm put如果没有暴跌的情况下成本（损耗）更大？但是如果暴跌来临对冲力度也更大？ 许大做选择的时候是怎样的逻辑以至于选择otm put呢？",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 2858248228484251,
+              "parent_comment_id": 8858248848158522,
+              "create_time": "2025-04-06T23:04:09.996+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "看最新发的文，买otm put可以收搓出更大的凸性来，而VIXY背后的VIX期货事实上会随着VIX指数的飙升而收敛的。",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 544481241114514,
+                "name": "编辑阿琨",
+                "avatar_url": "https://images.zsxq.com/FuMiceDPSMmAHj5D3MS6zQQGS4FE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0lp3g3KQXM5oaHWmGMutPSI0DRA="
+              }
+            },
+            {
+              "comment_id": 8858248228444422,
+              "parent_comment_id": 8858248848158522,
+              "create_time": "2025-04-06T23:27:51.508+0800",
+              "owner": {
+                "user_id": 544481241114514,
+                "name": "编辑阿琨",
+                "avatar_url": "https://images.zsxq.com/FuMiceDPSMmAHj5D3MS6zQQGS4FE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0lp3g3KQXM5oaHWmGMutPSI0DRA=",
+                "location": "新加坡"
+              },
+              "text": "已经拜读！谢谢许大！vixy的收敛是否因为暴跌时出现的贴水？同时可否这样理解：暴跌出现时otm put因为凸性的存在很容易就会暴涨五倍八倍这样但是vixy虽然也是收割恐慌情绪但是失去了对期权凸性的利用所以对冲力度大大不如期权",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 1525415445811422,
+              "parent_comment_id": 8858248848158522,
+              "create_time": "2025-04-07T00:05:11.734+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "是的",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 544481241114514,
+                "name": "编辑阿琨",
+                "avatar_url": "https://images.zsxq.com/FuMiceDPSMmAHj5D3MS6zQQGS4FE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0lp3g3KQXM5oaHWmGMutPSI0DRA="
+              }
+            },
+            {
+              "comment_id": 4848528555422828,
+              "parent_comment_id": 8858248848158522,
+              "create_time": "2025-04-07T02:18:05.326+0800",
+              "owner": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+                "location": "北京"
+              },
+              "text": "许大好，我把关于roll的以及新发的文章都看了一遍，感觉自己快要明白了，比如如果有去年建仓的long tqqq长期put，现在已经非常实值了，那就是可以roll到tqqq现价或者稍微otm左右的put，我的问题在underlying，虽然降了成本但是跟现价差的还是很远，且长期put的张数刚好能保护underlying的股数，而且没有空间再short put，如果short call underlying成本和现价差很远。这时候我能不能干脆重新假设这些持仓的成本跟现价类似（因为roll了执行价更低的put去保护）重新开始short call 行权的话又有空间short put。但是这里似乎成本的思想就被摈弃了。",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ],
+          "likes_count": 21,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 21
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 26,
+          "reading_count": 1,
+          "readers_count": 998,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2025-04-05T02:42:58.712+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": true
+          },
+          "title": "平一些，roll一些"
+        },
+        {
+          "topic_id": 1524445255114142,
+          "topic_uid": "1524445255114142",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 414848254185128,
+              "name": "Cauchy",
+              "avatar_url": "https://images.zsxq.com/FtWBN6b9uREaaZGoRT1DiLjTITOE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nIJYYL6Pf8I-e6AjsKKPFyuDXeQ=",
+              "location": "北京"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "请问许大，像这两天美股的暴跌下之前您讲的期权刷成本加otm put策略是直接平仓获利了结还是继续roll远期的put呢？谢谢！",
+            "expired": true,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 27,
+              "join_time": "2024-06-11T15:04:09.760+0800",
+              "status": "joined"
+            },
+            "owner_location": "北京"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "这次我选择了平一半，roll一半"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2025-04-14T07:45:36.947+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-12T21:29:44.909+0800",
+              "owner": {
+                "user_id": 548488552488254,
+                "name": "杨帆 1596199*",
+                "avatar_url": "https://images.zsxq.com/FvQRzJYLrPZ2BP8w7h_ylQGNC4r4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nILgCEkFsaKWAoVn6UJZz5M575c="
+              }
+            },
+            {
+              "create_time": "2025-04-06T18:03:57.203+0800",
+              "owner": {
+                "user_id": 145222118112,
+                "name": "明月映江",
+                "avatar_url": "https://images.zsxq.com/FtiGGWvLMspMoyMiLzVW-NRjelDF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2aIuO62y2fG41bihalFFTACKjAo="
+              }
+            },
+            {
+              "create_time": "2025-04-05T12:11:09.351+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wb2WfiX8oWn9R_b9nV__aJN8kBc="
+              }
+            },
+            {
+              "create_time": "2025-04-05T10:26:13.684+0800",
+              "owner": {
+                "user_id": 548848585244144,
+                "name": "知己",
+                "avatar_url": "https://images.zsxq.com/FinHNNaiJ_9uXMKLvIb3CiiXKA4p?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XLuYgdz8Z4t9-QyGhe0LnhjUJXs="
+              }
+            },
+            {
+              "create_time": "2025-04-05T09:40:15.320+0800",
+              "owner": {
+                "user_id": 51288582125144,
+                "name": "能胜",
+                "avatar_url": "https://images.zsxq.com/FpLYbcDfAdwSuptYaxaHz0CZbG0q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VNdem_0UjlyKoEkK3tj4T7GeXTc="
+              }
+            },
+            {
+              "create_time": "2025-04-05T08:14:26.702+0800",
+              "owner": {
+                "user_id": 28842518252441,
+                "name": "Diana",
+                "avatar_url": "https://images.zsxq.com/FpVvL52XJ25Lc8HxZEG8ulO85Cij?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4JvxBHjw7UU5juKHkyt1VJlwXHU="
+              }
+            },
+            {
+              "create_time": "2025-04-05T08:04:27.161+0800",
+              "owner": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fp8Z2mElz4XDsFUsYPJ_x3l5H8U="
+              }
+            },
+            {
+              "create_time": "2025-04-05T06:50:43.728+0800",
+              "owner": {
+                "user_id": 422184558515458,
+                "name": "凸面万岁",
+                "alias": "Unknown",
+                "avatar_url": "https://images.zsxq.com/FmXktJLqiyoryC6VUmDBFINju3MN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:niEBFwcourZslDwgzmwMaVRJyjc="
+              }
+            },
+            {
+              "create_time": "2025-04-05T04:26:02.422+0800",
+              "owner": {
+                "user_id": 415814458285888,
+                "name": "Januaryy",
+                "avatar_url": "https://images.zsxq.com/FpeEOBdRFthOkh4WOYLbrJLgAJrq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IrmeV7bwPgIsOAoAwzoZdgG-Hkc="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 5121541551885154,
+              "create_time": "2025-04-07T00:26:21.022+0800",
+              "owner": {
+                "user_id": 1854551852,
+                "name": "林",
+                "avatar_url": "https://images.zsxq.com/FkpX6Hd6ZhCswvpOxFzMkaOUyKue?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:woqgL0silL63ulDIpBQ1OgsLHts=",
+                "location": "广东"
+              },
+              "text": "个人认为反脆弱止盈是玄学\n请问您周四止盈了多少比例？周五止盈了多少比例？",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 11,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 11
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 1,
+          "reading_count": 1,
+          "readers_count": 990,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2025-04-05T02:42:46.164+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": true
+          },
+          "title": "这次我选择了平一半，roll一..."
+        },
+        {
+          "topic_id": 4845554115814848,
+          "topic_uid": "4845554115814848",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "今个儿是反脆弱的好日子~",
+            "images": [
+              {
+                "image_id": 211441484451851,
+                "type": "jpg",
+                "thumbnail": {
+                  "url": "https://images.zsxq.com/FiIlp9N-Bn6cAyPcXbqwjoIas0Ih?imageMogr2/auto-orient/thumbnail/750x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hRR-G9-YRkSm1RUNNRcAPPr82oQ=",
+                  "width": 750,
+                  "height": 454
+                },
+                "large": {
+                  "url": "https://images.zsxq.com/FiIlp9N-Bn6cAyPcXbqwjoIas0Ih?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BNDGJnc2tNv1x_zTy9AvvIaQzug=",
+                  "width": 800,
+                  "height": 484
+                },
+                "original": {
+                  "url": "https://images.zsxq.com/FiIlp9N-Bn6cAyPcXbqwjoIas0Ih?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OxkmEpXduGG8Oma5ZuYUt-WDMR0=",
+                  "width": 1280,
+                  "height": 774,
+                  "size": 64399
+                }
+              }
+            ]
+          },
+          "latest_likes": [
+            {
+              "create_time": "2025-09-12T10:28:41.183+0800",
+              "owner": {
+                "user_id": 548882225458844,
+                "name": "loho",
+                "avatar_url": "https://images.zsxq.com/Fmry26DEgac_1SnYbP9xt7gZf87X?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OXbYuoDW20UlMs4Ir8NOcUxp8LI="
+              }
+            },
+            {
+              "create_time": "2025-07-17T16:49:06.317+0800",
+              "owner": {
+                "user_id": 48288855544148,
+                "name": "CQ",
+                "avatar_url": "https://images.zsxq.com/Fi5yHs--aMYcZpcGoCowtn-fOtnM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5OwIboWE7NJGFw4xqfF0ybGnLSk="
+              }
+            },
+            {
+              "create_time": "2025-05-05T10:22:23.857+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-08T08:06:30.791+0800",
+              "owner": {
+                "user_id": 241158584281881,
+                "name": "张蒙",
+                "avatar_url": "https://images.zsxq.com/FipgZH0jyz-QHmJ7LiaXITLAGMAH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3vsf1g3eioU-AZ8n8merPXc5toY="
+              }
+            },
+            {
+              "create_time": "2025-04-07T08:43:12.583+0800",
+              "owner": {
+                "user_id": 15412158455422,
+                "name": "HHB",
+                "avatar_url": "https://images.zsxq.com/FsLeio3hPeiKS19SuDRlC-nC-wz_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hbhW5dmSA0e-z65ZWgpjTWIUGlE="
+              }
+            },
+            {
+              "create_time": "2025-04-06T18:05:02.150+0800",
+              "owner": {
+                "user_id": 145222118112,
+                "name": "明月映江",
+                "avatar_url": "https://images.zsxq.com/FtiGGWvLMspMoyMiLzVW-NRjelDF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2aIuO62y2fG41bihalFFTACKjAo="
+              }
+            },
+            {
+              "create_time": "2025-04-06T09:22:44.084+0800",
+              "owner": {
+                "user_id": 15281188218842,
+                "name": "Ming",
+                "avatar_url": "https://images.zsxq.com/FtlE0C7mNjYWXsUOrbaNbRrmeh48?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Fwh0zvCClrNmijiyT5qOvXDey-4="
+              }
+            },
+            {
+              "create_time": "2025-04-06T05:47:08.406+0800",
+              "owner": {
+                "user_id": 88281254554142,
+                "name": "杞人",
+                "avatar_url": "https://images.zsxq.com/FkUY68UxMEvZLpcE76O8CMDDuHRc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RDUPBy3VkeJdujsVxMpKP3pFHbI="
+              }
+            },
+            {
+              "create_time": "2025-04-06T01:37:20.575+0800",
+              "owner": {
+                "user_id": 88821211282552,
+                "name": "清晨",
+                "avatar_url": "https://images.zsxq.com/FoipFtzgMU5R4KcucIA1KAg_oh3b?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:g2hM8PjBt5IlHr04-AVwUPCrkPo="
+              }
+            },
+            {
+              "create_time": "2025-04-05T18:18:00.013+0800",
+              "owner": {
+                "user_id": 281121882421,
+                "name": "罗马",
+                "avatar_url": "https://images.zsxq.com/FgZDKvuitTY0cH04btBxzIVnEuNz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KSE9mVkbLxqbzPkPMnYENh8CRKo="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 4848528441842888,
+              "create_time": "2025-04-03T22:30:46.648+0800",
+              "owner": {
+                "user_id": 48888218821448,
+                "name": "后中先",
+                "avatar_url": "https://images.zsxq.com/FgMU4F6QPUmflR3useJkg84ci1zi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o0dwW_iV0MVOnxzlk7z1whiVWY0=",
+                "location": "江苏"
+              },
+              "text": "[憨笑]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 1525415228122152,
+              "create_time": "2025-04-03T23:38:31.926+0800",
+              "owner": {
+                "user_id": 418581114225528,
+                "name": "斯大林管风琴",
+                "avatar_url": "https://images.zsxq.com/FgnqYyftp98dG6iESiG-Uvi5WFyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PO1EF_D0r8GWN7fwqLfcNqOaiok=",
+                "location": "江西"
+              },
+              "text": "VIX 能不能上个40看看实力[困]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "replies_count": 2
+            },
+            {
+              "comment_id": 2858248888444481,
+              "create_time": "2025-04-04T04:55:39.988+0800",
+              "owner": {
+                "user_id": 421424854228158,
+                "name": "咋咋神",
+                "avatar_url": "https://images.zsxq.com/Fl9JbZr2cNq9iBnpvoH7s7t1oZm7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OtI4pNkZudD5R5wxANCESzahzJ0=",
+                "location": "美国"
+              },
+              "text": "做多波动收益还行[得意]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 5121541115252554,
+              "create_time": "2025-04-04T08:14:09.088+0800",
+              "owner": {
+                "user_id": 88242224524582,
+                "name": "carpe diem",
+                "avatar_url": "https://images.zsxq.com/FmEJNu5jC5rwBlPV_jHlCTW-zz7U?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bqgXgo1MNn13CMMBymRTZDFPW7k=",
+                "location": "浙江"
+              },
+              "text": "是啊",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 2858248882224851,
+              "create_time": "2025-04-04T09:27:30.532+0800",
+              "owner": {
+                "user_id": 28458118128451,
+                "name": "GLJ",
+                "avatar_url": "https://images.zsxq.com/Fh7Xa49xNwPmeeDwhcKKSTsa4Ll-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5PwsrGbG0nvk1_3Z4PTEBv_wQzg=",
+                "location": "上海"
+              },
+              "text": "这篇文章在哪可以看到呢？",
+              "likes_count": 1,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 4848528882458228,
+              "create_time": "2025-04-04T10:53:59.252+0800",
+              "owner": {
+                "user_id": 48512845118228,
+                "name": "曼慢",
+                "avatar_url": "https://images.zsxq.com/FqKFl-_proLreyyDJLk6IE4MlTDj?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:llgtaXbF9pRDJFWLbTiiSXNOy0s=",
+                "location": "江苏"
+              },
+              "text": "大A波动率能不能也飙一把[可怜]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 47,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 47
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 17,
+          "reading_count": 1,
+          "readers_count": 1062,
+          "digested": true,
+          "sticky": false,
+          "create_time": "2025-04-03T22:28:16.266+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "今个儿是反脆弱的好日子~"
+        },
+        {
+          "topic_id": 4845484111288848,
+          "topic_uid": "4845484111288848",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 585581551884154,
+              "name": "Michel Fou*",
+              "avatar_url": "https://images.zsxq.com/FhkmH6yOAUEAI-ZUZhiCLTbfSDHW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qjx_qCr2u2Qr5JXL5w8TDcykLzk=",
+              "location": "台湾"
+            },
+            "text": "许大的群怎么加"
+          },
+          "show_comments": [
+            {
+              "comment_id": 5121541224485844,
+              "create_time": "2025-04-03T21:43:53.091+0800",
+              "owner": {
+                "user_id": 28882258154421,
+                "name": "Max_峯",
+                "avatar_url": "https://images.zsxq.com/FhKkSU8CJAAx67nRH0qjE21A-vqq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s6ttUTEAfwD-cI04Qhd5_Bia0FQ=",
+                "location": "湖北"
+              },
+              "text": "当年10群都炸了好几轮",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "replies_count": 3
+            },
+            {
+              "comment_id": 5121541228122884,
+              "parent_comment_id": 5121541224485844,
+              "create_time": "2025-04-03T22:26:39.153+0800",
+              "owner": {
+                "user_id": 585581551884154,
+                "name": "Michel Fou*",
+                "avatar_url": "https://images.zsxq.com/FhkmH6yOAUEAI-ZUZhiCLTbfSDHW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qjx_qCr2u2Qr5JXL5w8TDcykLzk=",
+                "location": "台湾"
+              },
+              "text": "我是从知乎开始关注许大的，没加过群，现在还有群可以加吗",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28882258154421,
+                "name": "Max_峯",
+                "avatar_url": "https://images.zsxq.com/FhKkSU8CJAAx67nRH0qjE21A-vqq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s6ttUTEAfwD-cI04Qhd5_Bia0FQ="
+              }
+            },
+            {
+              "comment_id": 5121541228121454,
+              "parent_comment_id": 5121541224485844,
+              "create_time": "2025-04-03T22:28:37.596+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "不搞群了，反复被禁",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 585581551884154,
+                "name": "Michel Fou*",
+                "avatar_url": "https://images.zsxq.com/FhkmH6yOAUEAI-ZUZhiCLTbfSDHW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qjx_qCr2u2Qr5JXL5w8TDcykLzk="
+              }
+            },
+            {
+              "comment_id": 1525415554248442,
+              "parent_comment_id": 5121541224485844,
+              "create_time": "2025-04-04T08:23:41.362+0800",
+              "owner": {
+                "user_id": 212251844248511,
+                "name": "amize",
+                "avatar_url": "https://images.zsxq.com/FhvY86x85JgKCUZ_szaOGgN9kuS3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J4zkwiQ-K1SAgrUaHo-MITFu4zg=",
+                "location": "北京"
+              },
+              "text": "可以整个telegram群",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 5121541152441144,
+              "create_time": "2025-04-04T14:49:01.201+0800",
+              "owner": {
+                "user_id": 15124211128112,
+                "name": "鱼在雨中游2222",
+                "avatar_url": "https://images.zsxq.com/FtKaYqxpn3pyZX3GSGTHfeTrLfnk?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zfUkoufho3tdWHKW_Hy2gD1MQXc=",
+                "location": "上海"
+              },
+              "text": "咦 我错过了什么…",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 0,
+          "tourist_likes_count": 0,
+          "rewards_count": 0,
+          "comments_count": 5,
+          "reading_count": 1,
+          "readers_count": 971,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2025-04-03T21:13:00.094+0800",
+          "modify_time": "2025-04-03T21:13:10.098+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "许大的群怎么加"
+        },
+        {
+          "topic_id": 8852551444544842,
+          "topic_uid": "8852551444544842",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 818548144188442,
+              "name": "阿力",
+              "avatar_url": "https://images.zsxq.com/Fsks8S_MgmGUFXiihjfyCTbLU0fU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lYmevgEDC3pS85h9DLjOWywwuKc=",
+              "location": "江苏"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "许大好，今天下午几大银行发布公告，将向财政部等实体进行定增，补充核心一级资本。定增价格显著高于市场股价，也远低于每股净资产。请问许大该如何评估这次的增资行为？对整个A股市场和几个当事银行的股价走势，会有什么影响，谢谢🙏",
+            "expired": true,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 6,
+              "join_time": "2024-12-16T21:45:39.177+0800",
+              "status": "joined"
+            },
+            "owner_location": "江苏"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "这个做法明显是一个妥协的结果，财政部要想买银行股完全没必要比市场价格高去定增，所以是金融监管部门担心银行的资本充足率然后向更高层要求财政给输血了，但目前财政的情况也是很紧张的，所以这个价格也不能太过分，不能按照账面净值来，因为谁都知道银行目前的账面净值可经不起细细推敲，整个资本市场不是傻子，对于事实上的呆账坏账，不断续下去假装还在正常状态的量大家虽然没有一个精确的数字，但对其体量是否足够大幅度击穿PB都是心知肚明的。\n\n这个举措是拿纳税人的钱去补偿银行过去错误的做法，怎么评价？恐怕不让评价。\n\n对银行股肯定是利好，毕竟补充了资本充足率，并且溢价购买，但对反应出来的问题对人心的冲击，看影响的扩散程度了。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2025-09-25T07:55:44.284+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg="
+              }
+            },
+            {
+              "create_time": "2025-07-17T16:52:16.476+0800",
+              "owner": {
+                "user_id": 48288855544148,
+                "name": "CQ",
+                "avatar_url": "https://images.zsxq.com/Fi5yHs--aMYcZpcGoCowtn-fOtnM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5OwIboWE7NJGFw4xqfF0ybGnLSk="
+              }
+            },
+            {
+              "create_time": "2025-05-09T11:59:29.604+0800",
+              "owner": {
+                "user_id": 554215442114,
+                "name": "Stephen",
+                "avatar_url": "https://images.zsxq.com/FjdrEuuDCUSemjZKFa_QxR5US6rM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5P7uCbHCaNMzU0yyE1vBHDIWRZk="
+              }
+            },
+            {
+              "create_time": "2025-04-14T07:45:53.234+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-07T19:46:48.146+0800",
+              "owner": {
+                "user_id": 415814455811518,
+                "name": "票子",
+                "avatar_url": "https://images.zsxq.com/FklD-qjIFT8PAqKpGYt68DcV-oEm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gxT4gXHp6pxQf21BGvhw9lHgjvI="
+              }
+            },
+            {
+              "create_time": "2025-04-05T12:15:18.609+0800",
+              "owner": {
+                "user_id": 51441522185454,
+                "name": "天马行空",
+                "avatar_url": "https://images.zsxq.com/FkebY6DxU38mtibaaWoPhGQuxUZv?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9pwnycy9Nsi9BkK6KYITOlaVwWI="
+              }
+            },
+            {
+              "create_time": "2025-04-04T23:00:10.475+0800",
+              "owner": {
+                "user_id": 48418414588228,
+                "name": "躺赢君",
+                "avatar_url": "https://images.zsxq.com/Fi0IAcK2TNY6-trM69fcjXw5xY_n?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6151AQK6_pOZO-koQjsNiYCFwgI="
+              }
+            },
+            {
+              "create_time": "2025-04-04T20:44:01.910+0800",
+              "owner": {
+                "user_id": 48528211128888,
+                "name": "阿伦",
+                "avatar_url": "https://images.zsxq.com/FgSmmjEFoh_GEP2FwCcR2qIZXYtm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ChwJcRtILeQz7ryooj6_A5Vlh8="
+              }
+            },
+            {
+              "create_time": "2025-04-04T13:27:02.348+0800",
+              "owner": {
+                "user_id": 28845545158451,
+                "name": "赵[sun]",
+                "avatar_url": "https://images.zsxq.com/Fgmt2wt6vpdRHCdEqvQS8XGdgHFe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8e7NXpbNuQFRPj4oJDHdYI2KZvU="
+              }
+            },
+            {
+              "create_time": "2025-04-04T10:27:54.523+0800",
+              "owner": {
+                "user_id": 142814885552,
+                "name": "灯火阑珊",
+                "avatar_url": "https://images.zsxq.com/Fl5Hs5SxnewLNROi3SqEUEuoiCD8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HWQWeIWUC0bFwjtSvyGetoqbqSw="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 1525415224141242,
+              "create_time": "2025-04-03T18:57:09.317+0800",
+              "owner": {
+                "user_id": 145222118112,
+                "name": "明月映江",
+                "avatar_url": "https://images.zsxq.com/FtiGGWvLMspMoyMiLzVW-NRjelDF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2aIuO62y2fG41bihalFFTACKjAo=",
+                "location": "河北"
+              },
+              "text": "一针见血",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 42,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 41
+              },
+              {
+                "emoji_key": "[鄙视]",
+                "likes_count": 1
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 1,
+          "reading_count": 1,
+          "readers_count": 1019,
+          "digested": true,
+          "sticky": false,
+          "create_time": "2025-04-02T13:43:39.028+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "这个做法明显是一个妥协的结果，..."
+        },
+        {
+          "topic_id": 4845441851411848,
+          "topic_uid": "4845441851411848",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "您好，南方东英两倍巴菲特，应该也算是波动损耗小，比较省心的杠杆etf吧",
+            "expired": true,
+            "anonymous": true,
+            "owner_detail": {
+              "questions_count": 60,
+              "estimated_join_time": ">1Y",
+              "status": "joined"
+            },
+            "owner_location": "广东"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "无论杠杆ETF的标的是什么，损耗的量只取决于“来回反复”的程度，这个和标的质量优秀不优秀关系不大，主要是运气。是的LETF的损耗如何，完全是一个独立的随机变量。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2025-09-25T07:54:45.773+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg="
+              }
+            },
+            {
+              "create_time": "2025-07-17T16:52:28.584+0800",
+              "owner": {
+                "user_id": 48288855544148,
+                "name": "CQ",
+                "avatar_url": "https://images.zsxq.com/Fi5yHs--aMYcZpcGoCowtn-fOtnM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5OwIboWE7NJGFw4xqfF0ybGnLSk="
+              }
+            },
+            {
+              "create_time": "2025-04-14T07:46:26.253+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-07T08:44:23.088+0800",
+              "owner": {
+                "user_id": 15412158455422,
+                "name": "HHB",
+                "avatar_url": "https://images.zsxq.com/FsLeio3hPeiKS19SuDRlC-nC-wz_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hbhW5dmSA0e-z65ZWgpjTWIUGlE="
+              }
+            },
+            {
+              "create_time": "2025-04-04T00:45:25.740+0800",
+              "owner": {
+                "user_id": 28842518252441,
+                "name": "Diana",
+                "avatar_url": "https://images.zsxq.com/FpVvL52XJ25Lc8HxZEG8ulO85Cij?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4JvxBHjw7UU5juKHkyt1VJlwXHU="
+              }
+            },
+            {
+              "create_time": "2025-04-03T09:52:04.370+0800",
+              "owner": {
+                "user_id": 548848585244144,
+                "name": "知己",
+                "avatar_url": "https://images.zsxq.com/FinHNNaiJ_9uXMKLvIb3CiiXKA4p?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XLuYgdz8Z4t9-QyGhe0LnhjUJXs="
+              }
+            },
+            {
+              "create_time": "2025-04-03T09:37:06.094+0800",
+              "owner": {
+                "user_id": 241158584281881,
+                "name": "张蒙",
+                "avatar_url": "https://images.zsxq.com/FipgZH0jyz-QHmJ7LiaXITLAGMAH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3vsf1g3eioU-AZ8n8merPXc5toY="
+              }
+            },
+            {
+              "create_time": "2025-04-03T03:59:12.497+0800",
+              "owner": {
+                "user_id": 422184558515458,
+                "name": "凸面万岁",
+                "alias": "Unknown",
+                "avatar_url": "https://images.zsxq.com/FmXktJLqiyoryC6VUmDBFINju3MN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:niEBFwcourZslDwgzmwMaVRJyjc="
+              }
+            },
+            {
+              "create_time": "2025-04-03T02:23:28.798+0800",
+              "owner": {
+                "user_id": 421424854228158,
+                "name": "咋咋神",
+                "avatar_url": "https://images.zsxq.com/Fl9JbZr2cNq9iBnpvoH7s7t1oZm7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OtI4pNkZudD5R5wxANCESzahzJ0="
+              }
+            },
+            {
+              "create_time": "2025-04-02T22:41:14.648+0800",
+              "owner": {
+                "user_id": 548285512514114,
+                "name": "宴宾客",
+                "avatar_url": "https://images.zsxq.com/Fn_G3WjkdNwND-hPjvUAJfas7sI0?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HdzhvMhEoc5rC7oJKv5JTUm3ZEg="
+              }
+            }
+          ],
+          "likes_count": 20,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 20
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 1001,
+          "digested": true,
+          "sticky": false,
+          "create_time": "2025-04-02T13:39:53.563+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "无论杠杆ETF的标的是什么，损..."
+        },
+        {
+          "topic_id": 5125228128885484,
+          "topic_uid": "5125228128885484",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 414848254185128,
+              "name": "Cauchy",
+              "avatar_url": "https://images.zsxq.com/FtWBN6b9uREaaZGoRT1DiLjTITOE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nIJYYL6Pf8I-e6AjsKKPFyuDXeQ=",
+              "location": "北京"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "许大，您最近提到的期权降本策略，如果股价下跌到远期otm put的执行价附近，这时候远期put基本能cover短期short put的损失，这个时候远期的otm put需要移仓调整执行价到更虚的价格吗？包括远期otm call这个时候非常虚了，需要调整到不那么虚的执行价吗？谢谢！",
+            "expired": true,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 27,
+              "join_time": "2024-06-11T15:04:09.760+0800",
+              "status": "joined"
+            },
+            "owner_location": "北京"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "需要的，这相当于手动搓出了一个Gamma，始终保持期权的凸性一直很在线是核心要义。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2025-11-15T20:58:23.257+0800",
+              "owner": {
+                "user_id": 88845222285482,
+                "name": "Judy",
+                "avatar_url": "https://images.zsxq.com/Fhg4-Dg8tsGwZuNIckbuFAMDVFdB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ihP648dcFCN_yJlVfQRH_d8N3GI="
+              }
+            },
+            {
+              "create_time": "2025-10-27T10:38:06.905+0800",
+              "owner": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o="
+              }
+            },
+            {
+              "create_time": "2025-09-25T07:54:16.015+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg="
+              }
+            },
+            {
+              "create_time": "2025-07-17T16:52:40.114+0800",
+              "owner": {
+                "user_id": 48288855544148,
+                "name": "CQ",
+                "avatar_url": "https://images.zsxq.com/Fi5yHs--aMYcZpcGoCowtn-fOtnM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5OwIboWE7NJGFw4xqfF0ybGnLSk="
+              }
+            },
+            {
+              "create_time": "2025-06-09T00:22:06.711+0800",
+              "owner": {
+                "user_id": 118511218281852,
+                "name": "姜莉",
+                "avatar_url": "https://images.zsxq.com/FiIP0-PgP6Jiix11NES-6jM384iq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zs_stU-e9WnCJzuR1j6z1YEo36w="
+              }
+            },
+            {
+              "create_time": "2025-04-14T07:46:44.834+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-03T10:23:48.294+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18="
+              }
+            },
+            {
+              "create_time": "2025-04-03T09:55:18.879+0800",
+              "owner": {
+                "user_id": 548848585244144,
+                "name": "知己",
+                "avatar_url": "https://images.zsxq.com/FinHNNaiJ_9uXMKLvIb3CiiXKA4p?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XLuYgdz8Z4t9-QyGhe0LnhjUJXs="
+              }
+            },
+            {
+              "create_time": "2025-04-03T08:32:12.568+0800",
+              "owner": {
+                "user_id": 142814128822,
+                "name": "Flyingwill",
+                "avatar_url": "https://images.zsxq.com/FvYRF76wukgtoo8NGQAFmd7NxI0c?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ur0iG_7jvoeW_hC9nVAMONA7AAA="
+              }
+            },
+            {
+              "create_time": "2025-04-03T05:20:23.930+0800",
+              "owner": {
+                "user_id": 15281882812142,
+                "name": "赵铭喵",
+                "avatar_url": "https://images.zsxq.com/FiVBaDRTQULNtkHroKo6xH9JFOp1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F_oCbOKwIqHFinZL0LE7QIAPd2c="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 1525414814514412,
+              "create_time": "2025-04-12T15:56:55.195+0800",
+              "owner": {
+                "user_id": 48412851458528,
+                "name": "macrochen",
+                "avatar_url": "https://images.zsxq.com/Fhpc9u4wd6YWLqO66mibUIp5hJkI?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MFmMynz457hFfIvRPHbqM4WSIqs=",
+                "location": "浙江"
+              },
+              "text": "既然是降本的话， 那么这个应该是一个净收入权利金的策略。也就是一个负 gamma 的策略，如果价格下跌到远期 otm put 行权价了，那近期的 sell put 的亏损一定是大于远期 otm put 收到的权利金。远期的roll over 的话，近期的sell put要怎么处理呢？",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 21,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 21
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 1,
+          "reading_count": 1,
+          "readers_count": 996,
+          "digested": true,
+          "sticky": false,
+          "create_time": "2025-04-02T13:38:56.434+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": true
+          },
+          "title": "需要的，这相当于手动搓出了一个..."
+        },
+        {
+          "topic_id": 1524228181128222,
+          "topic_uid": "1524228181128222",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "许大，您觉得巴菲特芒格在投资策略中有考虑过尖峰肥尾的问题吗，或者说他们是否事实做了布局或应对？在他们那么长的投资生涯中是否从肥尾时刻获益过？谢谢！",
+            "expired": true,
+            "anonymous": true,
+            "owner_detail": {
+              "questions_count": 5,
+              "estimated_join_time": ">1Y",
+              "status": "joined"
+            },
+            "owner_location": "上海"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "不从资产价格分布而行估值的维度来说，巴菲特的理念一直是只追求肥尾的。当然不是指买了otm期权获利而是巴菲特只在护城河估值现金流等等等等情况都罕见的好的时候才出手，放弃“还不错”的机会和大家都觉得好的投资。\n\n“挥棒啊！笨蛋！”\n\n能忍住不动的才是巴菲特的过人之处，从不在非绝佳机会的时候出手，非常耐心的等平庸时期过去。\n\n这就是在追求分布最极端的区间，很肥尾主义。\n\n看看他最赚钱的投资，都是等市场崩盘在三到四个Σ之外的跌幅后做出的，平时分析员熙熙攘攘的荐股从来不心动。\n\n投资的回报的大部分来自于极少时间的极少几笔投资，而非日常种田式的耕耘。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2025-11-15T20:59:08.407+0800",
+              "owner": {
+                "user_id": 88845222285482,
+                "name": "Judy",
+                "avatar_url": "https://images.zsxq.com/Fhg4-Dg8tsGwZuNIckbuFAMDVFdB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ihP648dcFCN_yJlVfQRH_d8N3GI="
+              }
+            },
+            {
+              "create_time": "2025-09-25T07:53:51.093+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg="
+              }
+            },
+            {
+              "create_time": "2025-07-17T16:52:53.315+0800",
+              "owner": {
+                "user_id": 48288855544148,
+                "name": "CQ",
+                "avatar_url": "https://images.zsxq.com/Fi5yHs--aMYcZpcGoCowtn-fOtnM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5OwIboWE7NJGFw4xqfF0ybGnLSk="
+              }
+            },
+            {
+              "create_time": "2025-05-09T14:53:12.040+0800",
+              "owner": {
+                "user_id": 554215442114,
+                "name": "Stephen",
+                "avatar_url": "https://images.zsxq.com/FjdrEuuDCUSemjZKFa_QxR5US6rM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5P7uCbHCaNMzU0yyE1vBHDIWRZk="
+              }
+            },
+            {
+              "create_time": "2025-04-14T09:27:16.081+0800",
+              "owner": {
+                "user_id": 552552542814,
+                "name": "Voyager",
+                "avatar_url": "https://images.zsxq.com/FhH9eWOwEoT5uH6Y0MOFCebxAmz2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9RDJyh1sSncsLlxPQjRE61jA_J8="
+              }
+            },
+            {
+              "create_time": "2025-04-14T07:47:20.416+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-12T17:12:47.693+0800",
+              "owner": {
+                "user_id": 28842552215541,
+                "name": "'Hello, 我是*",
+                "avatar_url": "https://images.zsxq.com/FvxSYQkANCxHUhgtwLcJTX8d_NOQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:r2EifZQwaqWnnUpMO3JD60EShk0="
+              }
+            },
+            {
+              "create_time": "2025-04-09T20:23:18.352+0800",
+              "owner": {
+                "user_id": 51284448544114,
+                "name": "KK",
+                "avatar_url": "https://images.zsxq.com/FhxDP8RpdE1nkCGl_JNjabHMgAyG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-PJx_tuDTtuqtIgBBgh8EXQr8Ec="
+              }
+            },
+            {
+              "create_time": "2025-04-07T09:34:49.698+0800",
+              "owner": {
+                "user_id": 88811582411212,
+                "name": "xiaonaneo",
+                "avatar_url": "https://images.zsxq.com/FslKlxT2u8tSqzeH4mgAIxfAEL2o?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:93GRf9yCPe8zKKOBnTuRE8Jtm_g="
+              }
+            },
+            {
+              "create_time": "2025-04-04T20:58:27.313+0800",
+              "owner": {
+                "user_id": 48528211128888,
+                "name": "阿伦",
+                "avatar_url": "https://images.zsxq.com/FgSmmjEFoh_GEP2FwCcR2qIZXYtm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ChwJcRtILeQz7ryooj6_A5Vlh8="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 4848524221811828,
+              "create_time": "2025-04-01T15:14:35.440+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+                "location": "湖南"
+              },
+              "text": "而且他还不做空\n只是不买",
+              "likes_count": 1,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 8858245441811182,
+              "create_time": "2025-04-01T15:15:51.988+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+                "location": "湖南"
+              },
+              "text": "猜猜巴菲特为啥不做空[流泪]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 8858245415122242,
+              "create_time": "2025-04-01T18:33:03.116+0800",
+              "owner": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+                "location": "上海"
+              },
+              "text": "谢谢[抱拳]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 4848524211114288,
+              "create_time": "2025-04-02T06:40:01.110+0800",
+              "owner": {
+                "user_id": 244418824482541,
+                "name": "9527号",
+                "avatar_url": "https://images.zsxq.com/FkVkgO8XRZLtkGDODp_uK4-tpyia?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zeD3QIJE-kvGs8IAqY-qcJNP2iI=",
+                "location": "山东"
+              },
+              "text": "许大对巴菲特的解读真是全网独一份[强]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 8858245158144582,
+              "create_time": "2025-04-02T08:08:18.890+0800",
+              "owner": {
+                "user_id": 48888182222528,
+                "name": "小民的自由之路",
+                "avatar_url": "https://images.zsxq.com/FgfUp_VRDEvKTH32hcRj5hujjVUB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pHKHJYTx4_SLhC5rqAWszmvAy1A=",
+                "location": "山东"
+              },
+              "text": "巴菲特遗嘱90%标普500指数基金+10%短期政府债券组合，怎么分析？",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 57,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 57
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 5,
+          "reading_count": 1,
+          "readers_count": 1013,
+          "digested": true,
+          "sticky": false,
+          "create_time": "2025-04-01T15:07:14.339+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": true
+          },
+          "title": "不从资产价格分布而行估值的维度..."
+        },
+        {
+          "topic_id": 5125228814884154,
+          "topic_uid": "5125228814884154",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "您好许大，请问同时持有vix future 和es future 怎样做delta hedge? 因为这是两个不一样的品种，我知道ibkr 有个risk tool 看 what if. 但是有比这个靠谱的方法吗？ 还是这个已经不错了？谢谢！",
+            "expired": true,
+            "anonymous": true,
+            "owner_detail": {
+              "questions_count": 54,
+              "estimated_join_time": ">1Y",
+              "status": "joined"
+            },
+            "owner_location": "美国"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "vix future对冲的是es期权头寸的vega"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2025-04-14T07:47:40.702+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-03T09:54:35.309+0800",
+              "owner": {
+                "user_id": 548848585244144,
+                "name": "知己",
+                "avatar_url": "https://images.zsxq.com/FinHNNaiJ_9uXMKLvIb3CiiXKA4p?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XLuYgdz8Z4t9-QyGhe0LnhjUJXs="
+              }
+            },
+            {
+              "create_time": "2025-04-02T21:57:02.139+0800",
+              "owner": {
+                "user_id": 88255842518412,
+                "name": "罗爷",
+                "avatar_url": "https://images.zsxq.com/FjNN1dyvKBQjDoRJa1Hls8JhW3eR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6CWcFkcYxlaONIoBylXlgjdmsv0="
+              }
+            },
+            {
+              "create_time": "2025-04-02T14:21:48.321+0800",
+              "owner": {
+                "user_id": 415454152452228,
+                "name": "Good",
+                "avatar_url": "https://images.zsxq.com/FmFU0MAKiDXvO8VKzp-VwwpABbFW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4NRuRRejfE8pLZfTHwjF9NGSqAE="
+              }
+            },
+            {
+              "create_time": "2025-04-02T13:47:02.345+0800",
+              "owner": {
+                "user_id": 415814458285888,
+                "name": "Januaryy",
+                "avatar_url": "https://images.zsxq.com/FpeEOBdRFthOkh4WOYLbrJLgAJrq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IrmeV7bwPgIsOAoAwzoZdgG-Hkc="
+              }
+            },
+            {
+              "create_time": "2025-04-02T09:26:03.205+0800",
+              "owner": {
+                "user_id": 218224188452481,
+                "name": "人民艺术家",
+                "avatar_url": "https://images.zsxq.com/Fhj9Rh93138tbj5Ge814HFIbS2ql?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fYSrXnGDjg_4TbeKxI-2ANEcfXU="
+              }
+            },
+            {
+              "create_time": "2025-04-01T17:21:27.967+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wb2WfiX8oWn9R_b9nV__aJN8kBc="
+              }
+            },
+            {
+              "create_time": "2025-04-01T15:34:52.252+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18="
+              }
+            },
+            {
+              "create_time": "2025-04-01T14:54:07.814+0800",
+              "owner": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fp8Z2mElz4XDsFUsYPJ_x3l5H8U="
+              }
+            },
+            {
+              "create_time": "2025-04-01T14:53:29.318+0800",
+              "owner": {
+                "user_id": 422184558515458,
+                "name": "凸面万岁",
+                "alias": "Unknown",
+                "avatar_url": "https://images.zsxq.com/FmXktJLqiyoryC6VUmDBFINju3MN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:niEBFwcourZslDwgzmwMaVRJyjc="
+              }
+            }
+          ],
+          "likes_count": 10,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 10
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 964,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2025-04-01T14:53:05.087+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "vix future对冲的是e..."
+        },
+        {
+          "topic_id": 1525884521288822,
+          "topic_uid": "1525884521288822",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 51154515522454,
+              "name": "牛肉汤面",
+              "avatar_url": "https://images.zsxq.com/FpuzZgMY_xy8NzDv1CSHTePblVfc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KE_nCKHiT5wmRxvqwmuKpoooAzw=",
+              "location": "上海"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "请教许大，通过long OTM call和put来保护肥尾敞口，这个期限和价差的参考依据是什么？是否是在时间段内short put和call的尖峰收益大于OTM call和put的期权时间价值损失（吃初始时间段）+初始净资产的无风险收益。另外，如果把日常打工的正现金流比做尖峰收益，那人生的OTM是什么？社保只是一个定期存款，各类商业保险是负EV的，并不肥尾。是否如许大之前所说的，长期持有对社会产生正贡献的科技公司才是真正的肥尾。感谢指导！",
+            "expired": true,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 8,
+              "join_time": "2024-06-24T09:06:50.135+0800",
+              "status": "joined"
+            },
+            "owner_location": "上海"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "在行情下跌的价格约等于执行价的时候保护性期权的效果最大化，但我们不能知道行情最多下跌和上涨到哪里，所以选择执行价择优是不可能的。到期日的选择上，要考虑到Vega占比因素的关系，不宜选太远的，但比较近的Theta掉得快，所以选择偏中间的。\n\n我们是拿尖峰收益的部分来“补贴”尾部期权的，所以长期期权的开销肯定是不能大于尖峰收益和其他的收益总和的，并且要留冗余的。\n\n日常打工如果是尖峰收益的话，人生的OTM可能是你各种人生不同的机遇了，不要对可能性太早下否定，从财务的角度上来说可能投资指数是普通人最好的出路，未来的技术创新造成的财富肥尾效应做VC行业的人可能会更容易接触到，但也有很大的偶然性在里面，不是所有VC都有好的收益的，我们只能寄希望于那些真正推动人类社会进步的小概率事件最后会加入到指数全家桶里去了。\n\n人之一生，总有很多意外的际遇的，保持Open Mind，给自己多一些可能。\n\n有一份好的工作+追求自己最野的爱好，日常收入能养得起自己就要拓展自己生命的各个维度的肆意探索，也是非常杠铃的。\n\n财务上的反脆弱，那不学点期权类的东西确实没法达到，至少在我的认知里，所有具备凸性的财务工具本质上都是期权的变种，没有例外。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2025-11-15T20:59:23.422+0800",
+              "owner": {
+                "user_id": 88845222285482,
+                "name": "Judy",
+                "avatar_url": "https://images.zsxq.com/Fhg4-Dg8tsGwZuNIckbuFAMDVFdB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ihP648dcFCN_yJlVfQRH_d8N3GI="
+              }
+            },
+            {
+              "create_time": "2025-10-27T01:30:06.522+0800",
+              "owner": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o="
+              }
+            },
+            {
+              "create_time": "2025-09-25T07:52:21.905+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg="
+              }
+            },
+            {
+              "create_time": "2025-07-17T16:55:00.254+0800",
+              "owner": {
+                "user_id": 48288855544148,
+                "name": "CQ",
+                "avatar_url": "https://images.zsxq.com/Fi5yHs--aMYcZpcGoCowtn-fOtnM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5OwIboWE7NJGFw4xqfF0ybGnLSk="
+              }
+            },
+            {
+              "create_time": "2025-06-09T00:21:20.033+0800",
+              "owner": {
+                "user_id": 118511218281852,
+                "name": "姜莉",
+                "avatar_url": "https://images.zsxq.com/FiIP0-PgP6Jiix11NES-6jM384iq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zs_stU-e9WnCJzuR1j6z1YEo36w="
+              }
+            },
+            {
+              "create_time": "2025-05-28T17:39:00.272+0800",
+              "owner": {
+                "user_id": 48844458585888,
+                "name": "朱黎黎",
+                "avatar_url": "https://images.zsxq.com/FrrWLdjLxHTaFSYH1vcPyEpicubG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JSftn3h94m5vKKW-ZyzGgN_6ALo="
+              }
+            },
+            {
+              "create_time": "2025-04-14T07:48:00.923+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-08T01:51:06.033+0800",
+              "owner": {
+                "user_id": 582245551181484,
+                "name": "脆皮",
+                "avatar_url": "https://images.zsxq.com/Fl9pqCZq0SRIpV8GZwma1Fus41MX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ahxGLHVIG27vCqLiQAaToYGcK78="
+              }
+            },
+            {
+              "create_time": "2025-04-07T08:45:11.198+0800",
+              "owner": {
+                "user_id": 15412158455422,
+                "name": "HHB",
+                "avatar_url": "https://images.zsxq.com/FsLeio3hPeiKS19SuDRlC-nC-wz_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hbhW5dmSA0e-z65ZWgpjTWIUGlE="
+              }
+            },
+            {
+              "create_time": "2025-04-07T07:41:48.823+0800",
+              "owner": {
+                "user_id": 48818148421848,
+                "name": "巴伊老爷",
+                "avatar_url": "https://images.zsxq.com/Fmn6zK8RxlLN0gbqcPJUyMfCE_gQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qvqQVUN0kGoPEmltSdaJ3SkN9pc="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 8858222545181552,
+              "create_time": "2025-03-30T18:10:55.104+0800",
+              "owner": {
+                "user_id": 51154515522454,
+                "name": "牛肉汤面",
+                "avatar_url": "https://images.zsxq.com/FpuzZgMY_xy8NzDv1CSHTePblVfc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KE_nCKHiT5wmRxvqwmuKpoooAzw=",
+                "location": "上海"
+              },
+              "text": "追求最野的爱好[强]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 5121555245445124,
+              "create_time": "2025-03-30T23:35:15.030+0800",
+              "owner": {
+                "user_id": 555584841844,
+                "name": "Vivi刚刚好",
+                "avatar_url": "https://images.zsxq.com/Fvfm7OH1G16LB2rQFYEgkoO6uNqA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:25s_SdKuPE-oik54Dpf6XDD0yqQ=",
+                "location": "广东"
+              },
+              "text": "写得真好👍",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 4848555842552448,
+              "create_time": "2025-03-31T17:26:09.220+0800",
+              "owner": {
+                "user_id": 8421148482,
+                "name": "胖子托尼",
+                "avatar_url": "https://images.zsxq.com/Fpm8iXTpC5nDA_yqMDGvqx29SUsF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YH4Tx7XSo-lZIPHK65PxpgR91YE=",
+                "location": "海南"
+              },
+              "text": "不知道我是不是记错了，塔勒布在《<e type=\"web\" href=\"https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Fweread%2Fsearch.html%3Fkeyword%3D%E5%8F%8D%E8%84%86%E5%BC%B1\" title=\"%E5%8F%8D%E8%84%86%E5%BC%B1\" style=\"book\" />》里提到的普通人实践反脆弱思想的一种方式是：写作。或者更广义的来说，是创作。创作出来的作品需要的能耗是有限的，类比于我们付出的 OTM Premium；但是作品的一旦被创造出来了，它会保持一种永远可能爆发的特性，类比于可能非线性增长的 OTM Options。塔勒布他自己目前推特（X）上置顶的帖子就是在得意自己写的书已经经受住了时间的考验……",
+              "likes_count": 3,
+              "rewards_count": 0,
+              "sticky": false,
+              "images": [
+                {
+                  "image_id": 811441528454412,
+                  "type": "png",
+                  "thumbnail": {
+                    "url": "https://images.zsxq.com/FqFxWlwy9tZusWZ6OTUbzBRJZh8F?imageMogr2/auto-orient/thumbnail/380x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4wvRz8nmC--PxzzntHztfUfbOeo=",
+                    "width": 380,
+                    "height": 415
+                  },
+                  "large": {
+                    "url": "https://images.zsxq.com/FqFxWlwy9tZusWZ6OTUbzBRJZh8F?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eqnDjUfgMBJqiu7pUoaV3Zpsq0M=",
+                    "width": 800,
+                    "height": 873
+                  },
+                  "original": {
+                    "url": "https://images.zsxq.com/FqFxWlwy9tZusWZ6OTUbzBRJZh8F?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:S7UQTTT9Cvdsrk7HTPDDjdxagHs=",
+                    "width": 1184,
+                    "height": 1292,
+                    "size": 467886
+                  }
+                }
+              ]
+            }
+          ],
+          "likes_count": 47,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 47
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 6,
+          "reading_count": 1,
+          "readers_count": 955,
+          "digested": true,
+          "sticky": false,
+          "create_time": "2025-03-30T17:47:14.164+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": true
+          },
+          "title": "在行情下跌的价格约等于执行价的..."
+        },
+        {
+          "topic_id": 1524228148511542,
+          "topic_uid": "1524228148511542",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "你好许大，请教如果short 一张vix future, 买10张OTM vix call 兜底, 在极端情况会被margin call吗？因为他们是不一样的margin system, future交易时间更长，如果突然飙升，会被爆仓吗？ 因为还没有开盘，vix call 还没有启动保护？ 还是一般只有在开盘的时候才会进行liquidation (我知道IBKR 是实时清算)?非常感谢！",
+            "expired": true,
+            "anonymous": true,
+            "owner_detail": {
+              "questions_count": 54,
+              "estimated_join_time": ">1Y",
+              "status": "joined"
+            },
+            "owner_location": "美国"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "我还真遇到过，VIX Futures被清算后开盘VIX Call 的头寸还在，反而赚了一波大的。\n\nMargin Call 是在一定情况下被 Liqudation 而不是直接爆仓，最后一段VIX CALL 吃更多了。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2025-10-27T01:28:04.422+0800",
+              "owner": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o="
+              }
+            },
+            {
+              "create_time": "2025-09-25T07:49:33.682+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg="
+              }
+            },
+            {
+              "create_time": "2025-07-17T16:55:33.177+0800",
+              "owner": {
+                "user_id": 48288855544148,
+                "name": "CQ",
+                "avatar_url": "https://images.zsxq.com/Fi5yHs--aMYcZpcGoCowtn-fOtnM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5OwIboWE7NJGFw4xqfF0ybGnLSk="
+              }
+            },
+            {
+              "create_time": "2025-04-14T07:48:45.146+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-02T20:05:18.178+0800",
+              "owner": {
+                "user_id": 581128555225284,
+                "name": "下戸の人",
+                "avatar_url": "https://images.zsxq.com/FvJU-uEV_KWn9riuvPuqCDFlcr-0?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:M6cukOLtXq0bTnNiXCMj4AfHcLk="
+              }
+            },
+            {
+              "create_time": "2025-04-02T14:23:03.656+0800",
+              "owner": {
+                "user_id": 415454152452228,
+                "name": "Good",
+                "avatar_url": "https://images.zsxq.com/FmFU0MAKiDXvO8VKzp-VwwpABbFW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4NRuRRejfE8pLZfTHwjF9NGSqAE="
+              }
+            },
+            {
+              "create_time": "2025-03-31T22:34:20.551+0800",
+              "owner": {
+                "user_id": 88255842518412,
+                "name": "罗爷",
+                "avatar_url": "https://images.zsxq.com/FjNN1dyvKBQjDoRJa1Hls8JhW3eR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6CWcFkcYxlaONIoBylXlgjdmsv0="
+              }
+            },
+            {
+              "create_time": "2025-03-31T12:18:33.423+0800",
+              "owner": {
+                "user_id": 241158584281881,
+                "name": "张蒙",
+                "avatar_url": "https://images.zsxq.com/FipgZH0jyz-QHmJ7LiaXITLAGMAH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3vsf1g3eioU-AZ8n8merPXc5toY="
+              }
+            },
+            {
+              "create_time": "2025-03-30T22:05:21.783+0800",
+              "owner": {
+                "user_id": 51154552482454,
+                "name": "Yingkun",
+                "avatar_url": "https://images.zsxq.com/FhL57VgNoQ1EXT4jAfM6S7ELMy5r?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6LJ82zksUVNzdzP5vaf5G01EkXc="
+              }
+            },
+            {
+              "create_time": "2025-03-30T19:23:41.707+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wb2WfiX8oWn9R_b9nV__aJN8kBc="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 4848555424521588,
+              "create_time": "2025-03-30T17:07:13.001+0800",
+              "owner": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+                "location": "美国"
+              },
+              "text": "<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" /> 谢谢许大回复，但是这样很危险，因为可能vix call 开盘跌回去，没有办法弥补vix future 的损失，这样就很亏，对吧？",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "replies_count": 9
+            },
+            {
+              "comment_id": 4848555424514888,
+              "parent_comment_id": 4848555424521588,
+              "create_time": "2025-03-30T17:10:01.433+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "是的，挺危险的。但也有一定的必然性，因为真到了VIX期货都爆的时候，VIX Option本身的Vega，也就是美股的波动率的波动率，四阶矩必然已经爆发了。",
+              "likes_count": 1,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png"
+              }
+            },
+            {
+              "comment_id": 5121555242588124,
+              "parent_comment_id": 4848555424521588,
+              "create_time": "2025-03-30T17:20:24.388+0800",
+              "owner": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+                "location": "美国"
+              },
+              "text": "<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" />  非常感谢回复 “Margin Call 是在一定情况下被 Liqudation 而不是直接爆仓” 请问这句怎么理解，可以麻烦你再说说吗？[抱拳][抱拳]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 4848555424248488,
+              "parent_comment_id": 4848555424521588,
+              "create_time": "2025-03-30T17:22:43.505+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "就是那会儿不是整个账户爆掉，而是在IBKR的规则下把VIX期货一点点强制平掉，因为那会儿VIX CALL的Mark价格还没起来账户的总资产现实保证金不足，不会等到净值到0附近才触发，而是一点点就平了。",
+              "likes_count": 2,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png"
+              }
+            },
+            {
+              "comment_id": 8858222545458812,
+              "parent_comment_id": 4848555424521588,
+              "create_time": "2025-03-30T17:23:58.644+0800",
+              "owner": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+                "location": "美国"
+              },
+              "text": "明白，感谢感谢！",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 4848555424245258,
+              "parent_comment_id": 4848555424521588,
+              "create_time": "2025-03-30T17:25:29.933+0800",
+              "owner": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+                "location": "美国"
+              },
+              "text": "感觉thinkofswim可能更好，因为不是real time liqudation. 他们说人手的，大概率开盘后才弄",
+              "likes_count": 1,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 5121555242424284,
+              "parent_comment_id": 4848555424521588,
+              "create_time": "2025-03-30T17:26:49.179+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "那它们整个券商的风险会更大，有得有失的都是",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png"
+              }
+            },
+            {
+              "comment_id": 8858222545451112,
+              "parent_comment_id": 4848555424521588,
+              "create_time": "2025-03-30T17:31:43.824+0800",
+              "owner": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+                "location": "美国"
+              },
+              "text": "许大，如果持有的portfolio 还有其他future合约的话，在那个时候（没有开盘的时候）也有可能同时被清算了[捂脸]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ],
+          "likes_count": 16,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 16
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 10,
+          "reading_count": 1,
+          "readers_count": 1008,
+          "digested": true,
+          "sticky": false,
+          "create_time": "2025-03-30T17:01:53.879+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "我还真遇到过，VIX Futu..."
+        },
+        {
+          "topic_id": 5125228114888184,
+          "topic_uid": "5125228114888184",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 51284511188514,
+              "name": "文少",
+              "avatar_url": "https://images.zsxq.com/FsLwnMCDy5cIhUqyHz8xZhmdzIVM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MCvNDdNE7d4tQVrbi8dy8ihu7w8=",
+              "location": "湖北"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "许大您好，最近考古了您在2015年盈透演讲的全内容，发现从那个时候您就已经用期权买方作为给黑天鹅上的保险了，请问10年过去了，您对当年旧有的那一套底层逻辑有什么新吸收迭代吗？因为我找不到且读不出差异，但又不确定，特有此问。",
+            "expired": true,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 2,
+              "join_time": "2024-09-29T23:43:59.918+0800",
+              "status": "joined"
+            },
+            "owner_location": "湖北"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "那会儿对于未来不可预测的理解现在并没有什么区别，但对于“反脆弱”的概念的理解目前是更深了，对于人类经济活动中几乎无处不在的肥尾分布效应有了更加深刻的认知。\n\n过去对于黑天鹅事件的看法依然属于我们不能在任何时刻放松警惕因为未来是严格不可预测的，所以我们绝对不能在尾部风险对冲的情况下有任何偷懒和择时，要对不可预测有清醒的认知。\n\n这是不足的，正如塔勒布所言，我发现这10年间交易收入的大头是一两个特别事件产生的，而不是日常。也就是说，决定事件走向的几个“样本外”事件而非日常。少数事件对结果的走向起的作用远大于日常事件的累积。在归因上也同样遵循着幂律分布而非正态。进一步，我理解了只要是人类活动，都是幂律的，帕累托分布的世界而非高斯分布的世界。用塔勒布的话说是极端斯坦而非平坦斯坦。或者说，天之道损有余而补不足（正态分布界），人之道，损不足补有余（马太效应导致的幂律分布）。\n\n想明白了这个道理后，我就非常确信人类的经济活动（人之道）一定在极端斯坦（幂律分布世界），那就不是仅仅防范黑天鹅效应，不要做火鸡（休谟问题），而是要拥抱不确定性和极端性。\n\n具体到交易上，从足量的尾部保护到如何在极端情况下获益为主。\n\n无常是世界的本质，不要对抗无常，如实知，如实用。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2025-11-15T21:00:28.520+0800",
+              "owner": {
+                "user_id": 88845222285482,
+                "name": "Judy",
+                "avatar_url": "https://images.zsxq.com/Fhg4-Dg8tsGwZuNIckbuFAMDVFdB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ihP648dcFCN_yJlVfQRH_d8N3GI="
+              }
+            },
+            {
+              "create_time": "2025-10-27T01:22:43.385+0800",
+              "owner": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o="
+              }
+            },
+            {
+              "create_time": "2025-09-26T09:14:36.319+0800",
+              "owner": {
+                "user_id": 581241545454584,
+                "name": "奕飒",
+                "avatar_url": "https://images.zsxq.com/FqPPhpMKTvuPLcKsJPC1_RFAf72d?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YXv9Mkx_jqEpVGavlHE1GvJPlFc="
+              }
+            },
+            {
+              "create_time": "2025-09-25T07:48:38.236+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg="
+              }
+            },
+            {
+              "create_time": "2025-07-17T16:55:51.878+0800",
+              "owner": {
+                "user_id": 48288855544148,
+                "name": "CQ",
+                "avatar_url": "https://images.zsxq.com/Fi5yHs--aMYcZpcGoCowtn-fOtnM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5OwIboWE7NJGFw4xqfF0ybGnLSk="
+              }
+            },
+            {
+              "create_time": "2025-05-09T15:02:50.930+0800",
+              "owner": {
+                "user_id": 554215442114,
+                "name": "Stephen",
+                "avatar_url": "https://images.zsxq.com/FjdrEuuDCUSemjZKFa_QxR5US6rM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5P7uCbHCaNMzU0yyE1vBHDIWRZk="
+              }
+            },
+            {
+              "create_time": "2025-04-30T14:20:45.593+0800",
+              "owner": {
+                "user_id": 51442555484884,
+                "name": "耐心如金",
+                "avatar_url": "https://images.zsxq.com/FqtY58styJv5np-RXLFU6vbve7HZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kCTdR-2yi1wAmO7OzR0DKLNzIHA="
+              }
+            },
+            {
+              "create_time": "2025-04-14T07:50:14.315+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-07T09:37:54.536+0800",
+              "owner": {
+                "user_id": 88811582411212,
+                "name": "xiaonaneo",
+                "avatar_url": "https://images.zsxq.com/FslKlxT2u8tSqzeH4mgAIxfAEL2o?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:93GRf9yCPe8zKKOBnTuRE8Jtm_g="
+              }
+            },
+            {
+              "create_time": "2025-04-05T17:20:27.343+0800",
+              "owner": {
+                "user_id": 241884544514281,
+                "name": "King",
+                "avatar_url": "https://images.zsxq.com/FtbnWJy_12b63x4hhzczYhPbGS_r?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GPinFIXHku2YFKf0bvRyH1haXxY="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 4848555424285888,
+              "create_time": "2025-03-30T17:37:33.709+0800",
+              "owner": {
+                "user_id": 841521482858182,
+                "name": "大头鱼（Piggy）",
+                "avatar_url": "https://images.zsxq.com/FouIY7XlXxkItTt15qXtfbTFfndo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9lohAUf1FkIWVk0CB7RhAlukzDM=",
+                "location": "广东"
+              },
+              "text": "拥抱不确定性和极端性，好有哲理，这可不容易。[玫瑰][玫瑰][强]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 2858222548441541,
+              "create_time": "2025-03-30T21:13:59.632+0800",
+              "owner": {
+                "user_id": 51284511188514,
+                "name": "文少",
+                "avatar_url": "https://images.zsxq.com/FsLwnMCDy5cIhUqyHz8xZhmdzIVM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MCvNDdNE7d4tQVrbi8dy8ihu7w8=",
+                "location": "湖北"
+              },
+              "text": "谢谢您的回答，受益良多。",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 8858222544554222,
+              "create_time": "2025-03-31T02:59:49.549+0800",
+              "owner": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c=",
+                "location": "美国"
+              },
+              "text": "<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" /> \"我发现这10年间交易收入的大头是一两个特别事件产生的，而不是日常。\" 许大说的太好了，发现几个prop shop 都是long vol 也是在covid 的时候赚翻了[呲牙]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 2858222518842511,
+              "create_time": "2025-03-31T10:26:07.516+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "金庸没骗咱们，九阴真经总纲都告诉我们了[呲牙]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 2858248142851111,
+              "create_time": "2025-04-08T13:04:27.047+0800",
+              "owner": {
+                "user_id": 555584841844,
+                "name": "Vivi刚刚好",
+                "avatar_url": "https://images.zsxq.com/Fvfm7OH1G16LB2rQFYEgkoO6uNqA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:25s_SdKuPE-oik54Dpf6XDD0yqQ=",
+                "location": "广东"
+              },
+              "text": "感谢许大",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 67,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 67
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 6,
+          "reading_count": 1,
+          "readers_count": 1007,
+          "digested": true,
+          "sticky": false,
+          "create_time": "2025-03-30T16:53:54.935+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": true
+          },
+          "title": "那会儿对于未来不可预测的理解现..."
+        },
+        {
+          "topic_id": 2852554454414251,
+          "topic_uid": "2852554454414251",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 88842588422552,
+              "name": "wayne",
+              "alias": "红蓝刷子",
+              "avatar_url": "https://images.zsxq.com/FhbKJaiTM90FiP6ImhmQ1PYIn-Xz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hncicjpHsoyrSMesYLzCUK3t49o=",
+              "location": "北京"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "许大，在您最近期权降本循环中，买入远期otm put和call，利用市场尖峰肥尾保护或防踏空。在之前的问题中您回答过，用于保护的远期otm put 在进入theta加速磨损的时候就要roll，因为要时刻保持卖短期put的theta大于long put这端，这个我理解了，但是用于防止踏空的call呢？是不是也需要采用相同的标准roll呢，还是直接拿到期。另外这个策略用于大A的月期权可行吗？",
+            "expired": true,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 23,
+              "join_time": "2024-04-01T16:38:39.406+0800",
+              "status": "joined"
+            },
+            "owner_location": "北京"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "也要Roll的，要始终保持期权的Optionally。如塔勒布说的那样，持有期权的意义是詹森不等式（凸性），一定要时刻让我们持有的期权是非常的期权，而不能变成ITM后变成了一个现货或者期货的等价物，那样就失去持有期权的作用了。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2025-11-15T21:00:51.330+0800",
+              "owner": {
+                "user_id": 88845222285482,
+                "name": "Judy",
+                "avatar_url": "https://images.zsxq.com/Fhg4-Dg8tsGwZuNIckbuFAMDVFdB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ihP648dcFCN_yJlVfQRH_d8N3GI="
+              }
+            },
+            {
+              "create_time": "2025-09-26T09:16:00.902+0800",
+              "owner": {
+                "user_id": 581241545454584,
+                "name": "奕飒",
+                "avatar_url": "https://images.zsxq.com/FqPPhpMKTvuPLcKsJPC1_RFAf72d?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YXv9Mkx_jqEpVGavlHE1GvJPlFc="
+              }
+            },
+            {
+              "create_time": "2025-09-25T07:47:03.117+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg="
+              }
+            },
+            {
+              "create_time": "2025-07-19T13:52:30.976+0800",
+              "owner": {
+                "user_id": 48288855544148,
+                "name": "CQ",
+                "avatar_url": "https://images.zsxq.com/Fi5yHs--aMYcZpcGoCowtn-fOtnM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5OwIboWE7NJGFw4xqfF0ybGnLSk="
+              }
+            },
+            {
+              "create_time": "2025-05-09T15:07:19.277+0800",
+              "owner": {
+                "user_id": 554215442114,
+                "name": "Stephen",
+                "avatar_url": "https://images.zsxq.com/FjdrEuuDCUSemjZKFa_QxR5US6rM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5P7uCbHCaNMzU0yyE1vBHDIWRZk="
+              }
+            },
+            {
+              "create_time": "2025-04-14T07:50:36.268+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-02T14:24:18.251+0800",
+              "owner": {
+                "user_id": 415454152452228,
+                "name": "Good",
+                "avatar_url": "https://images.zsxq.com/FmFU0MAKiDXvO8VKzp-VwwpABbFW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4NRuRRejfE8pLZfTHwjF9NGSqAE="
+              }
+            },
+            {
+              "create_time": "2025-04-01T07:48:14.903+0800",
+              "owner": {
+                "user_id": 822128858552,
+                "name": "噼里啪啦小曲儿",
+                "avatar_url": "https://images.zsxq.com/FjOZBZ21pBlalA0OpcuWEE1rgLVr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YlyVQ1w_XmExupPYyNb_XvYJ9zU="
+              }
+            },
+            {
+              "create_time": "2025-03-31T22:13:39.002+0800",
+              "owner": {
+                "user_id": 142814885552,
+                "name": "灯火阑珊",
+                "avatar_url": "https://images.zsxq.com/Fl5Hs5SxnewLNROi3SqEUEuoiCD8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HWQWeIWUC0bFwjtSvyGetoqbqSw="
+              }
+            },
+            {
+              "create_time": "2025-03-31T12:18:16.583+0800",
+              "owner": {
+                "user_id": 241158584281881,
+                "name": "张蒙",
+                "avatar_url": "https://images.zsxq.com/FipgZH0jyz-QHmJ7LiaXITLAGMAH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3vsf1g3eioU-AZ8n8merPXc5toY="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 5121555215114214,
+              "create_time": "2025-03-29T15:40:38.085+0800",
+              "owner": {
+                "user_id": 415882151224188,
+                "name": "Ask",
+                "avatar_url": "https://images.zsxq.com/Fl5pj5UsbACW69awN5lq6Ey5JrC5?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:b1ujP4h6wizhN8Rv_pgxZjPo2P4=",
+                "location": "湖南"
+              },
+              "text": "这样是不是相当于双边都做一个日历策略？",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "replies_count": 3
+            },
+            {
+              "comment_id": 8858222524418552,
+              "parent_comment_id": 5121555215114214,
+              "create_time": "2025-03-30T16:36:35.767+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "原理上和日历不同，形式上和日历也不同，因为不是等量的跨期，日历只是想吃点Theta差而已，没有在凸性上有要求。",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 415882151224188,
+                "name": "Ask",
+                "avatar_url": "https://images.zsxq.com/Fl5pj5UsbACW69awN5lq6Ey5JrC5?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:b1ujP4h6wizhN8Rv_pgxZjPo2P4="
+              }
+            },
+            {
+              "comment_id": 5121555254818214,
+              "parent_comment_id": 5121555215114214,
+              "create_time": "2025-03-30T17:05:17.044+0800",
+              "owner": {
+                "user_id": 415882151224188,
+                "name": "Ask",
+                "avatar_url": "https://images.zsxq.com/Fl5pj5UsbACW69awN5lq6Ey5JrC5?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:b1ujP4h6wizhN8Rv_pgxZjPo2P4=",
+                "location": "湖南"
+              },
+              "text": "感谢您的解答",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 5121544222285584,
+              "parent_comment_id": 5121555215114214,
+              "create_time": "2025-04-13T09:07:29.768+0800",
+              "owner": {
+                "user_id": 48412851458528,
+                "name": "macrochen",
+                "avatar_url": "https://images.zsxq.com/Fhpc9u4wd6YWLqO66mibUIp5hJkI?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MFmMynz457hFfIvRPHbqM4WSIqs=",
+                "location": "浙江"
+              },
+              "text": "那不是反比例（日历）价差策略么？如果要有凸性的话，gamma 就必须得为正，如果不想付出成本，需要有非常大的波动才能让凸性发挥作用",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ],
+          "likes_count": 31,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 31
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 4,
+          "reading_count": 1,
+          "readers_count": 998,
+          "digested": true,
+          "sticky": false,
+          "create_time": "2025-03-27T00:34:37.853+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": true
+          },
+          "title": "也要Roll的，要始终保持期权..."
+        },
+        {
+          "topic_id": 8852554858845452,
+          "topic_uid": "8852554858845452",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "请问许老师： \n\n作为一个普通投资者，想对 vix 进行期权操作， 选择什么样的产品比较好？\n\n我已经尽量查了能找到的资料， 我有限的认知如下，下面的四款产品适合普通投资者：\n\nVIX Short-Term Futures ETN（VXX）和VIX Mid-Term Futures ETN（VXZ）\n\nEtf : vixy 和 vixm\n\n就我目前在 我的ibkr 账号里面看到 ，我可以买卖 VIX (cboe) 的期权，vxx不能买卖期权，说要开通杠杠产品交易权限。也许是我的级别不够吧。\n\n普通投资者能 直接下单 vix （cboe) 吗？ 这个不是期货吗？\n\n谢谢🙏",
+            "expired": true,
+            "anonymous": true,
+            "owner_detail": {
+              "questions_count": 17,
+              "estimated_join_time": ">1Y",
+              "status": "joined"
+            },
+            "owner_location": "湖北"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "VXX和VXZ都是ETF公司为你代持VIX期货，VIX是指数不能直接交易，只能交易期货和期权（现金交割），因为没有实物能供交割。\n\n散户的工具主要就是VXX（一倍做多）和SVIX（一倍做空），期权工具用VIX指数期权比较简单，VXX本身涉及很多换仓升贴水这类的东西，再讨论VXX的期权其实有点复杂了。\n\n普通投资者都是可以参与的。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2025-09-26T09:17:26.856+0800",
+              "owner": {
+                "user_id": 581241545454584,
+                "name": "奕飒",
+                "avatar_url": "https://images.zsxq.com/FqPPhpMKTvuPLcKsJPC1_RFAf72d?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YXv9Mkx_jqEpVGavlHE1GvJPlFc="
+              }
+            },
+            {
+              "create_time": "2025-09-25T07:46:21.850+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg="
+              }
+            },
+            {
+              "create_time": "2025-07-19T13:52:39.082+0800",
+              "owner": {
+                "user_id": 48288855544148,
+                "name": "CQ",
+                "avatar_url": "https://images.zsxq.com/Fi5yHs--aMYcZpcGoCowtn-fOtnM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5OwIboWE7NJGFw4xqfF0ybGnLSk="
+              }
+            },
+            {
+              "create_time": "2025-04-14T07:50:48.955+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-02T14:24:21.042+0800",
+              "owner": {
+                "user_id": 415454152452228,
+                "name": "Good",
+                "avatar_url": "https://images.zsxq.com/FmFU0MAKiDXvO8VKzp-VwwpABbFW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4NRuRRejfE8pLZfTHwjF9NGSqAE="
+              }
+            },
+            {
+              "create_time": "2025-03-29T21:29:11.124+0800",
+              "owner": {
+                "user_id": 15581481544422,
+                "name": "红花红果",
+                "avatar_url": "https://images.zsxq.com/Fkj19hZYfOPXRh99F1l84FH_wclV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jOvNkSUqzh63MZyw9MUlodQgNqU="
+              }
+            },
+            {
+              "create_time": "2025-03-28T17:04:51.978+0800",
+              "owner": {
+                "user_id": 15122188124282,
+                "name": "赵zhao",
+                "avatar_url": "https://images.zsxq.com/FifSonLyndoEbSj7QqBIbKkBTAWr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CLb_a_YiYGAAIIl7ru2CKfQ-nTs="
+              }
+            },
+            {
+              "create_time": "2025-03-28T15:10:10.017+0800",
+              "owner": {
+                "user_id": 415814458285888,
+                "name": "Januaryy",
+                "avatar_url": "https://images.zsxq.com/FpeEOBdRFthOkh4WOYLbrJLgAJrq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IrmeV7bwPgIsOAoAwzoZdgG-Hkc="
+              }
+            },
+            {
+              "create_time": "2025-03-28T00:21:00.196+0800",
+              "owner": {
+                "user_id": 421424854228158,
+                "name": "咋咋神",
+                "avatar_url": "https://images.zsxq.com/Fl9JbZr2cNq9iBnpvoH7s7t1oZm7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OtI4pNkZudD5R5wxANCESzahzJ0="
+              }
+            },
+            {
+              "create_time": "2025-03-27T11:03:14.738+0800",
+              "owner": {
+                "user_id": 241158584281881,
+                "name": "张蒙",
+                "avatar_url": "https://images.zsxq.com/FipgZH0jyz-QHmJ7LiaXITLAGMAH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3vsf1g3eioU-AZ8n8merPXc5toY="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 5121582248421824,
+              "create_time": "2025-04-25T17:19:14.014+0800",
+              "owner": {
+                "user_id": 215285414424821,
+                "name": "傻懒懒",
+                "avatar_url": "https://images.zsxq.com/Fp_Zrt0Kecx3N04f7DclyeP33vfG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pLn3NYdoW3gUPx4XRMUspyGaXFY=",
+                "location": "山东"
+              },
+              "text": "怎么这么难，谁来教教我",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 14,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 14
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 2,
+          "reading_count": 1,
+          "readers_count": 966,
+          "digested": true,
+          "sticky": false,
+          "create_time": "2025-03-27T00:31:43.744+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "VXX和VXZ都是ETF公司为..."
+        },
+        {
+          "topic_id": 4845442881541518,
+          "topic_uid": "4845442881541518",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "您好许大，请问你有时候会考虑买vix 一年过期的call option 吗（不是说现在）？ 最长你买过多长的vix leap call ？感觉流动性和点差都不太好！谢谢回复！",
+            "expired": true,
+            "anonymous": true,
+            "owner_detail": {
+              "questions_count": 54,
+              "estimated_join_time": ">1Y",
+              "status": "joined"
+            },
+            "owner_location": "美国"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "那个升水和IV的溢价基本上很难盈利，因为中间就算有一次VIX的高潮，远期VIX也不一定跟上，这种操作不太建议。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2025-04-14T07:50:58.145+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-02T14:24:23.447+0800",
+              "owner": {
+                "user_id": 415454152452228,
+                "name": "Good",
+                "avatar_url": "https://images.zsxq.com/FmFU0MAKiDXvO8VKzp-VwwpABbFW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4NRuRRejfE8pLZfTHwjF9NGSqAE="
+              }
+            },
+            {
+              "create_time": "2025-03-28T15:10:17.826+0800",
+              "owner": {
+                "user_id": 415814458285888,
+                "name": "Januaryy",
+                "avatar_url": "https://images.zsxq.com/FpeEOBdRFthOkh4WOYLbrJLgAJrq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IrmeV7bwPgIsOAoAwzoZdgG-Hkc="
+              }
+            },
+            {
+              "create_time": "2025-03-27T08:14:06.099+0800",
+              "owner": {
+                "user_id": 581112245488124,
+                "name": "倪爽",
+                "avatar_url": "https://images.zsxq.com/FvlNJBSZwJPOtcxWyKDzuReyYDQq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wYtsgJLv6a8S5uXuH47oqMYHTW8="
+              }
+            },
+            {
+              "create_time": "2025-03-27T08:14:00.208+0800",
+              "owner": {
+                "user_id": 548848585244144,
+                "name": "知己",
+                "avatar_url": "https://images.zsxq.com/FinHNNaiJ_9uXMKLvIb3CiiXKA4p?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XLuYgdz8Z4t9-QyGhe0LnhjUJXs="
+              }
+            },
+            {
+              "create_time": "2025-03-26T20:05:15.256+0800",
+              "owner": {
+                "user_id": 88255842518412,
+                "name": "罗爷",
+                "avatar_url": "https://images.zsxq.com/FjNN1dyvKBQjDoRJa1Hls8JhW3eR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6CWcFkcYxlaONIoBylXlgjdmsv0="
+              }
+            },
+            {
+              "create_time": "2025-03-26T17:23:39.048+0800",
+              "owner": {
+                "user_id": 88511821115422,
+                "name": "崇「」信",
+                "avatar_url": "https://images.zsxq.com/FkFanFRuIFhQ5nlKaaPTMFFC5u1b?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xDLS0lHb58NtlnP_u8o9vaAMniY="
+              }
+            },
+            {
+              "create_time": "2025-03-26T13:21:14.936+0800",
+              "owner": {
+                "user_id": 15281188218842,
+                "name": "Ming",
+                "avatar_url": "https://images.zsxq.com/FtlE0C7mNjYWXsUOrbaNbRrmeh48?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Fwh0zvCClrNmijiyT5qOvXDey-4="
+              }
+            },
+            {
+              "create_time": "2025-03-26T08:46:08.432+0800",
+              "owner": {
+                "user_id": 422184558515458,
+                "name": "凸面万岁",
+                "alias": "Unknown",
+                "avatar_url": "https://images.zsxq.com/FmXktJLqiyoryC6VUmDBFINju3MN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:niEBFwcourZslDwgzmwMaVRJyjc="
+              }
+            },
+            {
+              "create_time": "2025-03-26T08:45:22.259+0800",
+              "owner": {
+                "user_id": 218224188452481,
+                "name": "人民艺术家",
+                "avatar_url": "https://images.zsxq.com/Fhj9Rh93138tbj5Ge814HFIbS2ql?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fYSrXnGDjg_4TbeKxI-2ANEcfXU="
+              }
+            }
+          ],
+          "likes_count": 15,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 15
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 931,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2025-03-26T04:25:51.693+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "那个升水和IV的溢价基本上很难..."
+        },
+        {
+          "topic_id": 1524221484281282,
+          "topic_uid": "1524221484281282",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 48811511812258,
+              "name": "扫地的",
+              "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+              "location": "湖南"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "许大，正在把comex金期货换成gld：ibkr里面直接买gld和持有comex的优劣\ngld不用换月，但是不能使用杠杆，资金利用率低\ncomex金要换月但是可以用杠杆节约下来的资金还可以产生利息\n但是移仓换月要手续费\n真是占不到一点便宜\n[发呆][发呆][发呆]\n还是换成gld省心不用管了",
+            "expired": true,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 151,
+              "join_time": "2024-05-08T23:57:01.165+0800",
+              "status": "joined"
+            },
+            "owner_location": "湖南"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "黄金期货的升水就是你要支付的利息，GLD对散户要合适得多"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2025-09-25T07:45:33.243+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg="
+              }
+            },
+            {
+              "create_time": "2025-07-19T13:53:07.900+0800",
+              "owner": {
+                "user_id": 48288855544148,
+                "name": "CQ",
+                "avatar_url": "https://images.zsxq.com/Fi5yHs--aMYcZpcGoCowtn-fOtnM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5OwIboWE7NJGFw4xqfF0ybGnLSk="
+              }
+            },
+            {
+              "create_time": "2025-06-09T00:20:17.813+0800",
+              "owner": {
+                "user_id": 118511218281852,
+                "name": "姜莉",
+                "avatar_url": "https://images.zsxq.com/FiIP0-PgP6Jiix11NES-6jM384iq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zs_stU-e9WnCJzuR1j6z1YEo36w="
+              }
+            },
+            {
+              "create_time": "2025-04-14T07:51:05.382+0800",
+              "owner": {
+                "user_id": 184428112521482,
+                "name": "RS",
+                "avatar_url": "https://images.zsxq.com/FpIUwgqZSFEnhHlMGqkAfAKYK-kz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CQN8_sHxz79jkLLo9iWdPfWhLPo="
+              }
+            },
+            {
+              "create_time": "2025-04-02T14:24:27.350+0800",
+              "owner": {
+                "user_id": 415454152452228,
+                "name": "Good",
+                "avatar_url": "https://images.zsxq.com/FmFU0MAKiDXvO8VKzp-VwwpABbFW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4NRuRRejfE8pLZfTHwjF9NGSqAE="
+              }
+            },
+            {
+              "create_time": "2025-03-28T15:10:21.281+0800",
+              "owner": {
+                "user_id": 415814458285888,
+                "name": "Januaryy",
+                "avatar_url": "https://images.zsxq.com/FpeEOBdRFthOkh4WOYLbrJLgAJrq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IrmeV7bwPgIsOAoAwzoZdgG-Hkc="
+              }
+            },
+            {
+              "create_time": "2025-03-27T13:08:45.956+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg="
+              }
+            },
+            {
+              "create_time": "2025-03-27T08:17:00.206+0800",
+              "owner": {
+                "user_id": 548848585244144,
+                "name": "知己",
+                "avatar_url": "https://images.zsxq.com/FinHNNaiJ_9uXMKLvIb3CiiXKA4p?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XLuYgdz8Z4t9-QyGhe0LnhjUJXs="
+              }
+            },
+            {
+              "create_time": "2025-03-26T20:05:02.441+0800",
+              "owner": {
+                "user_id": 88255842518412,
+                "name": "罗爷",
+                "avatar_url": "https://images.zsxq.com/FjNN1dyvKBQjDoRJa1Hls8JhW3eR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6CWcFkcYxlaONIoBylXlgjdmsv0="
+              }
+            },
+            {
+              "create_time": "2025-03-26T12:22:36.175+0800",
+              "owner": {
+                "user_id": 241158584281881,
+                "name": "张蒙",
+                "avatar_url": "https://images.zsxq.com/FipgZH0jyz-QHmJ7LiaXITLAGMAH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3vsf1g3eioU-AZ8n8merPXc5toY="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 1525445128845422,
+              "create_time": "2025-03-27T13:09:09.025+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+                "location": "湖南"
+              },
+              "text": "comex优点就是可以上杠杆[得意]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 4848558241111188,
+              "create_time": "2025-03-27T13:10:01.766+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+                "location": "湖南"
+              },
+              "text": "明白了，升水和换月手续费\n都是代价",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 18,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 18
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 2,
+          "reading_count": 1,
+          "readers_count": 952,
+          "digested": true,
+          "sticky": false,
+          "create_time": "2025-03-26T02:26:06.828+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "黄金期货的升水就是你要支付的利..."
+        },
+        {
+          "topic_id": 5125224118418414,
+          "topic_uid": "5125224118418414",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 824281545552,
+              "name": "tyq",
+              "avatar_url": "https://images.zsxq.com/Fr4aNc-tLz_PojtCoUKPcKj18iO3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EMfhgN-6Hr4pUvSvx3WJ9ym-VAU=",
+              "location": "上海"
+            },
+            "text": "我记得许大以前在微信群分享过白酒的故事，说黄酒才是真的酒。还有人有印象的吗"
+          },
+          "latest_likes": [
+            {
+              "create_time": "2025-03-26T20:04:32.945+0800",
+              "owner": {
+                "user_id": 88255842518412,
+                "name": "罗爷",
+                "avatar_url": "https://images.zsxq.com/FjNN1dyvKBQjDoRJa1Hls8JhW3eR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6CWcFkcYxlaONIoBylXlgjdmsv0="
+              }
+            },
+            {
+              "create_time": "2025-03-26T08:45:54.247+0800",
+              "owner": {
+                "user_id": 15124211128112,
+                "name": "鱼在雨中游2222",
+                "avatar_url": "https://images.zsxq.com/FtKaYqxpn3pyZX3GSGTHfeTrLfnk?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zfUkoufho3tdWHKW_Hy2gD1MQXc="
+              }
+            },
+            {
+              "create_time": "2025-03-25T16:56:16.495+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wb2WfiX8oWn9R_b9nV__aJN8kBc="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 5121551551124814,
+              "parent_comment_id": 5121551528841854,
+              "create_time": "2025-03-25T23:24:57.302+0800",
+              "owner": {
+                "user_id": 824281545552,
+                "name": "tyq",
+                "avatar_url": "https://images.zsxq.com/Fr4aNc-tLz_PojtCoUKPcKj18iO3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EMfhgN-6Hr4pUvSvx3WJ9ym-VAU=",
+                "location": "上海"
+              },
+              "text": "好像就是这么个意思",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 15584225254452,
+                "name": "JoeQ",
+                "avatar_url": "https://images.zsxq.com/FupLeCdxFMHk-qEOkjPxNn7hD201?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-ug8AwmUWCI1TMRi_v--j9p15gE="
+              }
+            }
+          ],
+          "likes_count": 3,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 3
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 2,
+          "reading_count": 1,
+          "readers_count": 914,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2025-03-25T15:29:51.573+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "我记得许大以前在微信群分享过白..."
+        }
+      ]
+    }
+  }
+}

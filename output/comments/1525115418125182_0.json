@@ -1,0 +1,263 @@
+{
+  "captured_at": "2026-01-29T21:49:21.066345",
+  "url": "https://api.zsxq.com/v2/topics/1525115418125182/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1525115418125182",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1522812215552282,
+          "create_time": "2024-12-26T02:53:09.275+0800",
+          "owner": {
+            "user_id": 158521442182,
+            "name": "时光。",
+            "avatar_url": "https://images.zsxq.com/FssSXNIeOg-jtjEN5rv4-icYjs51?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JytvxEFqMMHXmtnal7wfMQet0qI=",
+            "location": "湖北"
+          },
+          "text": "我用的嘉盛的MT4，但是杠杆太高。出入金还可以。但是我也不知道是真是假[撇嘴]。 总体是亏的。之前用过IB 爆仓了 每次出入金太麻烦了，后来才转嘉盛。现在我也分不清这种究竟是真是假了[尴尬]。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 9,
+          "replied_comments": [
+            {
+              "comment_id": 2855145548888821,
+              "parent_comment_id": 1522812215552282,
+              "create_time": "2024-12-26T03:27:39.941+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "IBKR 盈透证券是真的给你交易外汇了，嘉盛是对赌平台，比较大而已。",
+              "likes_count": 3,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 158521442182,
+                "name": "时光。",
+                "avatar_url": "https://images.zsxq.com/FssSXNIeOg-jtjEN5rv4-icYjs51?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JytvxEFqMMHXmtnal7wfMQet0qI="
+              }
+            },
+            {
+              "comment_id": 1522812215141152,
+              "parent_comment_id": 1522812215552282,
+              "create_time": "2024-12-26T08:20:20.647+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+                "location": "湖南"
+              },
+              "text": "用ib爆仓是怎么回事",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 158521442182,
+                "name": "时光。",
+                "avatar_url": "https://images.zsxq.com/FssSXNIeOg-jtjEN5rv4-icYjs51?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JytvxEFqMMHXmtnal7wfMQet0qI="
+              }
+            },
+            {
+              "comment_id": 8855145542551242,
+              "parent_comment_id": 1522812215552282,
+              "create_time": "2024-12-26T09:17:16.738+0800",
+              "owner": {
+                "user_id": 158521442182,
+                "name": "时光。",
+                "avatar_url": "https://images.zsxq.com/FssSXNIeOg-jtjEN5rv4-icYjs51?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JytvxEFqMMHXmtnal7wfMQet0qI=",
+                "location": "湖北"
+              },
+              "text": "亏完了[撇嘴]。15 年的事情了。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg="
+              }
+            },
+            {
+              "comment_id": 4844124421454548,
+              "parent_comment_id": 1522812215552282,
+              "create_time": "2024-12-26T10:05:40.926+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+                "location": "湖南"
+              },
+              "text": "用了多少杠杆，是因为杠杆太高了吗",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 158521442182,
+                "name": "时光。",
+                "avatar_url": "https://images.zsxq.com/FssSXNIeOg-jtjEN5rv4-icYjs51?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JytvxEFqMMHXmtnal7wfMQet0qI="
+              }
+            },
+            {
+              "comment_id": 1522812218242412,
+              "parent_comment_id": 1522812215552282,
+              "create_time": "2024-12-26T10:05:50.224+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+                "location": "湖南"
+              },
+              "text": "谢谢许大",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 5122842248252814,
+              "parent_comment_id": 1522812215552282,
+              "create_time": "2024-12-26T10:06:20.346+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+                "location": "湖南"
+              },
+              "text": "要是长期趋势没错是不是不用杠杆就没事",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 158521442182,
+                "name": "时光。",
+                "avatar_url": "https://images.zsxq.com/FssSXNIeOg-jtjEN5rv4-icYjs51?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JytvxEFqMMHXmtnal7wfMQet0qI="
+              }
+            },
+            {
+              "comment_id": 5122842248155424,
+              "parent_comment_id": 1522812215552282,
+              "create_time": "2024-12-26T10:23:13.610+0800",
+              "owner": {
+                "user_id": 158521442182,
+                "name": "时光。",
+                "avatar_url": "https://images.zsxq.com/FssSXNIeOg-jtjEN5rv4-icYjs51?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JytvxEFqMMHXmtnal7wfMQet0qI=",
+                "location": "湖北"
+              },
+              "text": "我当年也是一样的想法。IB杠杆 比较小了 一般是标准杠杆。取决于个人吧",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg="
+              }
+            },
+            {
+              "comment_id": 4844124418844828,
+              "parent_comment_id": 1522812215552282,
+              "create_time": "2024-12-26T14:10:55.517+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "外汇汇率交易不杠杆吧，日常波动太小。用了吧，可能扑街，所以作为标的很高难度。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg="
+              }
+            },
+            {
+              "comment_id": 8855145854245422,
+              "parent_comment_id": 1522812215552282,
+              "create_time": "2024-12-27T04:04:34.230+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+                "location": "湖南"
+              },
+              "text": "懂了，先不搞，做点qqqspy就行了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8855145514888282,
+          "create_time": "2024-12-26T15:04:55.192+0800",
+          "owner": {
+            "user_id": 28481554448151,
+            "name": "区yeah",
+            "avatar_url": "https://images.zsxq.com/Fr8iS9DZSmqTFoeiG52w6x9KN7Q2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v9P6p9VdMP4cBGOzSMprWciElSM=",
+            "location": "广东"
+          },
+          "text": "能在国内接触的mt4服务商基本都是黑平台，合法的要遵守国内法律，不会在国内开展业务",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5122842124542454,
+          "create_time": "2024-12-27T04:05:42.033+0800",
+          "owner": {
+            "user_id": 48811511812258,
+            "name": "扫地的",
+            "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+            "location": "湖南"
+          },
+          "text": "经纪商免费提供软件和实习账户。大多数世界范围的经纪商使用Meta Trader 4（MT4）平台，该平台是最受全球交易者欢迎的交易软件",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

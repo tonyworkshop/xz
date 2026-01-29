@@ -1,0 +1,335 @@
+{
+  "captured_at": "2026-01-29T21:02:24.992580",
+  "url": "https://api.zsxq.com/v2/topics/2852151242248511/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2852151242248511",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5121448521414854,
+          "create_time": "2025-07-23T11:02:21.441+0800",
+          "owner": {
+            "user_id": 28455284844881,
+            "name": "中年小马",
+            "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg=",
+            "location": "美国"
+          },
+          "text": "如果双卖ATM末日期权，那基本肯定有一端会交割了？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2858441258124811,
+          "create_time": "2025-07-23T11:19:34.502+0800",
+          "owner": {
+            "user_id": 2452542441,
+            "name": "Zac",
+            "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+            "location": "上海"
+          },
+          "text": "许大，请教一下。“需要卖执行价很远的期权”的情形是否是sell put接到足够的货后需要sell call出货，但是股价却跌下去的情形？这种情况下我理解是为了sell otm call，用时间换空间，只能sell到期日更远的，不知对不对？\n另外假设股价一直在一个小空间内震荡，每次都跟我们sell 端反着来，而远端的put/call多头基本不动并且一直在损耗theta，我们又不得不用时间换空间的办法sell put/call累积theta，此时之前假定的sell 日/周期权累积收益远大于leap put/call多头的cost的前提也就不成立了吧？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 13,
+          "replied_comments": [
+            {
+              "comment_id": 4848221545425888,
+              "parent_comment_id": 2858441258124811,
+              "create_time": "2025-07-23T11:31:18.667+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "如果股价小幅度震荡就意味着你的近端接近atm的期权就还是能卖的上价格的呀，不用以时间换空间，正常卖短期的就可以了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18="
+              }
+            },
+            {
+              "comment_id": 1525118452418482,
+              "parent_comment_id": 2858441258124811,
+              "create_time": "2025-07-23T14:03:48.258+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "比如你TQQQ 80接到货，周五股价跌到75，sell 下周五80甚至更高的call卖不出什么价吧？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            },
+            {
+              "comment_id": 5121448512584444,
+              "parent_comment_id": 2858441258124811,
+              "create_time": "2025-07-23T14:08:32.065+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "tqqq波动率不低的，你去看看现价大概87左右，你卖92的周期权大约还能卖1元左右呢",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18="
+              }
+            },
+            {
+              "comment_id": 2858441285415441,
+              "parent_comment_id": 2858441258124811,
+              "create_time": "2025-07-23T14:18:38.410+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "如果跌得比较多那你leap put就赚了，仓位够的话你整个头寸小亏不亏或者赚的，你把leap put平掉，盈利部分可以算到接货的平均成本里面拉低现货成本并且记录好，然后再重新开就可以了，这时候如果leap call不值钱，留着就行了，大涨起来你这头又挣，一样的",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18="
+              }
+            },
+            {
+              "comment_id": 5121448512488854,
+              "parent_comment_id": 2858441258124811,
+              "create_time": "2025-07-23T14:23:27.916+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "你看的是下周五到期的吧？这是接近两周的premium。就看上周五7/18的数据，TQQQ大概87，7/25到期的92 call：开盘0.39，收盘0.17",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            },
+            {
+              "comment_id": 4848221584141828,
+              "parent_comment_id": 2858441258124811,
+              "create_time": "2025-07-23T14:27:52.080+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "那就卖2周的嘛，也不会亏太多，而且平均成本做下来以后，如果tqqq本身小幅波动那就可以往近点的atm卖就行了，核心还是去拉低现货成本",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18="
+              }
+            },
+            {
+              "comment_id": 5121448511255484,
+              "parent_comment_id": 2858441258124811,
+              "create_time": "2025-07-23T14:47:42.885+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "我的疑问就是时间换空间是否还能cover leap position cost。你如果一直卖两周后的，能否还可以cover？\n另外我想讨论的是刚建仓就遭遇行情持续反向震荡的情况，也就是你每周sell的都被击中，不是成本已经降下来后的情况",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            },
+            {
+              "comment_id": 2858441288845221,
+              "parent_comment_id": 2858441258124811,
+              "create_time": "2025-07-23T15:00:41.533+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "这个算就行了，如果一年以上的leap option肯定能盖住的，并且你卖着卖着成本低下来后你就能按周卖了。\n每周short波动不大都被行权更简单了，比如我挂87的short put接到现货了，下周接到现货后做87的cover call，又被行权现货没了，我还吃权利金呢，再下周接着short put就完事了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18="
+              }
+            },
+            {
+              "comment_id": 4848221582182218,
+              "parent_comment_id": 2858441258124811,
+              "create_time": "2025-07-23T16:16:59.962+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "一年时以上...vega扛得住吗[撇嘴]我记得许大说过不要搞这么远的。\n然后还是那个问题，你87接到货后，等你要roll时跌到80附近了，你sell 87 call，没多少premium的。咱不能总往好的方向假设吧？像你说的，搞一年以上的leap用时间换空间，这时vega上的波动是不是全看自己对冲的水平了？当然还有仓位管理的水平。我自己写程序回测，碰到一些倒霉行情确实不行。到最后感觉搞期权真的核心就是玩IV/RV或被IV/RV玩[捂脸]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            },
+            {
+              "comment_id": 1525118451842522,
+              "parent_comment_id": 2858441258124811,
+              "create_time": "2025-07-23T16:18:18.900+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "另外，老哥一般leap卖otm多远价位的？这个距离和张数也是个学问",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            },
+            {
+              "comment_id": 8858441281514142,
+              "parent_comment_id": 2858441258124811,
+              "create_time": "2025-07-23T16:49:29.840+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "所以对于指数而言，也是会用vix之内的vega去对冲的，当然这个比较高阶我也不太玩得来，我更多是用一些不同的期限结构，但一些特别倒霉的行情就只能认，没办法的，慢慢熬就是，所以许大也说过核心还是要标的好，标的不好容易完蛋，自己做还好，如果替别人管钱也容易挨骂。\n选择期限结构和价位张数根据标的不同不一样，不好一概而论。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18="
+              }
+            },
+            {
+              "comment_id": 1525118458521422,
+              "parent_comment_id": 2858441258124811,
+              "create_time": "2025-07-23T16:54:55.380+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "核心还是控制现货，现货本身没问题，那就剩下的交给时间，所以归根结底。。。别超卖？[偷笑]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18="
+              }
+            },
+            {
+              "comment_id": 8858441281425412,
+              "parent_comment_id": 2858441258124811,
+              "create_time": "2025-07-23T17:46:06.162+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "哈哈，认同，选对标的+不要做赌狗[破涕为笑][破涕为笑]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "captured_at": "2026-01-29T22:48:56.104708",
+  "url": "https://api.zsxq.com/v2/topics/2855222241581451/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2855222241581451",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855284845444182,
+          "create_time": "2024-04-28T19:10:32.722+0800",
+          "owner": {
+            "user_id": 585215544844454,
+            "name": "澄泓",
+            "avatar_url": "https://images.zsxq.com/FuQ7OV6C4kmY6BJA_4Rm3ZjB9Q60?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0CvyUR-iuOggWVPtq6vOdSxOZ-w=",
+            "location": "广东"
+          },
+          "text": "感谢许大解答，通缩是钱在升值，央行不断印钞没有造成通胀是因为钱放出去，居民企业负债到极限，没有负债能力了，是不是这样理解？还有一个问题，那如果学美联储给居民发钱不就可以完美解决？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 2855284841481251,
+              "parent_comment_id": 8855284845444182,
+              "create_time": "2024-04-29T05:47:11.915+0800",
+              "owner": {
+                "user_id": 28882258154421,
+                "name": "Max_峯",
+                "avatar_url": "https://images.zsxq.com/FhKkSU8CJAAx67nRH0qjE21A-vqq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s6ttUTEAfwD-cI04Qhd5_Bia0FQ=",
+                "location": "湖北"
+              },
+              "text": "优质资产都在跌，未来没有预期，发钱也会存银行的。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 585215544844454,
+                "name": "澄泓",
+                "avatar_url": "https://images.zsxq.com/FuQ7OV6C4kmY6BJA_4Rm3ZjB9Q60?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0CvyUR-iuOggWVPtq6vOdSxOZ-w="
+              }
+            },
+            {
+              "comment_id": 5122514182151244,
+              "parent_comment_id": 8855284845444182,
+              "create_time": "2024-04-29T08:56:51.903+0800",
+              "owner": {
+                "user_id": 15558282185242,
+                "name": "青弦",
+                "avatar_url": "https://images.zsxq.com/FlmANoiH6TYDBTYV-uiHEcRfCSz-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-EzVzmYAuQqbm8RzXhGmb23U0sk=",
+                "location": "江苏"
+              },
+              "text": "按道理美联储不能直接操作，发钱也应该是财务部。给居民发钱要么国库充盈（家里有矿无所谓），要么增加政府负债（欧美欠多了还是大爷，你欠多了会被叽歪）。其他还有社会环境等等，变老变懒是人性趋势。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 585215544844454,
+                "name": "澄泓",
+                "avatar_url": "https://images.zsxq.com/FuQ7OV6C4kmY6BJA_4Rm3ZjB9Q60?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0CvyUR-iuOggWVPtq6vOdSxOZ-w="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8855284841488812,
+          "create_time": "2024-04-29T04:40:07.706+0800",
+          "owner": {
+            "user_id": 51511412418454,
+            "name": "Li Zhao",
+            "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578=",
+            "location": "卢森堡"
+          },
+          "text": "所以美国变成高通胀",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2855228144248511,
+          "create_time": "2024-04-30T15:40:13.798+0800",
+          "owner": {
+            "user_id": 585215544844454,
+            "name": "澄泓",
+            "avatar_url": "https://images.zsxq.com/FuQ7OV6C4kmY6BJA_4Rm3ZjB9Q60?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0CvyUR-iuOggWVPtq6vOdSxOZ-w=",
+            "location": "广东"
+          },
+          "text": "谢谢许大，谢谢大家的解答，我很多不理解导致问的问题有点绕大家见谅哈，我发现有很多我都是被绕进去了，因为美联储加息人民币降息对抗导致人民币在贬值，但是国内通缩购买力增长钱反而是升值的，我都给理解成贬值了，我发现很多时候我理解的都是错的，其实我看了很多遍许大在知乎的文章，无奈消化不了，不能领悟其中精髓，学习能力还有待加强。。。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8858484484255512,
+              "parent_comment_id": 2855228144248511,
+              "create_time": "2025-06-08T20:29:46.296+0800",
+              "owner": {
+                "user_id": 118511218281852,
+                "name": "姜莉",
+                "avatar_url": "https://images.zsxq.com/FiIP0-PgP6Jiix11NES-6jM384iq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zs_stU-e9WnCJzuR1j6z1YEo36w=",
+                "location": "广东"
+              },
+              "text": "可以参考瑞达利欧的经济经济是如何运行的，里面提到了在去杠杆过程中的货币印发对于经济、价格的影响。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 585215544844454,
+                "name": "澄泓",
+                "avatar_url": "https://images.zsxq.com/FuQ7OV6C4kmY6BJA_4Rm3ZjB9Q60?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0CvyUR-iuOggWVPtq6vOdSxOZ-w="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "captured_at": "2026-01-29T22:14:09.193611",
+  "url": "https://api.zsxq.com/v2/topics/5122812882511414/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5122812882511414",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2855482824854281,
+          "create_time": "2024-08-06T19:53:27.676+0800",
+          "owner": {
+            "user_id": 414822418441558,
+            "name": "乡紳",
+            "avatar_url": "https://images.zsxq.com/FuuOjwFr07Xfhj-62rtufxW6VxU1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zG0mnsqnSX6TtJUrIwZ7tvlbGkg=",
+            "location": "广东"
+          },
+          "text": "资源股能不能跑赢通胀",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2855421845844841,
+              "parent_comment_id": 2855482824854281,
+              "create_time": "2024-09-05T21:01:17.164+0800",
+              "owner": {
+                "user_id": 544812224154444,
+                "name": "大头",
+                "avatar_url": "https://images.zsxq.com/FlNm4t8QMw9eEwE-qDcchV2lagE5?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5sbxi2sVS6w_l7IORcQ24O7hEvc=",
+                "location": "湖北"
+              },
+              "text": "我认为不能，理论上资源类是能抵消。现实，开采 冶炼 销售 企业运转，都会侵蚀利润。然后，物价的掌控……",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 414822418441558,
+                "name": "乡紳",
+                "avatar_url": "https://images.zsxq.com/FuuOjwFr07Xfhj-62rtufxW6VxU1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zG0mnsqnSX6TtJUrIwZ7tvlbGkg="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

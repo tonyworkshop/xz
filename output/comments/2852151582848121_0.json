@@ -1,0 +1,55 @@
+{
+  "captured_at": "2026-01-29T21:03:59.818047",
+  "url": "https://api.zsxq.com/v2/topics/2852151582848121/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2852151582848121",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4848225284814488,
+          "create_time": "2025-07-12T20:18:52.331+0800",
+          "owner": {
+            "user_id": 1854551852,
+            "name": "林",
+            "avatar_url": "https://images.zsxq.com/FkpX6Hd6ZhCswvpOxFzMkaOUyKue?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:woqgL0silL63ulDIpBQ1OgsLHts=",
+            "location": "广东"
+          },
+          "text": "日期权总是打中咋整",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2858442418215841,
+              "parent_comment_id": 4848225284814488,
+              "create_time": "2025-07-14T11:25:11.187+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "打中就接现货",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 1854551852,
+                "name": "林",
+                "avatar_url": "https://images.zsxq.com/FkpX6Hd6ZhCswvpOxFzMkaOUyKue?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:woqgL0silL63ulDIpBQ1OgsLHts="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

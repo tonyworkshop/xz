@@ -1,0 +1,222 @@
+{
+  "captured_at": "2026-01-29T21:49:28.852132",
+  "url": "https://api.zsxq.com/v2/topics/1525144828824482/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1525144828824482",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855121448281442,
+          "create_time": "2024-12-24T08:51:54.734+0800",
+          "owner": {
+            "user_id": 15284152825542,
+            "name": "日高晏眠人",
+            "alias": "日高晏眠人",
+            "avatar_url": "https://images.zsxq.com/FmgqRiV7eHEKrbLz9Xl-x3x6bxNL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T2Ffk5JVbDOQvMcAUztpXo4fpQc=",
+            "location": "广东"
+          },
+          "text": "这策略适用于任何公司吧，所以问题还是选股，为什么是上海机场。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 5,
+          "replied_comments": [
+            {
+              "comment_id": 2855121448281111,
+              "parent_comment_id": 8855121448281442,
+              "create_time": "2024-12-24T08:52:41.562+0800",
+              "owner": {
+                "user_id": 88848544885182,
+                "name": "格格",
+                "avatar_url": "https://images.zsxq.com/FoaVIwdYTT3TIYt43yWpqlrW1TNZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CxkdQJbWaQzt9rKIg77nLlPEUT4=",
+                "location": "河南"
+              },
+              "text": "许大之前说过上海机场",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 15284152825542,
+                "name": "日高晏眠人",
+                "alias": "日高晏眠人",
+                "avatar_url": "https://images.zsxq.com/FmgqRiV7eHEKrbLz9Xl-x3x6bxNL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T2Ffk5JVbDOQvMcAUztpXo4fpQc="
+              }
+            },
+            {
+              "comment_id": 5122842428255124,
+              "parent_comment_id": 8855121448281442,
+              "create_time": "2024-12-29T22:34:27.758+0800",
+              "owner": {
+                "user_id": 88848544885182,
+                "name": "格格",
+                "avatar_url": "https://images.zsxq.com/FoaVIwdYTT3TIYt43yWpqlrW1TNZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CxkdQJbWaQzt9rKIg77nLlPEUT4=",
+                "location": "河南"
+              },
+              "text": "上海机场会不会倒闭？有没有可以替代的机场？这两个问题想清楚就好了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 15284152825542,
+                "name": "日高晏眠人",
+                "alias": "日高晏眠人",
+                "avatar_url": "https://images.zsxq.com/FmgqRiV7eHEKrbLz9Xl-x3x6bxNL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T2Ffk5JVbDOQvMcAUztpXo4fpQc="
+              }
+            },
+            {
+              "comment_id": 5122842428521124,
+              "parent_comment_id": 8855121448281442,
+              "create_time": "2024-12-29T23:35:11.749+0800",
+              "owner": {
+                "user_id": 15284152825542,
+                "name": "日高晏眠人",
+                "alias": "日高晏眠人",
+                "avatar_url": "https://images.zsxq.com/FmgqRiV7eHEKrbLz9Xl-x3x6bxNL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T2Ffk5JVbDOQvMcAUztpXo4fpQc=",
+                "location": "广东"
+              },
+              "text": "明天如果跌停趁机加仓吗？可以补个京沪高铁作为对冲，可惜现在有点贵了。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88848544885182,
+                "name": "格格",
+                "avatar_url": "https://images.zsxq.com/FoaVIwdYTT3TIYt43yWpqlrW1TNZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CxkdQJbWaQzt9rKIg77nLlPEUT4="
+              }
+            },
+            {
+              "comment_id": 2855145451481181,
+              "parent_comment_id": 8855121448281442,
+              "create_time": "2024-12-30T02:14:57.526+0800",
+              "owner": {
+                "user_id": 88848544885182,
+                "name": "格格",
+                "avatar_url": "https://images.zsxq.com/FoaVIwdYTT3TIYt43yWpqlrW1TNZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CxkdQJbWaQzt9rKIg77nLlPEUT4=",
+                "location": "河南"
+              },
+              "text": "暂定的定投策略是 每周一万股",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 15284152825542,
+                "name": "日高晏眠人",
+                "alias": "日高晏眠人",
+                "avatar_url": "https://images.zsxq.com/FmgqRiV7eHEKrbLz9Xl-x3x6bxNL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T2Ffk5JVbDOQvMcAUztpXo4fpQc="
+              }
+            },
+            {
+              "comment_id": 8855145451428282,
+              "parent_comment_id": 8855121448281442,
+              "create_time": "2024-12-30T02:41:35.653+0800",
+              "owner": {
+                "user_id": 15284152825542,
+                "name": "日高晏眠人",
+                "alias": "日高晏眠人",
+                "avatar_url": "https://images.zsxq.com/FmgqRiV7eHEKrbLz9Xl-x3x6bxNL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T2Ffk5JVbDOQvMcAUztpXo4fpQc=",
+                "location": "广东"
+              },
+              "text": "每周一万股？格格威武……",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88848544885182,
+                "name": "格格",
+                "avatar_url": "https://images.zsxq.com/FoaVIwdYTT3TIYt43yWpqlrW1TNZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CxkdQJbWaQzt9rKIg77nLlPEUT4="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4844151222212858,
+          "create_time": "2024-12-24T10:25:50.280+0800",
+          "owner": {
+            "user_id": 818855821841522,
+            "name": "PATH",
+            "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+            "location": "上海"
+          },
+          "text": "这样定投最后得到的成本就是一个平均值，没有期权就很难再往下刷成本了，没有成本优势那你的持仓PE、ROE、股息率等等和其它人没什么两样",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4844151211144548,
+              "parent_comment_id": 4844151222212858,
+              "create_time": "2024-12-24T20:47:45.929+0800",
+              "owner": {
+                "user_id": 88848544885182,
+                "name": "格格",
+                "avatar_url": "https://images.zsxq.com/FoaVIwdYTT3TIYt43yWpqlrW1TNZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CxkdQJbWaQzt9rKIg77nLlPEUT4=",
+                "location": "河南"
+              },
+              "text": "时间",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5122842224812454,
+          "create_time": "2024-12-25T07:57:58.845+0800",
+          "owner": {
+            "user_id": 51154552482454,
+            "name": "Yingkun",
+            "avatar_url": "https://images.zsxq.com/FhL57VgNoQ1EXT4jAfM6S7ELMy5r?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6LJ82zksUVNzdzP5vaf5G01EkXc=",
+            "location": "北京"
+          },
+          "text": "定投不适合个股。如果公司现在低估且经营周期向上，那最好现在一次性建仓，或者分批几次建仓，但如果拉长到2年，那大部分的买入都买贵了。如果是高估且向下，那可能定投的每笔都买错。 更主要是单个公司的经营充满风险和波动，需要深入研究+定期检视，现在的决策很难无脑管两年。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1522812221882882,
+          "create_time": "2024-12-25T08:31:30.379+0800",
+          "owner": {
+            "user_id": 51154552482454,
+            "name": "Yingkun",
+            "avatar_url": "https://images.zsxq.com/FhL57VgNoQ1EXT4jAfM6S7ELMy5r?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6LJ82zksUVNzdzP5vaf5G01EkXc=",
+            "location": "北京"
+          },
+          "text": "定投适合：1. 不花精力或没能力深入研究； 2. 投代表性宽基指数如沪深300的指数基金，或极少数优秀的如红利低波动； 3. 资金来源是分批的，如每月工资拿出10%长期不用的（3年以上）闲钱。 买个股买到乐视这种归零的就血本无归了，但指数基金会定期调仓、新陈代谢，虽然调仓不总是调得好，但至少避免血本无归。但定投A股的指数基金过去几年也很不理想，并不是无脑稳赢的策略，分散配置中美、各大类资产，做足够学习和研究，还是需要的吧。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

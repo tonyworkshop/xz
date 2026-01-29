@@ -1,0 +1,165 @@
+{
+  "captured_at": "2026-01-29T22:53:06.810422",
+  "url": "https://api.zsxq.com/v2/topics/1522452288521482/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1522452288521482",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2855288515881251,
+          "create_time": "2024-04-15T17:46:22.499+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "新西兰"
+          },
+          "text": "这个操作是否只在没有降息的这段时间内有效，能否长达十年二十年的锁定目前看比较高的利息达到退休养老吃固定收益的目的？还是可以现在就做空比如十年后到期的NQ期货同时搭配买入对应份额的QQQ？",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 6,
+          "replied_comments": [
+            {
+              "comment_id": 5122511281114884,
+              "parent_comment_id": 2855288515881251,
+              "create_time": "2024-04-15T20:15:46.883+0800",
+              "owner": {
+                "user_id": 51288542884184,
+                "name": "lsh",
+                "avatar_url": "https://images.zsxq.com/Fp7EGJMFbm6O_2ky87VL88pxFjDC?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JTcOCUhvfNtiglKFZRIdobTxQco=",
+                "location": "美国"
+              },
+              "text": "我查了下最远期的期货是NQ2812",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png"
+              }
+            },
+            {
+              "comment_id": 8855288484812112,
+              "parent_comment_id": 2855288515881251,
+              "create_time": "2024-04-18T09:10:42.861+0800",
+              "owner": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c=",
+                "location": "美国"
+              },
+              "text": "请问需要在到期前把 future 继续roll 对吧？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51288542884184,
+                "name": "lsh",
+                "avatar_url": "https://images.zsxq.com/Fp7EGJMFbm6O_2ky87VL88pxFjDC?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JTcOCUhvfNtiglKFZRIdobTxQco="
+              }
+            },
+            {
+              "comment_id": 1522455141445552,
+              "parent_comment_id": 2855288515881251,
+              "create_time": "2024-04-18T15:09:13.833+0800",
+              "owner": {
+                "user_id": 51288542884184,
+                "name": "lsh",
+                "avatar_url": "https://images.zsxq.com/Fp7EGJMFbm6O_2ky87VL88pxFjDC?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JTcOCUhvfNtiglKFZRIdobTxQco=",
+                "location": "美国"
+              },
+              "text": "我也没理解这个高利率是咋算进去的，以及如何吃到这个短期高利率",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c="
+              }
+            },
+            {
+              "comment_id": 5122515421424214,
+              "parent_comment_id": 2855288515881251,
+              "create_time": "2024-04-23T15:10:04.328+0800",
+              "owner": {
+                "user_id": 51122225814514,
+                "name": "真的是大风",
+                "avatar_url": "https://images.zsxq.com/Fkn-ClpPFW1Hwi24llEUR8EORsy3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kiOuegSdjap8s5te2lgHJrX0w-g=",
+                "location": "上海"
+              },
+              "text": "chatgpt里问什么是期现套利就知道了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51288542884184,
+                "name": "lsh",
+                "avatar_url": "https://images.zsxq.com/Fp7EGJMFbm6O_2ky87VL88pxFjDC?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JTcOCUhvfNtiglKFZRIdobTxQco="
+              }
+            },
+            {
+              "comment_id": 5122515485422284,
+              "parent_comment_id": 2855288515881251,
+              "create_time": "2024-04-25T06:38:49.757+0800",
+              "owner": {
+                "user_id": 51288542884184,
+                "name": "lsh",
+                "avatar_url": "https://images.zsxq.com/Fp7EGJMFbm6O_2ky87VL88pxFjDC?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JTcOCUhvfNtiglKFZRIdobTxQco=",
+                "location": "美国"
+              },
+              "text": "我看了看期货价格，溢价也没有年化5%那么多，也就一点多，能吃到年化5%？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51122225814514,
+                "name": "真的是大风",
+                "avatar_url": "https://images.zsxq.com/Fkn-ClpPFW1Hwi24llEUR8EORsy3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kiOuegSdjap8s5te2lgHJrX0w-g="
+              }
+            },
+            {
+              "comment_id": 5122555555884824,
+              "parent_comment_id": 2855288515881251,
+              "create_time": "2024-05-06T09:23:49.215+0800",
+              "owner": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c=",
+                "location": "美国"
+              },
+              "text": "我也看了，没有5percent 这么多",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51288542884184,
+                "name": "lsh",
+                "avatar_url": "https://images.zsxq.com/Fp7EGJMFbm6O_2ky87VL88pxFjDC?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JTcOCUhvfNtiglKFZRIdobTxQco="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

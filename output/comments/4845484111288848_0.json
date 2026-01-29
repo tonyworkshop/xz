@@ -1,0 +1,115 @@
+{
+  "captured_at": "2026-01-29T21:28:05.365811",
+  "url": "https://api.zsxq.com/v2/topics/4845484111288848/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4845484111288848",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5121541224485844,
+          "create_time": "2025-04-03T21:43:53.091+0800",
+          "owner": {
+            "user_id": 28882258154421,
+            "name": "Max_峯",
+            "avatar_url": "https://images.zsxq.com/FhKkSU8CJAAx67nRH0qjE21A-vqq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s6ttUTEAfwD-cI04Qhd5_Bia0FQ=",
+            "location": "湖北"
+          },
+          "text": "当年10群都炸了好几轮",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 5121541228122884,
+              "parent_comment_id": 5121541224485844,
+              "create_time": "2025-04-03T22:26:39.153+0800",
+              "owner": {
+                "user_id": 585581551884154,
+                "name": "Michel Fou*",
+                "avatar_url": "https://images.zsxq.com/FhkmH6yOAUEAI-ZUZhiCLTbfSDHW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qjx_qCr2u2Qr5JXL5w8TDcykLzk=",
+                "location": "台湾"
+              },
+              "text": "我是从知乎开始关注许大的，没加过群，现在还有群可以加吗",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28882258154421,
+                "name": "Max_峯",
+                "avatar_url": "https://images.zsxq.com/FhKkSU8CJAAx67nRH0qjE21A-vqq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s6ttUTEAfwD-cI04Qhd5_Bia0FQ="
+              }
+            },
+            {
+              "comment_id": 5121541228121454,
+              "parent_comment_id": 5121541224485844,
+              "create_time": "2025-04-03T22:28:37.596+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "不搞群了，反复被禁",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 585581551884154,
+                "name": "Michel Fou*",
+                "avatar_url": "https://images.zsxq.com/FhkmH6yOAUEAI-ZUZhiCLTbfSDHW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qjx_qCr2u2Qr5JXL5w8TDcykLzk="
+              }
+            },
+            {
+              "comment_id": 1525415554248442,
+              "parent_comment_id": 5121541224485844,
+              "create_time": "2025-04-04T08:23:41.362+0800",
+              "owner": {
+                "user_id": 212251844248511,
+                "name": "amize",
+                "avatar_url": "https://images.zsxq.com/FhvY86x85JgKCUZ_szaOGgN9kuS3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J4zkwiQ-K1SAgrUaHo-MITFu4zg=",
+                "location": "北京"
+              },
+              "text": "可以整个telegram群",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5121541152441144,
+          "create_time": "2025-04-04T14:49:01.201+0800",
+          "owner": {
+            "user_id": 15124211128112,
+            "name": "鱼在雨中游2222",
+            "avatar_url": "https://images.zsxq.com/FtKaYqxpn3pyZX3GSGTHfeTrLfnk?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zfUkoufho3tdWHKW_Hy2gD1MQXc=",
+            "location": "上海"
+          },
+          "text": "咦 我错过了什么…",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "captured_at": "2026-01-29T22:59:31.171450",
+  "url": "https://api.zsxq.com/v2/topics/2855812144851221/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2855812144851221",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2855251588855411,
+          "create_time": "2024-04-02T11:53:45.942+0800",
+          "owner": {
+            "user_id": 1854551852,
+            "name": "林",
+            "avatar_url": "https://images.zsxq.com/FkpX6Hd6ZhCswvpOxFzMkaOUyKue?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:woqgL0silL63ulDIpBQ1OgsLHts=",
+            "location": "广东"
+          },
+          "text": "很贵",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 8855251588842822,
+              "parent_comment_id": 2855251588855411,
+              "create_time": "2024-04-02T12:19:05.109+0800",
+              "owner": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c=",
+                "location": "美国"
+              },
+              "text": "大概多贵[呲牙]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 1854551852,
+                "name": "林",
+                "avatar_url": "https://images.zsxq.com/FkpX6Hd6ZhCswvpOxFzMkaOUyKue?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:woqgL0silL63ulDIpBQ1OgsLHts="
+              }
+            },
+            {
+              "comment_id": 1522428242184852,
+              "parent_comment_id": 2855251588855411,
+              "create_time": "2024-04-02T18:07:36.221+0800",
+              "owner": {
+                "user_id": 1854551852,
+                "name": "林",
+                "avatar_url": "https://images.zsxq.com/FkpX6Hd6ZhCswvpOxFzMkaOUyKue?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:woqgL0silL63ulDIpBQ1OgsLHts=",
+                "location": "广东"
+              },
+              "text": "印象中几年前在交易所官网购买单只股票期权一周数据一百多刀",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c="
+              }
+            },
+            {
+              "comment_id": 5122528242541854,
+              "parent_comment_id": 2855251588855411,
+              "create_time": "2024-04-03T06:42:28.467+0800",
+              "owner": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c=",
+                "location": "美国"
+              },
+              "text": "的确很贵[憨笑]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 1854551852,
+                "name": "林",
+                "avatar_url": "https://images.zsxq.com/FkpX6Hd6ZhCswvpOxFzMkaOUyKue?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:woqgL0silL63ulDIpBQ1OgsLHts="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

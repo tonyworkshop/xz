@@ -1,0 +1,840 @@
+{
+  "captured_at": "2026-01-29T21:41:55.393281",
+  "url": "https://api.zsxq.com/v2/topics/1525821842142122/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1525821842142122",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2858811121255251,
+          "create_time": "2025-02-04T02:57:01.884+0800",
+          "owner": {
+            "user_id": 414822418441558,
+            "name": "乡紳",
+            "avatar_url": "https://images.zsxq.com/FuuOjwFr07Xfhj-62rtufxW6VxU1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zG0mnsqnSX6TtJUrIwZ7tvlbGkg=",
+            "location": "广东"
+          },
+          "text": "求一个pdf版",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8858811121258522,
+          "create_time": "2025-02-04T03:58:59.132+0800",
+          "owner": {
+            "user_id": 415814458285888,
+            "name": "Januaryy",
+            "avatar_url": "https://images.zsxq.com/FpeEOBdRFthOkh4WOYLbrJLgAJrq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IrmeV7bwPgIsOAoAwzoZdgG-Hkc=",
+            "location": "四川"
+          },
+          "text": "这不比诺奖的bsm精彩嘛～昂贵之文！",
+          "likes_count": 9,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1525588848425552,
+          "create_time": "2025-02-04T04:10:54.997+0800",
+          "owner": {
+            "user_id": 88441848854552,
+            "name": "　　　　　　　　",
+            "avatar_url": "https://images.zsxq.com/Fm9TStZxHt3kmOewrLlmx5Hq8X6P?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-Hd9Rc-i7vVPrj6mw5S7MQcU9ds=",
+            "location": "福建"
+          },
+          "text": "几乎在手把手教学了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1525588848424422,
+          "create_time": "2025-02-04T04:52:56.052+0800",
+          "owner": {
+            "user_id": 48888218821448,
+            "name": "后中先",
+            "avatar_url": "https://images.zsxq.com/FgMU4F6QPUmflR3useJkg84ci1zi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o0dwW_iV0MVOnxzlk7z1whiVWY0=",
+            "location": "江苏"
+          },
+          "text": "[强][强][强]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848811151545558,
+          "create_time": "2025-02-04T05:01:52.324+0800",
+          "owner": {
+            "user_id": 51511412418454,
+            "name": "Li Zhao",
+            "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578=",
+            "location": "卢森堡"
+          },
+          "text": "多谢许大指导，有一个问题，许大说atm的call和put是应该是同价的，这个好像和put-call平价模型不一致，所以这个模型在现实市场里面也是无效的？我实际也确实没看到atm call 和put平价的情况，所以这是许大例子里面的假设？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 12,
+          "replied_comments": [
+            {
+              "comment_id": 4848811124555288,
+              "parent_comment_id": 4848811151545558,
+              "create_time": "2025-02-04T12:14:34.413+0800",
+              "owner": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+                "location": "北京"
+              },
+              "text": "我这里试着帮你解释一下 如果我说的不对望指正 c - p = F0 - K, F0 = S0e^rt, F0是期货的价值， K是期货/期权的执行价，现在高利率的环境下r并不小，F0是有升水的，所以c-p会有一个差，同一个执行价的call会随着时间来讲比put贵一些",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51511412418454,
+                "name": "Li Zhao",
+                "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578="
+              }
+            },
+            {
+              "comment_id": 8858811145148852,
+              "parent_comment_id": 4848811151545558,
+              "create_time": "2025-02-04T13:45:50.929+0800",
+              "owner": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+                "location": "北京"
+              },
+              "text": "抛砖引玉了 谢谢🙏",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM="
+              }
+            },
+            {
+              "comment_id": 1525588815242212,
+              "parent_comment_id": 4848811151545558,
+              "create_time": "2025-02-04T14:52:37.414+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "是考虑了的，期权也是远期的，0.5delta那个位置才是真atm",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM="
+              }
+            },
+            {
+              "comment_id": 1525588815242282,
+              "parent_comment_id": 4848811151545558,
+              "create_time": "2025-02-04T14:52:51.382+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "你说的是对的",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8="
+              }
+            },
+            {
+              "comment_id": 1525422282485212,
+              "parent_comment_id": 4848811151545558,
+              "create_time": "2025-02-05T01:29:45.270+0800",
+              "owner": {
+                "user_id": 51511412418454,
+                "name": "Li Zhao",
+                "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578=",
+                "location": "卢森堡"
+              },
+              "text": "对，这也是我理解的，所以我好奇为什么许大会说atm的call和put同价，我好奇是这只是为了简单表述做的设定还是硕现实中的call put parity也是不完全准确的",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8="
+              }
+            },
+            {
+              "comment_id": 5121522282585524,
+              "parent_comment_id": 4848811151545558,
+              "create_time": "2025-02-05T01:47:49.401+0800",
+              "owner": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+                "location": "北京"
+              },
+              "text": "如果真要观察现实当中，就像许大说的得严格找到delta=0.5的call和put比较，但是这其实不太容易，哪那么巧股价就正好落在行权价上。而且估计最好找近周的，这样利率和股息的影响是最低的。再一个就是美股期权是美式的，本来就没有一个像欧式一样严格遵守的put call parity，美式期权的put call parity是一个范围 which is S0 - K< =C-P< =S0 - Ke^(-rt)。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51511412418454,
+                "name": "Li Zhao",
+                "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578="
+              }
+            },
+            {
+              "comment_id": 8858255515212212,
+              "parent_comment_id": 4848811151545558,
+              "create_time": "2025-02-05T01:54:25.179+0800",
+              "owner": {
+                "user_id": 51511412418454,
+                "name": "Li Zhao",
+                "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578=",
+                "location": "卢森堡"
+              },
+              "text": "确实，基本上最近的价格都认为是atm了。纯理论好奇，因为我觉得call的收益是无限的，put的收益有限，所以这个角度上call比较贵一点是应该的。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8="
+              }
+            },
+            {
+              "comment_id": 5121522282584214,
+              "parent_comment_id": 4848811151545558,
+              "create_time": "2025-02-05T02:17:07.023+0800",
+              "owner": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+                "location": "北京"
+              },
+              "text": "虽然现在现象是call比put贵，但我觉得你这个理解是不太准确的，我的理解是put跟call其实没有区别，因为期权的世界里资产，call和put都能随意合成，价格是根据无套利定出来的不一定谁便宜谁贵，好像不太能用理解股票那一套类似啊现在call的效用比较大所以call就应该贵去理解。我也不一定理解的对，等许大有时间了能帮忙看看吗 感谢。<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" />",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51511412418454,
+                "name": "Li Zhao",
+                "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578="
+              }
+            },
+            {
+              "comment_id": 8858255515452582,
+              "parent_comment_id": 4848811151545558,
+              "create_time": "2025-02-05T04:51:13.450+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "Call 和 Put 是可以互相转换的，所以没有Call更贵一点的。当你买入资产并且配合一张Put的时候，最后的效果是和Call一摸一样的，所以不可能有一个贵一个便宜，否则会被套利。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51511412418454,
+                "name": "Li Zhao",
+                "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578="
+              }
+            },
+            {
+              "comment_id": 2858255515452511,
+              "parent_comment_id": 4848811151545558,
+              "create_time": "2025-02-05T05:03:02.133+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "其实是差不多的，美式基本也遵循put call parity的，因为合成空头和多头不可能和现货多/空形成超过无风险收益的套利机会",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8="
+              }
+            },
+            {
+              "comment_id": 5121522282425114,
+              "parent_comment_id": 4848811151545558,
+              "create_time": "2025-02-05T05:06:26.139+0800",
+              "owner": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+                "location": "北京"
+              },
+              "text": "感谢回复！",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 2858454511451511,
+              "parent_comment_id": 4848811151545558,
+              "create_time": "2025-05-25T07:17:33.732+0800",
+              "owner": {
+                "user_id": 51111884184244,
+                "name": "kzhou",
+                "avatar_url": "https://images.zsxq.com/FnM1diE-E1jnvr9CaC3gMm25wKZv?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oglQWRmGD_KDDnKiiTFY4UQB6jw=",
+                "location": "上海"
+              },
+              "text": "看到这篇文前我有想过一个问题。假设每天循环双卖次日ATM，收益是2倍日期权费的累加，损失则是每天股价涨跌幅的绝对值（R）的累加。一段时间内的R值可以计算出这段时间的标准差（既波动率），还能让deepseek用公式帮我算出ATM的期权价格。这个价格与这段时间的R均值谁大谁小呢，正态分布下似乎正好相等呢。但尖峰肥尾下哪个更大，公式好像就靠不住了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5121188858525854,
+          "create_time": "2025-02-04T05:28:13.077+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "精彩[强]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848811151584488,
+          "create_time": "2025-02-04T06:34:24.115+0800",
+          "owner": {
+            "user_id": 548214152484284,
+            "name": "Carolina",
+            "avatar_url": "https://images.zsxq.com/FvpnxOY52A42N0qgN7MGVr6_CbC-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9iuohHhgro4q1NsO0v_I-gbH0Ik=",
+            "location": "江苏"
+          },
+          "text": "这个策略复刻了价格在真实世界中的分布，吃尽时间价值红利，再买些黑天鹅otmput彩票期权就完美了～所以就差细节了～",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5121188858514444,
+          "create_time": "2025-02-04T07:17:36.678+0800",
+          "owner": {
+            "user_id": 414855882224558,
+            "name": "恐慌收割大师兄",
+            "avatar_url": "https://images.zsxq.com/Fjufi_vEZJGNqlMg2U9AZtcvIEHH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FmMB9b-Xima_Bfj0MSHkgq0D6CE=",
+            "location": "新加坡"
+          },
+          "text": "这是我今年看到最有价值的期权文章，谢谢许大[鼓掌]太厉害了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2858811121451411,
+          "create_time": "2025-02-04T08:23:19.328+0800",
+          "owner": {
+            "user_id": 2452542441,
+            "name": "Zac",
+            "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+            "location": "上海"
+          },
+          "text": "我的妈，这篇价值爆表了。得多看几遍，仔细咂摸，感谢许大!",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5121188858841544,
+          "create_time": "2025-02-04T10:05:23.322+0800",
+          "owner": {
+            "user_id": 88212181142112,
+            "name": "freakybrid*",
+            "avatar_url": "https://images.zsxq.com/FgF1zOXyqMSh1enH9CGM5plOI1YX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ABj7KW7D05gBY0w_5P3xEfiA2C0=",
+            "location": "湖北"
+          },
+          "text": "我感觉这里是不是说了三个策略？传统网格 / wheel / 期权磨成本？我一直以为后面两者是一回事呢？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5121188842121524,
+          "create_time": "2025-02-04T11:08:04.538+0800",
+          "owner": {
+            "user_id": 225181822281,
+            "name": "梁山",
+            "avatar_url": "https://images.zsxq.com/FlMmzJkwanLN8QQ4y8M_UF85vG0h?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2ekBparkwGIjoiLUbngFsJWnono=",
+            "location": "上海"
+          },
+          "text": "顶尖理解！这个星球的门票显然太低了！[呲牙]",
+          "likes_count": 2,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848811124881558,
+          "create_time": "2025-02-04T11:32:08.139+0800",
+          "owner": {
+            "user_id": 815254124418522,
+            "name": "想牵驴的mE",
+            "avatar_url": "https://images.zsxq.com/FkEEHRQ0FXOa1y9wClUek-4pv7KU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W_mfnp_kCMKR5RFZRibaY2WCUGo=",
+            "location": "上海"
+          },
+          "text": "本人提名许大得诺贝尔经济学奖[得意]",
+          "likes_count": 4,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1525588812545452,
+          "create_time": "2025-02-04T11:38:07.433+0800",
+          "owner": {
+            "user_id": 48228111258488,
+            "name": "值星官",
+            "avatar_url": "https://images.zsxq.com/FrFTSdn5wpasYW-RtSKxPan-tpGo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XVVX6q11CKMH6U7SNDhiMvT8-IQ=",
+            "location": "河北"
+          },
+          "text": "过年过的百无聊赖,一篇雄文就跟打了鸡血一样,营养太丰富了,感谢许大的分享[合十][合十]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8858255544854242,
+          "create_time": "2025-02-04T16:21:57.952+0800",
+          "owner": {
+            "user_id": 241884544514281,
+            "name": "King",
+            "avatar_url": "https://images.zsxq.com/FtbnWJy_12b63x4hhzczYhPbGS_r?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GPinFIXHku2YFKf0bvRyH1haXxY=",
+            "location": "广东"
+          },
+          "text": "[强][强][强]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848544422855158,
+          "create_time": "2025-02-04T16:37:51.391+0800",
+          "owner": {
+            "user_id": 825144882182,
+            "name": "奇奇",
+            "avatar_url": "https://images.zsxq.com/FubaH3v7QHE4gINRee6301V6oz10?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TR6wsTK0YpXN6AFAjEe98mDbv6k=",
+            "location": "江苏"
+          },
+          "text": "许大，这样弄下来是不是只剩一个风险了，就是交易所倒闭交割不了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 5121522282224824,
+              "parent_comment_id": 4848544422855158,
+              "create_time": "2025-02-04T22:58:49.361+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "这里是尖峰肥尾都照顾到了，非峰非尾的区间是有亏损空间的",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 825144882182,
+                "name": "奇奇",
+                "avatar_url": "https://images.zsxq.com/FubaH3v7QHE4gINRee6301V6oz10?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TR6wsTK0YpXN6AFAjEe98mDbv6k="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8858255544224222,
+          "create_time": "2025-02-04T17:12:10.867+0800",
+          "owner": {
+            "user_id": 422214855212818,
+            "name": "sky",
+            "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c=",
+            "location": "美国"
+          },
+          "text": "神作，许大[抱拳][抱拳]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1525422218842412,
+          "create_time": "2025-02-04T22:44:41.684+0800",
+          "owner": {
+            "user_id": 28488881452811,
+            "name": "April",
+            "avatar_url": "https://images.zsxq.com/FqQiaXZxa518xfTSHxbUJKwr8B5q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8WbKJCa8Dh3QGuEhE7XZjRhQiIM=",
+            "location": "天津"
+          },
+          "text": "拜读大作，感恩[社会社会]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848544845554548,
+          "create_time": "2025-02-05T15:40:12.342+0800",
+          "owner": {
+            "user_id": 2452542441,
+            "name": "Zac",
+            "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+            "location": "上海"
+          },
+          "text": "“滴灌”一词用的真妙啊！",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1525422524152212,
+          "create_time": "2025-02-05T15:55:15.884+0800",
+          "owner": {
+            "user_id": 118825112251882,
+            "name": "@@",
+            "avatar_url": "https://images.zsxq.com/FjABL2ZX9jUWz25WAdiIRer06HV2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SdL5IRJozKBD38In0zFSYI2lWu0=",
+            "location": "辽宁"
+          },
+          "text": "太精彩了，让我对期权的理解上了一个台阶。终于明白一点点之前许大说的只做尖峰和肥尾的含义了！感谢🙏",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2858255282185581,
+          "create_time": "2025-02-08T00:05:33.738+0800",
+          "owner": {
+            "user_id": 141282448212,
+            "name": "Lucas Hu",
+            "avatar_url": "https://images.zsxq.com/FtxaT-Xm1pX8_R6bDB2I5KsrvWJf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:m2Ofjnz-ndKoCugFRahwV6vZZvs=",
+            "location": "浙江"
+          },
+          "text": "许大，我补充一点iv、rv的发现。  这是我实践中的发现，普通情况下如果一个资产iv=rv，那么我买了期权后去刷交易，是包赚的，但是我卖了期权再去刷交易，是亏的。  当iv大于rv一点点，刚好我买期权或卖期权去刷交易，刚好都不赚钱。 现实就是刚好iv大于rv一点点。  我数学能力不够我想明白，但是感觉到了“资本是最无情的折现机、渗透机”，就感觉冥冥之中一切皆被算计完的感觉。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2858255155548511,
+              "parent_comment_id": 2858255282185581,
+              "create_time": "2025-02-10T05:41:08.024+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "这个是无套利原则的事实体现",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 141282448212,
+                "name": "Lucas Hu",
+                "avatar_url": "https://images.zsxq.com/FtxaT-Xm1pX8_R6bDB2I5KsrvWJf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:m2Ofjnz-ndKoCugFRahwV6vZZvs="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2858255415842241,
+          "create_time": "2025-02-09T14:34:33.463+0800",
+          "owner": {
+            "user_id": 144124588522,
+            "name": "Bryan",
+            "avatar_url": "https://images.zsxq.com/FrKMAO8Vk4m_AzDyFDXIQopqUo4Q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mbdnwKxLyXNVhW34fCmBWH2_LUo=",
+            "location": "湖南"
+          },
+          "text": "short put ATM option磨成本 这一套 感觉只适合缓慢上涨的 ETF 如 QQQ ， SPY， 波动率大的 股票 比如 TLSA 并不适合",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 1525422822215522,
+              "parent_comment_id": 2858255415842241,
+              "create_time": "2025-02-10T05:41:28.046+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "tsla的iv会高就是代偿",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144124588522,
+                "name": "Bryan",
+                "avatar_url": "https://images.zsxq.com/FrKMAO8Vk4m_AzDyFDXIQopqUo4Q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mbdnwKxLyXNVhW34fCmBWH2_LUo="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1525425821114152,
+          "create_time": "2025-02-16T09:56:40.155+0800",
+          "owner": {
+            "user_id": 51284511188514,
+            "name": "文少",
+            "avatar_url": "https://images.zsxq.com/FsLwnMCDy5cIhUqyHz8xZhmdzIVM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MCvNDdNE7d4tQVrbi8dy8ihu7w8=",
+            "location": "湖北"
+          },
+          "text": "请问许大，这个操作叫“日历价差”吗？收割Theta时间价值",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 4848545444484828,
+              "parent_comment_id": 1525425821114152,
+              "create_time": "2025-02-18T03:22:54.928+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "不是传统意义上的“日历价差”",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51284511188514,
+                "name": "文少",
+                "avatar_url": "https://images.zsxq.com/FsLwnMCDy5cIhUqyHz8xZhmdzIVM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MCvNDdNE7d4tQVrbi8dy8ihu7w8="
+              }
+            },
+            {
+              "comment_id": 2858252555222481,
+              "parent_comment_id": 1525425821114152,
+              "create_time": "2025-02-18T08:16:12.590+0800",
+              "owner": {
+                "user_id": 51284511188514,
+                "name": "文少",
+                "avatar_url": "https://images.zsxq.com/FsLwnMCDy5cIhUqyHz8xZhmdzIVM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MCvNDdNE7d4tQVrbi8dy8ihu7w8=",
+                "location": "湖北"
+              },
+              "text": "谢谢解答，是否可以理解本质差异在于您的策略是为了磨成本，而日历价差只是中性套取时间价值，对标的本身没有态度。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 5121525222554244,
+              "parent_comment_id": 1525425821114152,
+              "create_time": "2025-02-18T08:17:20.530+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "日历本身就是只想套利而已",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51284511188514,
+                "name": "文少",
+                "avatar_url": "https://images.zsxq.com/FsLwnMCDy5cIhUqyHz8xZhmdzIVM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MCvNDdNE7d4tQVrbi8dy8ihu7w8="
+              }
+            },
+            {
+              "comment_id": 8858252284224142,
+              "parent_comment_id": 1525425821114152,
+              "create_time": "2025-02-20T11:31:06.262+0800",
+              "owner": {
+                "user_id": 51284511188514,
+                "name": "文少",
+                "avatar_url": "https://images.zsxq.com/FsLwnMCDy5cIhUqyHz8xZhmdzIVM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MCvNDdNE7d4tQVrbi8dy8ihu7w8=",
+                "location": "湖北"
+              },
+              "text": "做了个笔记 <e type=\"web\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPs80XHRazw00hvEAf9cEeg\" title=\"%E5%AF%B9%E6%89%8B%EF%BC%8C%E6%98%AF%E4%B8%80%E4%B8%AA%E4%B8%AA%E6%B4%BB%E7%94%9F%E7%94%9F%E7%9A%84%E4%BA%BA%E3%80%82\" />",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2858118848541421,
+          "create_time": "2025-10-23T12:07:17.894+0800",
+          "owner": {
+            "user_id": 51515155858444,
+            "name": "朱嘉宇。",
+            "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o=",
+            "location": "上海"
+          },
+          "text": "之前知识储备不够，看完没啥感觉。现在回过头来看，我愿称许大为徐家汇先知（对标奥马哈先知）[微笑]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 1525885482128412,
+              "parent_comment_id": 2858118848541421,
+              "create_time": "2025-10-23T17:31:27.379+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "现在是“松江先吃”[偷笑]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

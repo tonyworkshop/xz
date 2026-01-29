@@ -1,0 +1,46 @@
+{
+  "captured_at": "2026-01-29T22:04:09.177600",
+  "url": "https://api.zsxq.com/v2/topics/4848544182221188/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4848544182221188",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5122441218518414,
+          "create_time": "2024-09-22T09:25:02.678+0800",
+          "owner": {
+            "user_id": 48551488858818,
+            "name": "大薯条",
+            "avatar_url": "https://images.zsxq.com/FpeHJyZVplHN6uW9pc1Z5_rACSV3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2D0PuUPog9sVZUcnW1awBdDUccI=",
+            "location": "江苏"
+          },
+          "text": "直接买tqqq的put可以吗",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4844228452145218,
+          "create_time": "2024-09-22T21:53:41.557+0800",
+          "owner": {
+            "user_id": 421155242584128,
+            "name": "大道出迷途",
+            "avatar_url": "https://images.zsxq.com/FiF5HRK6XpaKf253WZV3H1I6nDg7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rxjSwrluqLkKhKMXlwwqSXlVE3Y=",
+            "location": "浙江"
+          },
+          "text": "用等价市值计算出对应张数，然后根据张数算性价比，发现好像ndx put 和tqqq put 性价比差不多，反而是short ndx call 比short tqqq call 好像有优势",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

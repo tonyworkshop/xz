@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T21:28:28.817952",
+  "url": "https://api.zsxq.com/v2/topics/5125228128885484/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5125228128885484",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1525414814514412,
+          "create_time": "2025-04-12T15:56:55.195+0800",
+          "owner": {
+            "user_id": 48412851458528,
+            "name": "macrochen",
+            "avatar_url": "https://images.zsxq.com/Fhpc9u4wd6YWLqO66mibUIp5hJkI?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MFmMynz457hFfIvRPHbqM4WSIqs=",
+            "location": "浙江"
+          },
+          "text": "既然是降本的话， 那么这个应该是一个净收入权利金的策略。也就是一个负 gamma 的策略，如果价格下跌到远期 otm put 行权价了，那近期的 sell put 的亏损一定是大于远期 otm put 收到的权利金。远期的roll over 的话，近期的sell put要怎么处理呢？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

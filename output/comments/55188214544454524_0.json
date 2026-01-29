@@ -1,0 +1,71 @@
+{
+  "captured_at": "2026-01-29T20:49:22.218802",
+  "url": "https://api.zsxq.com/v2/topics/55188214544454524/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "55188214544454524",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4848121288214458,
+          "create_time": "2025-10-14T09:23:49.423+0800",
+          "owner": {
+            "user_id": 212251844248511,
+            "name": "amize",
+            "avatar_url": "https://images.zsxq.com/FhvY86x85JgKCUZ_szaOGgN9kuS3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J4zkwiQ-K1SAgrUaHo-MITFu4zg=",
+            "location": "北京"
+          },
+          "text": "优质资产要买也是买btc啊，bnb只能投机玩",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 1525818142884142,
+              "parent_comment_id": 4848121288214458,
+              "create_time": "2025-10-14T12:36:29.175+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "注意言辞，否则请离",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 415821422152488,
+                "name": "构建遍历性",
+                "avatar_url": "https://images.zsxq.com/FsMoXEQe4khurPTIyhd2UhWXO0z1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J-6PuhWJEeZK8Xit-c7k6aAX4uI="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8858141141882452,
+          "create_time": "2025-10-14T19:54:03.535+0800",
+          "owner": {
+            "user_id": 48811511812258,
+            "name": "扫地的",
+            "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+            "location": "湖南"
+          },
+          "text": "FTX的兴衰：FTX曾是全球排名前列的加密货币衍生品交易所，一度被视为“优质资产”和行业创新典范，估值高达320亿美元。然而，2022年11月，FTX因流动性危机在短时间内迅速申请破产，震惊全球。调查发现，其创始人萨姆·班克曼-弗里德（SBF）及管理层涉嫌严重欺诈、挪用客户资金，导致大量用户资产无法取出，损失惨重。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

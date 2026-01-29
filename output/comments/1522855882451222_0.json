@@ -1,0 +1,181 @@
+{
+  "captured_at": "2026-01-29T22:13:35.486016",
+  "url": "https://api.zsxq.com/v2/topics/1522855882451222/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1522855882451222",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844285582288228,
+          "create_time": "2024-08-08T15:02:32.557+0800",
+          "owner": {
+            "user_id": 818855821841522,
+            "name": "PATH",
+            "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+            "location": "上海"
+          },
+          "text": "不同标的都买的有，两倍到几十倍货值都有，收益三倍到十几倍都有，另外，这里不是群聊，发言请节制一点",
+          "likes_count": 2,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 6,
+          "replied_comments": [
+            {
+              "comment_id": 1522154458454442,
+              "parent_comment_id": 4844285582288228,
+              "create_time": "2024-08-08T17:03:05.700+0800",
+              "owner": {
+                "user_id": 228845212181,
+                "name": "冷心",
+                "avatar_url": "https://images.zsxq.com/FvSH4KLSusfjYebunBPhP41z6YyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P5fbLFK4HuuTVMGpXnmQaPvFCIQ=",
+                "location": "广东"
+              },
+              "text": "节制是会封的意思吗？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM="
+              }
+            },
+            {
+              "comment_id": 2855482281282421,
+              "parent_comment_id": 4844285582288228,
+              "create_time": "2024-08-08T17:03:24.011+0800",
+              "owner": {
+                "user_id": 228845212181,
+                "name": "冷心",
+                "avatar_url": "https://images.zsxq.com/FvSH4KLSusfjYebunBPhP41z6YyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P5fbLFK4HuuTVMGpXnmQaPvFCIQ=",
+                "location": "广东"
+              },
+              "text": "不能私聊啊",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM="
+              }
+            },
+            {
+              "comment_id": 2855482281218411,
+              "parent_comment_id": 4844285582288228,
+              "create_time": "2024-08-08T17:06:43.818+0800",
+              "owner": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+                "location": "上海"
+              },
+              "text": "这个是许大星球，大家加进来是看许大发贴和提问许大的，不是看我们俩闲聊的",
+              "likes_count": 4,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 228845212181,
+                "name": "冷心",
+                "avatar_url": "https://images.zsxq.com/FvSH4KLSusfjYebunBPhP41z6YyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P5fbLFK4HuuTVMGpXnmQaPvFCIQ="
+              }
+            },
+            {
+              "comment_id": 8855482281188182,
+              "parent_comment_id": 4844285582288228,
+              "create_time": "2024-08-08T17:56:08.211+0800",
+              "owner": {
+                "user_id": 228845212181,
+                "name": "冷心",
+                "avatar_url": "https://images.zsxq.com/FvSH4KLSusfjYebunBPhP41z6YyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P5fbLFK4HuuTVMGpXnmQaPvFCIQ=",
+                "location": "广东"
+              },
+              "text": "问题讨论又不是不看许总了，没人脑容量这么小，感情你是专门来炫耀装逼的？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM="
+              }
+            },
+            {
+              "comment_id": 1522154458842882,
+              "parent_comment_id": 4844285582288228,
+              "create_time": "2024-08-08T18:04:47.588+0800",
+              "owner": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+                "location": "上海"
+              },
+              "text": "不是你在这开贴问问题？我评论的不是你？说我炫耀？许大没发贴可以看看他视频啊，免费视频一大堆，知乎公众号文章这么多，都看完了吗？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 228845212181,
+                "name": "冷心",
+                "avatar_url": "https://images.zsxq.com/FvSH4KLSusfjYebunBPhP41z6YyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P5fbLFK4HuuTVMGpXnmQaPvFCIQ="
+              }
+            },
+            {
+              "comment_id": 2855482281122211,
+              "parent_comment_id": 4844285582288228,
+              "create_time": "2024-08-08T18:07:44.279+0800",
+              "owner": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+                "location": "上海"
+              },
+              "text": "另外，反脆弱期权赚几倍很多吗？几倍都多那算什么反脆弱？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 228845212181,
+                "name": "冷心",
+                "avatar_url": "https://images.zsxq.com/FvSH4KLSusfjYebunBPhP41z6YyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P5fbLFK4HuuTVMGpXnmQaPvFCIQ="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4844285581241158,
+          "create_time": "2024-08-08T17:23:56.646+0800",
+          "owner": {
+            "user_id": 88452512542182,
+            "name": "心若在，梦就在",
+            "avatar_url": "https://images.zsxq.com/FsOKj7gpy8dM8hJpWufdPZVCvW9q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WI6iNg6n8Fa_LI_P4acpge-96iQ=",
+            "location": "湖北"
+          },
+          "text": "你们发帖讨论其实也可以学习到一些东西的，毕竟许总贵人语迟[捂脸]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

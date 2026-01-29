@@ -1,0 +1,311 @@
+{
+  "captured_at": "2026-01-29T21:31:51.812960",
+  "url": "https://api.zsxq.com/v2/topics/5121885242154244/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5121885242154244",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4848581581845258,
+          "create_time": "2025-03-14T14:51:51.121+0800",
+          "owner": {
+            "user_id": 2452542441,
+            "name": "Zac",
+            "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+            "location": "上海"
+          },
+          "text": "第二期来了!",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5121518518128584,
+          "create_time": "2025-03-14T14:53:49.982+0800",
+          "owner": {
+            "user_id": 421424828814588,
+            "name": "智-",
+            "avatar_url": "https://images.zsxq.com/Fig5w4-sfHn8-hCthMldJvykAYaw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FvoMjlhPbDGlJ88sJYcfSSjHg0Y=",
+            "location": "广东"
+          },
+          "text": "请教下许大，视频里说的应对连续下跌买入长期的put做保护，这里的比例为啥是两倍？",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 6,
+          "replied_comments": [
+            {
+              "comment_id": 1525458458458552,
+              "parent_comment_id": 5121518518128584,
+              "create_time": "2025-03-14T15:10:46.212+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "因为0.5delta，两倍让曲线好看点",
+              "likes_count": 4,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 421424828814588,
+                "name": "智-",
+                "avatar_url": "https://images.zsxq.com/Fig5w4-sfHn8-hCthMldJvykAYaw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FvoMjlhPbDGlJ88sJYcfSSjHg0Y="
+              }
+            },
+            {
+              "comment_id": 2858281281224521,
+              "parent_comment_id": 5121518518128584,
+              "create_time": "2025-03-14T15:14:44.954+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "而且再跌穿就反脆弱了",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 421424828814588,
+                "name": "智-",
+                "avatar_url": "https://images.zsxq.com/Fig5w4-sfHn8-hCthMldJvykAYaw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FvoMjlhPbDGlJ88sJYcfSSjHg0Y="
+              }
+            },
+            {
+              "comment_id": 8858281225452852,
+              "parent_comment_id": 5121518518128584,
+              "create_time": "2025-03-14T17:10:47.035+0800",
+              "owner": {
+                "user_id": 841855811884412,
+                "name": "Maybe",
+                "avatar_url": "https://images.zsxq.com/FrRIaj0XusO8Yz82k5QseH8F9fO1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:04NKGBtCpPHTIncINwYNn-oCXLI=",
+                "location": "浙江"
+              },
+              "text": "请问许大，这个一般是开ATM还是稍虚一点的OTM比较好？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 4848581554142228,
+              "parent_comment_id": 5121518518128584,
+              "create_time": "2025-03-14T17:27:52.861+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "虚的，否则买不起那么多",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 841855811884412,
+                "name": "Maybe",
+                "avatar_url": "https://images.zsxq.com/FrRIaj0XusO8Yz82k5QseH8F9fO1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:04NKGBtCpPHTIncINwYNn-oCXLI="
+              }
+            },
+            {
+              "comment_id": 4848558541811858,
+              "parent_comment_id": 5121518518128584,
+              "create_time": "2025-03-25T15:14:30.265+0800",
+              "owner": {
+                "user_id": 51542488184854,
+                "name": "Johnson",
+                "avatar_url": "https://images.zsxq.com/FuK4er97yEPJOk0wvpmVuyRFN3It?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYq9SVJnlOk-rkC89A7EDN5acoc=",
+                "location": "上海"
+              },
+              "text": "许大，我看远期otm call都有0.5附近的，但是远期比如2年的otm put或者atm put只有负的0.2到0.3",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4848581554851188,
+          "create_time": "2025-03-14T16:38:14.713+0800",
+          "owner": {
+            "user_id": 51542488184854,
+            "name": "Johnson",
+            "avatar_url": "https://images.zsxq.com/FuK4er97yEPJOk0wvpmVuyRFN3It?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYq9SVJnlOk-rkC89A7EDN5acoc=",
+            "location": "上海"
+          },
+          "text": "刚开始建仓的时候支出挺大的……2倍远期的call和put……",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 5121518552824854,
+              "parent_comment_id": 4848581554851188,
+              "create_time": "2025-03-14T17:28:12.382+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "这个细账办法不公开的",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51542488184854,
+                "name": "Johnson",
+                "avatar_url": "https://images.zsxq.com/FuK4er97yEPJOk0wvpmVuyRFN3It?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYq9SVJnlOk-rkC89A7EDN5acoc="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8858281228425812,
+          "create_time": "2025-03-14T19:29:17.967+0800",
+          "owner": {
+            "user_id": 484482888,
+            "name": "chenng",
+            "avatar_url": "https://images.zsxq.com/FvtO3Fg-yq8fO0tatNHPzDm_7KTQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:r5ds4fycwCDlAgZcASr8KW8B5Iw=",
+            "location": "上海"
+          },
+          "text": "能买吗",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8858281221448412,
+          "create_time": "2025-03-14T22:49:54.832+0800",
+          "owner": {
+            "user_id": 824281545552,
+            "name": "tyq",
+            "avatar_url": "https://images.zsxq.com/Fr4aNc-tLz_PojtCoUKPcKj18iO3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EMfhgN-6Hr4pUvSvx3WJ9ym-VAU=",
+            "location": "上海"
+          },
+          "text": "许大能不能提前透露一下认购门槛，给咱们群友有什么特殊政策吗[偷笑]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 1525458412241552,
+              "parent_comment_id": 8858281221448412,
+              "create_time": "2025-03-15T00:02:16.873+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "争取做到没门槛",
+              "likes_count": 5,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 824281545552,
+                "name": "tyq",
+                "avatar_url": "https://images.zsxq.com/Fr4aNc-tLz_PojtCoUKPcKj18iO3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EMfhgN-6Hr4pUvSvx3WJ9ym-VAU="
+              }
+            },
+            {
+              "comment_id": 4848581522258288,
+              "parent_comment_id": 8858281221448412,
+              "create_time": "2025-03-15T12:08:33.624+0800",
+              "owner": {
+                "user_id": 824281545552,
+                "name": "tyq",
+                "avatar_url": "https://images.zsxq.com/Fr4aNc-tLz_PojtCoUKPcKj18iO3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EMfhgN-6Hr4pUvSvx3WJ9ym-VAU=",
+                "location": "上海"
+              },
+              "text": "高级[强]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4848581524151888,
+          "create_time": "2025-03-15T08:50:28.462+0800",
+          "owner": {
+            "user_id": 184551142122222,
+            "name": "Animal Lov*",
+            "avatar_url": "https://images.zsxq.com/FmX-6J5gLT2tIChrpL5WoMxq1VNf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k9OuIi_T8JXd-RvYld00OQekOuo=",
+            "location": "北京"
+          },
+          "text": "许大，这个在哪里发行啊？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5121582414228584,
+          "create_time": "2025-04-28T23:42:20.070+0800",
+          "owner": {
+            "user_id": 822528142482,
+            "name": "cindy青😊",
+            "avatar_url": "https://images.zsxq.com/FnfARcbbkteySS55yTpu6l4WAtkl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PhfnRfZODbd_TM6Gkubg8eRFUws=",
+            "location": "香港"
+          },
+          "text": "<e type=\"web\" href=\"https%3A%2F%2Fwww.blockrock.win%2F\" title=\"https%3A%2F%2Fwww.blockrock.win%2F\" />\n许大QQQAI  无门槛认购网站在此 \n还没开始 5.8左右 大家关注下",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T21:56:21.365122",
+  "url": "https://api.zsxq.com/v2/topics/1525415885285112/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1525415885285112",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855184845844442,
+          "create_time": "2024-12-01T21:45:58.163+0800",
+          "owner": {
+            "user_id": 118511218281852,
+            "name": "姜莉",
+            "avatar_url": "https://images.zsxq.com/FiIP0-PgP6Jiix11NES-6jM384iq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zs_stU-e9WnCJzuR1j6z1YEo36w=",
+            "location": "广东"
+          },
+          "text": "个人感受就是有现金无杠杆的人承担了风险[流泪]",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

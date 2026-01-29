@@ -1,0 +1,55 @@
+{
+  "captured_at": "2026-01-29T22:51:28.247247",
+  "url": "https://api.zsxq.com/v2/topics/4844585422215428/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4844585422215428",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1522454522515522,
+          "create_time": "2024-04-21T14:15:51.711+0800",
+          "owner": {
+            "user_id": 28484244422811,
+            "name": "Skyly_J2",
+            "avatar_url": "https://images.zsxq.com/FhDAsQa0FEyWsbAmD7H8gCtaBVOc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9BJ_Sy3pzlS5j8ZnkI15ePinyeA=",
+            "location": "新加坡"
+          },
+          "text": "感谢回答，那么在agi到来后这个ai伦理的相关约束还有存在的可能性吗",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2855284252822141,
+              "parent_comment_id": 1522454522515522,
+              "create_time": "2024-04-29T15:02:38.133+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "多半不是真正的约束",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28484244422811,
+                "name": "Skyly_J2",
+                "avatar_url": "https://images.zsxq.com/FhDAsQa0FEyWsbAmD7H8gCtaBVOc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9BJ_Sy3pzlS5j8ZnkI15ePinyeA="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

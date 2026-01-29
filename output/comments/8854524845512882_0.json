@@ -1,0 +1,93 @@
+{
+  "captured_at": "2026-01-29T20:53:09.527872",
+  "url": "https://api.zsxq.com/v2/topics/8854524845512882/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8854524845512882",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1525841241488242,
+          "create_time": "2025-09-23T09:47:22.660+0800",
+          "owner": {
+            "user_id": 841141585521852,
+            "name": "林恩诺",
+            "avatar_url": "https://images.zsxq.com/Fntb28Ei8L4wFxzciWHEDn-ovSzz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hA9zpPrXDg42qOiq8cMccFRVCJA=",
+            "location": "浙江"
+          },
+          "text": "请问许大，一份额的QQQAI token就对应一份额许大的基金的话，长期看，虽然短期由于供需，Token的价格偏移许大的基金净值，但是长期Token价格会回归到基金净值对吗，RWA确保Token等价基金份额的话",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 5121854288855144,
+              "parent_comment_id": 1525841241488242,
+              "create_time": "2025-09-23T18:44:50.823+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "是的，因为可以赎回，所以必然锚定",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 841141585521852,
+                "name": "林恩诺",
+                "avatar_url": "https://images.zsxq.com/Fntb28Ei8L4wFxzciWHEDn-ovSzz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hA9zpPrXDg42qOiq8cMccFRVCJA="
+              }
+            },
+            {
+              "comment_id": 2858124825522281,
+              "parent_comment_id": 1525841241488242,
+              "create_time": "2025-09-24T13:29:57.464+0800",
+              "owner": {
+                "user_id": 841141585521852,
+                "name": "林恩诺",
+                "avatar_url": "https://images.zsxq.com/Fntb28Ei8L4wFxzciWHEDn-ovSzz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hA9zpPrXDg42qOiq8cMccFRVCJA=",
+                "location": "浙江"
+              },
+              "text": "谢谢许大",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5121854241282414,
+          "create_time": "2025-09-23T10:38:09.112+0800",
+          "owner": {
+            "user_id": 422211242141248,
+            "name": "达仔",
+            "avatar_url": "https://images.zsxq.com/FkHf0F3f1yrp2MW1PesRkJt-rTc9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0Af8y34gE8VkH4cuAN5i95pQaKw=",
+            "location": "江苏"
+          },
+          "text": "我就是打算长期持有[呲牙][呲牙]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

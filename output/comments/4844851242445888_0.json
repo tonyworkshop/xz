@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T23:05:44.141393",
+  "url": "https://api.zsxq.com/v2/topics/4844851242445888/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4844851242445888",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844812424115128,
+          "create_time": "2024-03-17T12:36:35.140+0800",
+          "owner": {
+            "user_id": 48841218821188,
+            "name": "溪林苑",
+            "avatar_url": "https://images.zsxq.com/Fisl87L7JTx6He22E3GfnRNNvh_c?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qrtBeD4wUvR-O1nBrphnA-Ge1NQ=",
+            "location": "福建"
+          },
+          "text": "查到”吸收壁”这条信息:\n\n所有的随机性游戏中，都潜伏着无数个叫吸收壁的杀手。\n \n这个杀手是阻止你穿越时间到达财富自由的暗物质，这种力量的可怕之处在于破坏的非对称性和时间的不可逆性。一旦被它吸收，哪怕你赢了999次，只要失败1次，这一次的风险就可以直接把你淘汰出局，归零回到游戏时间的起点。\n \n爆仓就是一种吸收壁，N次小风险累积成大风险，也是一种吸收壁。",
+          "likes_count": 5,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

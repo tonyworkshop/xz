@@ -1,0 +1,62 @@
+{
+  "captured_at": "2026-01-29T21:37:37.833634",
+  "url": "https://api.zsxq.com/v2/topics/4848152255554848/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4848152255554848",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2858254221858281,
+          "create_time": "2025-02-26T13:54:45.748+0800",
+          "owner": {
+            "user_id": 48512845118228,
+            "name": "曼慢",
+            "avatar_url": "https://images.zsxq.com/FqKFl-_proLreyyDJLk6IE4MlTDj?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:llgtaXbF9pRDJFWLbTiiSXNOy0s=",
+            "location": "江苏"
+          },
+          "text": "要不要做delta调整呢，（笔误）",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5121524545252214,
+          "create_time": "2025-02-26T15:30:58.500+0800",
+          "owner": {
+            "user_id": 144254841842,
+            "name": "许哲",
+            "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+            "location": "美国"
+          },
+          "text": "使用提问功能。如果有很大浮盈的时候，如果是涨上去的，那么你可以调整一下，如果是跌惨了，你要考虑一下你的成本是不是已经足够好了，然后决定下一步，还是依然没跌透，那就平仓了。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2858254242142151,
+          "create_time": "2025-02-26T17:00:21.812+0800",
+          "owner": {
+            "user_id": 48512845118228,
+            "name": "曼慢",
+            "avatar_url": "https://images.zsxq.com/FqKFl-_proLreyyDJLk6IE4MlTDj?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:llgtaXbF9pRDJFWLbTiiSXNOy0s=",
+            "location": "江苏"
+          },
+          "text": "好的，谢谢许大",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

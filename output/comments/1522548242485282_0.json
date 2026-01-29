@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T23:10:31.492438",
+  "url": "https://api.zsxq.com/v2/topics/1522548242485282/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1522548242485282",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855812488445212,
+          "create_time": "2024-03-14T13:20:52.819+0800",
+          "owner": {
+            "user_id": 48551488858818,
+            "name": "大薯条",
+            "avatar_url": "https://images.zsxq.com/FpeHJyZVplHN6uW9pc1Z5_rACSV3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2D0PuUPog9sVZUcnW1awBdDUccI=",
+            "location": "江苏"
+          },
+          "text": "司美格鲁肽口服减肥神药马上获批进中国了，不过越胖越有用，不算太胖的作用不大。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

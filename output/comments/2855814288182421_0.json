@@ -1,0 +1,93 @@
+{
+  "captured_at": "2026-01-29T22:58:29.514840",
+  "url": "https://api.zsxq.com/v2/topics/2855814288182421/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2855814288182421",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5122528188485144,
+          "create_time": "2024-04-03T18:53:42.936+0800",
+          "owner": {
+            "user_id": 48885445482828,
+            "name": "文心",
+            "avatar_url": "https://images.zsxq.com/Fj92B1UWJisGFc6N456rg-9B_z7G?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SbfY6Ch5Fw7_Sb2qYrkPuLuCmBw=",
+            "location": "上海"
+          },
+          "text": "有些贷款用途限定，有被发现认定违约的风险",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 4844541544888418,
+              "parent_comment_id": 5122528188485144,
+              "create_time": "2024-04-03T20:09:48.711+0800",
+              "owner": {
+                "user_id": 51288542884184,
+                "name": "lsh",
+                "avatar_url": "https://images.zsxq.com/Fp7EGJMFbm6O_2ky87VL88pxFjDC?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JTcOCUhvfNtiglKFZRIdobTxQco=",
+                "location": "美国"
+              },
+              "text": "本来就是消费贷，才不管你干什么呢。唯一的保障是你的稳定工作，年龄，公积金啥的",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48885445482828,
+                "name": "文心",
+                "avatar_url": "https://images.zsxq.com/Fj92B1UWJisGFc6N456rg-9B_z7G?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SbfY6Ch5Fw7_Sb2qYrkPuLuCmBw="
+              }
+            },
+            {
+              "comment_id": 4844541544815148,
+              "parent_comment_id": 5122528188485144,
+              "create_time": "2024-04-03T20:47:01.856+0800",
+              "owner": {
+                "user_id": 48885445482828,
+                "name": "文心",
+                "avatar_url": "https://images.zsxq.com/Fj92B1UWJisGFc6N456rg-9B_z7G?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SbfY6Ch5Fw7_Sb2qYrkPuLuCmBw=",
+                "location": "上海"
+              },
+              "text": "贷出来直接买理财或者银证之类的就是授人以柄，可以避免的就是提醒下。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51288542884184,
+                "name": "lsh",
+                "avatar_url": "https://images.zsxq.com/Fp7EGJMFbm6O_2ky87VL88pxFjDC?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JTcOCUhvfNtiglKFZRIdobTxQco="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5122528525555114,
+          "create_time": "2024-04-03T22:12:17.682+0800",
+          "owner": {
+            "user_id": 51558582545824,
+            "name": "Emperor",
+            "avatar_url": "https://images.zsxq.com/Fv9qbYfWmYmR13JCaQML6e82R_yE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eyqT_kcQrndQhVsXb2T6m1Vo8JQ=",
+            "location": "山东"
+          },
+          "text": "我曾经也想这样做，但是考虑到黑天鹅无法规避的问题，我担心这会是巴菲特说的那把左轮，在长久的套利中我会被黑天鹅一枪干碎",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

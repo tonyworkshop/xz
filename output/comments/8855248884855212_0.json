@@ -1,0 +1,228 @@
+{
+  "captured_at": "2026-01-29T22:43:41.850877",
+  "url": "https://api.zsxq.com/v2/topics/8855248884855212/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8855248884855212",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844552512415448,
+          "create_time": "2024-05-12T22:43:18.384+0800",
+          "owner": {
+            "user_id": 88441844242122,
+            "name": "Wayfarer",
+            "avatar_url": "https://images.zsxq.com/Fq7Ac6H0KH8Z2enjuUiprX2QqM9o?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jnDzEGW1_xua_tceG359_rEhnIU=",
+            "location": "越南"
+          },
+          "text": "请问为什么以rmb计价的房价会因为货币债务化受影响呀？背后的原理是什么，许大可以科普一下吗🧐",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 8855224214852522,
+              "parent_comment_id": 4844552512415448,
+              "create_time": "2024-05-12T22:52:17.130+0800",
+              "owner": {
+                "user_id": 88842421514242,
+                "name": "鴖",
+                "avatar_url": "https://images.zsxq.com/Fnk97AgXmBubEYd2l2wdwGK6bF8h?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yTEo8rQ4-gias5sEqUqTt-QApJU=",
+                "location": "福建"
+              },
+              "text": "就是厕纸都比货币值钱，你觉得房价不是涨的吗？这样的情况下，生活必需品，大米涨的更多，和用这个做参照物，房价还是跌",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88441844242122,
+                "name": "Wayfarer",
+                "avatar_url": "https://images.zsxq.com/Fq7Ac6H0KH8Z2enjuUiprX2QqM9o?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jnDzEGW1_xua_tceG359_rEhnIU="
+              }
+            },
+            {
+              "comment_id": 8855224458458582,
+              "parent_comment_id": 4844552512415448,
+              "create_time": "2024-05-13T09:30:10.808+0800",
+              "owner": {
+                "user_id": 88281254554142,
+                "name": "杞人",
+                "avatar_url": "https://images.zsxq.com/FkUY68UxMEvZLpcE76O8CMDDuHRc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RDUPBy3VkeJdujsVxMpKP3pFHbI=",
+                "location": "新西兰"
+              },
+              "text": "通胀",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88441844242122,
+                "name": "Wayfarer",
+                "avatar_url": "https://images.zsxq.com/Fq7Ac6H0KH8Z2enjuUiprX2QqM9o?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jnDzEGW1_xua_tceG359_rEhnIU="
+              }
+            },
+            {
+              "comment_id": 1522851481211482,
+              "parent_comment_id": 4844552512415448,
+              "create_time": "2024-12-02T14:29:07.057+0800",
+              "owner": {
+                "user_id": 118511218281852,
+                "name": "姜莉",
+                "avatar_url": "https://images.zsxq.com/FiIP0-PgP6Jiix11NES-6jM384iq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zs_stU-e9WnCJzuR1j6z1YEo36w=",
+                "location": "广东"
+              },
+              "text": "问主应该是打错了债务货币化，然后许大就顺着了。极端的债务货币化可以理解为社会财富本来只有100个单位，然后假设对应的是100张货币，其中假设80块钱是债务，20块钱是现金，很多人还不起利息了（债务占gdp太大），那么通过增加货币量，比如变成1000，那么80块钱债务就不太多了。但是1000张货币对应100的财富，那么财富怎么样平均都贵了9倍了，其实就是钱不值钱了。极端通过膨胀的情况下，法币的信用就很低，房子这种非生存必需品涨价，是没有商品（大米、豆、油、武器、黄金）涨价快的。上面数字只是随手写的，而且没有考虑很多变量。对于这个问题你可以去看看瑞达利欧的《<e type=\"web\" href=\"https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Fweread%2Fsearch.html%3Fkeyword%3D%E7%BB%8F%E6%B5%8E%E6%9C%BA%E5%99%A8%E6%98%AF%E5%A6%82%E4%BD%95%E8%BF%90%E8%A1%8C%E7%9A%84\" title=\"%E7%BB%8F%E6%B5%8E%E6%9C%BA%E5%99%A8%E6%98%AF%E5%A6%82%E4%BD%95%E8%BF%90%E8%A1%8C%E7%9A%84\" style=\"book\" />》。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88441844242122,
+                "name": "Wayfarer",
+                "avatar_url": "https://images.zsxq.com/Fq7Ac6H0KH8Z2enjuUiprX2QqM9o?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jnDzEGW1_xua_tceG359_rEhnIU="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4844552511858158,
+          "create_time": "2024-05-13T07:48:55.171+0800",
+          "owner": {
+            "user_id": 818882514525122,
+            "name": "茶韵禅心",
+            "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo=",
+            "location": "山东"
+          },
+          "text": "货币债务化？和债务货币化是一个意思嘛？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 5,
+          "replied_comments": [
+            {
+              "comment_id": 8855224452252182,
+              "parent_comment_id": 4844552511858158,
+              "create_time": "2024-05-13T10:52:11.672+0800",
+              "owner": {
+                "user_id": 218224188452481,
+                "name": "人民艺术家",
+                "avatar_url": "https://images.zsxq.com/Fhj9Rh93138tbj5Ge814HFIbS2ql?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fYSrXnGDjg_4TbeKxI-2ANEcfXU=",
+                "location": "甘肃"
+              },
+              "text": "求求先把许大公众号里文章看懂再来呀",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo="
+              }
+            },
+            {
+              "comment_id": 5122554425444554,
+              "parent_comment_id": 4844552511858158,
+              "create_time": "2024-05-13T11:28:05.660+0800",
+              "owner": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo=",
+                "location": "山东"
+              },
+              "text": "要不然我先去考个金融学位再来？你如果懂，可以解释一下那感激不尽。你如果不懂，那安心看着一起学习。这是个公众平台，有学历高的有学历低的，高难度的问题留给许大，小白问题自然会有好心朋友帮忙解答，不需要你在这里冷嘲热讽。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 218224188452481,
+                "name": "人民艺术家",
+                "avatar_url": "https://images.zsxq.com/Fhj9Rh93138tbj5Ge814HFIbS2ql?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fYSrXnGDjg_4TbeKxI-2ANEcfXU="
+              }
+            },
+            {
+              "comment_id": 5122554411522254,
+              "parent_comment_id": 4844552511858158,
+              "create_time": "2024-05-13T15:41:18.580+0800",
+              "owner": {
+                "user_id": 218224188452481,
+                "name": "人民艺术家",
+                "avatar_url": "https://images.zsxq.com/Fhj9Rh93138tbj5Ge814HFIbS2ql?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fYSrXnGDjg_4TbeKxI-2ANEcfXU=",
+                "location": "甘肃"
+              },
+              "text": "我意思你先把“高中”的知识学懂再学“大学”的知识。饭要一口一口吃",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo="
+              }
+            },
+            {
+              "comment_id": 5122554455248124,
+              "parent_comment_id": 4844552511858158,
+              "create_time": "2024-05-14T07:32:21.073+0800",
+              "owner": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo=",
+                "location": "山东"
+              },
+              "text": "我去网上查了一下，没有货币债务化这个名词，应该指的就是债务货币化。像这种问题对于你们来说可能就是1+1=3这么简单，对于我们来说需要耗费很大的精力去查找，验证。我觉得群里还是有和我一样属于金融小白的。我们的本行业都不是金融行业，不能系统性的学习金融行业，只能利用碎片时间来学习一些知识并使用自己的方式来消化。许大的文章不是一遍两遍可以读懂的，有一些基础性的问题还是希望有好心群友帮忙解答。如果你觉得这种问题太小白，麻烦你视而不见，让其他愿意帮助我们的朋友解答，谢谢。",
+              "likes_count": 4,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 218224188452481,
+                "name": "人民艺术家",
+                "avatar_url": "https://images.zsxq.com/Fhj9Rh93138tbj5Ge814HFIbS2ql?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fYSrXnGDjg_4TbeKxI-2ANEcfXU="
+              }
+            },
+            {
+              "comment_id": 1522851481211812,
+              "parent_comment_id": 4844552511858158,
+              "create_time": "2024-12-02T14:30:07.323+0800",
+              "owner": {
+                "user_id": 118511218281852,
+                "name": "姜莉",
+                "avatar_url": "https://images.zsxq.com/FiIP0-PgP6Jiix11NES-6jM384iq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zs_stU-e9WnCJzuR1j6z1YEo36w=",
+                "location": "广东"
+              },
+              "text": "我回错信息了，推荐瑞达利欧《<e type=\"web\" href=\"https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Fweread%2Fsearch.html%3Fkeyword%3D%E7%BB%8F%E6%B5%8E%E6%9C%BA%E5%99%A8%E6%98%AF%E5%A6%82%E4%BD%95%E8%BF%90%E8%A1%8C%E7%9A%84\" title=\"%E7%BB%8F%E6%B5%8E%E6%9C%BA%E5%99%A8%E6%98%AF%E5%A6%82%E4%BD%95%E8%BF%90%E8%A1%8C%E7%9A%84\" style=\"book\" />》。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

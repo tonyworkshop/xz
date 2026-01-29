@@ -1,0 +1,317 @@
+{
+  "captured_at": "2026-01-29T20:55:29.618637",
+  "url": "https://api.zsxq.com/v2/topics/5124215212588244/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5124215212588244",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8858125212228152,
+          "create_time": "2025-09-10T16:27:51.290+0800",
+          "owner": {
+            "user_id": 48888218821448,
+            "name": "后中先",
+            "avatar_url": "https://images.zsxq.com/FgMU4F6QPUmflR3useJkg84ci1zi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o0dwW_iV0MVOnxzlk7z1whiVWY0=",
+            "location": "江苏"
+          },
+          "text": "精辟",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1525842484441512,
+          "create_time": "2025-09-10T16:29:24.136+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "“区块链让该地区的货币直接和USD竞争”\n\n是不是意味着蒙代尔不可能三角的自由流通已经变成必选项了？那么最后必然是汇率大幅波动收尾？",
+          "likes_count": 2,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 5121852585558144,
+              "parent_comment_id": 1525842484441512,
+              "create_time": "2025-09-10T16:31:28.283+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "或者丧失调控金融松紧的权力",
+              "likes_count": 6,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 5121852885811824,
+              "parent_comment_id": 1525842484441512,
+              "create_time": "2025-09-11T22:18:31.526+0800",
+              "owner": {
+                "user_id": 15284152825542,
+                "name": "日高晏眠人",
+                "alias": "日高晏眠人",
+                "avatar_url": "https://images.zsxq.com/FmgqRiV7eHEKrbLz9Xl-x3x6bxNL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T2Ffk5JVbDOQvMcAUztpXo4fpQc=",
+                "location": "广东"
+              },
+              "text": "为什么自由流动会变成必选项？没想清楚这个路径在哪里。毕竟境内连用人民币买卖美元稳定币的合法渠道都没有。如果仅仅是非法的黑灰资金，那远远谈不上自由流动了。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4848154515524818,
+          "create_time": "2025-09-10T16:32:00.786+0800",
+          "owner": {
+            "user_id": 244121581112551,
+            "name": "Ain",
+            "avatar_url": "https://images.zsxq.com/FjcHDg-HDSS9BPmYzkDCT6Z9XUSE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TxVwR65ZSKwLyoOEXhqmHPtPFNQ=",
+            "location": "浙江"
+          },
+          "text": "付鹏：“完全去中心化是玩不转的，但能够去别人的中心化，这个事就有得玩了，传统金融们也反应过来了。”[得意]",
+          "likes_count": 8,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4848154145545188,
+              "parent_comment_id": 4848154515524818,
+              "create_time": "2025-09-10T22:18:29.877+0800",
+              "owner": {
+                "user_id": 141418485182,
+                "name": "苏州德易安环保科技 *",
+                "avatar_url": "https://images.zsxq.com/FoTIf8T97w-OHYY7-D7HPyIGDzUU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tmMuFU8uFm-X1TM5DlwRmTDCZyo=",
+                "location": "江苏"
+              },
+              "text": "这里还有付鹏[呲牙]",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 244121581112551,
+                "name": "Ain",
+                "avatar_url": "https://images.zsxq.com/FjcHDg-HDSS9BPmYzkDCT6Z9XUSE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TxVwR65ZSKwLyoOEXhqmHPtPFNQ="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5121852585415284,
+          "create_time": "2025-09-10T16:39:15.272+0800",
+          "owner": {
+            "user_id": 51154515522454,
+            "name": "牛肉汤面",
+            "avatar_url": "https://images.zsxq.com/FpuzZgMY_xy8NzDv1CSHTePblVfc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KE_nCKHiT5wmRxvqwmuKpoooAzw=",
+            "location": "上海"
+          },
+          "text": "许大，从人类社会角度看，这样不断向头部集中的结果，会不会导向另一个极端呢",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 6,
+          "replied_comments": [
+            {
+              "comment_id": 4848154515285518,
+              "parent_comment_id": 5121852585415284,
+              "create_time": "2025-09-10T16:40:02.573+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "会的，且这并不能被阻挡",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51154515522454,
+                "name": "牛肉汤面",
+                "avatar_url": "https://images.zsxq.com/FpuzZgMY_xy8NzDv1CSHTePblVfc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KE_nCKHiT5wmRxvqwmuKpoooAzw="
+              }
+            },
+            {
+              "comment_id": 4848154515281488,
+              "parent_comment_id": 5121852585415284,
+              "create_time": "2025-09-10T16:41:45.101+0800",
+              "owner": {
+                "user_id": 51154515522454,
+                "name": "牛肉汤面",
+                "avatar_url": "https://images.zsxq.com/FpuzZgMY_xy8NzDv1CSHTePblVfc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KE_nCKHiT5wmRxvqwmuKpoooAzw=",
+                "location": "上海"
+              },
+              "text": "看到并不能被阻挡也释然了。我们做的所有政策的在导向效率更优的活下来，全球大内卷即将开启。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 8858125212441422,
+              "parent_comment_id": 5121852585415284,
+              "create_time": "2025-09-10T16:54:17.358+0800",
+              "owner": {
+                "user_id": 51154515522454,
+                "name": "牛肉汤面",
+                "avatar_url": "https://images.zsxq.com/FpuzZgMY_xy8NzDv1CSHTePblVfc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KE_nCKHiT5wmRxvqwmuKpoooAzw=",
+                "location": "上海"
+              },
+              "text": "理解世界的客观设定是阳光的前提，也是搞钱的前提。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 415821422152488,
+                "name": "构建遍历性",
+                "avatar_url": "https://images.zsxq.com/FsMoXEQe4khurPTIyhd2UhWXO0z1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J-6PuhWJEeZK8Xit-c7k6aAX4uI="
+              }
+            },
+            {
+              "comment_id": 5121848521828544,
+              "parent_comment_id": 5121852585415284,
+              "create_time": "2025-10-12T02:04:16.504+0800",
+              "owner": {
+                "user_id": 28484285585511,
+                "name": "正道沧桑",
+                "avatar_url": "https://images.zsxq.com/FuoDQaCAgdkZD6IEukU0oHQ5rRfa?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XSg-rlZZsqJhGNMr4BA3lBZBROA=",
+                "location": "广东"
+              },
+              "text": "请问你说向头部集中是指哪方面？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51154515522454,
+                "name": "牛肉汤面",
+                "avatar_url": "https://images.zsxq.com/FpuzZgMY_xy8NzDv1CSHTePblVfc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KE_nCKHiT5wmRxvqwmuKpoooAzw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5121852585481124,
+          "create_time": "2025-09-10T16:55:38.041+0800",
+          "owner": {
+            "user_id": 51448144552224,
+            "name": "饺子",
+            "avatar_url": "https://images.zsxq.com/FvXdtvNVeoxJny3NufdKEcm1ThIa?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9dz0zZ8H9OANaomIvtSdRuDcnVo=",
+            "location": "广东"
+          },
+          "text": "用户最需要担心安全问题",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8858125212144182,
+          "create_time": "2025-09-10T17:09:25.116+0800",
+          "owner": {
+            "user_id": 15558282185242,
+            "name": "青弦",
+            "avatar_url": "https://images.zsxq.com/FlmANoiH6TYDBTYV-uiHEcRfCSz-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-EzVzmYAuQqbm8RzXhGmb23U0sk=",
+            "location": "江苏"
+          },
+          "text": "叠加星链和卫星通信",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848154185881148,
+          "create_time": "2025-09-11T10:16:22.935+0800",
+          "owner": {
+            "user_id": 88842588422552,
+            "name": "wayne",
+            "alias": "红蓝刷子",
+            "avatar_url": "https://images.zsxq.com/FhbKJaiTM90FiP6ImhmQ1PYIn-Xz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hncicjpHsoyrSMesYLzCUK3t49o=",
+            "location": "北京"
+          },
+          "text": "虽然大家都不想被收税，但是细细想来，东大对资本的课税确实比较轻，美国人买美股的资本利得税也不轻。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 5121852842222814,
+              "parent_comment_id": 4848154185881148,
+              "create_time": "2025-09-11T15:18:18.411+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "问题不在收税本身，而在于税务权责不对等。\n你可以收20%，没问题，但是你是不是应该保证我收益的合法性合规性？你收税了，那我这收益是不是可以理解为是合法的可以往国内正常拿？也能自由出去买？上面敢吗？\n无代表不纳税，我有纳税的义务，但对应的你给了我什么权益？\n并且现在明显针对境外资本所得收益税就没有一个明确的规定，都是叫你补税，但也不给具体条文，说白了和抢也没啥区别。何况东大还有传统艺能：历史文件不具备现实意义，到时候给你全没收了也是完全可能的。\n那肯定是想办法能避则避，即使最后避不了，也要想方设法增加它们的征税成本。",
+              "likes_count": 5,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88842588422552,
+                "name": "wayne",
+                "alias": "红蓝刷子",
+                "avatar_url": "https://images.zsxq.com/FhbKJaiTM90FiP6ImhmQ1PYIn-Xz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hncicjpHsoyrSMesYLzCUK3t49o="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

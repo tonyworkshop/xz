@@ -1,0 +1,87 @@
+{
+  "captured_at": "2026-01-29T21:32:09.601022",
+  "url": "https://api.zsxq.com/v2/topics/8858115245185152/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8858115245185152",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4848582188821488,
+          "create_time": "2025-03-11T02:37:31.214+0800",
+          "owner": {
+            "user_id": 548814421115584,
+            "name": "拉马努姜",
+            "avatar_url": "https://images.zsxq.com/FoLZ6vyeuYNGTmTkD8-72Mth9U3B?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IyGuSL8Ht1E7qJ2nxnGrYhG0DRo=",
+            "location": "湖南"
+          },
+          "text": "好的[捂脸]那国家似乎不好走出“静态陷阱”了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2858284124852481,
+          "create_time": "2025-03-11T13:33:32.576+0800",
+          "owner": {
+            "user_id": 88812221412582,
+            "name": "伟大的mkf",
+            "avatar_url": "https://images.zsxq.com/FmGSrqiUuQKM7kIq4_HjW6K2aJBF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1YNGcxNUH-_eK4CLa5Z6iSLaKcY=",
+            "location": "云南"
+          },
+          "text": "对所有人都有利的事情，一定不存在。对手方呢？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5121514858121454,
+          "create_time": "2025-03-11T15:11:52.361+0800",
+          "owner": {
+            "user_id": 144254841842,
+            "name": "许哲",
+            "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+            "location": "美国"
+          },
+          "text": "有时间的话值得详细拆开说一下，这里面很多东西是新古典经济无法解释的一个替代论证方法，大体上和我的看法一致。但在解决思路上，其幼稚病突然又发作了。\n\n中国读书人的通病是想为天地立规则，而不是适应规则。。",
+          "likes_count": 8,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8858284145521152,
+              "parent_comment_id": 5121514858121454,
+              "create_time": "2025-03-11T16:54:10.541+0800",
+              "owner": {
+                "user_id": 548814421115584,
+                "name": "拉马努姜",
+                "avatar_url": "https://images.zsxq.com/FoLZ6vyeuYNGTmTkD8-72Mth9U3B?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IyGuSL8Ht1E7qJ2nxnGrYhG0DRo=",
+                "location": "湖南"
+              },
+              "text": "好嘞，欢迎许哲大大出个视频讲讲[呲牙]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

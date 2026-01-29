@@ -1,0 +1,46 @@
+{
+  "captured_at": "2026-01-29T21:09:10.639478",
+  "url": "https://api.zsxq.com/v2/topics/2852445825448441/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2852445825448441",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2858481158158241,
+          "create_time": "2025-06-16T07:46:58.581+0800",
+          "owner": {
+            "user_id": 815254124418522,
+            "name": "想牵驴的mE",
+            "avatar_url": "https://images.zsxq.com/FkEEHRQ0FXOa1y9wClUek-4pv7KU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W_mfnp_kCMKR5RFZRibaY2WCUGo=",
+            "location": "上海"
+          },
+          "text": "很长的故事慢慢讲起来啊[得意]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2858425525844851,
+          "create_time": "2025-06-16T16:46:42.215+0800",
+          "owner": {
+            "user_id": 225858145221,
+            "name": "彭磊Jimmy",
+            "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+            "location": "北京"
+          },
+          "text": "假以时日影响挺大的。。。主要是对于银行和信用卡结算体系，其实对于普通人来说，最有价值的可能是绕过swift。。。可以看做是货币的权力结构再分配。\n但现在一切尚早，就像世纪初的互联网，谁最后胜出，谁倒下，会形成什么应用和博弈都尚未可知。",
+          "likes_count": 2,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

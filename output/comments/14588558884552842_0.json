@@ -1,0 +1,71 @@
+{
+  "captured_at": "2026-01-29T20:42:27.805648",
+  "url": "https://api.zsxq.com/v2/topics/14588558884552842/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "14588558884552842",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1524444118582522,
+          "create_time": "2025-12-10T23:57:50.659+0800",
+          "owner": {
+            "user_id": 51154515522454,
+            "name": "牛肉汤面",
+            "avatar_url": "https://images.zsxq.com/FpuzZgMY_xy8NzDv1CSHTePblVfc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KE_nCKHiT5wmRxvqwmuKpoooAzw=",
+            "location": "上海"
+          },
+          "text": "当前东大通缩米帝通胀应该和货币没有太大关系，主要是东西脱钩，最内卷的基础供给和最强大的消费力匹配不上了，一边供给严重溢出导致价格下跌，另一边缺乏竞争商家追求利润纷纷涨价。这个现象估计还要持续很久，不是单纯货币和利率所致。",
+          "likes_count": 2,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8852221881118812,
+              "parent_comment_id": 1524444118582522,
+              "create_time": "2025-12-19T12:13:54.783+0800",
+              "owner": {
+                "user_id": 422115225845548,
+                "name": "一一",
+                "avatar_url": "https://images.zsxq.com/Fhb-op51tmKH0_sOWLtUzNWqwRqf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mUugOcwTsZaVNLiKMbDT0JihiHQ=",
+                "location": "广东"
+              },
+              "text": "同意，情况并不太一样，日本有参考意义",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51154515522454,
+                "name": "牛肉汤面",
+                "avatar_url": "https://images.zsxq.com/FpuzZgMY_xy8NzDv1CSHTePblVfc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KE_nCKHiT5wmRxvqwmuKpoooAzw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2852222441188121,
+          "create_time": "2025-12-11T07:16:36.135+0800",
+          "owner": {
+            "user_id": 51442555484884,
+            "name": "耐心如金",
+            "avatar_url": "https://images.zsxq.com/FqtY58styJv5np-RXLFU6vbve7HZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kCTdR-2yi1wAmO7OzR0DKLNzIHA=",
+            "location": "北京"
+          },
+          "text": "如果全球一个国家的话，其实跟许大上面就的一样，高层消费力(西)与内卷的生产力间(东)也出现类似的情况，所以我们得往南走？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

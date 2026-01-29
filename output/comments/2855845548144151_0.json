@@ -1,0 +1,71 @@
+{
+  "captured_at": "2026-01-29T23:04:43.272951",
+  "url": "https://api.zsxq.com/v2/topics/2855845548144151/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2855845548144151",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1522581444242112,
+          "create_time": "2024-03-19T05:18:29.415+0800",
+          "owner": {
+            "user_id": 28881525442241,
+            "name": "CC",
+            "avatar_url": "https://images.zsxq.com/Fj9qsULJE_WmGHXyBCpuWV2SyZvF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GvA4wNNNSrrOz4CZEt1jh0q77ls=",
+            "location": "北京"
+          },
+          "text": "谢谢许大",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1522581481581582,
+          "create_time": "2024-03-19T19:22:22.539+0800",
+          "owner": {
+            "user_id": 414425124512218,
+            "name": "阿白",
+            "avatar_url": "https://images.zsxq.com/Fs7LUzbH2elmsqNwky2tdzB9nTe5?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PnMaiqKlrXNv0X3Q9zJ2pNFNlBA=",
+            "location": "广东"
+          },
+          "text": "许大，可以单独说说为什么看多铁矿石吗，国内基建和房地产如此低迷，汽车产业用钢量不会支撑铁矿的量。虽然中国出口钢材的量还在逐年增加，但是我还是想不明白在中国房地产基建不行之后，哪里能会消耗如此大的产能呢？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2855254125155541,
+              "parent_comment_id": 1522581481581582,
+              "create_time": "2024-03-31T21:44:22.637+0800",
+              "owner": {
+                "user_id": 28445841121511,
+                "name": "Z",
+                "avatar_url": "https://images.zsxq.com/FlmtXULuM0Y5Qkn0nc1fERBzB742?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:LxDqhJXXXQfC8L9RUUVGAJXFZEU=",
+                "location": "辽宁"
+              },
+              "text": "基本都出口给印度了。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 414425124512218,
+                "name": "阿白",
+                "avatar_url": "https://images.zsxq.com/Fs7LUzbH2elmsqNwky2tdzB9nTe5?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PnMaiqKlrXNv0X3Q9zJ2pNFNlBA="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

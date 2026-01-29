@@ -1,0 +1,31 @@
+{
+  "captured_at": "2026-01-29T22:46:08.498528",
+  "url": "https://api.zsxq.com/v2/topics/2855245822442121/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2855245822442121",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5122554215114244,
+          "create_time": "2024-05-09T14:26:53.261+0800",
+          "owner": {
+            "user_id": 224448521821,
+            "name": "才",
+            "avatar_url": "https://images.zsxq.com/Ft_LuRnQRS52F5wh7xSIslVSWQQL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vJkv420mPqcYFYbU8gFo6tj5fBE=",
+            "location": "陕西"
+          },
+          "text": "日本在95年迎来强烈反弹好像。然后继续跌。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1
+        }
+      ],
+      "index": ""
+    }
+  }
+}

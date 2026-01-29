@@ -1,0 +1,336 @@
+{
+  "captured_at": "2026-01-29T21:19:14.914380",
+  "url": "https://api.zsxq.com/v2/topics/2852241184854841/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2852241184854841",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2858455288225841,
+          "create_time": "2025-05-09T15:38:13.933+0800",
+          "owner": {
+            "user_id": 548214152484284,
+            "name": "Carolina",
+            "avatar_url": "https://images.zsxq.com/FvpnxOY52A42N0qgN7MGVr6_CbC-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9iuohHhgro4q1NsO0v_I-gbH0Ik=",
+            "location": "江苏"
+          },
+          "text": "我最近也用这个，反正最近喜欢这个，风险可控，后续也有操作余地～",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 5,
+          "replied_comments": [
+            {
+              "comment_id": 5121422552125284,
+              "parent_comment_id": 2858455288225841,
+              "create_time": "2025-05-09T20:18:53.395+0800",
+              "owner": {
+                "user_id": 111841445251212,
+                "name": "Liang💨💨",
+                "alias": "大Liang",
+                "avatar_url": "https://images.zsxq.com/FjsBzboEagqcVANBZ6ZUYUccds_j?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yeczTs4oa2a2zWL7E6SwPKRJhGU=",
+                "location": "广东"
+              },
+              "text": "想请教下替代持有正股，那当sell call被行权的操作，leap call是会跟着产生收益吗？然后平掉leap call再买入现货进行交割吗？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 548214152484284,
+                "name": "Carolina",
+                "avatar_url": "https://images.zsxq.com/FvpnxOY52A42N0qgN7MGVr6_CbC-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9iuohHhgro4q1NsO0v_I-gbH0Ik="
+              }
+            },
+            {
+              "comment_id": 4848244554541518,
+              "parent_comment_id": 2858455288225841,
+              "create_time": "2025-05-09T20:46:02.961+0800",
+              "owner": {
+                "user_id": 548214152484284,
+                "name": "Carolina",
+                "avatar_url": "https://images.zsxq.com/FvpnxOY52A42N0qgN7MGVr6_CbC-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9iuohHhgro4q1NsO0v_I-gbH0Ik=",
+                "location": "江苏"
+              },
+              "text": "我用leap deep call 单独为了省钱并且我不知道它什么时候涨，而且我的标的不是tqqq，主要因为杠杆etf的iv太高不想买otm call ，另外我不会 short call在近段然后远端有个leap call因为杠杆etf的call不知道什么时候就跳起来，我是现货有，sell put 有，不太远的远期用leap itm call ，备兑绝对不会超～把问题消灭在发生之前也许是好风控～",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 111841445251212,
+                "name": "Liang💨💨",
+                "alias": "大Liang",
+                "avatar_url": "https://images.zsxq.com/FjsBzboEagqcVANBZ6ZUYUccds_j?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yeczTs4oa2a2zWL7E6SwPKRJhGU="
+              }
+            },
+            {
+              "comment_id": 1525122442112482,
+              "parent_comment_id": 2858455288225841,
+              "create_time": "2025-05-09T21:30:17.805+0800",
+              "owner": {
+                "user_id": 548214152484284,
+                "name": "Carolina",
+                "avatar_url": "https://images.zsxq.com/FvpnxOY52A42N0qgN7MGVr6_CbC-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9iuohHhgro4q1NsO0v_I-gbH0Ik=",
+                "location": "江苏"
+              },
+              "text": "如果你sell tqqq被行权，而leap call 流动性不好，到期你就获得了一份负的tqqq合约，long leap call ＝long 现货➕long put 再加上你的sell call ，到期不平的话，就相当于你有一份long put ，如果行情下跌，你还能盈利，如果行情上涨，你也没损失～",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 111841445251212,
+                "name": "Liang💨💨",
+                "alias": "大Liang",
+                "avatar_url": "https://images.zsxq.com/FjsBzboEagqcVANBZ6ZUYUccds_j?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yeczTs4oa2a2zWL7E6SwPKRJhGU="
+              }
+            },
+            {
+              "comment_id": 4848244558511288,
+              "parent_comment_id": 2858455288225841,
+              "create_time": "2025-05-09T23:40:24.815+0800",
+              "owner": {
+                "user_id": 111841445251212,
+                "name": "Liang💨💨",
+                "alias": "大Liang",
+                "avatar_url": "https://images.zsxq.com/FjsBzboEagqcVANBZ6ZUYUccds_j?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yeczTs4oa2a2zWL7E6SwPKRJhGU=",
+                "location": "广东"
+              },
+              "text": "好的，感谢回复。才发现另一个评论的问题就是我想问的。还有个疑问是如果下跌大会损失掉权利金，这部份是通过sell call来覆盖掉并用它来盈利吗？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 548214152484284,
+                "name": "Carolina",
+                "avatar_url": "https://images.zsxq.com/FvpnxOY52A42N0qgN7MGVr6_CbC-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9iuohHhgro4q1NsO0v_I-gbH0Ik="
+              }
+            },
+            {
+              "comment_id": 2858481544142141,
+              "parent_comment_id": 2858455288225841,
+              "create_time": "2025-06-11T13:04:46.512+0800",
+              "owner": {
+                "user_id": 51542488184854,
+                "name": "Johnson",
+                "avatar_url": "https://images.zsxq.com/FuK4er97yEPJOk0wvpmVuyRFN3It?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYq9SVJnlOk-rkC89A7EDN5acoc=",
+                "location": "上海"
+              },
+              "text": "如果留着空头，继续暴涨导致保证金不足怎么办？是否和itm call同时平，然后再新价位同时开？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 548214152484284,
+                "name": "Carolina",
+                "avatar_url": "https://images.zsxq.com/FvpnxOY52A42N0qgN7MGVr6_CbC-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9iuohHhgro4q1NsO0v_I-gbH0Ik="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8858455288241522,
+          "create_time": "2025-05-09T15:55:24.271+0800",
+          "owner": {
+            "user_id": 225858145221,
+            "name": "彭磊Jimmy",
+            "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+            "location": "北京"
+          },
+          "text": "这个策略如果short call被行权如何进行处理？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 7,
+          "replied_comments": [
+            {
+              "comment_id": 5121422511488244,
+              "parent_comment_id": 8858455288241522,
+              "create_time": "2025-05-09T16:26:16.169+0800",
+              "owner": {
+                "user_id": 48221855418558,
+                "name": "润土",
+                "avatar_url": "https://images.zsxq.com/FuWb4fEzdjApuVKLt6XF69UU_vzh?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vE9bvhSu2sr4LQuYPyG-wT64JEc=",
+                "location": "北京"
+              },
+              "text": "我TQQQ实操的时候，一般是在最后一天，提前买好等着被行权，做好记账。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            },
+            {
+              "comment_id": 1525122455825482,
+              "parent_comment_id": 8858455288241522,
+              "create_time": "2025-05-09T16:31:07.670+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "感谢，也就是说还是要准备好一定的保证金买现货？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48221855418558,
+                "name": "润土",
+                "avatar_url": "https://images.zsxq.com/FuWb4fEzdjApuVKLt6XF69UU_vzh?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vE9bvhSu2sr4LQuYPyG-wT64JEc="
+              }
+            },
+            {
+              "comment_id": 4848244585854228,
+              "parent_comment_id": 8858455288241522,
+              "create_time": "2025-05-09T17:18:46.051+0800",
+              "owner": {
+                "user_id": 48221855418558,
+                "name": "润土",
+                "avatar_url": "https://images.zsxq.com/FuWb4fEzdjApuVKLt6XF69UU_vzh?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vE9bvhSu2sr4LQuYPyG-wT64JEc=",
+                "location": "北京"
+              },
+              "text": "是的，且我short call 比较保守。张数克制，行权价也克制。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            },
+            {
+              "comment_id": 2858455282485481,
+              "parent_comment_id": 8858455288241522,
+              "create_time": "2025-05-09T18:19:23.743+0800",
+              "owner": {
+                "user_id": 244121581112551,
+                "name": "Ain",
+                "avatar_url": "https://images.zsxq.com/FjcHDg-HDSS9BPmYzkDCT6Z9XUSE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TxVwR65ZSKwLyoOEXhqmHPtPFNQ=",
+                "location": "浙江"
+              },
+              "text": "能不能同时平掉，模拟抛货？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            },
+            {
+              "comment_id": 2858455282425521,
+              "parent_comment_id": 8858455288241522,
+              "create_time": "2025-05-09T18:26:21.137+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "没啥事平leap call很亏，流动性不好",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 244121581112551,
+                "name": "Ain",
+                "avatar_url": "https://images.zsxq.com/FjcHDg-HDSS9BPmYzkDCT6Z9XUSE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TxVwR65ZSKwLyoOEXhqmHPtPFNQ="
+              }
+            },
+            {
+              "comment_id": 8858455225851812,
+              "parent_comment_id": 8858455288241522,
+              "create_time": "2025-05-09T20:22:16.272+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "其实留着空头也没事儿",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            },
+            {
+              "comment_id": 8858455222884212,
+              "parent_comment_id": 8858455288241522,
+              "create_time": "2025-05-10T07:35:33.270+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "明白，感谢许大",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4848248841482858,
+          "create_time": "2025-05-14T19:22:43.944+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "上海"
+          },
+          "text": "提问被许大设为精华了[西瓜]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "captured_at": "2026-01-29T22:34:59.954102",
+  "url": "https://api.zsxq.com/v2/topics/8855485815284542/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8855485815284542",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5122581224182824,
+          "create_time": "2024-06-10T14:01:48.441+0800",
+          "owner": {
+            "user_id": 48841218821188,
+            "name": "溪林苑",
+            "avatar_url": "https://images.zsxq.com/Fisl87L7JTx6He22E3GfnRNNvh_c?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qrtBeD4wUvR-O1nBrphnA-Ge1NQ=",
+            "location": "福建"
+          },
+          "text": "银浆厂也属于制造业的。国内竟然没有白银ETF",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 2855218544825111,
+              "parent_comment_id": 5122581224182824,
+              "create_time": "2024-06-11T23:49:01.895+0800",
+              "owner": {
+                "user_id": 422115225845548,
+                "name": "一一",
+                "avatar_url": "https://images.zsxq.com/Fhb-op51tmKH0_sOWLtUzNWqwRqf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mUugOcwTsZaVNLiKMbDT0JihiHQ=",
+                "location": "广东"
+              },
+              "text": "有LOF啊……",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48841218821188,
+                "name": "溪林苑",
+                "avatar_url": "https://images.zsxq.com/Fisl87L7JTx6He22E3GfnRNNvh_c?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qrtBeD4wUvR-O1nBrphnA-Ge1NQ="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

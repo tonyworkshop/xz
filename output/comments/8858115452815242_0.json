@@ -1,0 +1,269 @@
+{
+  "captured_at": "2026-01-29T21:32:26.277521",
+  "url": "https://api.zsxq.com/v2/topics/8858115452815242/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8858115452815242",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1525451852212812,
+          "create_time": "2025-03-10T22:23:47.411+0800",
+          "owner": {
+            "user_id": 818548144188442,
+            "name": "阿力",
+            "avatar_url": "https://images.zsxq.com/Fsks8S_MgmGUFXiihjfyCTbLU0fU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lYmevgEDC3pS85h9DLjOWywwuKc=",
+            "location": "江苏"
+          },
+          "text": "请教许大，我一直在考虑用期权刷成本的方式，逐步建仓黄金。但受限于美元汇出额度限制，很难大量建立美元黄金的头寸。有没有可能，在国内用RMB持有黄金etf，在国外用美元操作期权，间接实现持有黄金并持续刷成本？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 2858284185184581,
+              "parent_comment_id": 1525451852212812,
+              "create_time": "2025-03-10T23:34:28.928+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "那你怎么实现covered call呢？外面钱太少肯定你put也开不多，效率肯定不高的。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818548144188442,
+                "name": "阿力",
+                "avatar_url": "https://images.zsxq.com/Fsks8S_MgmGUFXiihjfyCTbLU0fU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lYmevgEDC3pS85h9DLjOWywwuKc="
+              }
+            },
+            {
+              "comment_id": 5121514812818554,
+              "parent_comment_id": 1525451852212812,
+              "create_time": "2025-03-10T23:36:31.507+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "没法实现",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818548144188442,
+                "name": "阿力",
+                "avatar_url": "https://images.zsxq.com/Fsks8S_MgmGUFXiihjfyCTbLU0fU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lYmevgEDC3pS85h9DLjOWywwuKc="
+              }
+            },
+            {
+              "comment_id": 2858284188145841,
+              "parent_comment_id": 1525451852212812,
+              "create_time": "2025-03-11T08:18:40.566+0800",
+              "owner": {
+                "user_id": 818548144188442,
+                "name": "阿力",
+                "avatar_url": "https://images.zsxq.com/Fsks8S_MgmGUFXiihjfyCTbLU0fU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lYmevgEDC3pS85h9DLjOWywwuKc=",
+                "location": "江苏"
+              },
+              "text": "确实是",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 8858284188142182,
+              "parent_comment_id": 1525451852212812,
+              "create_time": "2025-03-11T08:22:41.202+0800",
+              "owner": {
+                "user_id": 818548144188442,
+                "name": "阿力",
+                "avatar_url": "https://images.zsxq.com/Fsks8S_MgmGUFXiihjfyCTbLU0fU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lYmevgEDC3pS85h9DLjOWywwuKc=",
+                "location": "江苏"
+              },
+              "text": "谢谢许大。那如果完全国内用RMB来配置黄金，是不是就只有一个办法，持有黄金期货+刷上金所的黄金期权？这种方法同买+刷GLD相比，除了需要定期移仓换月外，还有什么别的缺陷吗？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8858284188854512,
+          "create_time": "2025-03-11T01:33:41.446+0800",
+          "owner": {
+            "user_id": 28514414484581,
+            "name": "左",
+            "avatar_url": "https://images.zsxq.com/Fk7bmpuUzowVBs9Ce0KaOJTlEnDn?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cq6oRQB_r-UVC9xMWmq0u6gDd-s=",
+            "location": "陕西"
+          },
+          "text": "gld？是什么？怎么刷？有知道的圈友告知一二[握手]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 2858284188141821,
+              "parent_comment_id": 8858284188854512,
+              "create_time": "2025-03-11T08:24:54.436+0800",
+              "owner": {
+                "user_id": 818548144188442,
+                "name": "阿力",
+                "avatar_url": "https://images.zsxq.com/Fsks8S_MgmGUFXiihjfyCTbLU0fU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lYmevgEDC3pS85h9DLjOWywwuKc=",
+                "location": "江苏"
+              },
+              "text": "GLD是美国市场的一个黄金ETF，具体怎么刷，看许大的置顶必知必会文章",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28514414484581,
+                "name": "左",
+                "avatar_url": "https://images.zsxq.com/Fk7bmpuUzowVBs9Ce0KaOJTlEnDn?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cq6oRQB_r-UVC9xMWmq0u6gDd-s="
+              }
+            },
+            {
+              "comment_id": 4848582152415148,
+              "parent_comment_id": 8858284188854512,
+              "create_time": "2025-03-11T13:24:40.953+0800",
+              "owner": {
+                "user_id": 28514414484581,
+                "name": "左",
+                "avatar_url": "https://images.zsxq.com/Fk7bmpuUzowVBs9Ce0KaOJTlEnDn?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cq6oRQB_r-UVC9xMWmq0u6gDd-s=",
+                "location": "陕西"
+              },
+              "text": "感谢",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818548144188442,
+                "name": "阿力",
+                "avatar_url": "https://images.zsxq.com/Fsks8S_MgmGUFXiihjfyCTbLU0fU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lYmevgEDC3pS85h9DLjOWywwuKc="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5121514851281114,
+          "create_time": "2025-03-11T12:32:10.410+0800",
+          "owner": {
+            "user_id": 582145414444584,
+            "name": "xx",
+            "avatar_url": "https://images.zsxq.com/Frvfew-Gdu_LvBtUCQc98BaM8js9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ytSHlhX6lIfazknDYqv1aW6riig=",
+            "location": "日本"
+          },
+          "text": "请教许大, 可否用IAU代替GLD?",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 1525451814455252,
+              "parent_comment_id": 5121514851281114,
+              "create_time": "2025-03-11T18:29:15.425+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "到期日的丰富程度不同",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 582145414444584,
+                "name": "xx",
+                "avatar_url": "https://images.zsxq.com/Frvfew-Gdu_LvBtUCQc98BaM8js9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ytSHlhX6lIfazknDYqv1aW6riig="
+              }
+            },
+            {
+              "comment_id": 5121514881145844,
+              "parent_comment_id": 5121514851281114,
+              "create_time": "2025-03-11T23:17:30.950+0800",
+              "owner": {
+                "user_id": 582145414444584,
+                "name": "xx",
+                "avatar_url": "https://images.zsxq.com/Frvfew-Gdu_LvBtUCQc98BaM8js9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ytSHlhX6lIfazknDYqv1aW6riig=",
+                "location": "日本"
+              },
+              "text": "谢谢，我主要觉得因为价格便宜所以更好操作一点… 这么说确实不够好",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM="
+              }
+            },
+            {
+              "comment_id": 2858284118844281,
+              "parent_comment_id": 5121514851281114,
+              "create_time": "2025-03-11T23:18:40.846+0800",
+              "owner": {
+                "user_id": 582145414444584,
+                "name": "xx",
+                "avatar_url": "https://images.zsxq.com/Frvfew-Gdu_LvBtUCQc98BaM8js9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ytSHlhX6lIfazknDYqv1aW6riig=",
+                "location": "日本"
+              },
+              "text": "谢谢，本以为便宜会是个大优势",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

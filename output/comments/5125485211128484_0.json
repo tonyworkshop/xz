@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T21:05:36.977773",
+  "url": "https://api.zsxq.com/v2/topics/5125485211128484/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5125485211128484",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2858428141451451,
+          "create_time": "2025-06-28T13:13:34.733+0800",
+          "owner": {
+            "user_id": 15458182285522,
+            "name": "七月雪",
+            "avatar_url": "https://images.zsxq.com/Fiy50xeFLfPSQsTq6Jm-BFQwUqHo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SMqmkwqV_Eh7NyiKfrzgSrqsYPU=",
+            "location": "浙江"
+          },
+          "text": "这个策略最大的问题就是像你说的一样，不知道什么时候会回归，而且随着行情的变化，组合的希腊字母会变动，本来0.2delta现在变平值了等等，你可能还需要移仓。这个过程就不太可控了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

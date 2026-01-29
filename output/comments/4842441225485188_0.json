@@ -1,0 +1,449 @@
+{
+  "captured_at": "2026-01-29T20:56:43.908985",
+  "url": "https://api.zsxq.com/v2/topics/4842441225485188/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4842441225485188",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1525851815111282,
+          "create_time": "2025-09-02T17:33:39.710+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "就和雪盈类似，这些刚起家的时候都是用的IB的通道",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 5,
+          "replied_comments": [
+            {
+              "comment_id": 5121814845122854,
+              "parent_comment_id": 1525851815111282,
+              "create_time": "2025-09-02T18:36:21.894+0800",
+              "owner": {
+                "user_id": 215515485282251,
+                "name": "trader韩阳",
+                "avatar_url": "https://images.zsxq.com/Fkv7IEuZFpWMXim3WmEnYtsmqB7b?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:54Y_BFf85UXoXlgUW9caYnWvgP8=",
+                "location": "山东"
+              },
+              "text": "用身份证在官网注册的ibkr会被传回信息么",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 8858184142852222,
+              "parent_comment_id": 1525851815111282,
+              "create_time": "2025-09-02T18:38:41.196+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "如果是美国账户就不会",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 215515485282251,
+                "name": "trader韩阳",
+                "avatar_url": "https://images.zsxq.com/Fkv7IEuZFpWMXim3WmEnYtsmqB7b?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:54Y_BFf85UXoXlgUW9caYnWvgP8="
+              }
+            },
+            {
+              "comment_id": 5121818145154184,
+              "parent_comment_id": 1525851815111282,
+              "create_time": "2025-09-04T05:33:23.690+0800",
+              "owner": {
+                "user_id": 215515485282251,
+                "name": "trader韩阳",
+                "avatar_url": "https://images.zsxq.com/Fkv7IEuZFpWMXim3WmEnYtsmqB7b?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:54Y_BFf85UXoXlgUW9caYnWvgP8=",
+                "location": "山东"
+              },
+              "text": "从哪里看是不是美国账户",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            },
+            {
+              "comment_id": 4848181581854548,
+              "parent_comment_id": 1525851815111282,
+              "create_time": "2025-09-04T21:29:01.303+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "如果你是大陆注册的都是美国账户，编号u开头。但如果有做期货贵金属之类交易的话需要注意有没有f结尾的子账户，这个是会被查crs的",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 215515485282251,
+                "name": "trader韩阳",
+                "avatar_url": "https://images.zsxq.com/Fkv7IEuZFpWMXim3WmEnYtsmqB7b?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:54Y_BFf85UXoXlgUW9caYnWvgP8="
+              }
+            },
+            {
+              "comment_id": 5121818518545554,
+              "parent_comment_id": 1525851815111282,
+              "create_time": "2025-09-04T21:51:46.842+0800",
+              "owner": {
+                "user_id": 215515485282251,
+                "name": "trader韩阳",
+                "avatar_url": "https://images.zsxq.com/Fkv7IEuZFpWMXim3WmEnYtsmqB7b?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:54Y_BFf85UXoXlgUW9caYnWvgP8=",
+                "location": "山东"
+              },
+              "text": "好的 谢谢",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5121814841851584,
+          "create_time": "2025-09-02T17:45:11.262+0800",
+          "owner": {
+            "user_id": 48811511812258,
+            "name": "扫地的",
+            "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+            "location": "湖南"
+          },
+          "text": "为啥不直接开盈透",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848182128124548,
+          "create_time": "2025-09-02T17:51:32.084+0800",
+          "owner": {
+            "user_id": 825114811222,
+            "name": "喧嚣",
+            "avatar_url": "https://images.zsxq.com/Fsjidk0bUbDrqyjx3DJ2Q20O1lCw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Xg6ZzfQ9GHRoPOLUX3rQNmZOAzU=",
+            "location": "广西"
+          },
+          "text": "用中银香港卡会有什么后果，我看规定上汇款不能用来投资？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848182125848128,
+          "create_time": "2025-09-02T18:37:07.746+0800",
+          "owner": {
+            "user_id": 225858145221,
+            "name": "彭磊Jimmy",
+            "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+            "location": "北京"
+          },
+          "text": "那盈透的代理经纪商是不是最好都别绑定了。。。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2858184142851151,
+          "create_time": "2025-09-02T18:44:00.587+0800",
+          "owner": {
+            "user_id": 144254841842,
+            "name": "许哲",
+            "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+            "location": "美国"
+          },
+          "text": "主要业务为中国公民的，公司实际运营在国内的，都不可能真的抵抗国内当局要求交出信息的。只要想明白这一点就知道后续会变成什么样了。\n\n有钱的争取早日换身份，没钱的记得注册海外的券商，IB的话记得注册在IB美国。不要用华人开的二道贩子代理商，只要你的信息被登记在那里，当局要求交出是绝对不可能为了你抵抗的。",
+          "likes_count": 7,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 4848181554488458,
+              "parent_comment_id": 2858184142851151,
+              "create_time": "2025-09-04T22:40:12.698+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+                "location": "湖南"
+              },
+              "text": "请问大佬，有个马来西亚第二家园身份如何",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 8858181225584842,
+              "parent_comment_id": 2858184142851151,
+              "create_time": "2025-09-04T22:43:14.004+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "那个买的人还挺多的，但我发现没有什么权力，除了可以住之外。唯一的优势是门槛低。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg="
+              }
+            },
+            {
+              "comment_id": 2858181185482121,
+              "parent_comment_id": 2858184142851151,
+              "create_time": "2025-09-06T02:57:17.396+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+                "location": "湖南"
+              },
+              "text": "意思是也不算换了身份，也会被交换crs数据",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8858184142285112,
+          "create_time": "2025-09-02T19:13:15.496+0800",
+          "owner": {
+            "user_id": 414851444222588,
+            "name": "嗯",
+            "alias": "嗯",
+            "avatar_url": "https://images.zsxq.com/FlrVgRY01mIXTghqocATj5F9VEi0?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w4B39Ly1qDy-Za6EW0VntTqeYgQ=",
+            "location": "浙江"
+          },
+          "text": "首先要确认是美国盈透还是香港盈透，可以通过账户设置查看监管机构IBKR LLC（美国）还是 IBHK（香港），也可以通过入金银行美国银行还是香港银行。美国盈透不用交换，香港盈透要交换。至于后面添加的经纪客户无论是不是老虎都拿不到你的信息，就无从交换，他们只是利用盈透推广自己。可以通过两个方法验证，第一，因为盈透通过绑定老虎的环球账户交易，你可以直接向老虎客服询问环球账户是否参与交换，他们会给你明确答复。第二，通过盈透账户交易一笔期货或者期货期权，然后查询老虎环球账户是否有记录，正常是没有的，因为老虎环球账户只记录美股，美股期权，ETF，eft期权，信息都不完整怎么交换。当然在老虎富途直接开户是参与信息交换的",
+          "likes_count": 2,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2858181844525151,
+              "parent_comment_id": 8858184142285112,
+              "create_time": "2025-09-04T08:51:01.670+0800",
+              "owner": {
+                "user_id": 88842588422552,
+                "name": "wayne",
+                "alias": "红蓝刷子",
+                "avatar_url": "https://images.zsxq.com/FhbKJaiTM90FiP6ImhmQ1PYIn-Xz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hncicjpHsoyrSMesYLzCUK3t49o=",
+                "location": "北京"
+              },
+              "text": "请问“可以通过账户设置查看监管机构IBKR LLC（美国）还是 IBHK（香港）”这个具体在哪里，我在账户设置里怎么也找不到。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 414851444222588,
+                "name": "嗯",
+                "alias": "嗯",
+                "avatar_url": "https://images.zsxq.com/FlrVgRY01mIXTghqocATj5F9VEi0?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w4B39Ly1qDy-Za6EW0VntTqeYgQ="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1525851814111442,
+          "create_time": "2025-09-02T20:03:58.830+0800",
+          "owner": {
+            "user_id": 48244814244248,
+            "name": "庄生晓梦",
+            "avatar_url": "https://images.zsxq.com/Fj90mlaqtE1XoMVQbLtStLVPuIUy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f7Ni4ogirD99Yk5vePVNH5iC1YA=",
+            "location": "新疆"
+          },
+          "text": "我在雪球看到：千万别用美国盈透去交易伦敦所的金属期货，因为英国也加入了C去rs ，本来美国盈透很安全的，结果因为用美国盈透买了伦敦金，结果就暴露了",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 2858181842585281,
+              "parent_comment_id": 1525851814111442,
+              "create_time": "2025-09-04T00:16:54.521+0800",
+              "owner": {
+                "user_id": 28484285585511,
+                "name": "正道沧桑",
+                "avatar_url": "https://images.zsxq.com/FuoDQaCAgdkZD6IEukU0oHQ5rRfa?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XSg-rlZZsqJhGNMr4BA3lBZBROA=",
+                "location": "广东"
+              },
+              "text": "美国盈透就交易美股就可以了，安全的。你说不能买英国的黄金，连港股也不能买。日本股市也不能投，新加坡也是，都参与交换。所以开美国盈透，只交易美国的资产，就安全了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48244814244248,
+                "name": "庄生晓梦",
+                "avatar_url": "https://images.zsxq.com/Fj90mlaqtE1XoMVQbLtStLVPuIUy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f7Ni4ogirD99Yk5vePVNH5iC1YA="
+              }
+            },
+            {
+              "comment_id": 4848181825485418,
+              "parent_comment_id": 1525851814111442,
+              "create_time": "2025-09-04T00:23:51.095+0800",
+              "owner": {
+                "user_id": 48244814244248,
+                "name": "庄生晓梦",
+                "avatar_url": "https://images.zsxq.com/Fj90mlaqtE1XoMVQbLtStLVPuIUy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f7Ni4ogirD99Yk5vePVNH5iC1YA=",
+                "location": "新疆"
+              },
+              "text": "",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "images": [
+                {
+                  "image_id": 5122555512581444,
+                  "type": "png",
+                  "thumbnail": {
+                    "url": "https://images.zsxq.com/Fskl9OUFzEaeA2BBPV4uzbpCoQ23?imageMogr2/auto-orient/thumbnail/380x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RXK-QBxRt9lsq3bGxAHXWa33cok=",
+                    "width": 380,
+                    "height": 822
+                  },
+                  "large": {
+                    "url": "https://images.zsxq.com/Fskl9OUFzEaeA2BBPV4uzbpCoQ23?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yeFrnc_elAespJAL_HoMQvQOaWk=",
+                    "width": 800,
+                    "height": 1731
+                  },
+                  "original": {
+                    "url": "https://images.zsxq.com/Fskl9OUFzEaeA2BBPV4uzbpCoQ23?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qZBRnf_w4TfPXrMTcNUAudZCHfU=",
+                    "width": 828,
+                    "height": 1792,
+                    "size": 228346
+                  }
+                }
+              ],
+              "repliee": {
+                "user_id": 28484285585511,
+                "name": "正道沧桑",
+                "avatar_url": "https://images.zsxq.com/FuoDQaCAgdkZD6IEukU0oHQ5rRfa?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XSg-rlZZsqJhGNMr4BA3lBZBROA="
+              }
+            },
+            {
+              "comment_id": 2858181842582881,
+              "parent_comment_id": 1525851814111442,
+              "create_time": "2025-09-04T00:24:30.903+0800",
+              "owner": {
+                "user_id": 48244814244248,
+                "name": "庄生晓梦",
+                "avatar_url": "https://images.zsxq.com/Fj90mlaqtE1XoMVQbLtStLVPuIUy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f7Ni4ogirD99Yk5vePVNH5iC1YA=",
+                "location": "新疆"
+              },
+              "text": "我把原贴贴上，给有需要的人",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28484285585511,
+                "name": "正道沧桑",
+                "avatar_url": "https://images.zsxq.com/FuoDQaCAgdkZD6IEukU0oHQ5rRfa?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XSg-rlZZsqJhGNMr4BA3lBZBROA="
+              }
+            },
+            {
+              "comment_id": 5121818145218254,
+              "parent_comment_id": 1525851814111442,
+              "create_time": "2025-09-04T00:35:15.806+0800",
+              "owner": {
+                "user_id": 28484285585511,
+                "name": "正道沧桑",
+                "avatar_url": "https://images.zsxq.com/FuoDQaCAgdkZD6IEukU0oHQ5rRfa?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XSg-rlZZsqJhGNMr4BA3lBZBROA=",
+                "location": "广东"
+              },
+              "text": "其实内地开通的基本都是美国盈透，监管协议针对的是卡，卡如果是美国开的一点问题没有。香港开的不行。至于开了美国盈透，又去作死买英国黄金，香港股市，日本，新加坡股市，那就没办法了。美卡美股为了隔离，为了以后彻底脱钩做的备份。就不要在英国，港，日等横跳了。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48244814244248,
+                "name": "庄生晓梦",
+                "avatar_url": "https://images.zsxq.com/Fj90mlaqtE1XoMVQbLtStLVPuIUy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f7Ni4ogirD99Yk5vePVNH5iC1YA="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

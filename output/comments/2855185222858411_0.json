@@ -1,0 +1,247 @@
+{
+  "captured_at": "2026-01-29T22:13:59.183699",
+  "url": "https://api.zsxq.com/v2/topics/2855185222858411/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2855185222858411",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2855482821248181,
+          "create_time": "2024-08-06T23:40:09.411+0800",
+          "owner": {
+            "user_id": 422214855212818,
+            "name": "sky",
+            "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c=",
+            "location": "美国"
+          },
+          "text": "<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" /> 请问许大，我发现uvix 期权流动性远远不如uvxy，你更偏向用uvix 的option 还是 uvxy 的option?",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 1522154548148152,
+              "parent_comment_id": 2855482821248181,
+              "create_time": "2024-08-07T00:14:41.198+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "uvxy，理由就是因为流动性",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c="
+              }
+            },
+            {
+              "comment_id": 8855482821115582,
+              "parent_comment_id": 2855482821248181,
+              "create_time": "2024-08-07T05:22:45.109+0800",
+              "owner": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c=",
+                "location": "美国"
+              },
+              "text": "感谢许大",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1522154581518252,
+          "create_time": "2024-08-07T19:09:23.136+0800",
+          "owner": {
+            "user_id": 88452512542182,
+            "name": "心若在，梦就在",
+            "avatar_url": "https://images.zsxq.com/FsOKj7gpy8dM8hJpWufdPZVCvW9q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WI6iNg6n8Fa_LI_P4acpge-96iQ=",
+            "location": "湖北"
+          },
+          "text": "uvix是有损耗的，我傻傻的以为这东西都这么低了，可以长期拿，交学费了。本来大涨那天就准备卖的，盈透卖这东西不能有非整数，太刺激了没注意提示导致没卖掉[裂开]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 5122415522848154,
+              "parent_comment_id": 1522154581518252,
+              "create_time": "2024-08-07T21:59:29.223+0800",
+              "owner": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c=",
+                "location": "美国"
+              },
+              "text": "你的意思是价格10.5不让你卖？ 要价格10才允许卖？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88452512542182,
+                "name": "心若在，梦就在",
+                "avatar_url": "https://images.zsxq.com/FsOKj7gpy8dM8hJpWufdPZVCvW9q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WI6iNg6n8Fa_LI_P4acpge-96iQ="
+              }
+            },
+            {
+              "comment_id": 4844285548445448,
+              "parent_comment_id": 1522154581518252,
+              "create_time": "2024-08-07T22:14:41.552+0800",
+              "owner": {
+                "user_id": 88452512542182,
+                "name": "心若在，梦就在",
+                "avatar_url": "https://images.zsxq.com/FsOKj7gpy8dM8hJpWufdPZVCvW9q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WI6iNg6n8Fa_LI_P4acpge-96iQ=",
+                "location": "湖北"
+              },
+              "text": "不是价格，是份额，需要整数，已经解决了，下单的时候要把那个常规交易时间关闭才行，想想都后悔，手贱设置了默认打开，这学费真贵[流泪]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88452512542182,
+                "name": "心若在，梦就在",
+                "avatar_url": "https://images.zsxq.com/FsOKj7gpy8dM8hJpWufdPZVCvW9q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WI6iNg6n8Fa_LI_P4acpge-96iQ="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8855482814818842,
+          "create_time": "2024-08-07T19:16:28.928+0800",
+          "owner": {
+            "user_id": 88452512542182,
+            "name": "心若在，梦就在",
+            "avatar_url": "https://images.zsxq.com/FsOKj7gpy8dM8hJpWufdPZVCvW9q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WI6iNg6n8Fa_LI_P4acpge-96iQ=",
+            "location": "湖北"
+          },
+          "text": "还想请教下，uvix是不是不适合不断抄底或者定投，除非遇到黑天鹅才可能会赚钱",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 5122415184185884,
+              "parent_comment_id": 8855482814818842,
+              "create_time": "2024-08-07T19:19:00.818+0800",
+              "owner": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+                "location": "四川"
+              },
+              "text": "是的，这玩意损耗极高，要学我这样的方法，吃损耗养Call，把Call的成本往0甚至更低拉就能尽可能便宜做多了。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88452512542182,
+                "name": "心若在，梦就在",
+                "avatar_url": "https://images.zsxq.com/FsOKj7gpy8dM8hJpWufdPZVCvW9q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WI6iNg6n8Fa_LI_P4acpge-96iQ="
+              }
+            },
+            {
+              "comment_id": 1522154581425842,
+              "parent_comment_id": 8855482814818842,
+              "create_time": "2024-08-07T19:27:35.418+0800",
+              "owner": {
+                "user_id": 88452512542182,
+                "name": "心若在，梦就在",
+                "avatar_url": "https://images.zsxq.com/FsOKj7gpy8dM8hJpWufdPZVCvW9q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WI6iNg6n8Fa_LI_P4acpge-96iQ=",
+                "location": "湖北"
+              },
+              "text": "恐慌很难遇到的，混在一起的话收益其实算下来也还是不太行，还不如等异动进去，不过夜",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png"
+              }
+            },
+            {
+              "comment_id": 4844285812542528,
+              "parent_comment_id": 8855482814818842,
+              "create_time": "2024-08-07T19:31:07.839+0800",
+              "owner": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+                "location": "四川"
+              },
+              "text": "VIX俗称恐慌，但实际交易的是sp500的iv，iv是时常会升高的；而且你也低估了它在低位的损耗，UVIX的损耗能高达年化900%，只要能套出来对冲掉风险是很香的。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88452512542182,
+                "name": "心若在，梦就在",
+                "avatar_url": "https://images.zsxq.com/FsOKj7gpy8dM8hJpWufdPZVCvW9q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WI6iNg6n8Fa_LI_P4acpge-96iQ="
+              }
+            },
+            {
+              "comment_id": 1522154581455512,
+              "parent_comment_id": 8855482814818842,
+              "create_time": "2024-08-07T19:38:27.318+0800",
+              "owner": {
+                "user_id": 88452512542182,
+                "name": "心若在，梦就在",
+                "avatar_url": "https://images.zsxq.com/FsOKj7gpy8dM8hJpWufdPZVCvW9q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WI6iNg6n8Fa_LI_P4acpge-96iQ=",
+                "location": "湖北"
+              },
+              "text": "谢谢，学习了。还是买点股票玩算了，这种杠杆的太复杂了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png"
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

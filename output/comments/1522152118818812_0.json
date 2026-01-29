@@ -1,0 +1,260 @@
+{
+  "captured_at": "2026-01-29T22:34:06.663401",
+  "url": "https://api.zsxq.com/v2/topics/1522152118818812/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1522152118818812",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5122581214188224,
+          "create_time": "2024-06-11T08:25:45.123+0800",
+          "owner": {
+            "user_id": 15558282185242,
+            "name": "青弦",
+            "avatar_url": "https://images.zsxq.com/FlmANoiH6TYDBTYV-uiHEcRfCSz-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-EzVzmYAuQqbm8RzXhGmb23U0sk=",
+            "location": "江苏"
+          },
+          "text": "哪有护理人才供给不稳定，无非是家庭出不起保姆的钱……",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 11,
+          "replied_comments": [
+            {
+              "comment_id": 8855218584811212,
+              "parent_comment_id": 5122581214188224,
+              "create_time": "2024-06-11T08:28:28.985+0800",
+              "owner": {
+                "user_id": 185552485411542,
+                "name": "蜗牛🐌飞快",
+                "avatar_url": "https://images.zsxq.com/FtphKD83oSd--fo6nzPlr2QBnLNK?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:COrrdSjrp_3B1qRRqt6R7-XX71Q=",
+                "location": "新疆"
+              },
+              "text": "当你动不了的时候，又没有人能威慑他们的时候，钱是没有太多用的，尤其在兔子国的医院或者养老院，你问问你身边的医生朋友就明白了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 15558282185242,
+                "name": "青弦",
+                "avatar_url": "https://images.zsxq.com/FlmANoiH6TYDBTYV-uiHEcRfCSz-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-EzVzmYAuQqbm8RzXhGmb23U0sk="
+              }
+            },
+            {
+              "comment_id": 1522485251418552,
+              "parent_comment_id": 5122581214188224,
+              "create_time": "2024-06-11T08:45:24.539+0800",
+              "owner": {
+                "user_id": 15558282185242,
+                "name": "青弦",
+                "avatar_url": "https://images.zsxq.com/FlmANoiH6TYDBTYV-uiHEcRfCSz-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-EzVzmYAuQqbm8RzXhGmb23U0sk=",
+                "location": "江苏"
+              },
+              "text": "是赌王何鸿燊的百亿没大用，还是退休小干部在哪家住一个月就给谁的一万的退休金没用？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 185552485411542,
+                "name": "蜗牛🐌飞快",
+                "avatar_url": "https://images.zsxq.com/FtphKD83oSd--fo6nzPlr2QBnLNK?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:COrrdSjrp_3B1qRRqt6R7-XX71Q="
+              }
+            },
+            {
+              "comment_id": 4844518482521288,
+              "parent_comment_id": 5122581214188224,
+              "create_time": "2024-06-11T08:47:06.708+0800",
+              "owner": {
+                "user_id": 185552485411542,
+                "name": "蜗牛🐌飞快",
+                "avatar_url": "https://images.zsxq.com/FtphKD83oSd--fo6nzPlr2QBnLNK?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:COrrdSjrp_3B1qRRqt6R7-XX71Q=",
+                "location": "新疆"
+              },
+              "text": "你要这么说，那你赢了，你是对的，我对超级富豪生活一无所知。请原谅",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 15558282185242,
+                "name": "青弦",
+                "avatar_url": "https://images.zsxq.com/FlmANoiH6TYDBTYV-uiHEcRfCSz-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-EzVzmYAuQqbm8RzXhGmb23U0sk="
+              }
+            },
+            {
+              "comment_id": 2855218584188811,
+              "parent_comment_id": 5122581214188224,
+              "create_time": "2024-06-11T09:29:28.802+0800",
+              "owner": {
+                "user_id": 15558282185242,
+                "name": "青弦",
+                "avatar_url": "https://images.zsxq.com/FlmANoiH6TYDBTYV-uiHEcRfCSz-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-EzVzmYAuQqbm8RzXhGmb23U0sk=",
+                "location": "江苏"
+              },
+              "text": "所以养老机器人要解决的是家政的钱（贵一点zf可以补贴）和6-10-7护理+保姆的能力，还有现在出了养老护理补贴",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 185552485411542,
+                "name": "蜗牛🐌飞快",
+                "avatar_url": "https://images.zsxq.com/FtphKD83oSd--fo6nzPlr2QBnLNK?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:COrrdSjrp_3B1qRRqt6R7-XX71Q="
+              }
+            },
+            {
+              "comment_id": 4844518418452428,
+              "parent_comment_id": 5122581214188224,
+              "create_time": "2024-06-12T09:14:06.532+0800",
+              "owner": {
+                "user_id": 15558282185242,
+                "name": "青弦",
+                "avatar_url": "https://images.zsxq.com/FlmANoiH6TYDBTYV-uiHEcRfCSz-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-EzVzmYAuQqbm8RzXhGmb23U0sk=",
+                "location": "江苏"
+              },
+              "text": "朝气蓬勃大学生伺候暮气晨晨老人，还得端屎端尿，非亲非故，必然需要钱权补偿",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28845455588181,
+                "name": "Mark",
+                "avatar_url": "https://images.zsxq.com/Fp-VbPB4lGCssDYmW7xZEG4ozgII?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wHdoBzXzarvEZU_yN5AQudzrDkI="
+              }
+            },
+            {
+              "comment_id": 4844518418254228,
+              "parent_comment_id": 5122581214188224,
+              "create_time": "2024-06-12T10:15:40.503+0800",
+              "owner": {
+                "user_id": 15558282185242,
+                "name": "青弦",
+                "avatar_url": "https://images.zsxq.com/FlmANoiH6TYDBTYV-uiHEcRfCSz-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-EzVzmYAuQqbm8RzXhGmb23U0sk=",
+                "location": "江苏"
+              },
+              "text": "这都是暮气，或者说难听点死气～",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28845455588181,
+                "name": "Mark",
+                "avatar_url": "https://images.zsxq.com/Fp-VbPB4lGCssDYmW7xZEG4ozgII?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wHdoBzXzarvEZU_yN5AQudzrDkI="
+              }
+            },
+            {
+              "comment_id": 4844518415551518,
+              "parent_comment_id": 5122581214188224,
+              "create_time": "2024-06-12T11:46:30.416+0800",
+              "owner": {
+                "user_id": 15558282185242,
+                "name": "青弦",
+                "avatar_url": "https://images.zsxq.com/FlmANoiH6TYDBTYV-uiHEcRfCSz-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-EzVzmYAuQqbm8RzXhGmb23U0sk=",
+                "location": "江苏"
+              },
+              "text": "已经过35了😁",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28845455588181,
+                "name": "Mark",
+                "avatar_url": "https://images.zsxq.com/Fp-VbPB4lGCssDYmW7xZEG4ozgII?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wHdoBzXzarvEZU_yN5AQudzrDkI="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2855218821821881,
+          "create_time": "2024-06-13T16:11:48.298+0800",
+          "owner": {
+            "user_id": 825142122412,
+            "name": "和一",
+            "avatar_url": "https://images.zsxq.com/FjCTJXlGYXZs6sN97_v5LjX66qI_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ztiyXIdczNTLRcgwzoaWcv-ZiQ0=",
+            "location": "山东"
+          },
+          "text": "久病床前无孝子，这句老话一语道破了人性，更何况没有血缘关系的人，给钱都破不了这个人性的问题。机器人确实可以",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855218218885122,
+          "create_time": "2024-06-14T04:09:29.259+0800",
+          "owner": {
+            "user_id": 48882242112558,
+            "name": "木亮子",
+            "avatar_url": "https://images.zsxq.com/FpYOxTlHwBcVmG65QvV4i8Xu2iym?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ophlHRw3ONZyvffF848Yv-uVtPY=",
+            "location": "四川"
+          },
+          "text": "我爸爸在医院住院，看到亲子关系不好的老人，儿子请护工，护工晚上睡觉，不管老人的，老人在床上咳嗽的死气活来也不管。儿子周末来鼓捣出院，说，他爸爸年轻不管他，跟他妈妈离婚，他是妈妈养大的。出院了等死，他可以减少负担。鼓捣出院等死。另外一家是弟弟陪床，一晚上不睡，拿个凳子在哥哥旁边坐了一晚上，而且哥哥癌症7年，每年住院几次的情况。人生病了，不能动，靠钱养老真的不行，还是要靠亲情。我爸爸生病，我们三姐妹同时陪床，医生护士都说很羡慕，这样的太少了。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855218218888142,
+          "create_time": "2024-06-14T04:24:24.735+0800",
+          "owner": {
+            "user_id": 48882242112558,
+            "name": "木亮子",
+            "avatar_url": "https://images.zsxq.com/FpYOxTlHwBcVmG65QvV4i8Xu2iym?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ophlHRw3ONZyvffF848Yv-uVtPY=",
+            "location": "四川"
+          },
+          "text": "而且，到后面我们轮流陪床4个月，晚上保障2个人。我跟大姐体制内，二姐做生意。最后我70岁的妈妈也加入，爸爸医院倒床后，医治4个月走了。我爸爸是食管气管瘘，不能吃喝，输营养液，输人血白蛋白，输血等维持生命，整晚整晚咳嗽，靠抗生素消炎，最后抗生素也没用了。后来一个多月，插了鼻饲管，4个小时一次鼻饲奶粉，半夜我姐姐他们都坚持喂。每次喂奶就会大便窝床上，一天床单被套睡衣可能换几次。就这样，我们对爸爸没一句重话，我们都特别爱爸爸。医生早建议不治疗了，而我们求医生在医院里，重症都进了一次，次重症进了一次。爸爸虽然病得坏了痛苦，但比孝顺，我们是真孝顺，爸爸心里应该在病痛面前得到安慰。所以，亲情特别重要，不要伤害身边的亲人。爸爸去世一个多月了，自从爸爸走后每次打电话回家，妈妈都哭的很伤心，都希望爸爸确诊癌症后，哪怕生活质量不高，能多活几年都是好的。妈妈没有嫌弃爸爸躺床上给她带来的麻烦和晚上不能睡觉。爸爸躺床上后，不能擦洗身上，一擦洗就发烧。所以，基本是没洗在床上几个月，我们经常跟爸爸挨脸，妈妈也经常跟爸爸挨脸。也躺爸爸旁边挤倒小睡一下，拉着爸爸的手，希望给他力量和安慰。这些是机器人给不了的亲情温暖。",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 1522485111281522,
+              "parent_comment_id": 8855218218888142,
+              "create_time": "2024-06-16T06:13:09.484+0800",
+              "owner": {
+                "user_id": 185552485411542,
+                "name": "蜗牛🐌飞快",
+                "avatar_url": "https://images.zsxq.com/FtphKD83oSd--fo6nzPlr2QBnLNK?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:COrrdSjrp_3B1qRRqt6R7-XX71Q=",
+                "location": "新疆"
+              },
+              "text": "[强][强]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48882242112558,
+                "name": "木亮子",
+                "avatar_url": "https://images.zsxq.com/FpYOxTlHwBcVmG65QvV4i8Xu2iym?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ophlHRw3ONZyvffF848Yv-uVtPY="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

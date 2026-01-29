@@ -1,0 +1,87 @@
+{
+  "captured_at": "2026-01-29T20:38:26.514652",
+  "url": "https://api.zsxq.com/v2/topics/55188148421118524/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "55188148421118524",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4845524122448818,
+          "create_time": "2025-12-29T14:11:03.256+0800",
+          "owner": {
+            "user_id": 228845212181,
+            "name": "冷心",
+            "avatar_url": "https://images.zsxq.com/FvSH4KLSusfjYebunBPhP41z6YyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P5fbLFK4HuuTVMGpXnmQaPvFCIQ=",
+            "location": "广东"
+          },
+          "text": "喜欢最后一段，也是人间真相",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4845524115445858,
+          "create_time": "2025-12-29T18:35:41.250+0800",
+          "owner": {
+            "user_id": 225858145221,
+            "name": "彭磊Jimmy",
+            "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+            "location": "北京"
+          },
+          "text": "贫富差距也是一样的，资本主义过去几十上百年以来的趋势就是贫富差距越来越大，不存在什么反转均贫富均值回归的，这是社会规律",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2852241412211541,
+          "create_time": "2026-01-01T22:54:47.223+0800",
+          "owner": {
+            "user_id": 28484285585511,
+            "name": "正道沧桑",
+            "avatar_url": "https://images.zsxq.com/FuoDQaCAgdkZD6IEukU0oHQ5rRfa?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XSg-rlZZsqJhGNMr4BA3lBZBROA=",
+            "location": "广东"
+          },
+          "text": "请问当年美股不是出现了漂亮50暴跌的情况吗？那做多7姐妹做空493，是不是也可能暴跌？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 5125548828455144,
+              "parent_comment_id": 2852241412211541,
+              "create_time": "2026-01-02T17:26:23.820+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "他们不是一回事，一个是捧核心资产，一个是真正的人类能力边界的拓展，不是一码事",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28484285585511,
+                "name": "正道沧桑",
+                "avatar_url": "https://images.zsxq.com/FuoDQaCAgdkZD6IEukU0oHQ5rRfa?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XSg-rlZZsqJhGNMr4BA3lBZBROA="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

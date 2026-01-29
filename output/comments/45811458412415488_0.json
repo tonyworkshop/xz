@@ -1,0 +1,93 @@
+{
+  "captured_at": "2026-01-29T20:47:13.377650",
+  "url": "https://api.zsxq.com/v2/topics/45811458412415488/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "45811458412415488",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2858118418858441,
+          "create_time": "2025-10-25T19:40:46.600+0800",
+          "owner": {
+            "user_id": 244111541218441,
+            "name": "！",
+            "avatar_url": "https://images.zsxq.com/Fs4_UW2jvcUWjxdmR8-jaSb2_rCr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:LNtOE-2qxu-f80ZNr68fMVEgKmI=",
+            "location": "福建"
+          },
+          "text": "那为什么不直接让货币贬值呢，不是还能促进出口吗，提升经济。这个方法有问题吗",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 8858118414484122,
+              "parent_comment_id": 2858118418858441,
+              "create_time": "2025-10-25T22:17:19.353+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "央行的核心kpi之一就是保汇率。。。所以不太可能的，大概率啥都不做",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 244111541218441,
+                "name": "！",
+                "avatar_url": "https://images.zsxq.com/Fs4_UW2jvcUWjxdmR8-jaSb2_rCr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:LNtOE-2qxu-f80ZNr68fMVEgKmI="
+              }
+            },
+            {
+              "comment_id": 2852558241242221,
+              "parent_comment_id": 2858118418858441,
+              "create_time": "2025-11-03T10:56:38.224+0800",
+              "owner": {
+                "user_id": 88511241451422,
+                "name": "梁帅",
+                "avatar_url": "https://images.zsxq.com/FsOd6AfUkwXVl5Sm2JNtTMKtCcbp?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qW9-M07pSYiA9DNgLORemvGRy28=",
+                "location": "上海"
+              },
+              "text": "贬值和老大认为的东升西江不符合 不会采纳",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 244111541218441,
+                "name": "！",
+                "avatar_url": "https://images.zsxq.com/Fs4_UW2jvcUWjxdmR8-jaSb2_rCr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:LNtOE-2qxu-f80ZNr68fMVEgKmI="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1524225211882122,
+          "create_time": "2025-10-31T19:56:53.236+0800",
+          "owner": {
+            "user_id": 422255144288188,
+            "name": "朱玥",
+            "avatar_url": "https://images.zsxq.com/Fs8lMQkJwsvSi1Yp40PtQA9ks6Y2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:27m7tMr_82mISK3CZmEIi4qbhSg=",
+            "location": "江苏"
+          },
+          "text": "债为什么这几天涨的那么好呢",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

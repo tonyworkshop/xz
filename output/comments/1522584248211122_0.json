@@ -1,0 +1,662 @@
+{
+  "captured_at": "2026-01-29T23:00:59.097322",
+  "url": "https://api.zsxq.com/v2/topics/1522584248211122/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1522584248211122",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2855254211858411,
+          "create_time": "2024-03-30T17:56:51.969+0800",
+          "owner": {
+            "user_id": 582252425421484,
+            "name": "铁汉也柔情007",
+            "avatar_url": "https://images.zsxq.com/FufVkBj9SHGNmvsqgSAyKFCpa2rF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3ebEEWs_DXUrbI_pdF5moFq7nIo=",
+            "location": "四川"
+          },
+          "text": "沙发",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855254211484142,
+          "create_time": "2024-03-30T19:20:49.770+0800",
+          "owner": {
+            "user_id": 28882258154421,
+            "name": "Max_峯",
+            "avatar_url": "https://images.zsxq.com/FhKkSU8CJAAx67nRH0qjE21A-vqq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s6ttUTEAfwD-cI04Qhd5_Bia0FQ=",
+            "location": "湖北"
+          },
+          "text": "沙发",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5122524588451214,
+          "create_time": "2024-03-30T19:27:37.811+0800",
+          "owner": {
+            "user_id": 185552485411542,
+            "name": "蜗牛🐌飞快",
+            "avatar_url": "https://images.zsxq.com/FtphKD83oSd--fo6nzPlr2QBnLNK?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:COrrdSjrp_3B1qRRqt6R7-XX71Q=",
+            "location": "新疆"
+          },
+          "text": "非常智慧的策略，可惜国内不太好搞",
+          "likes_count": 2,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855254211421422,
+          "create_time": "2024-03-30T19:35:43.209+0800",
+          "owner": {
+            "user_id": 48841218821188,
+            "name": "溪林苑",
+            "avatar_url": "https://images.zsxq.com/Fisl87L7JTx6He22E3GfnRNNvh_c?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qrtBeD4wUvR-O1nBrphnA-Ge1NQ=",
+            "location": "福建"
+          },
+          "text": "看了文章好羡慕啊！\n请问许大: A股中的小散有啥降低持有资产成本的方法？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 1522421825151122,
+              "parent_comment_id": 8855254211421422,
+              "create_time": "2024-03-30T20:11:00.337+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "上证50etf 期权",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48841218821188,
+                "name": "溪林苑",
+                "avatar_url": "https://images.zsxq.com/Fisl87L7JTx6He22E3GfnRNNvh_c?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qrtBeD4wUvR-O1nBrphnA-Ge1NQ="
+              }
+            },
+            {
+              "comment_id": 2855254158421481,
+              "parent_comment_id": 8855254211421422,
+              "create_time": "2024-03-30T20:27:02.553+0800",
+              "owner": {
+                "user_id": 48841218821188,
+                "name": "溪林苑",
+                "avatar_url": "https://images.zsxq.com/Fisl87L7JTx6He22E3GfnRNNvh_c?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qrtBeD4wUvR-O1nBrphnA-Ge1NQ=",
+                "location": "福建"
+              },
+              "text": "谢谢许大",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 5122524812841444,
+              "parent_comment_id": 8855254211421422,
+              "create_time": "2024-03-31T10:39:43.898+0800",
+              "owner": {
+                "user_id": 28882258154421,
+                "name": "Max_峯",
+                "avatar_url": "https://images.zsxq.com/FhKkSU8CJAAx67nRH0qjE21A-vqq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s6ttUTEAfwD-cI04Qhd5_Bia0FQ=",
+                "location": "湖北"
+              },
+              "text": "现在价格真好合适",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48841218821188,
+                "name": "溪林苑",
+                "avatar_url": "https://images.zsxq.com/Fisl87L7JTx6He22E3GfnRNNvh_c?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qrtBeD4wUvR-O1nBrphnA-Ge1NQ="
+              }
+            },
+            {
+              "comment_id": 8855254185148122,
+              "parent_comment_id": 8855254211421422,
+              "create_time": "2024-03-31T10:40:11.760+0800",
+              "owner": {
+                "user_id": 28882258154421,
+                "name": "Max_峯",
+                "avatar_url": "https://images.zsxq.com/FhKkSU8CJAAx67nRH0qjE21A-vqq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s6ttUTEAfwD-cI04Qhd5_Bia0FQ=",
+                "location": "湖北"
+              },
+              "text": "只不过卖起来收益有点低",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48841218821188,
+                "name": "溪林苑",
+                "avatar_url": "https://images.zsxq.com/Fisl87L7JTx6He22E3GfnRNNvh_c?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qrtBeD4wUvR-O1nBrphnA-Ge1NQ="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8855254188824182,
+          "create_time": "2024-03-31T11:38:49.841+0800",
+          "owner": {
+            "user_id": 28882258154421,
+            "name": "Max_峯",
+            "avatar_url": "https://images.zsxq.com/FhKkSU8CJAAx67nRH0qjE21A-vqq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s6ttUTEAfwD-cI04Qhd5_Bia0FQ=",
+            "location": "湖北"
+          },
+          "text": "许大：请问卖put不应该超过远端put保护的范围，具体来说我卖的张数是我想接货的数量且不超卖，以此来确定远端的看跌保护数量。具体是：1.是按照longput和sellput的delta中性来卖？2.还是，sellput和longput总张数一样来确定。但是不管方案1还是2保护腿支出的权利金成本都很大。这里我还是有点没理顺。可否指点一二。十分感谢。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8855254188455282,
+              "parent_comment_id": 8855254188824182,
+              "create_time": "2024-03-31T12:47:15.579+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "按照张数，时间够长后的保护期权的每日成本是低的",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28882258154421,
+                "name": "Max_峯",
+                "avatar_url": "https://images.zsxq.com/FhKkSU8CJAAx67nRH0qjE21A-vqq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s6ttUTEAfwD-cI04Qhd5_Bia0FQ="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4844542188544848,
+          "create_time": "2024-03-31T12:07:22.154+0800",
+          "owner": {
+            "user_id": 15285128521452,
+            "name": "Eric",
+            "avatar_url": "https://images.zsxq.com/FhASBGouBkGPD_nCLbh4LhvgcDaU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YbsHW2FfYFE9bOtNjve5jMtneLM=",
+            "location": "福建"
+          },
+          "text": "许大，讲期权的书，有没有推荐一些",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8855254128814182,
+              "parent_comment_id": 4844542188544848,
+              "create_time": "2024-03-31T22:53:09.983+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "麦克米伦的吧",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 15285128521452,
+                "name": "Eric",
+                "avatar_url": "https://images.zsxq.com/FhASBGouBkGPD_nCLbh4LhvgcDaU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YbsHW2FfYFE9bOtNjve5jMtneLM="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8855254125554412,
+          "create_time": "2024-03-31T19:38:05.850+0800",
+          "owner": {
+            "user_id": 111144258452182,
+            "name": "dzk",
+            "avatar_url": "https://images.zsxq.com/FtjO4gOkbKxmLvFUfy6mBEnITzdg?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:M9Pj-LkmLMIV0gToFfUaxXz6Y8w=",
+            "location": "广东"
+          },
+          "text": "许大，我看还有用领口降低成本的，这是不是在标的高估时上车的一种方案",
+          "likes_count": 3,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4844542121121858,
+              "parent_comment_id": 8855254125554412,
+              "create_time": "2024-04-01T16:07:52.704+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "对，是的",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 111144258452182,
+                "name": "dzk",
+                "avatar_url": "https://images.zsxq.com/FtjO4gOkbKxmLvFUfy6mBEnITzdg?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:M9Pj-LkmLMIV0gToFfUaxXz6Y8w="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1522421842241442,
+          "create_time": "2024-03-31T20:01:40.514+0800",
+          "owner": {
+            "user_id": 48851244854458,
+            "name": "LT",
+            "avatar_url": "https://images.zsxq.com/Fv6ZlBS5tOgPzbmd0nozXBeHpCeJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lnCeRk6VrLHMarf9OjH0doX8nrk=",
+            "location": "北京"
+          },
+          "text": "请教许大，假如同样是在A股做多，滚动short put 因为是现金交割，是不是不如持有股指期货多单呢？因为short put 的收益在上涨时只有固定的权利金，是这样理解的吗",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 1522421818818112,
+              "parent_comment_id": 1522421842241442,
+              "create_time": "2024-04-01T16:09:11.032+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "你可以不断持有short put 不断roll下去，就能吃期权增益了，股指期货没这个功能。如果怕窜升吃不足，可以额外买个otm call，也就是楼上说的衣领",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48851244854458,
+                "name": "LT",
+                "avatar_url": "https://images.zsxq.com/Fv6ZlBS5tOgPzbmd0nozXBeHpCeJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lnCeRk6VrLHMarf9OjH0doX8nrk="
+              }
+            },
+            {
+              "comment_id": 4844541445244248,
+              "parent_comment_id": 1522421842241442,
+              "create_time": "2024-04-02T08:14:08.687+0800",
+              "owner": {
+                "user_id": 48851244854458,
+                "name": "LT",
+                "avatar_url": "https://images.zsxq.com/Fv6ZlBS5tOgPzbmd0nozXBeHpCeJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lnCeRk6VrLHMarf9OjH0doX8nrk=",
+                "location": "北京"
+              },
+              "text": "多谢许大",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5122524852581124,
+          "create_time": "2024-03-31T21:13:06.937+0800",
+          "owner": {
+            "user_id": 582851858521554,
+            "name": "博远欧三油泵维修中心*",
+            "avatar_url": "https://images.zsxq.com/FrAC01sHH-BYYZBmY7sNNmlh4glA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PVyXry28hZN7iavecjXbxBnweJI=",
+            "location": "陕西"
+          },
+          "text": "许大的意思是  买入上证50成分股可以用上证50ETF期权对冲吗？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 1522421818882842,
+              "parent_comment_id": 5122524852581124,
+              "create_time": "2024-04-01T16:10:03.086+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "我这里的做法是直接用期权做多",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 582851858521554,
+                "name": "博远欧三油泵维修中心*",
+                "avatar_url": "https://images.zsxq.com/FrAC01sHH-BYYZBmY7sNNmlh4glA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PVyXry28hZN7iavecjXbxBnweJI="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2855254148582881,
+          "create_time": "2024-04-01T11:38:22.750+0800",
+          "owner": {
+            "user_id": 212815222852181,
+            "name": "li",
+            "avatar_url": "https://images.zsxq.com/FsiwgH7IvaHvkFAmokv_A3Q-6Lin?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EcSL6vKHjtKjTHVESS4riDyQOyY=",
+            "location": "辽宁"
+          },
+          "text": "没听够 能再多讲一些期权的实战例子吗 感谢[微笑]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4844588244451458,
+          "create_time": "2024-04-17T16:55:40.413+0800",
+          "owner": {
+            "user_id": 111841445251212,
+            "name": "Liang💨💨",
+            "alias": "大Liang",
+            "avatar_url": "https://images.zsxq.com/FjsBzboEagqcVANBZ6ZUYUccds_j?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yeczTs4oa2a2zWL7E6SwPKRJhGU=",
+            "location": "广东"
+          },
+          "text": "许老师，文章里有一句“手动买入100股TQQQ的正股“这句话理解是买入100股的ETF而不是买入ETF里面的成分股是吗？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 8855288455841422,
+              "parent_comment_id": 4844588244451458,
+              "create_time": "2024-04-17T17:27:49.118+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "对",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 111841445251212,
+                "name": "Liang💨💨",
+                "alias": "大Liang",
+                "avatar_url": "https://images.zsxq.com/FjsBzboEagqcVANBZ6ZUYUccds_j?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yeczTs4oa2a2zWL7E6SwPKRJhGU="
+              }
+            },
+            {
+              "comment_id": 5122511422582844,
+              "parent_comment_id": 4844588244451458,
+              "create_time": "2024-04-17T17:49:13.017+0800",
+              "owner": {
+                "user_id": 111841445251212,
+                "name": "Liang💨💨",
+                "alias": "大Liang",
+                "avatar_url": "https://images.zsxq.com/FjsBzboEagqcVANBZ6ZUYUccds_j?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yeczTs4oa2a2zWL7E6SwPKRJhGU=",
+                "location": "广东"
+              },
+              "text": "好的，感谢解答",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2855214812881451,
+          "create_time": "2024-06-26T21:59:05.225+0800",
+          "owner": {
+            "user_id": 228845212181,
+            "name": "冷心",
+            "avatar_url": "https://images.zsxq.com/FvSH4KLSusfjYebunBPhP41z6YyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P5fbLFK4HuuTVMGpXnmQaPvFCIQ=",
+            "location": "上海"
+          },
+          "text": "卖put在操作上面临的问题很多，随便列举几个。1、收入是固定的，最多只能赚期权费，在一个上升的市场，获利比股票少很多；2、卖期权不能超卖，跌了的话你会被追保，账户容易爆仓，不一定扛得住；3、你很难确定卖哪个行权价。卖得虚，期权费太便宜了，没意义，一年没赚几个钱，你想得到足够的收益就要卖很多手，这就很容易超卖，稍微往下砸，你的保证金账户很容易爆。如果你不想超卖，不能卖那么多手，又想得到收益上的保障，那你就不能卖太虚，这样期权费贵一些，不用卖太多手也能保证收益。但是这也有一个问题就是，市场大幅下跌，你刚好抄底抄在半山腰上，也是亏。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4844512815881218,
+          "create_time": "2024-06-26T21:59:20.846+0800",
+          "owner": {
+            "user_id": 228845212181,
+            "name": "冷心",
+            "avatar_url": "https://images.zsxq.com/FvSH4KLSusfjYebunBPhP41z6YyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P5fbLFK4HuuTVMGpXnmQaPvFCIQ=",
+            "location": "上海"
+          },
+          "text": "综上所述，卖put只能在一种情况下适用，那就是市场大幅下跌，恐慌蔓延，put的隐含波动率非常高，期权非常贵，而且你敏锐地认识到，这大概真的是底部了，准备要反抽了，这个时候你可以大举卖put进行抄底。其他情况都不太适合去卖put。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8855214812228812,
+              "parent_comment_id": 4844512815881218,
+              "create_time": "2024-06-26T22:23:16.149+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "你说的并不对，且完全没有认真看",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 228845212181,
+                "name": "冷心",
+                "avatar_url": "https://images.zsxq.com/FvSH4KLSusfjYebunBPhP41z6YyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P5fbLFK4HuuTVMGpXnmQaPvFCIQ="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1522158288422422,
+          "create_time": "2024-08-22T21:36:58.193+0800",
+          "owner": {
+            "user_id": 555584841844,
+            "name": "Vivi刚刚好",
+            "avatar_url": "https://images.zsxq.com/Fvfm7OH1G16LB2rQFYEgkoO6uNqA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:25s_SdKuPE-oik54Dpf6XDD0yqQ=",
+            "location": "广东"
+          },
+          "text": "谢谢许大，受益匪浅[太阳]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5122842251142154,
+          "create_time": "2024-12-25T15:55:10.500+0800",
+          "owner": {
+            "user_id": 818548144188442,
+            "name": "阿力",
+            "avatar_url": "https://images.zsxq.com/Fsks8S_MgmGUFXiihjfyCTbLU0fU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lYmevgEDC3pS85h9DLjOWywwuKc=",
+            "location": "江苏"
+          },
+          "text": "许大好。反复拜读了您的大作，受益匪浅。有两点理解起来有些困难，烦请指教：\n一是您指出，当成本趋向于0的时候，我们可以选择扩大规模。请问为什么强调，要到成本趋于零的时候，再扩大规模呢？用每一期卖put的权利金，逐步购买标的，效果有什么差异吗？\n二是您指出，把成本做到负数，吃纯利差，都是可以的。这个吃纯利差，具体是怎么操作？\n盼望赐教，谢谢许大",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5121525221224524,
+          "create_time": "2025-02-18T09:24:25.551+0800",
+          "owner": {
+            "user_id": 88821811242452,
+            "name": "Shawn",
+            "avatar_url": "https://images.zsxq.com/FtEhvgs5-zafyI90CIO1ZtCRdJf9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bC-wqes6cyB8cC5c4WE8rFMfVgs=",
+            "location": "海南"
+          },
+          "text": "请教许大：经过一段时间的操作，1.实际的成本已经离开现价比较远了，该怎么处理？2.按计划持有的股数，已经拿到大部分或者拿满了，该怎么处理？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 1525424225252552,
+              "parent_comment_id": 5121525221224524,
+              "create_time": "2025-02-18T09:27:14.583+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "是成本已经比现价很低了，还是标的跌太多了？\n\n前者就单独当重新开个账本，以后合并统计\n记得买长期put 保护\n\n后者看你是否跌到保护线以下，如果标的比预期要差就该退出退出，不然坚持卖远期的call",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88821811242452,
+                "name": "Shawn",
+                "avatar_url": "https://images.zsxq.com/FtEhvgs5-zafyI90CIO1ZtCRdJf9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bC-wqes6cyB8cC5c4WE8rFMfVgs="
+              }
+            },
+            {
+              "comment_id": 4848545852512158,
+              "parent_comment_id": 5121525221224524,
+              "create_time": "2025-02-19T08:12:31.168+0800",
+              "owner": {
+                "user_id": 88821811242452,
+                "name": "Shawn",
+                "avatar_url": "https://images.zsxq.com/FtEhvgs5-zafyI90CIO1ZtCRdJf9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bC-wqes6cyB8cC5c4WE8rFMfVgs=",
+                "location": "海南"
+              },
+              "text": "就 TQQQ。它涨的好快[撇嘴] 卖 call 好怕卖飞了[晕]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4848521452482258,
+          "create_time": "2025-04-19T13:40:56.655+0800",
+          "owner": {
+            "user_id": 244121581112551,
+            "name": "Ain",
+            "avatar_url": "https://images.zsxq.com/FjcHDg-HDSS9BPmYzkDCT6Z9XUSE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TxVwR65ZSKwLyoOEXhqmHPtPFNQ=",
+            "location": "浙江"
+          },
+          "text": "许大，这里的leap put是OTM的还是ITM的",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2858455814851181,
+          "create_time": "2025-05-09T06:35:13.435+0800",
+          "owner": {
+            "user_id": 818111142514452,
+            "name": "ql",
+            "avatar_url": "https://images.zsxq.com/FnC9ren92yFdt6TnFFSFVeqYt-dr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RWFQ9DKyJwi9NIZliW-hOmQRZqk=",
+            "location": "上海"
+          },
+          "text": "许大，请教下，long长期put来保护，虽然这部分的每日时间价值自然流逝的损耗成本很低，但如果正股大幅上涨，put变得非常虚值，那么期权价值（时间价值）是会快速大幅损耗的，这个时候是否就会很大程度上拖累组合整体的上涨表现（甚至出现阶段性的整体亏损）？而且此时long的put应该是要开展行权价挪仓的，相当于是一定程度上做实了期权保护的亏损了。这种情景是否是磨成本策略的软肋？谢谢",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

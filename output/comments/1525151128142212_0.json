@@ -1,0 +1,96 @@
+{
+  "captured_at": "2026-01-29T21:15:23.883421",
+  "url": "https://api.zsxq.com/v2/topics/1525151128142212/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1525151128142212",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8858452242145152,
+          "create_time": "2025-05-21T07:09:23.904+0800",
+          "owner": {
+            "user_id": 48888218821448,
+            "name": "后中先",
+            "avatar_url": "https://images.zsxq.com/FgMU4F6QPUmflR3useJkg84ci1zi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o0dwW_iV0MVOnxzlk7z1whiVWY0=",
+            "location": "江苏"
+          },
+          "text": "coinbase前天已经被纳入标普500了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 2858452218811121,
+              "parent_comment_id": 8858452242145152,
+              "create_time": "2025-05-21T10:40:48.089+0800",
+              "owner": {
+                "user_id": 48888218821448,
+                "name": "后中先",
+                "avatar_url": "https://images.zsxq.com/FgMU4F6QPUmflR3useJkg84ci1zi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o0dwW_iV0MVOnxzlk7z1whiVWY0=",
+                "location": "江苏"
+              },
+              "text": "赌博和妄图一夜暴富的梦想也是人类的需求之一，coinbase这类公司做的生意不过是卖给这些赌徒一个梦罢了，这未必是一个坏生意。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png"
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4848245282821448,
+          "create_time": "2025-05-22T00:29:53.079+0800",
+          "owner": {
+            "user_id": 15412841841452,
+            "name": "Power",
+            "avatar_url": "https://images.zsxq.com/FvWQ3TjdmV3zZu_rGSEuIhQfGWhN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SGh9EqhUlCWetJRvVEnFY0p86Nw=",
+            "location": "山西"
+          },
+          "text": "比特币黑皮书在哪里看到呀",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8858452418285842,
+              "parent_comment_id": 4848245282821448,
+              "create_time": "2025-05-22T21:36:24.008+0800",
+              "owner": {
+                "user_id": 212225884858541,
+                "name": "网友",
+                "avatar_url": "https://images.zsxq.com/FqOGi01RpEfX_qzOm5RdNHOtjis2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:r0Cil6f27dLKJns2RH7ik7eFhuM=",
+                "location": "北京"
+              },
+              "text": "知乎有",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 15412841841452,
+                "name": "Power",
+                "avatar_url": "https://images.zsxq.com/FvWQ3TjdmV3zZu_rGSEuIhQfGWhN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SGh9EqhUlCWetJRvVEnFY0p86Nw="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

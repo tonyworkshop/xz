@@ -1,0 +1,87 @@
+{
+  "captured_at": "2026-01-29T20:48:51.170794",
+  "url": "https://api.zsxq.com/v2/topics/22811581555512451/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "22811581555512451",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4848114421584288,
+          "create_time": "2025-10-16T10:42:02.364+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "国内信用链是这样的：实物黄金放在上金所（交易所）的金库，上金所发行等值Au99.99现货合约。\n\n基金公司持有Au99.99合约发行黄金ETF，但合约资产本身被托管到商业银行。\n\n同时上金所可以对Au99.99合约和黄金ETF份额本身做实物兑换。\n\n所以理论上国内交易所级别的信用是上金所开户直接持有现货合约，但早就不给个人开了；黄金ETF信用就是三层 管理公司、商业银行、交易所 孰低来决定的了。",
+          "likes_count": 11,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8858115512842422,
+              "parent_comment_id": 4848114421584288,
+              "create_time": "2025-10-16T12:26:14.001+0800",
+              "owner": {
+                "user_id": 422211242141248,
+                "name": "达仔",
+                "avatar_url": "https://images.zsxq.com/FkHf0F3f1yrp2MW1PesRkJt-rTc9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0Af8y34gE8VkH4cuAN5i95pQaKw=",
+                "location": "江苏"
+              },
+              "text": "专业[强][强]",
+              "likes_count": 3,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4848114421258488,
+          "create_time": "2025-10-16T10:59:09.919+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "湖南"
+          },
+          "text": "比gld还可靠嘛",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1525882142151182,
+          "create_time": "2025-10-19T09:25:53.308+0800",
+          "owner": {
+            "user_id": 88488281111222,
+            "name": "不金雲",
+            "avatar_url": "https://images.zsxq.com/Fr5Jew-FasnP-znQHBYjpFiB_Iwz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dKmAY2Teq9CRge1L6XX1mPS_eE0=",
+            "location": "湖南"
+          },
+          "text": "买黄金股这种怎么样？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

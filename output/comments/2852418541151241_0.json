@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T21:06:16.594717",
+  "url": "https://api.zsxq.com/v2/topics/2852418541151241/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2852418541151241",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1525144452541242,
+          "create_time": "2025-07-01T15:18:34.865+0800",
+          "owner": {
+            "user_id": 2452542441,
+            "name": "Zac",
+            "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+            "location": "上海"
+          },
+          "text": "求教许大，用QQQ put保护TQQQ的话，买的张数是如何确定的呢？根据delta吗？如果想cover TQQQ的下跌，似乎QQQ put对应的underlying会远大于TQQQ持仓市值，不过作为期权买权，小账户似乎也可以无风险持有？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

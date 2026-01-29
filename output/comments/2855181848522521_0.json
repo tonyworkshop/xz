@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T22:10:00.526030",
+  "url": "https://api.zsxq.com/v2/topics/2855181848522521/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2855181848522521",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844281448112218,
+          "create_time": "2024-08-20T20:18:08.369+0800",
+          "owner": {
+            "user_id": 281881588151,
+            "name": "远海的深海鱼",
+            "avatar_url": "https://images.zsxq.com/Fqfnhpdz4-aKRrYBHvYrqEEwVzoV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:U60gVH0ODsTeP2P3_cOXC-BPhqA=",
+            "location": "北京"
+          },
+          "text": "为什么说AAPL不是真正公司的一部分？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

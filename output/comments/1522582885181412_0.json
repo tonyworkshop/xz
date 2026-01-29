@@ -1,0 +1,46 @@
+{
+  "captured_at": "2026-01-29T23:02:05.011731",
+  "url": "https://api.zsxq.com/v2/topics/1522582885181412/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1522582885181412",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2855811441842551,
+          "create_time": "2024-03-27T00:41:24.716+0800",
+          "owner": {
+            "user_id": 51511412418454,
+            "name": "Li Zhao",
+            "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578=",
+            "location": "卢森堡"
+          },
+          "text": "就是期货贴水，升水也收敛，合约一般一年有几个固定日期，越靠近到期日，现价和合约价越一致，不然市场上套利的人也会把价格套到一致",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5122188448521224,
+          "create_time": "2024-03-27T02:21:38.028+0800",
+          "owner": {
+            "user_id": 144254841842,
+            "name": "许哲",
+            "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+            "location": "美国"
+          },
+          "text": "期权必然隐含远期的升贴水，所以必然也收敛。你用平价期权合成的价格必然是期货的价格。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "captured_at": "2026-01-29T22:41:51.130038",
+  "url": "https://api.zsxq.com/v2/topics/1522481514141852/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1522481514141852",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844524258288218,
+          "create_time": "2024-05-26T16:03:12.171+0800",
+          "owner": {
+            "user_id": 48851244854458,
+            "name": "LT",
+            "avatar_url": "https://images.zsxq.com/Fv6ZlBS5tOgPzbmd0nozXBeHpCeJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lnCeRk6VrLHMarf9OjH0doX8nrk=",
+            "location": "北京"
+          },
+          "text": "许大，一般call的价格都会比put便宜，是不是可以卖远月的call呢？或者说这就是对冲应有的成本",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 8855245422554482,
+              "parent_comment_id": 4844524258288218,
+              "create_time": "2024-05-26T17:32:04.367+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "call 和 put 是一个iv的，没有更便宜。买和卖最好同期比较容易管理。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48851244854458,
+                "name": "LT",
+                "avatar_url": "https://images.zsxq.com/Fv6ZlBS5tOgPzbmd0nozXBeHpCeJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lnCeRk6VrLHMarf9OjH0doX8nrk="
+              }
+            },
+            {
+              "comment_id": 4844524255418528,
+              "parent_comment_id": 4844524258288218,
+              "create_time": "2024-05-26T17:45:08.762+0800",
+              "owner": {
+                "user_id": 48851244854458,
+                "name": "LT",
+                "avatar_url": "https://images.zsxq.com/Fv6ZlBS5tOgPzbmd0nozXBeHpCeJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lnCeRk6VrLHMarf9OjH0doX8nrk=",
+                "location": "北京"
+              },
+              "text": "谢谢许大",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1522412144551112,
+          "create_time": "2024-05-26T18:18:37.351+0800",
+          "owner": {
+            "user_id": 51511412418454,
+            "name": "Li Zhao",
+            "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578=",
+            "location": "卢森堡"
+          },
+          "text": "谢谢许大，假设我有10手的台积电，以atm的价格差不多300天期限的卖call大概23块，我70成本的买put0.45，这种情况下我卖一手call就能养50手put，那是不是买110左右的10手put （大概2块多）比较好？ 还是在不同价格的put阶梯保护？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855245422824212,
+          "create_time": "2024-05-26T18:32:33.563+0800",
+          "owner": {
+            "user_id": 51511412418454,
+            "name": "Li Zhao",
+            "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578=",
+            "location": "卢森堡"
+          },
+          "text": "哪怕我现在没有这个股票，我买一手，sell现价call养虚值put是一个没有损失的看空，或者说损失买一手股票资金机会成本的看空操作",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4844524214182158,
+              "parent_comment_id": 8855245422824212,
+              "create_time": "2024-05-27T14:31:56.061+0800",
+              "owner": {
+                "user_id": 51511412418454,
+                "name": "Li Zhao",
+                "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578=",
+                "location": "卢森堡"
+              },
+              "text": "对，要看下跌的幅度",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28481554448151,
+                "name": "区yeah",
+                "avatar_url": "https://images.zsxq.com/Fr8iS9DZSmqTFoeiG52w6x9KN7Q2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v9P6p9VdMP4cBGOzSMprWciElSM="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1522412822488252,
+          "create_time": "2024-05-27T21:18:56.296+0800",
+          "owner": {
+            "user_id": 841884245524182,
+            "name": "匿名轮廓",
+            "avatar_url": "https://images.zsxq.com/FskAj8ohyqzAXfacZjejwhJ_eHgv?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3K91xi2d2KocUNLlClAazSLwAmA=",
+            "location": "河南"
+          },
+          "text": "请教许大，这个问题里面，您举例的这个卖高价C，同时买一个虚的也就是便宜的P，再加上持有标的，这是不是一个领口策略？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4844524185122118,
+              "parent_comment_id": 1522412822488252,
+              "create_time": "2024-05-28T12:47:19.860+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "合起来是的",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 841884245524182,
+                "name": "匿名轮廓",
+                "avatar_url": "https://images.zsxq.com/FskAj8ohyqzAXfacZjejwhJ_eHgv?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3K91xi2d2KocUNLlClAazSLwAmA="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

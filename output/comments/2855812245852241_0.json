@@ -1,0 +1,93 @@
+{
+  "captured_at": "2026-01-29T23:00:07.469539",
+  "url": "https://api.zsxq.com/v2/topics/2855812245852241/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2855812245852241",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855254115884852,
+          "create_time": "2024-04-01T16:55:03.682+0800",
+          "owner": {
+            "user_id": 825144882182,
+            "name": "奇奇",
+            "avatar_url": "https://images.zsxq.com/FubaH3v7QHE4gINRee6301V6oz10?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TR6wsTK0YpXN6AFAjEe98mDbv6k=",
+            "location": "江苏"
+          },
+          "text": "一直没想通巴菲特为什么放弃台积电，采访也是含糊其辞",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 4844542114558818,
+              "parent_comment_id": 8855254115884852,
+              "create_time": "2024-04-01T17:23:32.442+0800",
+              "owner": {
+                "user_id": 88888884111552,
+                "name": "iven",
+                "avatar_url": "https://images.zsxq.com/FuTVMyPpMvduVbkdhSlSdB_xXFv9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eBJ9BI13lbfZ78VP_IN06DHFRpg=",
+                "location": "广东"
+              },
+              "text": "地缘政治风险？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 825144882182,
+                "name": "奇奇",
+                "avatar_url": "https://images.zsxq.com/FubaH3v7QHE4gINRee6301V6oz10?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TR6wsTK0YpXN6AFAjEe98mDbv6k="
+              }
+            },
+            {
+              "comment_id": 2855254115245221,
+              "parent_comment_id": 8855254115884852,
+              "create_time": "2024-04-01T17:30:58.329+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "显然是政治风险啊",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 825144882182,
+                "name": "奇奇",
+                "avatar_url": "https://images.zsxq.com/FubaH3v7QHE4gINRee6301V6oz10?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TR6wsTK0YpXN6AFAjEe98mDbv6k="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2858122422518151,
+          "create_time": "2025-09-21T06:19:37.027+0800",
+          "owner": {
+            "user_id": 28455284844881,
+            "name": "中年小马",
+            "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg=",
+            "location": "美国"
+          },
+          "text": "现在再回头看这个帖子，感叹谁也没有水晶球🔮啊",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T22:30:15.519887",
+  "url": "https://api.zsxq.com/v2/topics/4844285518218128/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4844285518218128",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5122585128858454,
+          "create_time": "2024-06-19T08:46:29.445+0800",
+          "owner": {
+            "user_id": 48548152251228,
+            "name": "露露",
+            "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aGnF__7MPCA0sdOjfUp4dVdT6o8=",
+            "location": "上海"
+          },
+          "text": "币值都不稳，谁要你人民币资产呢？人民币还怎么国际化呢？[发呆][发呆]虽然人民币贬值利好出口，但也不能贬的上蹿下跳啊…",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "captured_at": "2026-01-29T21:53:58.926008",
+  "url": "https://api.zsxq.com/v2/topics/5121582224255454/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5121582224255454",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844184454244828,
+          "create_time": "2024-11-09T08:23:45.155+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "一般是15天左右，看Theta什么时候开始掉得飞快",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 5,
+          "replied_comments": [
+            {
+              "comment_id": 2855185525458281,
+              "parent_comment_id": 4844184454244828,
+              "create_time": "2024-11-09T08:26:41.445+0800",
+              "owner": {
+                "user_id": 582185442511244,
+                "name": "。",
+                "avatar_url": "https://images.zsxq.com/FjJ3rcnu-HotfKt9Rw5eZ78aZpej?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ElsGIMfegMFOPtxOfCnGTEL6w5s=",
+                "location": "广东"
+              },
+              "text": "Theta这个数，有简易指姆法则看，或者计算吗？ 谢谢啦",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 1522852242125822,
+              "parent_comment_id": 4844184454244828,
+              "create_time": "2024-11-09T08:28:14.985+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "就是行情软件的希腊字母，你应该看的是Theta的变化率，经验来说月期权一般到15天就开始加速了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 582185442511244,
+                "name": "。",
+                "avatar_url": "https://images.zsxq.com/FjJ3rcnu-HotfKt9Rw5eZ78aZpej?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ElsGIMfegMFOPtxOfCnGTEL6w5s="
+              }
+            },
+            {
+              "comment_id": 8855185525452582,
+              "parent_comment_id": 4844184454244828,
+              "create_time": "2024-11-09T08:29:22.749+0800",
+              "owner": {
+                "user_id": 582185442511244,
+                "name": "。",
+                "avatar_url": "https://images.zsxq.com/FjJ3rcnu-HotfKt9Rw5eZ78aZpej?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ElsGIMfegMFOPtxOfCnGTEL6w5s=",
+                "location": "广东"
+              },
+              "text": "谢谢您",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 1522852215551142,
+              "parent_comment_id": 4844184454244828,
+              "create_time": "2024-11-09T22:08:41.275+0800",
+              "owner": {
+                "user_id": 88212181142112,
+                "name": "freakybrid*",
+                "avatar_url": "https://images.zsxq.com/FgF1zOXyqMSh1enH9CGM5plOI1YX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ABj7KW7D05gBY0w_5P3xEfiA2C0=",
+                "location": "湖北"
+              },
+              "text": "自然日还是交易日",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 4844184428854188,
+              "parent_comment_id": 4844184454244828,
+              "create_time": "2024-11-09T22:13:33.659+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "自然日，休假也会掉Theta的",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88212181142112,
+                "name": "freakybrid*",
+                "avatar_url": "https://images.zsxq.com/FgF1zOXyqMSh1enH9CGM5plOI1YX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ABj7KW7D05gBY0w_5P3xEfiA2C0="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5122812251544814,
+          "create_time": "2024-11-09T11:18:50.959+0800",
+          "owner": {
+            "user_id": 15458182285522,
+            "name": "七月雪",
+            "avatar_url": "https://images.zsxq.com/Fiy50xeFLfPSQsTq6Jm-BFQwUqHo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SMqmkwqV_Eh7NyiKfrzgSrqsYPU=",
+            "location": "浙江"
+          },
+          "text": "如果是靠近平值或者浅虚，那么两周以内时间损耗巨大，而深一些虚值时间损耗反而没那么大，因为基本不值钱了。还有就是要看iv水平，如果iv很高的时候gamma是很小的而theta非常大，你买期权只要标的一天不动，你的时间损耗都非常大，这还是不考虑Vega的情况下。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4844184458142548,
+              "parent_comment_id": 5122812251544814,
+              "create_time": "2024-11-09T12:08:55.089+0800",
+              "owner": {
+                "user_id": 582185442511244,
+                "name": "。",
+                "avatar_url": "https://images.zsxq.com/FjJ3rcnu-HotfKt9Rw5eZ78aZpej?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ElsGIMfegMFOPtxOfCnGTEL6w5s=",
+                "location": "广东"
+              },
+              "text": "谢谢！",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 15458182285522,
+                "name": "七月雪",
+                "avatar_url": "https://images.zsxq.com/Fiy50xeFLfPSQsTq6Jm-BFQwUqHo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SMqmkwqV_Eh7NyiKfrzgSrqsYPU="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

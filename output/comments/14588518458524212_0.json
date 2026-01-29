@@ -1,0 +1,71 @@
+{
+  "captured_at": "2026-01-29T20:38:54.825114",
+  "url": "https://api.zsxq.com/v2/topics/14588518458524212/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "14588518458524212",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5125542818288454,
+          "create_time": "2025-12-28T21:30:55.835+0800",
+          "owner": {
+            "user_id": 28458118128451,
+            "name": "GLJ",
+            "avatar_url": "https://images.zsxq.com/Fh7Xa49xNwPmeeDwhcKKSTsa4Ll-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5PwsrGbG0nvk1_3Z4PTEBv_wQzg=",
+            "location": "上海"
+          },
+          "text": "我理解下来就是大家都可以找理由赖账。全球可以因为俄罗斯入侵而赖账，也可以因为x国做了xx赖账。那对于老百姓而言，央行也可以赖账，对应的就是货币滥发。马斯克说，ai以及机器人技术革命后，生产力大幅提升，会导致通缩，解决债务问题",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5125542842512814,
+          "create_time": "2025-12-29T12:28:26.148+0800",
+          "owner": {
+            "user_id": 142458225252,
+            "name": "耿一铭",
+            "avatar_url": "https://images.zsxq.com/Ft_gu7zlezkMrg2lgE_Dd7DlmppW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T42dvtowL1Iu3bA_Uavt0R_Xnaw=",
+            "location": "香港"
+          },
+          "text": "在这个逻辑下大饼靠谱吗",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 1524412811221452,
+              "parent_comment_id": 5125542842512814,
+              "create_time": "2025-12-29T14:13:47.157+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "你要是某中形大国的央行决策委员会成员，不是萨尔瓦多这样的小国，你敢让央行资产大量配置BTC吗？",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 142458225252,
+                "name": "耿一铭",
+                "avatar_url": "https://images.zsxq.com/Ft_gu7zlezkMrg2lgE_Dd7DlmppW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T42dvtowL1Iu3bA_Uavt0R_Xnaw="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

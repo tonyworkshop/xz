@@ -1,0 +1,46 @@
+{
+  "captured_at": "2026-01-29T21:46:15.826385",
+  "url": "https://api.zsxq.com/v2/topics/4848214814441228/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4848214814441228",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1522814551481812,
+          "create_time": "2025-01-09T17:26:52.562+0800",
+          "owner": {
+            "user_id": 244122822114211,
+            "name": "Pretty_fen*",
+            "avatar_url": "https://images.zsxq.com/FnjVI2lqj3bBqamu5h1WF8SvSKAJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xA7BN27Vz-1It_hXJCQ_ezuKqXU=",
+            "location": "浙江"
+          },
+          "text": "写英文文章  取标题  帮助写最基本的代码（0代码基础人士友好！直接用自然语言告诉GPT你要干啥  生成的代码质量还阔以）",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2855142258454411,
+          "create_time": "2025-01-11T10:08:06.861+0800",
+          "owner": {
+            "user_id": 182214414442152,
+            "name": "沧浪之水",
+            "avatar_url": "https://images.zsxq.com/Fj9rhHUyQQutaXUlwJAF7yj_-tNN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EylsJhjXOj1WizQD7L9GtH73E9I=",
+            "location": "河北"
+          },
+          "text": "claude写代码很不错",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "captured_at": "2026-01-29T22:26:46.026387",
+  "url": "https://api.zsxq.com/v2/topics/8855424858828842/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8855424858828842",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855214811882282,
+          "create_time": "2024-06-27T08:55:04.224+0800",
+          "owner": {
+            "user_id": 422188128825828,
+            "name": "焱焱",
+            "avatar_url": "https://images.zsxq.com/FqtR99iINf7w0twDjKKJCqSabVg0?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3Hn4YTYouU-uYHuapXwGFNIjbPQ=",
+            "location": "浙江"
+          },
+          "text": "不是凯恩斯，不是哈耶克，是一个明朝中医的理论，[微笑]可见我们遥遥领先",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2855214811824821,
+          "create_time": "2024-06-27T09:03:43.979+0800",
+          "owner": {
+            "user_id": 118288224122822,
+            "name": "潇洒哥",
+            "avatar_url": "https://images.zsxq.com/FlykLTstDmOIv4XxwSHJGDWjFw7d?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Cem2ZVk73LNN6EiZlz2P0XcMTkY=",
+            "location": "河北"
+          },
+          "text": "我多年的变异性哮喘，中医给治好了。西医只会给我开激素，说难受的时候喷一下。急性病看西医好，慢性病中医更合适些",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4844512811825418,
+          "create_time": "2024-06-27T09:08:45.988+0800",
+          "owner": {
+            "user_id": 48811511812258,
+            "name": "扫地的",
+            "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+            "location": "湖南"
+          },
+          "text": "都这样了还固本培元……",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1522481425852122,
+          "create_time": "2024-06-27T10:42:36.139+0800",
+          "owner": {
+            "user_id": 414884484151888,
+            "name": "Dragon in *",
+            "avatar_url": "https://images.zsxq.com/FjPHycqupSbt0lmBgoNkLx6mJIk8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ipQ7wb1kFFN44gprJMS6eltY8ig=",
+            "location": "辽宁"
+          },
+          "text": "这是官方承认动了根本，伤了元气",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 4844512545841128,
+              "parent_comment_id": 1522481425852122,
+              "create_time": "2024-06-27T11:34:38.247+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "你要这样解读，李中堂都想撤回发言了[破涕为笑]",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 414884484151888,
+                "name": "Dragon in *",
+                "avatar_url": "https://images.zsxq.com/FjPHycqupSbt0lmBgoNkLx6mJIk8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ipQ7wb1kFFN44gprJMS6eltY8ig="
+              }
+            },
+            {
+              "comment_id": 2855214158445541,
+              "parent_comment_id": 1522481425852122,
+              "create_time": "2024-06-29T13:25:19.038+0800",
+              "owner": {
+                "user_id": 281881588151,
+                "name": "远海的深海鱼",
+                "avatar_url": "https://images.zsxq.com/Fqfnhpdz4-aKRrYBHvYrqEEwVzoV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:U60gVH0ODsTeP2P3_cOXC-BPhqA=",
+                "location": "北京"
+              },
+              "text": "[憨笑]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 414884484151888,
+                "name": "Dragon in *",
+                "avatar_url": "https://images.zsxq.com/FjPHycqupSbt0lmBgoNkLx6mJIk8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ipQ7wb1kFFN44gprJMS6eltY8ig="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1522481421555842,
+          "create_time": "2024-06-27T13:50:57.150+0800",
+          "owner": {
+            "user_id": 815145141528822,
+            "name": "四川明炬 斯戴普森",
+            "avatar_url": "https://images.zsxq.com/FnmB7v8KAB7FIYzcJyKvXxVADo_D?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MaysZXS5NZB6Db9Pk2fKrYKFrag=",
+            "location": "韩国"
+          },
+          "text": "具体方法有没有通过三期临床？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4844512588452888,
+          "create_time": "2024-06-27T16:28:03.109+0800",
+          "owner": {
+            "user_id": 244184582518421,
+            "name": "ZP",
+            "avatar_url": "https://images.zsxq.com/Fq8Kedj-y_VAGXuLhM0k0fGXn1G4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wC8N_HZkx7WYb1S5euohg-EL8gM=",
+            "location": "广东"
+          },
+          "text": "顾本赔元[旺柴]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5122584515251884,
+          "create_time": "2024-06-27T18:46:26.303+0800",
+          "owner": {
+            "user_id": 225885588481,
+            "name": "kzbey",
+            "avatar_url": "https://images.zsxq.com/FrEGPY5yiyEMRMpn9TDb8gR02YZi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Gh-6cm0QH5q969wfL3dVHQvr1SM=",
+            "location": "美国"
+          },
+          "text": "",
+          "likes_count": 3,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "images": [
+            {
+              "image_id": 811514122484552,
+              "type": "jpg",
+              "thumbnail": {
+                "url": "https://images.zsxq.com/FtyjuK0zAR4FHcIVr-thRXbHPKm6?imageMogr2/auto-orient/thumbnail/380x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uaUrffQcFLGyXK_HIp3pkY4dcnM=",
+                "width": 380,
+                "height": 430
+              },
+              "large": {
+                "url": "https://images.zsxq.com/FtyjuK0zAR4FHcIVr-thRXbHPKm6?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SFer4zC6yqHOK5n7Q3xkTe1zGns=",
+                "width": 800,
+                "height": 905
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4844512254858828,
+          "create_time": "2024-06-27T22:25:51.510+0800",
+          "owner": {
+            "user_id": 582252425421484,
+            "name": "铁汉也柔情007",
+            "avatar_url": "https://images.zsxq.com/FufVkBj9SHGNmvsqgSAyKFCpa2rF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3ebEEWs_DXUrbI_pdF5moFq7nIo=",
+            "location": "四川"
+          },
+          "text": "医院对患者说放弃西医，试试中医，意味着什么",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

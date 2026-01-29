@@ -1,0 +1,62 @@
+{
+  "captured_at": "2026-01-29T22:23:50.739931",
+  "url": "https://api.zsxq.com/v2/topics/8855448215112212/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8855448215112212",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1522122251428812,
+          "create_time": "2024-07-09T20:02:45.085+0800",
+          "owner": {
+            "user_id": 844414241585442,
+            "name": "麻瓜王",
+            "avatar_url": "https://images.zsxq.com/FvNqaTqzk3t0-RQWKuWsUcFWFykY?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:R2KDCfbqrn8zowIzth6r4yNiGhQ=",
+            "location": "广西"
+          },
+          "text": "冯博，高不言顶啊",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2855455848588211,
+          "create_time": "2024-07-10T12:00:26.507+0800",
+          "owner": {
+            "user_id": 88488281111222,
+            "name": "不金雲",
+            "avatar_url": "https://images.zsxq.com/Fr5Jew-FasnP-znQHBYjpFiB_Iwz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dKmAY2Teq9CRge1L6XX1mPS_eE0=",
+            "location": "湖南"
+          },
+          "text": "许大的文章里 好像不信任技术指标呀[捂脸]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4844244828224858,
+          "create_time": "2024-07-10T13:29:20.441+0800",
+          "owner": {
+            "user_id": 452482122458,
+            "name": "哈哈哈马里奥",
+            "avatar_url": "https://images.zsxq.com/FuyD-0BJ1F3cbMeoZ8nsdyJ61r3a?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mc0K6k_0cHoB-3Pgsks3kBLeCEI=",
+            "location": "上海"
+          },
+          "text": "高估不一定马上会跌，但脆弱性上升，对下行催化事件更为敏感，波动更加剧烈，也更易反转。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

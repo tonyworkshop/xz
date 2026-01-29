@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T22:15:39.852550",
+  "url": "https://api.zsxq.com/v2/topics/2855185251844241/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2855185251844241",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844288125581158,
+          "create_time": "2024-08-05T09:47:01.530+0800",
+          "owner": {
+            "user_id": 244122822114211,
+            "name": "Pretty_fen*",
+            "avatar_url": "https://images.zsxq.com/FnjVI2lqj3bBqamu5h1WF8SvSKAJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xA7BN27Vz-1It_hXJCQ_ezuKqXU=",
+            "location": "浙江"
+          },
+          "text": "杀杀估值更健康  七巨头7.11之前的估值实在不忍直视  现在好多了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

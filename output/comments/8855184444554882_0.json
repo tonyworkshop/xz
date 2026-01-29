@@ -1,0 +1,172 @@
+{
+  "captured_at": "2026-01-29T22:10:41.581043",
+  "url": "https://api.zsxq.com/v2/topics/8855184444554882/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8855184444554882",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844282545825548,
+          "create_time": "2024-08-15T15:42:20.796+0800",
+          "owner": {
+            "user_id": 144254841842,
+            "name": "许哲",
+            "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+            "location": "美国"
+          },
+          "text": "看着有点像赚钱的野鸡大学，你最好自己做做调查，看着不太靠谱",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4844282585458248,
+              "parent_comment_id": 4844282545825548,
+              "create_time": "2024-08-16T01:16:05.176+0800",
+              "owner": {
+                "user_id": 228845212181,
+                "name": "冷心",
+                "avatar_url": "https://images.zsxq.com/FvSH4KLSusfjYebunBPhP41z6YyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P5fbLFK4HuuTVMGpXnmQaPvFCIQ=",
+                "location": "广东"
+              },
+              "text": "骗子",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4844282542825188,
+          "create_time": "2024-08-15T18:34:19.592+0800",
+          "owner": {
+            "user_id": 185455822818452,
+            "name": "skiels",
+            "avatar_url": "https://images.zsxq.com/FnWfrchVTBmU3honeghm66tr8k0C?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Tt4MEuOgw_-ljCSwEb8UxbMncIs=",
+            "location": "河南"
+          },
+          "text": "这种应该拿不到学历认证，正式场合不认",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2855484214245881,
+          "create_time": "2024-08-17T20:21:04.099+0800",
+          "owner": {
+            "user_id": 841884245524182,
+            "name": "匿名轮廓",
+            "avatar_url": "https://images.zsxq.com/FskAj8ohyqzAXfacZjejwhJ_eHgv?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3K91xi2d2KocUNLlClAazSLwAmA=",
+            "location": "河南"
+          },
+          "text": "许大说过一句话，时常念给自己警醒。大概意思是一个人成熟的程度，取决于有多相信这世界存在免费的东西。同理，投入和回报相差甚远的，我觉得也适用。",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4844281484258558,
+          "create_time": "2024-08-21T08:45:48.246+0800",
+          "owner": {
+            "user_id": 422185245452458,
+            "name": "熊bear",
+            "avatar_url": "https://images.zsxq.com/FhMOYD-i5Lp_E-y5ZCD2Fm2x18OT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JBCA6DLKDUVMp_jlrj47qjJQL1c=",
+            "location": "陕西"
+          },
+          "text": "确认一下留服认证，国家认证的就还可以，如果没有，可以直接pass了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 8855481541545522,
+              "parent_comment_id": 4844281484258558,
+              "create_time": "2024-08-22T11:55:16.441+0800",
+              "owner": {
+                "user_id": 812254154254512,
+                "name": "哈哈哈哈哈哈哈",
+                "avatar_url": "https://images.zsxq.com/FpeyecOrJBfbAnY_SxFiaRl_vQ8E?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sp_dPVm8Pf_-bu49sNt4YYEs230=",
+                "location": "浙江"
+              },
+              "text": "我在中国留学网可以找到这个学校，不知道还有什么途径能验证学校的真实性呢？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "images": [
+                {
+                  "image_id": 188545481851182,
+                  "type": "jpg",
+                  "thumbnail": {
+                    "url": "https://images.zsxq.com/FrNcFir-jZ4HiaxGYtBWJvXdciJD?imageMogr2/auto-orient/thumbnail/380x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:K7P4nTRp5VSK2zmdpxKD0nR_Q5c=",
+                    "width": 380,
+                    "height": 210
+                  },
+                  "large": {
+                    "url": "https://images.zsxq.com/FrNcFir-jZ4HiaxGYtBWJvXdciJD?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RYoybAEQm0ZHa_1_OPCVDfOdDIo=",
+                    "width": 800,
+                    "height": 443
+                  },
+                  "original": {
+                    "url": "https://images.zsxq.com/FrNcFir-jZ4HiaxGYtBWJvXdciJD?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xmHvq50J4iXAP93zwvMaw6jI1-0=",
+                    "width": 1080,
+                    "height": 598,
+                    "size": 172870
+                  }
+                }
+              ],
+              "repliee": {
+                "user_id": 422185245452458,
+                "name": "熊bear",
+                "avatar_url": "https://images.zsxq.com/FhMOYD-i5Lp_E-y5ZCD2Fm2x18OT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JBCA6DLKDUVMp_jlrj47qjJQL1c="
+              }
+            },
+            {
+              "comment_id": 4844255181424818,
+              "parent_comment_id": 4844281484258558,
+              "create_time": "2024-08-26T13:55:58.577+0800",
+              "owner": {
+                "user_id": 422185245452458,
+                "name": "熊bear",
+                "avatar_url": "https://images.zsxq.com/FhMOYD-i5Lp_E-y5ZCD2Fm2x18OT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JBCA6DLKDUVMp_jlrj47qjJQL1c=",
+                "location": "陕西"
+              },
+              "text": "给学校发邮件确认下。需要注意的是，现在非中外合办不出境的中留服是不予确认学历的，出境的是没问题的。不出境的要确认中外合作办学项目（教育部批准），你问一下中介能不能出中留服学历认证就好",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 812254154254512,
+                "name": "哈哈哈哈哈哈哈",
+                "avatar_url": "https://images.zsxq.com/FpeyecOrJBfbAnY_SxFiaRl_vQ8E?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sp_dPVm8Pf_-bu49sNt4YYEs230="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

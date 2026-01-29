@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T21:49:36.263977",
+  "url": "https://api.zsxq.com/v2/topics/4848255142225848/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4848255142225848",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855121448521852,
+          "create_time": "2024-12-24T06:47:00.230+0800",
+          "owner": {
+            "user_id": 824521111842,
+            "name": "撄宁",
+            "avatar_url": "https://images.zsxq.com/FrM6hR5NMME1A6xvWG4DV6Gc4ot7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IERN8xT6_U8FZzHZCZtk5TNtiPo=",
+            "location": "江苏"
+          },
+          "text": "中国十亿人民九亿赌！",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

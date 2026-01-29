@@ -1,0 +1,137 @@
+{
+  "captured_at": "2026-01-29T22:26:37.229899",
+  "url": "https://api.zsxq.com/v2/topics/5122454521825214/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5122454521825214",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844512214814188,
+          "create_time": "2024-06-28T20:39:07.751+0800",
+          "owner": {
+            "user_id": 818855821841522,
+            "name": "PATH",
+            "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+            "location": "上海"
+          },
+          "text": "去中心化期权交易所可以使用技术手段解决这些问题吗？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 2855214152821281,
+              "parent_comment_id": 4844512214814188,
+              "create_time": "2024-06-29T15:57:58.080+0800",
+              "owner": {
+                "user_id": 51284448544114,
+                "name": "KK",
+                "avatar_url": "https://images.zsxq.com/FhxDP8RpdE1nkCGl_JNjabHMgAyG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-PJx_tuDTtuqtIgBBgh8EXQr8Ec=",
+                "location": "广东"
+              },
+              "text": "去中心化的交易所如何做到使用主权货币例如美元交易？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM="
+              }
+            },
+            {
+              "comment_id": 1522481821552882,
+              "parent_comment_id": 4844512214814188,
+              "create_time": "2024-06-29T19:22:39.770+0800",
+              "owner": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+                "location": "上海"
+              },
+              "text": "他们使用的也不是真实的美元，而是美元稳定币，比如USDC，USDC实际上是一种区块链资产，可以看作是美元的无息债券，当类似312这样的事件发生的时候，其实稳定币的底层资产是否能够保证足额兑付也是一个问题，所以这里的“美元本位期权”应该打个引号",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51284448544114,
+                "name": "KK",
+                "avatar_url": "https://images.zsxq.com/FhxDP8RpdE1nkCGl_JNjabHMgAyG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-PJx_tuDTtuqtIgBBgh8EXQr8Ec="
+              }
+            },
+            {
+              "comment_id": 8855214185488542,
+              "parent_comment_id": 4844512214814188,
+              "create_time": "2024-06-29T22:21:24.053+0800",
+              "owner": {
+                "user_id": 51284448544114,
+                "name": "KK",
+                "avatar_url": "https://images.zsxq.com/FhxDP8RpdE1nkCGl_JNjabHMgAyG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-PJx_tuDTtuqtIgBBgh8EXQr8Ec=",
+                "location": "广东"
+              },
+              "text": "但发行这种稳定币的机构就是一个中心化的机构。只要想和法币发生交易，就不是真正的去中心化交易所吧？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM="
+              }
+            },
+            {
+              "comment_id": 2855214185448441,
+              "parent_comment_id": 4844512214814188,
+              "create_time": "2024-06-29T22:42:39.791+0800",
+              "owner": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+                "location": "上海"
+              },
+              "text": "对，发行稳定币的机构也是个中心化的机构，稳定币和真实美元的兑换过程也基本上都是要通过中心化机构的，如果想要绕过中心化机构，可能只能通过永远持有链上资产，并只和链上资产产生交易吧，很不现实",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51284448544114,
+                "name": "KK",
+                "avatar_url": "https://images.zsxq.com/FhxDP8RpdE1nkCGl_JNjabHMgAyG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-PJx_tuDTtuqtIgBBgh8EXQr8Ec="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5122584824154544,
+          "create_time": "2024-06-29T19:38:59.252+0800",
+          "owner": {
+            "user_id": 228845212181,
+            "name": "冷心",
+            "avatar_url": "https://images.zsxq.com/FvSH4KLSusfjYebunBPhP41z6YyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P5fbLFK4HuuTVMGpXnmQaPvFCIQ=",
+            "location": "广东"
+          },
+          "text": "这个问题差不多原题和类似球内说过多次吧？为啥反复问",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

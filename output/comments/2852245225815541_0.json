@@ -1,0 +1,87 @@
+{
+  "captured_at": "2026-01-29T21:24:14.763780",
+  "url": "https://api.zsxq.com/v2/topics/2852245225815541/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2852245225815541",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8858241518224812,
+          "create_time": "2025-04-20T16:32:47.483+0800",
+          "owner": {
+            "user_id": 145222118112,
+            "name": "明月映江",
+            "avatar_url": "https://images.zsxq.com/FtiGGWvLMspMoyMiLzVW-NRjelDF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2aIuO62y2fG41bihalFFTACKjAo=",
+            "location": "河北"
+          },
+          "text": "看着10条，进来3条，都吞了[流泪]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848521418224818,
+          "create_time": "2025-04-20T17:09:25.896+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "美国"
+          },
+          "text": "同求",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2858241518418811,
+          "create_time": "2025-04-20T17:26:52.550+0800",
+          "owner": {
+            "user_id": 28881525442241,
+            "name": "CC",
+            "avatar_url": "https://images.zsxq.com/Fj9qsULJE_WmGHXyBCpuWV2SyZvF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GvA4wNNNSrrOz4CZEt1jh0q77ls=",
+            "location": "北京"
+          },
+          "text": "知识黑洞",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2858241442111441,
+              "parent_comment_id": 2858241518418811,
+              "create_time": "2025-04-23T22:35:51.942+0800",
+              "owner": {
+                "user_id": 48548241122818,
+                "name": "阿海",
+                "avatar_url": "https://images.zsxq.com/FtCZDK601UPb_GN1VhNqRo6wQhW1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J9DF2Qrpxa6RtC0iWA377EtkWpM=",
+                "location": "福建"
+              },
+              "text": "[强]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28881525442241,
+                "name": "CC",
+                "avatar_url": "https://images.zsxq.com/Fj9qsULJE_WmGHXyBCpuWV2SyZvF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GvA4wNNNSrrOz4CZEt1jh0q77ls="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

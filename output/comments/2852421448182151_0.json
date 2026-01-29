@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T21:09:43.765386",
+  "url": "https://api.zsxq.com/v2/topics/2852421448182151/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2852421448182151",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4848281252258418,
+          "create_time": "2025-06-14T14:34:12.535+0800",
+          "owner": {
+            "user_id": 1854551852,
+            "name": "林",
+            "avatar_url": "https://images.zsxq.com/FkpX6Hd6ZhCswvpOxFzMkaOUyKue?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:woqgL0silL63ulDIpBQ1OgsLHts=",
+            "location": "广东"
+          },
+          "text": "四、改进建议：回归反脆弱本质的替代方案\n若希望兼顾平稳市收益与肥尾保护，以下策略更符合期权特性：\n降低近月仓位，聚焦ATM/轻度OTM：\n买入近月轻度虚值（行权价5%以内）而非深度虚值，牺牲部分权利金成本换取更高Gamma敏感性。同时减少买入数量（如远:近=1:3而非1:10），避免过度依赖行情大动\n4\n6\n。\n用价差组合约束远月风险：\n卖出远月合约时，搭配买入更虚值的远月合约组成熊市价差（看涨）或牛市价差（看跌），将亏损上限锁定在建仓收入内\n5\n7\n。\n加入波动率对冲工具：\n在卖出远月合约的同时，买入远月波动率（VIX）期货或跨式组合，对冲Vega风险。波动率相关性在肥尾事件中通常显著提升\n2\n8\n。\n改用跨期跨式策略（Calendar Straddle）：\n同时买入近月跨式组合 + 卖出远月跨式组合。近月Gamma爆发可捕捉短期波动，远月Theta收入覆盖成本。需确保远月行权价与近月一致，且IV处于低位时建仓\n5\n10\n。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

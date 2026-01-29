@@ -1,0 +1,115 @@
+{
+  "captured_at": "2026-01-29T21:15:39.269813",
+  "url": "https://api.zsxq.com/v2/topics/8852454411558842/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8852454411558842",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1525124482454112,
+          "create_time": "2025-05-21T09:21:21.764+0800",
+          "owner": {
+            "user_id": 544481241114514,
+            "name": "编辑阿琨",
+            "avatar_url": "https://images.zsxq.com/FuMiceDPSMmAHj5D3MS6zQQGS4FE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0lp3g3KQXM5oaHWmGMutPSI0DRA=",
+            "location": "新加坡"
+          },
+          "text": "许大 我在之前的文章里没有发现强调日期权的，之前不管是降本增效还是保护都是一个月以上到期日的，为何这里说有日期权的优势更大？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 5121425581255254,
+              "parent_comment_id": 1525124482454112,
+              "create_time": "2025-05-21T10:18:04.812+0800",
+              "owner": {
+                "user_id": 481825422158,
+                "name": "姜饼大师",
+                "avatar_url": "https://images.zsxq.com/FlLlqQWKAEPL72MNg5fpjei92an4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bWIbpDPK_fsC0of-Hli9WSKHdsU=",
+                "location": "河南"
+              },
+              "text": "降本循环的周期短了，相当于你做生意的周转率高了。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 544481241114514,
+                "name": "编辑阿琨",
+                "avatar_url": "https://images.zsxq.com/FuMiceDPSMmAHj5D3MS6zQQGS4FE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0lp3g3KQXM5oaHWmGMutPSI0DRA="
+              }
+            },
+            {
+              "comment_id": 2858452211885181,
+              "parent_comment_id": 1525124482454112,
+              "create_time": "2025-05-21T12:52:11.641+0800",
+              "owner": {
+                "user_id": 544481241114514,
+                "name": "编辑阿琨",
+                "avatar_url": "https://images.zsxq.com/FuMiceDPSMmAHj5D3MS6zQQGS4FE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0lp3g3KQXM5oaHWmGMutPSI0DRA=",
+                "location": "新加坡"
+              },
+              "text": "周转率提高但是期权费明显便宜了太多，所以年化比起来到底是哪个收益更高？这是另一个问题我还没有考虑过的问提",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 481825422158,
+                "name": "姜饼大师",
+                "avatar_url": "https://images.zsxq.com/FlLlqQWKAEPL72MNg5fpjei92an4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bWIbpDPK_fsC0of-Hli9WSKHdsU="
+              }
+            },
+            {
+              "comment_id": 1525124488421842,
+              "parent_comment_id": 1525124482454112,
+              "create_time": "2025-05-21T13:07:58.045+0800",
+              "owner": {
+                "user_id": 544481241114514,
+                "name": "编辑阿琨",
+                "avatar_url": "https://images.zsxq.com/FuMiceDPSMmAHj5D3MS6zQQGS4FE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0lp3g3KQXM5oaHWmGMutPSI0DRA=",
+                "location": "新加坡"
+              },
+              "text": "另外，卖put降本增效的话也不应该考虑日期权，作为卖方来讲gamma太大。我曾经在qqq和spy上做过一段时间的末日轮卖方，市场平静的时候收一收小小的权利金，波动来临时流血满地惨痛的教训。做末日轮卖方纯粹是一个“反-反黑天鹅”的策略，作为买方也起不到保护的作用，所以才有的上面的疑问",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 481825422158,
+                "name": "姜饼大师",
+                "avatar_url": "https://images.zsxq.com/FlLlqQWKAEPL72MNg5fpjei92an4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bWIbpDPK_fsC0of-Hli9WSKHdsU="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4848245248245828,
+          "create_time": "2025-05-21T16:56:23.725+0800",
+          "owner": {
+            "user_id": 51542488184854,
+            "name": "Johnson",
+            "avatar_url": "https://images.zsxq.com/FuK4er97yEPJOk0wvpmVuyRFN3It?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYq9SVJnlOk-rkC89A7EDN5acoc=",
+            "location": "上海"
+          },
+          "text": "许大，期权标的选择方面，什么样的标的合适呢？我看您更多的是选择一些指数，如果是一些热门的股票，qbts这样，采用做成本的方式介入合适吗？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

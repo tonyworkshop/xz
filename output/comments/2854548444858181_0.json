@@ -1,0 +1,71 @@
+{
+  "captured_at": "2026-01-29T20:51:21.746831",
+  "url": "https://api.zsxq.com/v2/topics/2854548444858181/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2854548444858181",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1525811585485482,
+          "create_time": "2025-10-05T13:58:33.324+0800",
+          "owner": {
+            "user_id": 28455284844881,
+            "name": "中年小马",
+            "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg=",
+            "location": "美国"
+          },
+          "text": "那我理解是不是以USO作为底层标的来刷期权稍微好做一点，起码一致性好一些",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848122818512458,
+          "create_time": "2025-10-05T14:03:24.305+0800",
+          "owner": {
+            "user_id": 28455284844881,
+            "name": "中年小马",
+            "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg=",
+            "location": "美国"
+          },
+          "text": "刷CL问题就是跨合约很麻烦，我想我应该去试试刷USO，之前做过USO，很烦K1税表。刷CL的另一个好处是报税长短期四六开",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 5121885142541224,
+              "parent_comment_id": 4848122818512458,
+              "create_time": "2025-10-28T21:50:54.995+0800",
+              "owner": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o=",
+                "location": "上海"
+              },
+              "text": "请问为啥执着于原油，应该有期限结构相对稳定的品种可以交易吧",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "captured_at": "2026-01-29T21:12:42.150226",
+  "url": "https://api.zsxq.com/v2/topics/4845285551511818/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4845285551511818",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1525128285585842,
+          "create_time": "2025-05-30T09:59:59.538+0800",
+          "owner": {
+            "user_id": 182245228224182,
+            "name": "hellojcb",
+            "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+            "location": "北京"
+          },
+          "text": "许大你好，我觉得最近一年损耗都没有很大了。损耗没有很严重是因为最近vix很高吗？或者即使不太高的时候vix现货跟期货之间比较接近所以做多的时候升水比较小导致损耗不明显？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 4848241415284258,
+              "parent_comment_id": 1525128285585842,
+              "create_time": "2025-05-30T11:33:27.825+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "损耗来自高升水，高位VIX是贴水的",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8="
+              }
+            },
+            {
+              "comment_id": 8858451512421152,
+              "parent_comment_id": 1525128285585842,
+              "create_time": "2025-05-30T11:44:17.923+0800",
+              "owner": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+                "location": "北京"
+              },
+              "text": "是的 谢谢回答 我感觉现在vix期货本身的结构似乎跟以前不太一样的 比如我去年截的这个图 15左右的话应该未来升水是大概率的 然而这里不明显甚至还有平水和贴水到十月的才看到明显升水 但是那些波动率产品持有的都是近月和次月合约 然后如果去看今天的vix settlement也是几乎没有升水 我直觉上感觉vix futures的term strucure在改变 不像以前升的那么厉害",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "images": [
+                {
+                  "image_id": 1522544285488212,
+                  "type": "jpg",
+                  "thumbnail": {
+                    "url": "https://images.zsxq.com/Fjt7jinqcStcjdPj6ZeYf9fxzkaW?imageMogr2/auto-orient/thumbnail/380x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vKQIPnAFMWxp2M0p_gTZ4mYAWRA=",
+                    "width": 380,
+                    "height": 475
+                  },
+                  "large": {
+                    "url": "https://images.zsxq.com/Fjt7jinqcStcjdPj6ZeYf9fxzkaW?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xy8xbXGsz4ujzXvocFBFd-ZDDWQ=",
+                    "width": 800,
+                    "height": 999
+                  },
+                  "original": {
+                    "url": "https://images.zsxq.com/Fjt7jinqcStcjdPj6ZeYf9fxzkaW?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7kEJh6vsBw0DAXS7mW_pXQ3ejWs=",
+                    "width": 1125,
+                    "height": 1405,
+                    "size": 261105
+                  }
+                }
+              ],
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1525128285422252,
+          "create_time": "2025-05-30T10:03:29.979+0800",
+          "owner": {
+            "user_id": 182245228224182,
+            "name": "hellojcb",
+            "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+            "location": "北京"
+          },
+          "text": "<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" />",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

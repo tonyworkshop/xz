@@ -1,0 +1,292 @@
+{
+  "captured_at": "2026-01-29T21:45:51.597502",
+  "url": "https://api.zsxq.com/v2/topics/1525185448828152/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1525185448828152",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855142181815152,
+          "create_time": "2025-01-14T15:33:45.992+0800",
+          "owner": {
+            "user_id": 421484488524588,
+            "name": "孙舫",
+            "avatar_url": "https://images.zsxq.com/Ft_zjlEK1Tax2fxqJgcZWLV2zyJf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uTRMkJ81fdv0XWlnpZK2AfOpYFw=",
+            "location": "广东"
+          },
+          "text": "随机漫步的傻瓜。赌场里每天都有人用技术分析赢大钱。",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 9,
+          "replied_comments": [
+            {
+              "comment_id": 2855142181251521,
+              "parent_comment_id": 8855142181815152,
+              "create_time": "2025-01-14T15:45:56.614+0800",
+              "owner": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o=",
+                "location": "上海"
+              },
+              "text": "这帮人90年代就进入国内市场，零几年就背美金过海关去海外做投机，这么多年屹立不倒，应该不是单纯的运气",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 421484488524588,
+                "name": "孙舫",
+                "avatar_url": "https://images.zsxq.com/Ft_zjlEK1Tax2fxqJgcZWLV2zyJf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uTRMkJ81fdv0XWlnpZK2AfOpYFw="
+              }
+            },
+            {
+              "comment_id": 1522814842524822,
+              "parent_comment_id": 8855142181815152,
+              "create_time": "2025-01-14T17:31:45.642+0800",
+              "owner": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o=",
+                "location": "上海"
+              },
+              "text": "首先我按照他们的方法确实也赚到钱了。其次他们没必要骗我，我当时操作他们给的账户，他们给我发盈利分成。最后他们做的都是铜这样的大品种，他们资金量大，确实可以短期操纵comax铜的价格，来影响沪铜的集合竞价。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 415821422152488,
+                "name": "构建遍历性",
+                "avatar_url": "https://images.zsxq.com/FsMoXEQe4khurPTIyhd2UhWXO0z1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J-6PuhWJEeZK8Xit-c7k6aAX4uI="
+              }
+            },
+            {
+              "comment_id": 1522814844825422,
+              "parent_comment_id": 8855142181815152,
+              "create_time": "2025-01-14T20:07:56.423+0800",
+              "owner": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o=",
+                "location": "上海"
+              },
+              "text": "你不信就算了呗",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 415821422152488,
+                "name": "构建遍历性",
+                "avatar_url": "https://images.zsxq.com/FsMoXEQe4khurPTIyhd2UhWXO0z1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J-6PuhWJEeZK8Xit-c7k6aAX4uI="
+              }
+            },
+            {
+              "comment_id": 5122845842242224,
+              "parent_comment_id": 8855142181815152,
+              "create_time": "2025-01-15T02:05:34.429+0800",
+              "owner": {
+                "user_id": 548848585244144,
+                "name": "知己",
+                "avatar_url": "https://images.zsxq.com/FinHNNaiJ_9uXMKLvIb3CiiXKA4p?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XLuYgdz8Z4t9-QyGhe0LnhjUJXs=",
+                "location": "云南"
+              },
+              "text": "可能是你们对短期操纵的定义不一样。多长时间、多大幅度",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o="
+              }
+            },
+            {
+              "comment_id": 2855142142588151,
+              "parent_comment_id": 8855142181815152,
+              "create_time": "2025-01-15T08:03:54.327+0800",
+              "owner": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o=",
+                "location": "上海"
+              },
+              "text": "我说的就几分钟，影响一下竞价",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 548848585244144,
+                "name": "知己",
+                "avatar_url": "https://images.zsxq.com/FinHNNaiJ_9uXMKLvIb3CiiXKA4p?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XLuYgdz8Z4t9-QyGhe0LnhjUJXs="
+              }
+            },
+            {
+              "comment_id": 4848812215148158,
+              "parent_comment_id": 8855142181815152,
+              "create_time": "2025-01-23T02:37:10.787+0800",
+              "owner": {
+                "user_id": 881548888422,
+                "name": "两米五的草莓树",
+                "avatar_url": "https://images.zsxq.com/FnAW0jcB46j6qM42xRKyM2Fsk5_R?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WsnpMpSLRrqQWyGQnm4MRqqHNBk=",
+                "location": "福建"
+              },
+              "text": "我来告诉你吧，你对技术分析包含的内容不清晰，所以会有这样的疑问。技术分析真的只有纯粹的统计归纳这么一部分吗？这是你要思考的问题。我想当你了解所有技术分析流派之后，就明白他们盈利的来源并非单纯统计的部分。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2855142181258481,
+          "create_time": "2025-01-14T15:41:44.523+0800",
+          "owner": {
+            "user_id": 51515155858444,
+            "name": "朱嘉宇。",
+            "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o=",
+            "location": "上海"
+          },
+          "text": "所以他们因肥尾而赚钱，不代表他们把握肥尾的方式是对的，只是有一定概率碰到了肥尾事件。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 5122845818418284,
+              "parent_comment_id": 2855142181258481,
+              "create_time": "2025-01-14T16:13:14.185+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "某种意义上来说，他们是触碰到了对的方法 但并没有太系统化的正确归因。\n\n确实不是纯运气，但他们确实是很走运。\n\n期货市场上长寿且富有的都是做对了很多事的人，很对他们自己都只是直觉知道什么是对的，但普遍模糊，告诉你的也是他们真觉得如此。",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o="
+              }
+            },
+            {
+              "comment_id": 5122845852258514,
+              "parent_comment_id": 2855142181258481,
+              "create_time": "2025-01-14T17:05:40.508+0800",
+              "owner": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tC2il1ND-OxpWUfHOZfmwL0yD4o=",
+                "location": "上海"
+              },
+              "text": "您说的太对了，我15年入行，他们就告诉我三点：1.顺势交易、2.及时止损、3.震荡时要忍住，然后说这是他们血的教训，让我务必遵守，如果不遵守就失去了在他们这工作的意义。十年后我回过头看，我所有赚的交易，都符合他们说的这三点。但我不明白其中原理，钱我赚的发虚，每次赚一笔后，我都会担心下一笔交易如何做。然后开始思考，动歪脑筋，违背这三点想出一个新方法，亏老实了又重新遵守交易纪律。感谢许大，解答了我多年的疑虑。[抱拳][抱拳]",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5122845884422124,
+          "create_time": "2025-01-15T20:34:13.330+0800",
+          "owner": {
+            "user_id": 15554511148152,
+            "name": "Daoyi",
+            "avatar_url": "https://images.zsxq.com/FpMjQIsfzG38SMLMW2rQO94txs54?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vsgp52ANZrkf5XsZiKTriUfZN_A=",
+            "location": "四川"
+          },
+          "text": "我的理解技术指标是即是果也是因，大部分技术指标是对k线和成交量等指标的量化解读，本质上和看k线交易没什么区别。市场上是有大量的交易者是看k线和成交量进行交易的，k线表达出来的趋势越强化越有人买，已经发生的k线影响这部分交易者的行为，从而影响行情的变化。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1522811452584552,
+          "create_time": "2025-01-18T13:57:46.396+0800",
+          "owner": {
+            "user_id": 48415412824448,
+            "name": "风林",
+            "avatar_url": "https://images.zsxq.com/FqxG-qRr52xaXcE4finvQSAB6Awd?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QbJ5mwSYxu8gnEQ-Y-VY8YRlDF0=",
+            "location": "上海"
+          },
+          "text": "趋势最终也是体现在价差上，单说趋势太抽象了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5122844551288114,
+          "create_time": "2025-01-19T12:32:30.973+0800",
+          "owner": {
+            "user_id": 51284511188514,
+            "name": "文少",
+            "avatar_url": "https://images.zsxq.com/FsLwnMCDy5cIhUqyHz8xZhmdzIVM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MCvNDdNE7d4tQVrbi8dy8ihu7w8=",
+            "location": "湖北"
+          },
+          "text": "想请你听听我的这期内容，也想和您继续探讨。<e type=\"web\" href=\"https%3A%2F%2Fwww.xiaoyuzhoufm.com%2Fepisode%2F6787da66f787119b3d7dd9b1%3Fs%3DeyJ1IjogIjY2ZGFhNTM4ZWRjZTY3MTA0YTU4YmMzYiJ9\" title=\"Vol.71%20%E6%91%92%E5%BC%83%E6%88%91%E6%9C%80%E7%88%B1%E7%9A%84%E8%A7%82%E7%82%B9%EF%BC%9A%E6%9C%AA%E6%9D%A5%E4%B8%8D%E5%8F%AF%E9%A2%84%E6%B5%8B%EF%BC%81%E6%88%91%E8%A6%81%E6%8B%A5%E6%8A%B1%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90%E4%BA%86%E3%80%82%20-%20%E6%BB%A1%E4%BB%93%E4%BB%A5%E5%90%8E%20%7C%20%E5%B0%8F%E5%AE%87%E5%AE%99%20-%20%E5%90%AC...\" />",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1522811418125482,
+          "create_time": "2025-01-20T11:14:58.165+0800",
+          "owner": {
+            "user_id": 2452542441,
+            "name": "Zac",
+            "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+            "location": "上海"
+          },
+          "text": "认真数了一下11位数和12位数是多少，很震惊[囧]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

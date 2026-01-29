@@ -1,0 +1,71 @@
+{
+  "captured_at": "2026-01-29T22:40:51.555971",
+  "url": "https://api.zsxq.com/v2/topics/1522481812411812/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1522481812411812",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1522412858418252,
+          "create_time": "2024-05-28T16:08:47.453+0800",
+          "owner": {
+            "user_id": 224448521821,
+            "name": "才",
+            "avatar_url": "https://images.zsxq.com/Ft_LuRnQRS52F5wh7xSIslVSWQQL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vJkv420mPqcYFYbU8gFo6tj5fBE=",
+            "location": "陕西"
+          },
+          "text": "有很多人想上车，因为社保卡年限，现在一次性释放出不少需求，房价预期一稳就买了。另外就是首付降低，小户型门槛降低再加上算下房租和贷款利息持平，也能上了。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8855248855225212,
+              "parent_comment_id": 1522412858418252,
+              "create_time": "2024-05-29T20:05:17.065+0800",
+              "owner": {
+                "user_id": 48415412824448,
+                "name": "风林",
+                "avatar_url": "https://images.zsxq.com/FqxG-qRr52xaXcE4finvQSAB6Awd?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QbJ5mwSYxu8gnEQ-Y-VY8YRlDF0=",
+                "location": "上海"
+              },
+              "text": "不知道这个量会有多少，可能短期利好小房子，长期还是要看地方的产业能力",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 224448521821,
+                "name": "才",
+                "avatar_url": "https://images.zsxq.com/Ft_LuRnQRS52F5wh7xSIslVSWQQL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vJkv420mPqcYFYbU8gFo6tj5fBE="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8855245148411422,
+          "create_time": "2024-05-29T08:08:47.935+0800",
+          "owner": {
+            "user_id": 88441844242122,
+            "name": "Wayfarer",
+            "avatar_url": "https://images.zsxq.com/Fq7Ac6H0KH8Z2enjuUiprX2QqM9o?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jnDzEGW1_xua_tceG359_rEhnIU=",
+            "location": "越南"
+          },
+          "text": "在星球提问要用提问功能噢",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

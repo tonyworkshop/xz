@@ -1,0 +1,109 @@
+{
+  "captured_at": "2026-01-29T22:34:32.992626",
+  "url": "https://api.zsxq.com/v2/topics/5122412524811254/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5122412524811254",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2855218551288851,
+          "create_time": "2024-06-10T18:42:20.226+0800",
+          "owner": {
+            "user_id": 552484118154,
+            "name": "文刀",
+            "avatar_url": "https://images.zsxq.com/Fh0eO8Zu7xC21s4GBm0N1mHA3ytb?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nysFVsSy8NGbZfPpxtGUDydt5UY=",
+            "location": "北京"
+          },
+          "text": "怎么判断信息的真假？收费的就是真的吗？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 8855218551452122,
+              "parent_comment_id": 2855218551288851,
+              "create_time": "2024-06-10T19:11:47.623+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "如果判断真假不费力，真相就不贵了",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 552484118154,
+                "name": "文刀",
+                "avatar_url": "https://images.zsxq.com/Fh0eO8Zu7xC21s4GBm0N1mHA3ytb?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nysFVsSy8NGbZfPpxtGUDydt5UY="
+              }
+            },
+            {
+              "comment_id": 5122585218514484,
+              "parent_comment_id": 2855218551288851,
+              "create_time": "2024-06-17T16:28:57.084+0800",
+              "owner": {
+                "user_id": 812818518812452,
+                "name": "大人",
+                "avatar_url": "https://images.zsxq.com/FmY3YCfsj8aXQ1hPrZmn08Jhn9wr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lRhJdXEJnCJdgQRxohEe01ZtPZU=",
+                "location": "浙江"
+              },
+              "text": "👍👍👍",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4844518484411148,
+          "create_time": "2024-06-10T21:23:01.968+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "四川"
+          },
+          "text": "谢谢许大",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2855218485841581,
+          "create_time": "2024-06-14T18:38:50.982+0800",
+          "owner": {
+            "user_id": 582218145885124,
+            "name": "Alex",
+            "avatar_url": "https://images.zsxq.com/Fsyv9OsHvsm5QEIfUQG4Ih0TPr73?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Yy63kg82UuHr6wC7wE_ZbgWFPPY=",
+            "location": "山西"
+          },
+          "text": "有价值的情报从来都是很值钱的东西",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

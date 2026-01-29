@@ -1,0 +1,187 @@
+{
+  "captured_at": "2026-01-29T22:57:37.063912",
+  "url": "https://api.zsxq.com/v2/topics/2855811588258281/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2855811588258281",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844541528825258,
+          "create_time": "2024-04-05T18:36:21.876+0800",
+          "owner": {
+            "user_id": 421155242584128,
+            "name": "大道出迷途",
+            "avatar_url": "https://images.zsxq.com/FiF5HRK6XpaKf253WZV3H1I6nDg7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rxjSwrluqLkKhKMXlwwqSXlVE3Y=",
+            "location": "浙江"
+          },
+          "text": "他们账上留了很多现金，危机之后打折买入优质资产，这个从某种意义上也算一种对冲手段",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 7,
+          "replied_comments": [
+            {
+              "comment_id": 4844541528818518,
+              "parent_comment_id": 4844541528825258,
+              "create_time": "2024-04-05T18:46:33.515+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "是现金等价物，比如短期国债这类的。这个是最不激烈的看空后市的做法。不算对冲。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 421155242584128,
+                "name": "大道出迷途",
+                "avatar_url": "https://images.zsxq.com/FiF5HRK6XpaKf253WZV3H1I6nDg7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rxjSwrluqLkKhKMXlwwqSXlVE3Y="
+              }
+            },
+            {
+              "comment_id": 1522428415181422,
+              "parent_comment_id": 4844541528825258,
+              "create_time": "2024-04-05T20:14:21.439+0800",
+              "owner": {
+                "user_id": 48548152251228,
+                "name": "露露",
+                "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aGnF__7MPCA0sdOjfUp4dVdT6o8=",
+                "location": "上海"
+              },
+              "text": "我理解留现金并不是资产组合的反脆弱特征，只是留了看跌期权的选项。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 421155242584128,
+                "name": "大道出迷途",
+                "avatar_url": "https://images.zsxq.com/FiF5HRK6XpaKf253WZV3H1I6nDg7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rxjSwrluqLkKhKMXlwwqSXlVE3Y="
+              }
+            },
+            {
+              "comment_id": 8855251248411122,
+              "parent_comment_id": 4844541528825258,
+              "create_time": "2024-04-05T20:17:23.519+0800",
+              "owner": {
+                "user_id": 585215544844454,
+                "name": "澄泓",
+                "avatar_url": "https://images.zsxq.com/FuQ7OV6C4kmY6BJA_4Rm3ZjB9Q60?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0CvyUR-iuOggWVPtq6vOdSxOZ-w=",
+                "location": "广东"
+              },
+              "text": "现金不也是资产么？发生系统性风险时现金也会大幅贬值的[捂脸]",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48548152251228,
+                "name": "露露",
+                "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aGnF__7MPCA0sdOjfUp4dVdT6o8="
+              }
+            },
+            {
+              "comment_id": 5122528541818824,
+              "parent_comment_id": 4844541528825258,
+              "create_time": "2024-04-05T20:41:23.279+0800",
+              "owner": {
+                "user_id": 48548152251228,
+                "name": "露露",
+                "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aGnF__7MPCA0sdOjfUp4dVdT6o8=",
+                "location": "上海"
+              },
+              "text": "我个人觉得。现金是最后一道防线了 我也不知道对不对哈",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 585215544844454,
+                "name": "澄泓",
+                "avatar_url": "https://images.zsxq.com/FuQ7OV6C4kmY6BJA_4Rm3ZjB9Q60?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0CvyUR-iuOggWVPtq6vOdSxOZ-w="
+              }
+            },
+            {
+              "comment_id": 2855251248125821,
+              "parent_comment_id": 4844541528825258,
+              "create_time": "2024-04-05T20:43:28.853+0800",
+              "owner": {
+                "user_id": 585215544844454,
+                "name": "澄泓",
+                "avatar_url": "https://images.zsxq.com/FuQ7OV6C4kmY6BJA_4Rm3ZjB9Q60?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0CvyUR-iuOggWVPtq6vOdSxOZ-w=",
+                "location": "广东"
+              },
+              "text": "我的理解也不知道对不对[捂脸]现金是流动性最好的资产，现金在手里并不只是每年产生2%±的收益，它更是一种权利，一种真真正正的，大机会出现时的选择权，人生最重要在于有得选，满仓等于没得选",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48548152251228,
+                "name": "露露",
+                "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aGnF__7MPCA0sdOjfUp4dVdT6o8="
+              }
+            },
+            {
+              "comment_id": 2855251242541221,
+              "parent_comment_id": 4844541528825258,
+              "create_time": "2024-04-05T21:29:38.966+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "你这样的理解是可以的",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 585215544844454,
+                "name": "澄泓",
+                "avatar_url": "https://images.zsxq.com/FuQ7OV6C4kmY6BJA_4Rm3ZjB9Q60?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0CvyUR-iuOggWVPtq6vOdSxOZ-w="
+              }
+            },
+            {
+              "comment_id": 8855251242518152,
+              "parent_comment_id": 4844541528825258,
+              "create_time": "2024-04-05T21:35:03.376+0800",
+              "owner": {
+                "user_id": 585215544844454,
+                "name": "澄泓",
+                "avatar_url": "https://images.zsxq.com/FuQ7OV6C4kmY6BJA_4Rm3ZjB9Q60?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0CvyUR-iuOggWVPtq6vOdSxOZ-w=",
+                "location": "广东"
+              },
+              "text": "谢谢许大回复[愉快]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

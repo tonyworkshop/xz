@@ -1,0 +1,46 @@
+{
+  "captured_at": "2026-01-29T20:41:49.440164",
+  "url": "https://api.zsxq.com/v2/topics/14588545425151282/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "14588545425151282",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2852224252121811,
+          "create_time": "2025-12-15T16:08:26.244+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "北京"
+          },
+          "text": "多谢许大[抱拳]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1524441428558422,
+          "create_time": "2025-12-15T19:05:35.611+0800",
+          "owner": {
+            "user_id": 15124251111212,
+            "name": "云飞扬",
+            "avatar_url": "https://images.zsxq.com/FtLAR51MjULMblAMXp6O2jFcnZYQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_zCjX8-7ZARSfH5eToBlLkdvKa8=",
+            "location": "浙江"
+          },
+          "text": "是啊，连许家印留下的窟窿都填不了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

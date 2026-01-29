@@ -1,0 +1,71 @@
+{
+  "captured_at": "2026-01-29T22:44:25.572351",
+  "url": "https://api.zsxq.com/v2/topics/1522415522248842/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1522415522248842",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5122554558424514,
+          "create_time": "2024-05-11T23:28:44.227+0800",
+          "owner": {
+            "user_id": 88848544885182,
+            "name": "格格",
+            "avatar_url": "https://images.zsxq.com/FoaVIwdYTT3TIYt43yWpqlrW1TNZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CxkdQJbWaQzt9rKIg77nLlPEUT4=",
+            "location": "河南"
+          },
+          "text": "现在有个词叫做通杀",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5122554542852544,
+          "create_time": "2024-05-12T09:57:52.991+0800",
+          "owner": {
+            "user_id": 48888182222528,
+            "name": "小民的自由之路",
+            "avatar_url": "https://images.zsxq.com/FgfUp_VRDEvKTH32hcRj5hujjVUB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pHKHJYTx4_SLhC5rqAWszmvAy1A=",
+            "location": "山东"
+          },
+          "text": "债务货币化是必然么？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8855224485155852,
+              "parent_comment_id": 5122554542852544,
+              "create_time": "2024-05-13T14:24:10.044+0800",
+              "owner": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+                "location": "湖南"
+              },
+              "text": "就是不知道，唉，感觉一下通缩，一会又大通胀（这个应该不会吧，极端情况吗）",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48888182222528,
+                "name": "小民的自由之路",
+                "avatar_url": "https://images.zsxq.com/FgfUp_VRDEvKTH32hcRj5hujjVUB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pHKHJYTx4_SLhC5rqAWszmvAy1A="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

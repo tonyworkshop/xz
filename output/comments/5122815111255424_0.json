@@ -1,0 +1,99 @@
+{
+  "captured_at": "2026-01-29T22:12:18.837912",
+  "url": "https://api.zsxq.com/v2/topics/5122815111255424/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5122815111255424",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1522154824842252,
+          "create_time": "2024-08-10T17:37:51.333+0800",
+          "owner": {
+            "user_id": 422214855212818,
+            "name": "sky",
+            "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c=",
+            "location": "美国"
+          },
+          "text": "那时候波动率这么高，买put 感觉亏死，直接做空call 不是更好吗？ 前提是不爆仓。请问这样理解对吗？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 5122415828881114,
+              "parent_comment_id": 1522154824842252,
+              "create_time": "2024-08-10T19:59:38.871+0800",
+              "owner": {
+                "user_id": 142181518452,
+                "name": "Ewan",
+                "avatar_url": "https://images.zsxq.com/Fpcv5IcySOyKNJ7N-JHUPZ48kqDT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yaxAk-4G6ZEWC__XmvypH5mlrXo=",
+                "location": "浙江"
+              },
+              "text": "卖 call 的仓位是很轻的，谁也不知道 vix 能爆多高。因为轻仓卖，最后实际资金利用效率是很低的。说不定还不如大仓位的买 put",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c="
+              }
+            },
+            {
+              "comment_id": 4844285184524128,
+              "parent_comment_id": 1522154824842252,
+              "create_time": "2024-08-10T21:46:50.816+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "可以用 bear put",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c="
+              }
+            },
+            {
+              "comment_id": 5122415818184214,
+              "parent_comment_id": 1522154824842252,
+              "create_time": "2024-08-11T13:05:16.631+0800",
+              "owner": {
+                "user_id": 481848452128,
+                "name": "Winter",
+                "avatar_url": "https://images.zsxq.com/Foy1_y8JyUAvShBQVxMMgmIfb0Kp?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RQLZ5H0UL9tSkQ49_NPS6LvqQOQ=",
+                "location": "日本"
+              },
+              "text": "\"When implied volatility is unusually high (e.g., around earnings) consider a long put spread as an alternative to merely buying a put alone. Because you’re both buying and selling a put, the potential effect of a decrease in implied volatility will be somewhat neutralized.\"\n<e type=\"web\" href=\"https%3A%2F%2Fwww.optionsplaybook.com%2Foption-strategies%2Flong-put-spread\" title=\"Long%20Put%20Spread%20%7C%20Bull%20Put%20Spread%20-%20The%20Options%20Pl...\" />",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

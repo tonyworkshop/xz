@@ -1,0 +1,118 @@
+{
+  "captured_at": "2026-01-29T21:48:04.248653",
+  "url": "https://api.zsxq.com/v2/topics/5121445122128854/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5121445122128854",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2855145845884281,
+          "create_time": "2024-12-27T23:45:02.795+0800",
+          "owner": {
+            "user_id": 421154154188828,
+            "name": "紫薇科蓝花楹",
+            "avatar_url": "https://images.zsxq.com/FugQeBNJMH9z1uyAiprO7rm0wCtf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1Jv-UKh4Vpd42yteo29V_dRW85A=",
+            "location": "上海"
+          },
+          "text": "不是，dp3的价格不是翻了四倍吗",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 2855145845188551,
+              "parent_comment_id": 2855145845884281,
+              "create_time": "2024-12-28T08:04:00.664+0800",
+              "owner": {
+                "user_id": 15558282185242,
+                "name": "青弦",
+                "avatar_url": "https://images.zsxq.com/FlmANoiH6TYDBTYV-uiHEcRfCSz-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-EzVzmYAuQqbm8RzXhGmb23U0sk=",
+                "location": "江苏"
+              },
+              "text": "训练成本低啊，号称大模型拼多多",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 421154154188828,
+                "name": "紫薇科蓝花楹",
+                "avatar_url": "https://images.zsxq.com/FugQeBNJMH9z1uyAiprO7rm0wCtf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1Jv-UKh4Vpd42yteo29V_dRW85A="
+              }
+            },
+            {
+              "comment_id": 5122842548441484,
+              "parent_comment_id": 2855145845884281,
+              "create_time": "2024-12-28T16:42:21.215+0800",
+              "owner": {
+                "user_id": 421154154188828,
+                "name": "紫薇科蓝花楹",
+                "avatar_url": "https://images.zsxq.com/FugQeBNJMH9z1uyAiprO7rm0wCtf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1Jv-UKh4Vpd42yteo29V_dRW85A=",
+                "location": "上海"
+              },
+              "text": "deepseek本身比其他模型训练便宜，但3比2.5的官方api价格提升了四倍",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 15558282185242,
+                "name": "青弦",
+                "avatar_url": "https://images.zsxq.com/FlmANoiH6TYDBTYV-uiHEcRfCSz-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-EzVzmYAuQqbm8RzXhGmb23U0sk="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2855145451488141,
+          "create_time": "2024-12-30T01:45:56.364+0800",
+          "owner": {
+            "user_id": 1854551852,
+            "name": "林",
+            "avatar_url": "https://images.zsxq.com/FkpX6Hd6ZhCswvpOxFzMkaOUyKue?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:woqgL0silL63ulDIpBQ1OgsLHts=",
+            "location": "广东"
+          },
+          "text": "他家不是做交易的吗",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8855145451124512,
+              "parent_comment_id": 2855145451488141,
+              "create_time": "2024-12-30T07:22:32.416+0800",
+              "owner": {
+                "user_id": 15558282185242,
+                "name": "青弦",
+                "avatar_url": "https://images.zsxq.com/FlmANoiH6TYDBTYV-uiHEcRfCSz-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-EzVzmYAuQqbm8RzXhGmb23U0sk=",
+                "location": "江苏"
+              },
+              "text": "是一群聪明人选择做了交易，也可以做其他的[呲牙]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 1854551852,
+                "name": "林",
+                "avatar_url": "https://images.zsxq.com/FkpX6Hd6ZhCswvpOxFzMkaOUyKue?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:woqgL0silL63ulDIpBQ1OgsLHts="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "captured_at": "2026-01-29T21:07:53.820757",
+  "url": "https://api.zsxq.com/v2/topics/4845228881851128/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4845228881851128",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8858425482288152,
+          "create_time": "2025-06-19T23:23:12.126+0800",
+          "owner": {
+            "user_id": 48811511812258,
+            "name": "扫地的",
+            "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+            "location": "湖南"
+          },
+          "text": "买债券算凸性\n吃贴水策略也算吧",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5121452415518114,
+          "create_time": "2025-06-19T23:29:30.362+0800",
+          "owner": {
+            "user_id": 48811511812258,
+            "name": "扫地的",
+            "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QBEDJTHOT91qubK1ciuEQlxZ_cg=",
+            "location": "湖南"
+          },
+          "text": "核心逻辑：\n\n时间对凸性资产是朋友。随着时间推移，小概率的有利事件可能带来巨大收益，而高频的小损失可控。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1525142142414212,
+          "create_time": "2025-06-20T09:32:17.084+0800",
+          "owner": {
+            "user_id": 481848452128,
+            "name": "Winter",
+            "avatar_url": "https://images.zsxq.com/Foy1_y8JyUAvShBQVxMMgmIfb0Kp?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RQLZ5H0UL9tSkQ49_NPS6LvqQOQ=",
+            "location": "日本"
+          },
+          "text": "<e type=\"web\" href=\"https%3A%2F%2Fchatgpt.com%2Fshare%2F6854ba14-1f50-8003-82d6-a80ba52e1a4d\" title=\"https%3A%2F%2Fchatgpt.com%2Fshare%2F6854ba14-1f50-8003-82d6-...\" />",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

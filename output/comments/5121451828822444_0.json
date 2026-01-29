@@ -1,0 +1,118 @@
+{
+  "captured_at": "2026-01-29T21:49:44.056439",
+  "url": "https://api.zsxq.com/v2/topics/5121451828822444/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5121451828822444",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2855121852145281,
+          "create_time": "2024-12-20T08:45:54.879+0800",
+          "owner": {
+            "user_id": 88842421514242,
+            "name": "鴖",
+            "avatar_url": "https://images.zsxq.com/Fnk97AgXmBubEYd2l2wdwGK6bF8h?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yTEo8rQ4-gias5sEqUqTt-QApJU=",
+            "location": "福建"
+          },
+          "text": "请大家多提意见，大家平时怎么用这个人工智能？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 1522848524814852,
+              "parent_comment_id": 2855121852145281,
+              "create_time": "2024-12-20T08:51:07.545+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "主要还是用来做提纲和了解纲要，方便快速了解基本情况",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88842421514242,
+                "name": "鴖",
+                "avatar_url": "https://images.zsxq.com/Fnk97AgXmBubEYd2l2wdwGK6bF8h?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yTEo8rQ4-gias5sEqUqTt-QApJU="
+              }
+            },
+            {
+              "comment_id": 5122858124481544,
+              "parent_comment_id": 2855121852145281,
+              "create_time": "2024-12-20T10:19:25.091+0800",
+              "owner": {
+                "user_id": 88842421514242,
+                "name": "鴖",
+                "avatar_url": "https://images.zsxq.com/Fnk97AgXmBubEYd2l2wdwGK6bF8h?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yTEo8rQ4-gias5sEqUqTt-QApJU=",
+                "location": "福建"
+              },
+              "text": "比如我对邓晓峰提到确信度的概念不理解，一直执着要有a推出b的精确度，思维有缺陷。我无法更好理解许大什么粗糙的正确，我和人工智能交流后，就茅塞顿开了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8855121488442182,
+          "create_time": "2024-12-23T10:19:56.800+0800",
+          "owner": {
+            "user_id": 111112518811522,
+            "name": "青林散人",
+            "avatar_url": "https://images.zsxq.com/FidurBMbZXIGHGpblrldPD9p4nPZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9spHt-wDwGD00Z626HWrh-yJNZo=",
+            "location": "上海"
+          },
+          "text": "分享“宁要粗糙的正确，不要精确的错误”的一点浅见，比如金禾这个公司，在董秘问答的环节有两个信息点，一个是“12月份提问，公司连续上调三氯蔗糖的价格”，另一个是“公司签订长协订单的时间一般在10月到次年2月”，通过这两个信息可以得出明年的盈利状况会有提升。不需要知道提升多少，但肯定是提升的。这就是粗糙的正确，只要耐心等到明年季报出来，预期变现即可。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8855145521181842,
+              "parent_comment_id": 8855121488442182,
+              "create_time": "2024-12-25T21:05:56.088+0800",
+              "owner": {
+                "user_id": 88842421514242,
+                "name": "鴖",
+                "avatar_url": "https://images.zsxq.com/Fnk97AgXmBubEYd2l2wdwGK6bF8h?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yTEo8rQ4-gias5sEqUqTt-QApJU=",
+                "location": "福建"
+              },
+              "text": "很好的观点！",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 111112518811522,
+                "name": "青林散人",
+                "avatar_url": "https://images.zsxq.com/FidurBMbZXIGHGpblrldPD9p4nPZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9spHt-wDwGD00Z626HWrh-yJNZo="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

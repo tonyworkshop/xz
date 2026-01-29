@@ -1,0 +1,145 @@
+{
+  "captured_at": "2026-01-29T22:15:08.061314",
+  "url": "https://api.zsxq.com/v2/topics/1522852418512452/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1522852418512452",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5122411814821144,
+          "create_time": "2024-08-04T08:56:13.996+0800",
+          "owner": {
+            "user_id": 414822418441558,
+            "name": "乡紳",
+            "avatar_url": "https://images.zsxq.com/FuuOjwFr07Xfhj-62rtufxW6VxU1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zG0mnsqnSX6TtJUrIwZ7tvlbGkg=",
+            "location": "广东"
+          },
+          "text": "最近在二小城市的旅居，让我对后者有了更全面的认知。书中自有黄金屋与阴谋论是辨别两类人群的好指标",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1
+        },
+        {
+          "comment_id": 1522155858258112,
+          "create_time": "2024-08-04T09:57:07.403+0800",
+          "owner": {
+            "user_id": 48551488858818,
+            "name": "大薯条",
+            "avatar_url": "https://images.zsxq.com/FpeHJyZVplHN6uW9pc1Z5_rACSV3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2D0PuUPog9sVZUcnW1awBdDUccI=",
+            "location": "江苏"
+          },
+          "text": "疫情后快速加息拉爆股市还不算底，巴菲特要等一个多大的底啊",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 2855488121482841,
+              "parent_comment_id": 1522155858258112,
+              "create_time": "2024-08-05T00:36:25.729+0800",
+              "owner": {
+                "user_id": 51288542884184,
+                "name": "lsh",
+                "avatar_url": "https://images.zsxq.com/Fp7EGJMFbm6O_2ky87VL88pxFjDC?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JTcOCUhvfNtiglKFZRIdobTxQco=",
+                "location": "美国"
+              },
+              "text": "他是人类中最接近股神的",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28845455588181,
+                "name": "Mark",
+                "avatar_url": "https://images.zsxq.com/Fp-VbPB4lGCssDYmW7xZEG4ozgII?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wHdoBzXzarvEZU_yN5AQudzrDkI="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5122411845555114,
+          "create_time": "2024-08-05T09:50:21.728+0800",
+          "owner": {
+            "user_id": 244122822114211,
+            "name": "Pretty_fen*",
+            "avatar_url": "https://images.zsxq.com/FnjVI2lqj3bBqamu5h1WF8SvSKAJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xA7BN27Vz-1It_hXJCQ_ezuKqXU=",
+            "location": "浙江"
+          },
+          "text": "做好自己就行  没必要迷信他人 过去20年，标普500指数上涨了568%，而巴菲特的伯克希尔哈撒韦股价涨幅为554%，未能跑赢大盘。人生能有几个20年？",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 4844288118582428,
+              "parent_comment_id": 5122411845555114,
+              "create_time": "2024-08-05T14:12:13.615+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "巴菲特是非常优秀的投资人，但他是人不是神",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28845455588181,
+                "name": "Mark",
+                "avatar_url": "https://images.zsxq.com/Fp-VbPB4lGCssDYmW7xZEG4ozgII?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wHdoBzXzarvEZU_yN5AQudzrDkI="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8855488144244452,
+          "create_time": "2024-08-05T11:40:38.518+0800",
+          "owner": {
+            "user_id": 88848544885182,
+            "name": "格格",
+            "avatar_url": "https://images.zsxq.com/FoaVIwdYTT3TIYt43yWpqlrW1TNZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CxkdQJbWaQzt9rKIg77nLlPEUT4=",
+            "location": "河南"
+          },
+          "text": "感谢许大解答，只是理解不了，他都要交班了，还要这么等下去干嘛",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855488144451552,
+          "create_time": "2024-08-05T11:58:30.253+0800",
+          "owner": {
+            "user_id": 824521111842,
+            "name": "撄宁",
+            "avatar_url": "https://images.zsxq.com/FrM6hR5NMME1A6xvWG4DV6Gc4ot7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IERN8xT6_U8FZzHZCZtk5TNtiPo=",
+            "location": "江苏"
+          },
+          "text": "估计不是现金，而是买了很多美债！",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

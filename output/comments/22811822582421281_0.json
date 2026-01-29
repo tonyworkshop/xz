@@ -1,0 +1,77 @@
+{
+  "captured_at": "2026-01-29T20:41:58.389369",
+  "url": "https://api.zsxq.com/v2/topics/22811822582421281/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "22811822582421281",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5125554524581844,
+          "create_time": "2025-12-15T17:29:57.205+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "美国"
+          },
+          "text": "<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" /> 请教许大，这么多股票，肯定有些long dated option 相对便宜，做市商不会看所有股票的option 和expire date 来磨平吧？ 谢谢回复",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 8852224254214182,
+              "parent_comment_id": 5125554524581844,
+              "create_time": "2025-12-15T17:32:34.622+0800",
+              "owner": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+                "location": "美国"
+              },
+              "text": "同理，有时候spy put 便宜，有时候vix call 便宜",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png"
+              }
+            },
+            {
+              "comment_id": 5125554524885424,
+              "parent_comment_id": 5125554524581844,
+              "create_time": "2025-12-15T18:17:19.441+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "那是因为那些期权gamma小，都在期权曲面里反应了，按需买，做市商的职责就是抹得光滑无比",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png"
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

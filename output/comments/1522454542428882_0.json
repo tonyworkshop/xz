@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T22:50:40.683552",
+  "url": "https://api.zsxq.com/v2/topics/1522454542428882/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1522454542428882",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855282458211242,
+          "create_time": "2024-04-23T15:04:05.313+0800",
+          "owner": {
+            "user_id": 51122225814514,
+            "name": "真的是大风",
+            "avatar_url": "https://images.zsxq.com/Fkn-ClpPFW1Hwi24llEUR8EORsy3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kiOuegSdjap8s5te2lgHJrX0w-g=",
+            "location": "上海"
+          },
+          "text": "是的，大概率算错了，这种流动性充沛的ETF不可能有重大套利空间的",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

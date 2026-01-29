@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T21:51:00.852269",
+  "url": "https://api.zsxq.com/v2/topics/4848254852141288/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4848254852141288",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844152522522428,
+          "create_time": "2024-12-14T21:33:24.965+0800",
+          "owner": {
+            "user_id": 818855821841522,
+            "name": "PATH",
+            "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+            "location": "上海"
+          },
+          "text": "安全性没问题，但历史上这些产品也是有过亏损情况的，一般发生在流动性挤兑的时候，到时候就看客户愿不愿意相信、再捏一捏忍一忍了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T22:09:21.396392",
+  "url": "https://api.zsxq.com/v2/topics/2855124288824481/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2855124288824481",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844281458218428,
+          "create_time": "2024-08-21T19:29:02.278+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "广东"
+          },
+          "text": "做多波动率",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

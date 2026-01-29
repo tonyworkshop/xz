@@ -1,0 +1,305 @@
+{
+  "captured_at": "2026-01-29T22:02:19.242962",
+  "url": "https://api.zsxq.com/v2/topics/2858254252884551/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "2858254252884551",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1522114458418552,
+          "create_time": "2024-09-30T13:10:54.118+0800",
+          "owner": {
+            "user_id": 28455841828841,
+            "name": "复苏",
+            "avatar_url": "https://images.zsxq.com/FnZcrjCQjD44tppP9M50cbNki8wA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6PaM0v85ks_kgiXLV8ASAdv6agQ=",
+            "location": "江苏"
+          },
+          "text": "这个确实比用call构建牛差要灵活，另外卖平买虚是不是也能这么操作？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4844225581512588,
+              "parent_comment_id": 1522114458418552,
+              "create_time": "2024-09-30T13:13:50.193+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "可以的，但那样进攻性会差一些",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28455841828841,
+                "name": "复苏",
+                "avatar_url": "https://images.zsxq.com/FnZcrjCQjD44tppP9M50cbNki8wA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6PaM0v85ks_kgiXLV8ASAdv6agQ="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8855442222425482,
+          "create_time": "2024-09-30T14:30:01.949+0800",
+          "owner": {
+            "user_id": 414848254185128,
+            "name": "Cauchy",
+            "avatar_url": "https://images.zsxq.com/FtWBN6b9uREaaZGoRT1DiLjTITOE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nIJYYL6Pf8I-e6AjsKKPFyuDXeQ=",
+            "location": "北京"
+          },
+          "text": "现在有个问题是指数涨的太多导致已经没有高执行价的期权了，以沪深300为例，现价4100左右，期权最高只有3900",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 5,
+          "replied_comments": [
+            {
+              "comment_id": 4844225524484258,
+              "parent_comment_id": 8855442222425482,
+              "create_time": "2024-09-30T17:33:22.323+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "这个确实始料未及，哈哈哈哈",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 414848254185128,
+                "name": "Cauchy",
+                "avatar_url": "https://images.zsxq.com/FtWBN6b9uREaaZGoRT1DiLjTITOE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nIJYYL6Pf8I-e6AjsKKPFyuDXeQ="
+              }
+            },
+            {
+              "comment_id": 2855442242842221,
+              "parent_comment_id": 8855442222425482,
+              "create_time": "2024-09-30T19:10:04.708+0800",
+              "owner": {
+                "user_id": 88441848854552,
+                "name": "　　　　　　　　",
+                "avatar_url": "https://images.zsxq.com/Fm9TStZxHt3kmOewrLlmx5Hq8X6P?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-Hd9Rc-i7vVPrj6mw5S7MQcU9ds=",
+                "location": "福建"
+              },
+              "text": "新上的也只有到4300，看来还是缺乏想象力",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 414848254185128,
+                "name": "Cauchy",
+                "avatar_url": "https://images.zsxq.com/FtWBN6b9uREaaZGoRT1DiLjTITOE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nIJYYL6Pf8I-e6AjsKKPFyuDXeQ="
+              }
+            },
+            {
+              "comment_id": 1522114485482452,
+              "parent_comment_id": 8855442222425482,
+              "create_time": "2024-10-01T07:35:14.496+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "换一个思路，在美股做跟踪中国资产的ETF期权[呲牙]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 414848254185128,
+                "name": "Cauchy",
+                "avatar_url": "https://images.zsxq.com/FtWBN6b9uREaaZGoRT1DiLjTITOE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nIJYYL6Pf8I-e6AjsKKPFyuDXeQ="
+              }
+            },
+            {
+              "comment_id": 5122445421485144,
+              "parent_comment_id": 8855442222425482,
+              "create_time": "2024-10-01T21:50:00.338+0800",
+              "owner": {
+                "user_id": 815254124418522,
+                "name": "想牵驴的mE",
+                "avatar_url": "https://images.zsxq.com/FkEEHRQ0FXOa1y9wClUek-4pv7KU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W_mfnp_kCMKR5RFZRibaY2WCUGo=",
+                "location": "上海"
+              },
+              "text": "没看到合适的标的？除了中概，流动性都好差。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 1522114125181842,
+              "parent_comment_id": 8855442222425482,
+              "create_time": "2024-10-01T21:53:05.997+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "YINN？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815254124418522,
+                "name": "想牵驴的mE",
+                "avatar_url": "https://images.zsxq.com/FkEEHRQ0FXOa1y9wClUek-4pv7KU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W_mfnp_kCMKR5RFZRibaY2WCUGo="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1522114414442852,
+          "create_time": "2024-09-30T19:47:26.761+0800",
+          "owner": {
+            "user_id": 48851244854458,
+            "name": "LT",
+            "avatar_url": "https://images.zsxq.com/Fv6ZlBS5tOgPzbmd0nozXBeHpCeJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lnCeRk6VrLHMarf9OjH0doX8nrk=",
+            "location": "北京"
+          },
+          "text": "请教一下许大，用两个put做这个牛差，遇到下跌行情后，后续该怎么调整比较好呢？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1522114414141242,
+          "create_time": "2024-09-30T20:16:27.497+0800",
+          "owner": {
+            "user_id": 185555885188212,
+            "name": "雾里看花",
+            "avatar_url": "https://images.zsxq.com/FjhjSp3Ztv3n_6cdteIC5ZfzAJsN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NlK0ELpQUhxZxXNqga7m5_BFAAU=",
+            "location": "上海"
+          },
+          "text": "想请教下这个策略在合约到期时间上如何考虑? 为了更好保留较低行权价put的保护作用，最好选择到期时间稍久一点的吗?比如根据自己预估的行情持续时间?",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2855442241552151,
+          "create_time": "2024-09-30T23:03:29.663+0800",
+          "owner": {
+            "user_id": 421424828814588,
+            "name": "智-",
+            "avatar_url": "https://images.zsxq.com/Fig5w4-sfHn8-hCthMldJvykAYaw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FvoMjlhPbDGlJ88sJYcfSSjHg0Y=",
+            "location": "广东"
+          },
+          "text": "请问卖的高执行价的 put，是在价内？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855442218211482,
+          "create_time": "2024-10-01T07:52:44.676+0800",
+          "owner": {
+            "user_id": 28482844854281,
+            "name": "坚果可心",
+            "avatar_url": "https://images.zsxq.com/FnN4XhDIXCK9zfNolddDRa1vgsTW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dMZMQCSX0eh5ksmzq054hCxta7o=",
+            "location": "山东"
+          },
+          "text": "谢谢许大指点",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855418881851542,
+          "create_time": "2024-10-06T00:28:39.195+0800",
+          "owner": {
+            "user_id": 212815222852181,
+            "name": "li",
+            "avatar_url": "https://images.zsxq.com/FsiwgH7IvaHvkFAmokv_A3Q-6Lin?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EcSL6vKHjtKjTHVESS4riDyQOyY=",
+            "location": "辽宁"
+          },
+          "text": "做价差不是把波动率变化对冲掉了吗 赚不到波动率的钱吧？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 5122481145454524,
+              "parent_comment_id": 8855418881851542,
+              "create_time": "2024-10-07T08:44:10.878+0800",
+              "owner": {
+                "user_id": 825442228452,
+                "name": "易",
+                "avatar_url": "https://images.zsxq.com/Fnyl8V3UKajT66p9XHlhpAv0orIn?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:r8o7TjVWTlg9YZf7xchpmLnbMDY=",
+                "location": "浙江"
+              },
+              "text": "想赚波动率的已经死了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 212815222852181,
+                "name": "li",
+                "avatar_url": "https://images.zsxq.com/FsiwgH7IvaHvkFAmokv_A3Q-6Lin?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EcSL6vKHjtKjTHVESS4riDyQOyY="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2855148255814151,
+          "create_time": "2025-01-04T22:25:53.779+0800",
+          "owner": {
+            "user_id": 51122254545284,
+            "name": "Mr.Miao",
+            "avatar_url": "https://images.zsxq.com/FrnC2xPVWtjAd8ikN_o9NLDC5PWc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Vdd5lEQaZpCnnnOlWb-qChE7tGw=",
+            "location": "山东"
+          },
+          "text": "请问两个put是卖实买平吗？（卖一个实值put，然后买一个平值put？）",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

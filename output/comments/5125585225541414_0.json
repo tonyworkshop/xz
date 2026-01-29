@@ -1,0 +1,135 @@
+{
+  "captured_at": "2026-01-29T21:21:59.120264",
+  "url": "https://api.zsxq.com/v2/topics/5125585225541414/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5125585225541414",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2858211844255841,
+          "create_time": "2025-05-01T14:30:16.380+0800",
+          "owner": {
+            "user_id": 28518212548821,
+            "name": "王*",
+            "avatar_url": "https://images.zsxq.com/FpbcsiwzmxZhz898X_u3hPCj5y0S?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Fpr71ntj83n3AjoVsyUtxTz5P20=",
+            "location": "北京"
+          },
+          "text": "不懂就问，单独的qqq是不是还不是凸性的，需要与tqqq结合才能组成凸性的？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 1525488425514842,
+              "parent_comment_id": 2858211844255841,
+              "create_time": "2025-05-02T14:54:19.493+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "QQQ本身没有凸性，TQQQ有一些，TQQQ的期权有很强的凸性",
+              "likes_count": 5,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28518212548821,
+                "name": "王*",
+                "avatar_url": "https://images.zsxq.com/FpbcsiwzmxZhz898X_u3hPCj5y0S?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Fpr71ntj83n3AjoVsyUtxTz5P20="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4848511815528418,
+          "create_time": "2025-05-02T01:09:55.383+0800",
+          "owner": {
+            "user_id": 88848544885182,
+            "name": "格格",
+            "avatar_url": "https://images.zsxq.com/FoaVIwdYTT3TIYt43yWpqlrW1TNZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CxkdQJbWaQzt9rKIg77nLlPEUT4=",
+            "location": "河南"
+          },
+          "text": "谢谢，大过节 投喂，节日快乐",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848511812125458,
+          "create_time": "2025-05-02T11:41:53.740+0800",
+          "owner": {
+            "user_id": 2452542441,
+            "name": "Zac",
+            "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+            "location": "上海"
+          },
+          "text": "感谢老哥转成图文",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8858211245528242,
+          "create_time": "2025-05-04T16:21:14.372+0800",
+          "owner": {
+            "user_id": 48818148421848,
+            "name": "巴伊老爷",
+            "avatar_url": "https://images.zsxq.com/Fmn6zK8RxlLN0gbqcPJUyMfCE_gQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qvqQVUN0kGoPEmltSdaJ3SkN9pc=",
+            "location": "广西"
+          },
+          "text": "太精彩了，花了几天视乎看懂了，很好奇许大的TQQQ看涨期权配对的看跌期权是什么？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848244485481448,
+          "create_time": "2025-05-08T01:40:17.692+0800",
+          "owner": {
+            "user_id": 825858258482,
+            "name": "王栋",
+            "avatar_url": "https://images.zsxq.com/FmA_I7Sv0S4SYh0RBIw1A8pOtTil?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oLCB5tvT5Jmy2RkFN1Hx8YJYn_k=",
+            "location": "北京"
+          },
+          "text": "非常感谢整理！受益匪浅！ 一个小建议：  便利性 应该是 遍历性，说的是随机过程中各态历经的性质。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5121422514248524,
+          "create_time": "2025-05-09T19:22:15.748+0800",
+          "owner": {
+            "user_id": 48818148421848,
+            "name": "巴伊老爷",
+            "avatar_url": "https://images.zsxq.com/Fmn6zK8RxlLN0gbqcPJUyMfCE_gQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qvqQVUN0kGoPEmltSdaJ3SkN9pc=",
+            "location": "广西"
+          },
+          "text": "文字版中有误：“ $\\beta$（杠杆倍数）在0到1之间没有decay，”，听录音是“0到0.5倍之间的LETF是没有Volatility Decay 的，除此之外的LETF是有Volatility Decay 的。”",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "captured_at": "2026-01-29T22:42:33.426758",
+  "url": "https://api.zsxq.com/v2/topics/4844518484552518/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4844518484552518",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2855221888242881,
+          "create_time": "2024-05-17T10:58:45.403+0800",
+          "owner": {
+            "user_id": 548212115445144,
+            "name": "JK",
+            "avatar_url": "https://images.zsxq.com/FqDdo7t_Azgi0tGNtuKdueZ8Ymlg?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-fDl9FscsGBiJSz0-91_ehvRd-E=",
+            "location": "广西"
+          },
+          "text": "许大，我记得你在《<e type=\"web\" href=\"https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Fweread%2Fsearch.html%3Fkeyword%3D%E4%B8%80%E5%A6%82%E9%A2%84%E6%9C%9F%EF%BC%8C%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E9%97%AE%E9%A2%98\" title=\"%E4%B8%80%E5%A6%82%E9%A2%84%E6%9C%9F%EF%BC%8C%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E9%97%AE%E9%A2%98\" style=\"book\" />》里说过，我国外汇储备基本是购买了美债，那现在大幅抛售美债其实有2个可能:1主动抛售，2外汇流失被迫抛售。是不是这样许大？现在哪种可能大点儿",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 2855221825151151,
+              "parent_comment_id": 2855221888242881,
+              "create_time": "2024-05-17T15:45:37.158+0800",
+              "owner": {
+                "user_id": 844414241585442,
+                "name": "麻瓜王",
+                "avatar_url": "https://images.zsxq.com/FvNqaTqzk3t0-RQWKuWsUcFWFykY?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:R2KDCfbqrn8zowIzth6r4yNiGhQ=",
+                "location": "广西"
+              },
+              "text": "还有一种可能就是到期不续。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 548212115445144,
+                "name": "JK",
+                "avatar_url": "https://images.zsxq.com/FqDdo7t_Azgi0tGNtuKdueZ8Ymlg?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-fDl9FscsGBiJSz0-91_ehvRd-E="
+              }
+            },
+            {
+              "comment_id": 1522448545518452,
+              "parent_comment_id": 2855221888242881,
+              "create_time": "2024-05-17T16:33:50.495+0800",
+              "owner": {
+                "user_id": 548212115445144,
+                "name": "JK",
+                "avatar_url": "https://images.zsxq.com/FqDdo7t_Azgi0tGNtuKdueZ8Ymlg?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-fDl9FscsGBiJSz0-91_ehvRd-E=",
+                "location": "广西"
+              },
+              "text": "愿闻其详",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 844414241585442,
+                "name": "麻瓜王",
+                "avatar_url": "https://images.zsxq.com/FvNqaTqzk3t0-RQWKuWsUcFWFykY?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:R2KDCfbqrn8zowIzth6r4yNiGhQ="
+              }
+            },
+            {
+              "comment_id": 1522448515212882,
+              "parent_comment_id": 2855221888242881,
+              "create_time": "2024-05-18T00:59:45.084+0800",
+              "owner": {
+                "user_id": 844414241585442,
+                "name": "麻瓜王",
+                "avatar_url": "https://images.zsxq.com/FvNqaTqzk3t0-RQWKuWsUcFWFykY?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:R2KDCfbqrn8zowIzth6r4yNiGhQ=",
+                "location": "广西"
+              },
+              "text": "不是很好理解吗。买的长短美债到期了，不买新的。持有美债数量就少了。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 548212115445144,
+                "name": "JK",
+                "avatar_url": "https://images.zsxq.com/FqDdo7t_Azgi0tGNtuKdueZ8Ymlg?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-fDl9FscsGBiJSz0-91_ehvRd-E="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8855221422282212,
+          "create_time": "2024-05-20T11:55:30.716+0800",
+          "owner": {
+            "user_id": 88812221412582,
+            "name": "伟大的mkf",
+            "avatar_url": "https://images.zsxq.com/FmGSrqiUuQKM7kIq4_HjW6K2aJBF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1YNGcxNUH-_eK4CLa5Z6iSLaKcY=",
+            "location": "云南"
+          },
+          "text": "问题是抛售了那么多美债，换回美元。这些美元干啥去了？冲铜？买黄金？稳汇率？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

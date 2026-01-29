@@ -1,0 +1,84 @@
+{
+  "captured_at": "2026-01-29T21:28:57.195703",
+  "url": "https://api.zsxq.com/v2/topics/1525884521288822/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1525884521288822",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8858222545181552,
+          "create_time": "2025-03-30T18:10:55.104+0800",
+          "owner": {
+            "user_id": 51154515522454,
+            "name": "牛肉汤面",
+            "avatar_url": "https://images.zsxq.com/FpuzZgMY_xy8NzDv1CSHTePblVfc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KE_nCKHiT5wmRxvqwmuKpoooAzw=",
+            "location": "上海"
+          },
+          "text": "追求最野的爱好[强]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5121555245445124,
+          "create_time": "2025-03-30T23:35:15.030+0800",
+          "owner": {
+            "user_id": 555584841844,
+            "name": "Vivi刚刚好",
+            "avatar_url": "https://images.zsxq.com/Fvfm7OH1G16LB2rQFYEgkoO6uNqA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:25s_SdKuPE-oik54Dpf6XDD0yqQ=",
+            "location": "广东"
+          },
+          "text": "写得真好👍",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4848555842552448,
+          "create_time": "2025-03-31T17:26:09.220+0800",
+          "owner": {
+            "user_id": 8421148482,
+            "name": "胖子托尼",
+            "avatar_url": "https://images.zsxq.com/Fpm8iXTpC5nDA_yqMDGvqx29SUsF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YH4Tx7XSo-lZIPHK65PxpgR91YE=",
+            "location": "海南"
+          },
+          "text": "不知道我是不是记错了，塔勒布在《<e type=\"web\" href=\"https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Fweread%2Fsearch.html%3Fkeyword%3D%E5%8F%8D%E8%84%86%E5%BC%B1\" title=\"%E5%8F%8D%E8%84%86%E5%BC%B1\" style=\"book\" />》里提到的普通人实践反脆弱思想的一种方式是：写作。或者更广义的来说，是创作。创作出来的作品需要的能耗是有限的，类比于我们付出的 OTM Premium；但是作品的一旦被创造出来了，它会保持一种永远可能爆发的特性，类比于可能非线性增长的 OTM Options。塔勒布他自己目前推特（X）上置顶的帖子就是在得意自己写的书已经经受住了时间的考验……",
+          "likes_count": 3,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "images": [
+            {
+              "image_id": 811441528454412,
+              "type": "png",
+              "thumbnail": {
+                "url": "https://images.zsxq.com/FqFxWlwy9tZusWZ6OTUbzBRJZh8F?imageMogr2/auto-orient/thumbnail/380x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4wvRz8nmC--PxzzntHztfUfbOeo=",
+                "width": 380,
+                "height": 415
+              },
+              "large": {
+                "url": "https://images.zsxq.com/FqFxWlwy9tZusWZ6OTUbzBRJZh8F?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eqnDjUfgMBJqiu7pUoaV3Zpsq0M=",
+                "width": 800,
+                "height": 873
+              },
+              "original": {
+                "url": "https://images.zsxq.com/FqFxWlwy9tZusWZ6OTUbzBRJZh8F?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:S7UQTTT9Cvdsrk7HTPDDjdxagHs=",
+                "width": 1184,
+                "height": 1292,
+                "size": 467886
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

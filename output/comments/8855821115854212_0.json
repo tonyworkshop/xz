@@ -1,0 +1,71 @@
+{
+  "captured_at": "2026-01-29T23:04:33.245209",
+  "url": "https://api.zsxq.com/v2/topics/8855821115854212/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8855821115854212",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2855814415544251,
+          "create_time": "2024-03-21T10:48:21.906+0800",
+          "owner": {
+            "user_id": 185552485411542,
+            "name": "蜗牛🐌飞快",
+            "avatar_url": "https://images.zsxq.com/FtphKD83oSd--fo6nzPlr2QBnLNK?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:COrrdSjrp_3B1qRRqt6R7-XX71Q=",
+            "location": "新疆"
+          },
+          "text": "宁要粗糙的正确，不要精确的错误。👌",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855811558148852,
+          "create_time": "2024-03-21T17:06:10.856+0800",
+          "owner": {
+            "user_id": 51188448558524,
+            "name": "lwb",
+            "avatar_url": "https://images.zsxq.com/FhsHj_M8gVktLBYNqTANa3k6h12T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:x3sD_ay9f2rb19Rx4pcNrix0Tto=",
+            "location": "广东"
+          },
+          "text": "如果遇到市场规模扩大，企业份额变小，这种情况许大如何取舍",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 5122188225218484,
+              "parent_comment_id": 8855811558148852,
+              "create_time": "2024-03-21T17:18:32.052+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "说明这企业竞争力不太行了，考虑一下是不是换了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51188448558524,
+                "name": "lwb",
+                "avatar_url": "https://images.zsxq.com/FhsHj_M8gVktLBYNqTANa3k6h12T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:x3sD_ay9f2rb19Rx4pcNrix0Tto="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "captured_at": "2026-01-29T20:39:20.238808",
+  "url": "https://api.zsxq.com/v2/topics/22811841544244241/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "22811841544244241",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8852245284155512,
+          "create_time": "2025-12-26T13:13:55.608+0800",
+          "owner": {
+            "user_id": 548882225458844,
+            "name": "loho",
+            "avatar_url": "https://images.zsxq.com/Fmry26DEgac_1SnYbP9xt7gZf87X?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OXbYuoDW20UlMs4Ir8NOcUxp8LI=",
+            "location": "广东"
+          },
+          "text": "同样看不懂这个代币价格，能代表净值吗",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2852245284185541,
+              "parent_comment_id": 8852245284155512,
+              "create_time": "2025-12-26T13:19:51.464+0800",
+              "owner": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo=",
+                "location": "山东"
+              },
+              "text": "应该不是代表净值，我个人感觉就好像是发行股票一样。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 548882225458844,
+                "name": "loho",
+                "avatar_url": "https://images.zsxq.com/Fmry26DEgac_1SnYbP9xt7gZf87X?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OXbYuoDW20UlMs4Ir8NOcUxp8LI="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5125542552124254,
+          "create_time": "2025-12-26T15:41:19.493+0800",
+          "owner": {
+            "user_id": 28458118128451,
+            "name": "GLJ",
+            "avatar_url": "https://images.zsxq.com/Fh7Xa49xNwPmeeDwhcKKSTsa4Ll-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5PwsrGbG0nvk1_3Z4PTEBv_wQzg=",
+            "location": "上海"
+          },
+          "text": "代币数量代表了份额，看到的价格是交易后市场上形成的价格",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4845524558884148,
+              "parent_comment_id": 5125542552124254,
+              "create_time": "2025-12-26T17:40:43.916+0800",
+              "owner": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo=",
+                "location": "山东"
+              },
+              "text": "是类似于基金份额一样嘛？净值的增长是靠什么呢？靠基金的收益？还是参与交易者的购买力呢？是像公司发行股票一样嘛？类似于基金发行了一批代币募集资金，然后利用利润回购提升净值，还有靠后来者购买提升净值，是这两种方法提升净值嘛？",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28458118128451,
+                "name": "GLJ",
+                "avatar_url": "https://images.zsxq.com/Fh7Xa49xNwPmeeDwhcKKSTsa4Ll-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5PwsrGbG0nvk1_3Z4PTEBv_wQzg="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2852245224555851,
+          "create_time": "2025-12-26T17:59:57.841+0800",
+          "owner": {
+            "user_id": 48888218821448,
+            "name": "后中先",
+            "avatar_url": "https://images.zsxq.com/FgMU4F6QPUmflR3useJkg84ci1zi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o0dwW_iV0MVOnxzlk7z1whiVWY0=",
+            "location": "江苏"
+          },
+          "text": "回购倒是一个很有趣的想法，感觉Uniswap上的QQQAI代币的流动性不是很好，许大后续有没有考虑进一步增添流动性或者“回购”呢，就是私募“回购”听起来有点怪哈哈，但感觉可以做一个金融创新试试。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1524412448245482,
+          "create_time": "2025-12-26T20:51:27.584+0800",
+          "owner": {
+            "user_id": 825144882182,
+            "name": "奇奇",
+            "avatar_url": "https://images.zsxq.com/FubaH3v7QHE4gINRee6301V6oz10?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TR6wsTK0YpXN6AFAjEe98mDbv6k=",
+            "location": "江苏"
+          },
+          "text": "稀缺性导致的溢价吧",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2852245221152421,
+              "parent_comment_id": 1524412448245482,
+              "create_time": "2025-12-26T22:15:08.543+0800",
+              "owner": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo=",
+                "location": "山东"
+              },
+              "text": "稀缺性应该是指价值，比如特朗普发行的代币的稀缺性在于那是进入顶层的门票，可以在特朗普那换回权利。我发行的代币就没人要。许老师的代币值1000u理论上是大家认为这个钱能够增值，或者能够换回点什么。如果不能增值或者不能换回什么，那代币就缺乏流动性。像什么猫猫币狗狗币我就觉得很扯，我个人感觉如果用的好更像是简单快捷的融资方式。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 825144882182,
+                "name": "奇奇",
+                "avatar_url": "https://images.zsxq.com/FubaH3v7QHE4gINRee6301V6oz10?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TR6wsTK0YpXN6AFAjEe98mDbv6k="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1524412414424812,
+          "create_time": "2025-12-27T07:03:32.107+0800",
+          "owner": {
+            "user_id": 818882514525122,
+            "name": "茶韵禅心",
+            "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo=",
+            "location": "山东"
+          },
+          "text": "许大的播客听了一半又回来了，这个代币跟他的反脆弱观点有点像，相当于你花很少的钱去博一个相对高的权利，类似于原始股。没上市之前，这只是一个代币，一张纸。上市以后才会有超额的利润。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 4845521181444158,
+              "parent_comment_id": 1524412414424812,
+              "create_time": "2026-01-03T08:01:13.697+0800",
+              "owner": {
+                "user_id": 414158242528458,
+                "name": "Logos",
+                "avatar_url": "https://images.zsxq.com/Fi0w7PJVdLgGxT5zM23QRot33TXb?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bV6LhUP8Ii3TF5O1dSFzTR2jyKo=",
+                "location": "上海"
+              },
+              "text": "请问播客在哪里能收听",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo="
+              }
+            },
+            {
+              "comment_id": 5125548818151154,
+              "parent_comment_id": 1524412414424812,
+              "create_time": "2026-01-03T09:15:01.970+0800",
+              "owner": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo=",
+                "location": "山东"
+              },
+              "text": "<e type=\"web\" href=\"https%3A%2F%2Fwww.xiaoyuzhoufm.com%2Fepisode%2F6943dd8252d4707aaa43990c\" title=\"E43%20%E5%BC%A0%E6%BD%87%E9%9B%A8%E3%80%81%E5%AD%9F%E5%B2%A9%E5%AF%B9%E8%AF%9D%E8%AE%B8%E5%93%B2%EF%BC%9A%E6%B2%A1%E6%9C%89%E6%9B%B4%E5%A5%BD%E7%9A%84%E7%94%9F%E6%B4%BB%20-%20%E6%97%A0%E4%BA%BA%E7%9F%A5%E6%99%93%20%7C%20%E5%B0%8F%E5%AE%87%E5%AE%99%20-%20%E5%90%AC%E6%92%AD%E5%AE%A2%EF%BC%8C%E4%B8%8A%E5%B0%8F%E5%AE%87%E5%AE%99\" />",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 414158242528458,
+                "name": "Logos",
+                "avatar_url": "https://images.zsxq.com/Fi0w7PJVdLgGxT5zM23QRot33TXb?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bV6LhUP8Ii3TF5O1dSFzTR2jyKo="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4845524522552558,
+          "create_time": "2025-12-27T10:47:52.481+0800",
+          "owner": {
+            "user_id": 15284152825542,
+            "name": "日高晏眠人",
+            "alias": "日高晏眠人",
+            "avatar_url": "https://images.zsxq.com/FmgqRiV7eHEKrbLz9Xl-x3x6bxNL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T2Ffk5JVbDOQvMcAUztpXo4fpQc=",
+            "location": "广东"
+          },
+          "text": "想知道许大如何处理长期阴跌的市场情况，还是默认这种情况不会发生呢？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1524412855181812,
+          "create_time": "2025-12-28T19:15:55.815+0800",
+          "owner": {
+            "user_id": 144254841842,
+            "name": "许哲",
+            "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+            "location": "美国"
+          },
+          "text": "那个是市场自由买卖的结果，我没有干预，但每次公布净值后，二级市场会很快跟上，证明市场是有效的",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "captured_at": "2026-01-29T21:57:38.340643",
+  "url": "https://api.zsxq.com/v2/topics/8858245158142522/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8858245158142522",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5122488552814524,
+          "create_time": "2024-10-24T17:02:06.764+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "不会，期权会分好几个版本",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2855411245551441,
+              "parent_comment_id": 5122488552814524,
+              "create_time": "2024-10-24T23:02:33.611+0800",
+              "owner": {
+                "user_id": 582218842411214,
+                "name": "大童",
+                "avatar_url": "https://images.zsxq.com/FrHKK7FBUHQGK3jFzNPWgCAZVpaS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7zscvMXJGlIGJHoMYqQvYrGtStk=",
+                "location": "浙江"
+              },
+              "text": "确实看到了有个带2的期权，这个具体的规则又地方可以看吗0.0 愣是没找到",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "captured_at": "2026-01-29T23:02:21.630752",
+  "url": "https://api.zsxq.com/v2/topics/1522582514242212/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1522582514242212",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855811422482852,
+          "create_time": "2024-03-26T16:54:46.459+0800",
+          "owner": {
+            "user_id": 48885445482828,
+            "name": "文心",
+            "avatar_url": "https://images.zsxq.com/Fj92B1UWJisGFc6N456rg-9B_z7G?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SbfY6Ch5Fw7_Sb2qYrkPuLuCmBw=",
+            "location": "上海"
+          },
+          "text": "当时群里许大明确提示过原油大幅低估的投资机会，短期继续下行之后一路上来，最简单无杠杆买到就是赚到",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 1522588828281252,
+              "parent_comment_id": 8855811422482852,
+              "create_time": "2024-03-27T18:01:35.200+0800",
+              "owner": {
+                "user_id": 15412158455422,
+                "name": "HHB",
+                "avatar_url": "https://images.zsxq.com/FsLeio3hPeiKS19SuDRlC-nC-wz_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hbhW5dmSA0e-z65ZWgpjTWIUGlE=",
+                "location": "广东"
+              },
+              "text": "我也跟风买了点期货",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48885445482828,
+                "name": "文心",
+                "avatar_url": "https://images.zsxq.com/Fj92B1UWJisGFc6N456rg-9B_z7G?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SbfY6Ch5Fw7_Sb2qYrkPuLuCmBw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4844541285841818,
+          "create_time": "2024-04-07T14:56:40.317+0800",
+          "owner": {
+            "user_id": 51288582125144,
+            "name": "能胜",
+            "avatar_url": "https://images.zsxq.com/FpLYbcDfAdwSuptYaxaHz0CZbG0q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VNdem_0UjlyKoEkK3tj4T7GeXTc=",
+            "location": "四川"
+          },
+          "text": "第一次发现short put原油也会爆仓，需设止损",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8855251482222252,
+              "parent_comment_id": 4844541285841818,
+              "create_time": "2024-04-07T15:45:17.592+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "原油没有现货，uso也是roll期货的，升水结构天天亏升水",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51288582125144,
+                "name": "能胜",
+                "avatar_url": "https://images.zsxq.com/FpLYbcDfAdwSuptYaxaHz0CZbG0q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VNdem_0UjlyKoEkK3tj4T7GeXTc="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "captured_at": "2026-01-29T22:45:58.997374",
+  "url": "https://api.zsxq.com/v2/topics/4844524855224128/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4844524855224128",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2855224545812511,
+          "create_time": "2024-05-10T06:12:13.937+0800",
+          "owner": {
+            "user_id": 818882514525122,
+            "name": "茶韵禅心",
+            "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo=",
+            "location": "山东"
+          },
+          "text": "最后一段话没有读懂，\"当然不排除彻底的债务货币化造成巨大的通货膨胀从而导致国内房价的名义人民币计价飙升……\"这段话的意思是就算通货膨胀导致价格飙升，我们所持有的\"黄金、股票等资产\"也会有很好的抗通胀作用的意思吗？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 7,
+          "replied_comments": [
+            {
+              "comment_id": 1522441214142812,
+              "parent_comment_id": 2855224545812511,
+              "create_time": "2024-05-10T09:03:10.094+0800",
+              "owner": {
+                "user_id": 28481554448151,
+                "name": "区yeah",
+                "avatar_url": "https://images.zsxq.com/Fr8iS9DZSmqTFoeiG52w6x9KN7Q2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v9P6p9VdMP4cBGOzSMprWciElSM=",
+                "location": "广东"
+              },
+              "text": "无锚印钞，恶性通货膨胀，货币失去信用，你要考虑的是能不能有资格领用到足够的生活物资了（以物易物）。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo="
+              }
+            },
+            {
+              "comment_id": 4844552425155258,
+              "parent_comment_id": 2855224545812511,
+              "create_time": "2024-05-10T09:24:15.323+0800",
+              "owner": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo=",
+                "location": "山东"
+              },
+              "text": "什么叫无锚印钞？美国也在印钞啊？真的有可能到恶性通胀的地步嘛？我感觉不太真实啊，按照我们的国力来说再怎么讲也是前三啊，就算实在挨不住了，搞一搞低烈度的zz不就输出去了嘛？不太可能就这么崩了吧？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28481554448151,
+                "name": "区yeah",
+                "avatar_url": "https://images.zsxq.com/Fr8iS9DZSmqTFoeiG52w6x9KN7Q2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v9P6p9VdMP4cBGOzSMprWciElSM="
+              }
+            },
+            {
+              "comment_id": 2855224542115451,
+              "parent_comment_id": 2855224545812511,
+              "create_time": "2024-05-10T09:35:11.573+0800",
+              "owner": {
+                "user_id": 218224188452481,
+                "name": "人民艺术家",
+                "avatar_url": "https://images.zsxq.com/Fhj9Rh93138tbj5Ge814HFIbS2ql?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fYSrXnGDjg_4TbeKxI-2ANEcfXU=",
+                "location": "甘肃"
+              },
+              "text": "你看看国民党金圆券的历史，同时建议阅读许大的文章《<e type=\"web\" href=\"https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Fweread%2Fsearch.html%3Fkeyword%3D%E5%85%B3%E4%BA%8E%E8%B4%A7%E5%B8%81%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E9%80%BB%E8%BE%91\" title=\"%E5%85%B3%E4%BA%8E%E8%B4%A7%E5%B8%81%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E9%80%BB%E8%BE%91\" style=\"book\" />》",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo="
+              }
+            },
+            {
+              "comment_id": 2855224544855111,
+              "parent_comment_id": 2855224545812511,
+              "create_time": "2024-05-10T09:55:32.801+0800",
+              "owner": {
+                "user_id": 48888182222528,
+                "name": "小民的自由之路",
+                "avatar_url": "https://images.zsxq.com/FgfUp_VRDEvKTH32hcRj5hujjVUB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pHKHJYTx4_SLhC5rqAWszmvAy1A=",
+                "location": "山东"
+              },
+              "text": "扛着一麻袋钱买大米[呲牙]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28481554448151,
+                "name": "区yeah",
+                "avatar_url": "https://images.zsxq.com/Fr8iS9DZSmqTFoeiG52w6x9KN7Q2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v9P6p9VdMP4cBGOzSMprWciElSM="
+              }
+            },
+            {
+              "comment_id": 4844552422884228,
+              "parent_comment_id": 2855224545812511,
+              "create_time": "2024-05-10T10:01:33.386+0800",
+              "owner": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo=",
+                "location": "山东"
+              },
+              "text": "文章对于我来说有点太深了，看不太懂，但是我觉得用现在和国民政府时期来类比是不一样的。不管是综合国力也好，国际形势也好，都不一样。我觉得现在就是赌国运，生于中国就赌国强，因为就算现在出去了，将来真正起了大争端，也未必会更好的，还是分散投资吧。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 218224188452481,
+                "name": "人民艺术家",
+                "avatar_url": "https://images.zsxq.com/Fhj9Rh93138tbj5Ge814HFIbS2ql?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fYSrXnGDjg_4TbeKxI-2ANEcfXU="
+              }
+            },
+            {
+              "comment_id": 4844552422554148,
+              "parent_comment_id": 2855224545812511,
+              "create_time": "2024-05-10T10:19:11.872+0800",
+              "owner": {
+                "user_id": 28481554448151,
+                "name": "区yeah",
+                "avatar_url": "https://images.zsxq.com/Fr8iS9DZSmqTFoeiG52w6x9KN7Q2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v9P6p9VdMP4cBGOzSMprWciElSM=",
+                "location": "广东"
+              },
+              "text": "只是对许哲老师的最后一段大概表述（理解错就是我自己的责任[偷笑]），你后面的问题需要自行了解国际信用货币体系，国债拍卖制度，量化宽松等概念。其实不难，中国人当然都希望国运昌隆，但是了解多一些规避风险是对自己和家人的负责，不然你也不会进来这星球讨论了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo="
+              }
+            },
+            {
+              "comment_id": 5122554248481524,
+              "parent_comment_id": 2855224545812511,
+              "create_time": "2024-05-10T12:29:14.041+0800",
+              "owner": {
+                "user_id": 818882514525122,
+                "name": "茶韵禅心",
+                "avatar_url": "https://images.zsxq.com/FtZYciGatxwGbpfRHc2VVeRy1ECT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kKqktXpuYtvA0CUDXE60yTBzbyo=",
+                "location": "山东"
+              },
+              "text": "没毛病，还有很大的学习空间[抱拳]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28481554448151,
+                "name": "区yeah",
+                "avatar_url": "https://images.zsxq.com/Fr8iS9DZSmqTFoeiG52w6x9KN7Q2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v9P6p9VdMP4cBGOzSMprWciElSM="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5122554245444884,
+          "create_time": "2024-05-10T09:15:53.997+0800",
+          "owner": {
+            "user_id": 48888182222528,
+            "name": "小民的自由之路",
+            "avatar_url": "https://images.zsxq.com/FgfUp_VRDEvKTH32hcRj5hujjVUB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pHKHJYTx4_SLhC5rqAWszmvAy1A=",
+            "location": "山东"
+          },
+          "text": "xx高通胀，货币持续贬值，是官有经济体制所决定的。是不可能改变的。持有闲置现金的风险，比持有任何一种可保存的商品的风险都大。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

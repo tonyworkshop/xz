@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T20:42:14.019913",
+  "url": "https://api.zsxq.com/v2/topics/55188152115145444/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "55188152115145444",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8852224411124422,
+          "create_time": "2025-12-17T01:01:39.446+0800",
+          "owner": {
+            "user_id": 182245228224182,
+            "name": "hellojcb",
+            "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+            "location": "北京"
+          },
+          "text": "<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" /> 许大好！最近看到你的回答说了好几次正carry，是卖的期权的时间价值要大于买的期权时间价值损耗的意思吗？ 谢谢许大！",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

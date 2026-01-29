@@ -1,0 +1,195 @@
+{
+  "captured_at": "2026-01-29T22:03:08.564692",
+  "url": "https://api.zsxq.com/v2/topics/5121525521212284/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5121525521212284",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855448484825222,
+          "create_time": "2024-09-26T14:59:16.857+0800",
+          "owner": {
+            "user_id": 244122822114211,
+            "name": "Pretty_fen*",
+            "avatar_url": "https://images.zsxq.com/FnjVI2lqj3bBqamu5h1WF8SvSKAJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xA7BN27Vz-1It_hXJCQ_ezuKqXU=",
+            "location": "浙江"
+          },
+          "text": "办公室：强烈建议取消国庆假期  天天开盘！",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4844228281111488,
+          "create_time": "2024-09-26T17:24:46.448+0800",
+          "owner": {
+            "user_id": 585215544844454,
+            "name": "澄泓",
+            "avatar_url": "https://images.zsxq.com/FuQ7OV6C4kmY6BJA_4Rm3ZjB9Q60?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0CvyUR-iuOggWVPtq6vOdSxOZ-w=",
+            "location": "广东"
+          },
+          "text": "A股只有疯牛，没有慢牛[捂脸]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 5,
+          "replied_comments": [
+            {
+              "comment_id": 4844228254888128,
+              "parent_comment_id": 4844228281111488,
+              "create_time": "2024-09-26T17:56:04.970+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "人类的心理真是很有意思，跌破3000点的时候觉得天要塌了，回到3000点的时候觉得伟大胜利。这段时间的增长一点都没也欢欣鼓舞。\n\n朝三暮四的猴，真是一点不错。",
+              "likes_count": 11,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 585215544844454,
+                "name": "澄泓",
+                "avatar_url": "https://images.zsxq.com/FuQ7OV6C4kmY6BJA_4Rm3ZjB9Q60?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0CvyUR-iuOggWVPtq6vOdSxOZ-w="
+              }
+            },
+            {
+              "comment_id": 4844228255828888,
+              "parent_comment_id": 4844228281111488,
+              "create_time": "2024-09-26T18:58:51.550+0800",
+              "owner": {
+                "user_id": 228845212181,
+                "name": "冷心",
+                "avatar_url": "https://images.zsxq.com/FvSH4KLSusfjYebunBPhP41z6YyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P5fbLFK4HuuTVMGpXnmQaPvFCIQ=",
+                "location": "广东"
+              },
+              "text": "我也无语咋就沸腾了",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 8855448112545582,
+              "parent_comment_id": 4844228281111488,
+              "create_time": "2024-09-27T11:51:45.328+0800",
+              "owner": {
+                "user_id": 585215544844454,
+                "name": "澄泓",
+                "avatar_url": "https://images.zsxq.com/FuQ7OV6C4kmY6BJA_4Rm3ZjB9Q60?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0CvyUR-iuOggWVPtq6vOdSxOZ-w=",
+                "location": "广东"
+              },
+              "text": "这应该就是许大知乎里面提到的净值幻觉了，终于明白为什么国家队会去做外资的对手盘了，接了外资那么多货到时候卖给家人们，家人们获得了多巴胺，双赢",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 4844228115241228,
+              "parent_comment_id": 4844228281111488,
+              "create_time": "2024-09-27T12:30:33.572+0800",
+              "owner": {
+                "user_id": 111841445251212,
+                "name": "Liang💨💨",
+                "alias": "大Liang",
+                "avatar_url": "https://images.zsxq.com/FjsBzboEagqcVANBZ6ZUYUccds_j?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yeczTs4oa2a2zWL7E6SwPKRJhGU=",
+                "location": "广东"
+              },
+              "text": "唉。无奈",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5122441455585184,
+          "create_time": "2024-09-26T19:32:42.549+0800",
+          "owner": {
+            "user_id": 225858145221,
+            "name": "彭磊Jimmy",
+            "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+            "location": "北京"
+          },
+          "text": "市场就是这样，先信，之后基本面不反转就跌回来，基本面反转了就上去了。\n核心还是要跟踪。",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4844228252825818,
+          "create_time": "2024-09-26T21:04:25.894+0800",
+          "owner": {
+            "user_id": 88842421514242,
+            "name": "鴖",
+            "avatar_url": "https://images.zsxq.com/Fnk97AgXmBubEYd2l2wdwGK6bF8h?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yTEo8rQ4-gias5sEqUqTt-QApJU=",
+            "location": "福建"
+          },
+          "text": "我已经觉得牛市来了，各种消息都是利多，后悔买少了，我就是一个合格的韭菜",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 1522115884452122,
+              "parent_comment_id": 4844228252825818,
+              "create_time": "2024-09-27T12:18:16.301+0800",
+              "owner": {
+                "user_id": 281824114821,
+                "name": "斑彩漫天(麦田)",
+                "avatar_url": "https://images.zsxq.com/FkE9z1hAPt4QWBzMlKMI30qi9IfV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NpiXImfy9WJDx8yLmLquEBLeu6A=",
+                "location": "广东"
+              },
+              "text": "哎，等着被收割吧",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88842421514242,
+                "name": "鴖",
+                "avatar_url": "https://images.zsxq.com/Fnk97AgXmBubEYd2l2wdwGK6bF8h?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yTEo8rQ4-gias5sEqUqTt-QApJU="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

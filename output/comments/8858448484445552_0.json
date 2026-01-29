@@ -1,0 +1,313 @@
+{
+  "captured_at": "2026-01-29T21:49:12.817135",
+  "url": "https://api.zsxq.com/v2/topics/8858448484445552/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8858448484445552",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1522812215881522,
+          "create_time": "2024-12-26T09:06:41.693+0800",
+          "owner": {
+            "user_id": 818855821841522,
+            "name": "PATH",
+            "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+            "location": "上海"
+          },
+          "text": "看完打卡，世事无常，唯黑天鹅永生。许大写得真好",
+          "likes_count": 2,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5122842245228444,
+          "create_time": "2024-12-26T09:17:44.007+0800",
+          "owner": {
+            "user_id": 212251844248511,
+            "name": "amize",
+            "avatar_url": "https://images.zsxq.com/FhvY86x85JgKCUZ_szaOGgN9kuS3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J4zkwiQ-K1SAgrUaHo-MITFu4zg=",
+            "location": "北京"
+          },
+          "text": "值得反复读的文章，多来点[色]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855145541551182,
+          "create_time": "2024-12-26T10:00:08.887+0800",
+          "owner": {
+            "user_id": 548214152484284,
+            "name": "Carolina",
+            "avatar_url": "https://images.zsxq.com/FvpnxOY52A42N0qgN7MGVr6_CbC-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9iuohHhgro4q1NsO0v_I-gbH0Ik=",
+            "location": "江苏"
+          },
+          "text": "会写多写，这篇文章📃给我解惑，也是我当下正在思考的事情～尤其耶伦的这四年～",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4844124421812858,
+          "create_time": "2024-12-26T10:36:31.907+0800",
+          "owner": {
+            "user_id": 548285512514114,
+            "name": "宴宾客",
+            "avatar_url": "https://images.zsxq.com/Fn_G3WjkdNwND-hPjvUAJfas7sI0?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HdzhvMhEoc5rC7oJKv5JTUm3ZEg=",
+            "location": "陕西"
+          },
+          "text": "许大好文章 我理解黑天鹅是从复杂性科学里的混沌角度来看的（开放系统、耗散结构…）；然后是 关于“如果柯尔莫罗夫复杂度不可计算，也就是信息压缩的极限并不知道” 不确定许大这里的“信息”的含义 但从CS角度看，信息压缩是有极限的 比如文件的无损压缩 诚如《<e type=\"web\" href=\"https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Fweread%2Fsearch.html%3Fkeyword%3DCSAPP\" title=\"CSAPP\" style=\"book\" />》中所言，信息等于位加上下文 部分信息的压缩可以放到上下文中去 但只要还需要位，那就也是有极限的 这也是信息熵的体现（比如霍夫曼编码就是从这个角度看就是一种追求信息熵最低的编码）",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2855145514525841,
+              "parent_comment_id": 4844124421812858,
+              "create_time": "2024-12-26T14:51:24.507+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "很好的视角，我的理解是这样的：霍夫曼编码逼近香农信息熵的极限的前提条件是在给定的先验概率分布下的，它不是任意的。香农范式下，源的分布已知且独立的情况下，压缩平均码长度=熵可以视作压缩到极限了（其实是在前缀码的前提下）。而这个已知分布恰恰是必须排除黑天鹅的，对于不知道分布的情况下，极限不可知。或者更直白点，就是你无法编码在一个无限的码表基础上（这里的比喻应该不精确）。所以柯尔莫洛夫极限说的不可压缩和香农范式里描述的不是一个语境。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 548285512514114,
+                "name": "宴宾客",
+                "avatar_url": "https://images.zsxq.com/Fn_G3WjkdNwND-hPjvUAJfas7sI0?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HdzhvMhEoc5rC7oJKv5JTUm3ZEg="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8855145541215242,
+          "create_time": "2024-12-26T10:49:48.107+0800",
+          "owner": {
+            "user_id": 548285512514114,
+            "name": "宴宾客",
+            "avatar_url": "https://images.zsxq.com/Fn_G3WjkdNwND-hPjvUAJfas7sI0?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HdzhvMhEoc5rC7oJKv5JTUm3ZEg=",
+            "location": "陕西"
+          },
+          "text": "至于关于真理的问题（确定什么是真实） 我还是想安利一下金观涛的《<e type=\"web\" href=\"https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Fweread%2Fsearch.html%3Fkeyword%3D%E6%B6%88%E5%A4%B1%E7%9A%84%E7%9C%9F%E5%AE%9E\" title=\"%E6%B6%88%E5%A4%B1%E7%9A%84%E7%9C%9F%E5%AE%9E\" style=\"book\" />》和《<e type=\"web\" href=\"https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Fweread%2Fsearch.html%3Fkeyword%3D%E7%9C%9F%E5%AE%9E%E4%B8%8E%E8%99%9A%E6%8B%9F\" title=\"%E7%9C%9F%E5%AE%9E%E4%B8%8E%E8%99%9A%E6%8B%9F\" style=\"book\" />》 （微信读书就有 会员免费）在控制论的哲学造诣上，我所了解的人里面无出其右 我水平有限讲不出来，许大你读了以后肯定收获更多",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 1522812281242842,
+              "parent_comment_id": 8855145541215242,
+              "create_time": "2024-12-26T14:52:48.831+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "这两本都没读完腾讯读书就到期了，悲~",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 548285512514114,
+                "name": "宴宾客",
+                "avatar_url": "https://images.zsxq.com/Fn_G3WjkdNwND-hPjvUAJfas7sI0?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HdzhvMhEoc5rC7oJKv5JTUm3ZEg="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1522812282121822,
+          "create_time": "2024-12-26T12:54:41.932+0800",
+          "owner": {
+            "user_id": 825144882182,
+            "name": "奇奇",
+            "avatar_url": "https://images.zsxq.com/FubaH3v7QHE4gINRee6301V6oz10?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TR6wsTK0YpXN6AFAjEe98mDbv6k=",
+            "location": "江苏"
+          },
+          "text": "据我所知我一无所知这标题取得太妙了",
+          "likes_count": 2,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1522812285551842,
+          "create_time": "2024-12-26T14:25:41.154+0800",
+          "owner": {
+            "user_id": 225885588481,
+            "name": "kzbey",
+            "avatar_url": "https://images.zsxq.com/FrEGPY5yiyEMRMpn9TDb8gR02YZi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Gh-6cm0QH5q969wfL3dVHQvr1SM=",
+            "location": "美国"
+          },
+          "text": "尽管看不懂数学部分，但还是有打通七筋六脉之感，酣畅淋漓！几十年前上休谟课，老师提的问题就是“感觉能否给予客观实在”，始终觉得没有得其要领，今天读了许大雄文，从（有限的）感觉能否给予（无限的）客观实在来理解，休谟、波普、哈耶克，很多知识体系一下豁然开朗，受益匪浅！从投资角度看，自己粗浅的学习心得是：一个足够巨大的反证法收益（正黑天鹅）应该来自：尽可能用一个或多个足够深刻的反证认知（承认无知、反证已知、超于常人的可靠洞见、逆向逆势认知）、及与之匹配的可交易反证标的、反证结构，覆盖无数收益平庸、危鹅（负向黑天鹅）四伏的归纳法效益。今天是收获满满的一天，感恩许大！提前祝您新年快乐！",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2
+        },
+        {
+          "comment_id": 4844124412218558,
+          "create_time": "2024-12-26T16:14:16.190+0800",
+          "owner": {
+            "user_id": 555842284844,
+            "name": "DL",
+            "avatar_url": "https://images.zsxq.com/Fq_4Q69MX2B1j7F_QmvyLAnkjrs5?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xgt0o39levmTV6hrVfXbxNN8YaY=",
+            "location": "北京"
+          },
+          "text": "好奇许大对反身性的解读。看了不能提名字的大佬的两本书，自己大概能明白的cognitive 和manipulative 两个function循环作用，但是不懂它怎样使“我与市场”这个关系中获利",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855145828115482,
+          "create_time": "2024-12-27T18:15:27.965+0800",
+          "owner": {
+            "user_id": 88818181241512,
+            "name": "沉默的猪",
+            "avatar_url": "https://images.zsxq.com/FmUFkIZDlnVDAUPoGDa5um1np5vM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lMJEM4h1g4le_ZAZW2J2a0KgqZc=",
+            "location": "北京"
+          },
+          "text": "许大这篇文章内容量太大了，昨晚看完又看了视频，思考了一天，回去决定还是把黑天鹅再重新看看，谢谢！",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5122842825881854,
+          "create_time": "2024-12-31T19:05:45.235+0800",
+          "owner": {
+            "user_id": 841521482858182,
+            "name": "大头鱼（Piggy）",
+            "avatar_url": "https://images.zsxq.com/FouIY7XlXxkItTt15qXtfbTFfndo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9lohAUf1FkIWVk0CB7RhAlukzDM=",
+            "location": "广东"
+          },
+          "text": "许老师新年快乐🎊，感谢您的分享[强]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8855145151581852,
+              "parent_comment_id": 5122842825881854,
+              "create_time": "2024-12-31T22:08:21.842+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "新年快乐",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 841521482858182,
+                "name": "大头鱼（Piggy）",
+                "avatar_url": "https://images.zsxq.com/FouIY7XlXxkItTt15qXtfbTFfndo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9lohAUf1FkIWVk0CB7RhAlukzDM="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1522812828511282,
+          "create_time": "2024-12-31T22:42:53.258+0800",
+          "owner": {
+            "user_id": 844185882121182,
+            "name": "萧燃",
+            "avatar_url": "https://images.zsxq.com/FmSdcKLV8DsLY8HREiGwNFnZoli0?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7NDFFTOwQ1mLoQ1rK3Cgr7I7SWM=",
+            "location": "四川"
+          },
+          "text": "斗胆请教许大。基于黑天鹅事件是小概率事件，如果可预期其带来的损失并不大，考虑上它以后期望仍然为正且不低。这时需要考虑它吗？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 8855145151844212,
+              "parent_comment_id": 1522812828511282,
+              "create_time": "2024-12-31T22:44:14.665+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "要确保损失有限，而不是期望损失还好，这是关键",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 844185882121182,
+                "name": "萧燃",
+                "avatar_url": "https://images.zsxq.com/FmSdcKLV8DsLY8HREiGwNFnZoli0?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7NDFFTOwQ1mLoQ1rK3Cgr7I7SWM="
+              }
+            },
+            {
+              "comment_id": 2855145151245481,
+              "parent_comment_id": 1522812828511282,
+              "create_time": "2024-12-31T23:00:37.509+0800",
+              "owner": {
+                "user_id": 844185882121182,
+                "name": "萧燃",
+                "avatar_url": "https://images.zsxq.com/FmSdcKLV8DsLY8HREiGwNFnZoli0?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7NDFFTOwQ1mLoQ1rK3Cgr7I7SWM=",
+                "location": "四川"
+              },
+              "text": "明白了，谢谢许大！要是黑天鹅事件在现在看本身不可知，那损失似乎很难定诶",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

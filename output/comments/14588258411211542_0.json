@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T20:48:22.513178",
+  "url": "https://api.zsxq.com/v2/topics/14588258411211542/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "14588258411211542",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8858115421181442,
+          "create_time": "2025-10-19T18:50:20.154+0800",
+          "owner": {
+            "user_id": 48844458585888,
+            "name": "朱黎黎",
+            "avatar_url": "https://images.zsxq.com/FrrWLdjLxHTaFSYH1vcPyEpicubG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JSftn3h94m5vKKW-ZyzGgN_6ALo=",
+            "location": "上海"
+          },
+          "text": "正好前面有个问题是问要不要换RMB避险美元，居然形成了交易对手方，神奇的市场[偷笑]",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T21:27:34.401993",
+  "url": "https://api.zsxq.com/v2/topics/8852228858415122/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8852228858415122",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2858215511545851,
+          "create_time": "2025-04-26T02:23:58.561+0800",
+          "owner": {
+            "user_id": 585581551884154,
+            "name": "Michel Fou*",
+            "avatar_url": "https://images.zsxq.com/FhkmH6yOAUEAI-ZUZhiCLTbfSDHW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qjx_qCr2u2Qr5JXL5w8TDcykLzk=",
+            "location": "台湾"
+          },
+          "text": "最近好像又缓和了，请问大佬现在对美股怎么看，会不会有进一步下跌的风险",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

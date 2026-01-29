@@ -1,0 +1,109 @@
+{
+  "captured_at": "2026-01-29T22:01:05.936256",
+  "url": "https://api.zsxq.com/v2/topics/5121515181852454/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5121515181852454",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855418845185552,
+          "create_time": "2024-10-06T19:56:05.842+0800",
+          "owner": {
+            "user_id": 544455154448544,
+            "name": "Aid",
+            "avatar_url": "https://images.zsxq.com/Fj8Ww0q594LIiL3zV98sga5fIdP2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rDyrcql8bSXIi2vrUJr62pSclxk=",
+            "location": "广东"
+          },
+          "text": "许大，这种情况是不是直接买h股更划算？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 5122481142842514,
+              "parent_comment_id": 8855418845185552,
+              "create_time": "2024-10-06T20:24:46.860+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "折价30%以上就是H划算",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 544455154448544,
+                "name": "Aid",
+                "avatar_url": "https://images.zsxq.com/Fj8Ww0q594LIiL3zV98sga5fIdP2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rDyrcql8bSXIi2vrUJr62pSclxk="
+              }
+            },
+            {
+              "comment_id": 8855418848544122,
+              "parent_comment_id": 8855418845185552,
+              "create_time": "2024-10-06T21:05:06.780+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "如果你资金出入没限制的话，是的",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 544455154448544,
+                "name": "Aid",
+                "avatar_url": "https://images.zsxq.com/Fj8Ww0q594LIiL3zV98sga5fIdP2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rDyrcql8bSXIi2vrUJr62pSclxk="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5122481141228514,
+          "create_time": "2024-10-06T20:28:43.464+0800",
+          "owner": {
+            "user_id": 582252425421484,
+            "name": "铁汉也柔情007",
+            "avatar_url": "https://images.zsxq.com/FufVkBj9SHGNmvsqgSAyKFCpa2rF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3ebEEWs_DXUrbI_pdF5moFq7nIo=",
+            "location": "四川"
+          },
+          "text": "15年的时候曾有一波跨过香江去，夺取定价权，不知道会不会重演[憨笑]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2855418848584521,
+          "create_time": "2024-10-06T20:38:07.799+0800",
+          "owner": {
+            "user_id": 48885445482828,
+            "name": "文心",
+            "avatar_url": "https://images.zsxq.com/Fj92B1UWJisGFc6N456rg-9B_z7G?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SbfY6Ch5Fw7_Sb2qYrkPuLuCmBw=",
+            "location": "上海"
+          },
+          "text": "流动性溢价和红利税",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

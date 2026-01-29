@@ -1,0 +1,94 @@
+{
+  "captured_at": "2026-01-29T21:20:08.556780",
+  "url": "https://api.zsxq.com/v2/topics/5125585488528814/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "5125585488528814",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5121588421448824,
+          "create_time": "2025-05-05T22:41:07.696+0800",
+          "owner": {
+            "user_id": 28458118128451,
+            "name": "GLJ",
+            "avatar_url": "https://images.zsxq.com/Fh7Xa49xNwPmeeDwhcKKSTsa4Ll-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5PwsrGbG0nvk1_3Z4PTEBv_wQzg=",
+            "location": "上海"
+          },
+          "text": "我也想问",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1525488124221882,
+          "create_time": "2025-05-05T23:20:01.710+0800",
+          "owner": {
+            "user_id": 48844458585888,
+            "name": "朱黎黎",
+            "avatar_url": "https://images.zsxq.com/FrrWLdjLxHTaFSYH1vcPyEpicubG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JSftn3h94m5vKKW-ZyzGgN_6ALo=",
+            "location": "上海"
+          },
+          "text": "我猜，逐渐止盈，因为不能预测未来。",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2858211452852881,
+          "create_time": "2025-05-05T23:51:12.228+0800",
+          "owner": {
+            "user_id": 184551142122222,
+            "name": "Animal Lov*",
+            "avatar_url": "https://images.zsxq.com/FmX-6J5gLT2tIChrpL5WoMxq1VNf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k9OuIi_T8JXd-RvYld00OQekOuo=",
+            "location": "北京"
+          },
+          "text": "最好就是突然虚值变实值，成功实现反脆弱/不踏空，止盈或roll。如果股价就是小幅振荡，是不是只能roll，不停刷premium来养着？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1525488124528522,
+          "create_time": "2025-05-05T23:58:27.019+0800",
+          "owner": {
+            "user_id": 15458182285522,
+            "name": "七月雪",
+            "avatar_url": "https://images.zsxq.com/Fiy50xeFLfPSQsTq6Jm-BFQwUqHo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SMqmkwqV_Eh7NyiKfrzgSrqsYPU=",
+            "location": "浙江"
+          },
+          "text": "凸性减少（变实值）的时候逐步止盈，roll到更远的行权价。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2858211452822541,
+          "create_time": "2025-05-06T00:46:46.690+0800",
+          "owner": {
+            "user_id": 144254841842,
+            "name": "许哲",
+            "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+            "location": "美国"
+          },
+          "text": "使用“提问功能”",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

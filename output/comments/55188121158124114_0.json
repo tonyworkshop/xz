@@ -1,0 +1,47 @@
+{
+  "captured_at": "2026-01-29T20:44:51.827190",
+  "url": "https://api.zsxq.com/v2/topics/55188121158124114/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "55188121158124114",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5125228481822154,
+          "create_time": "2025-11-21T08:59:12.670+0800",
+          "owner": {
+            "user_id": 548214152484284,
+            "name": "Carolina",
+            "avatar_url": "https://images.zsxq.com/FvpnxOY52A42N0qgN7MGVr6_CbC-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9iuohHhgro4q1NsO0v_I-gbH0Ik=",
+            "location": "江苏"
+          },
+          "text": "让组合保持凸性这句话的含金量还在上升，昨天美股的突然下跌📉出乎意料～[惊讶]本来上涨的还挺好的，突然的下跌📉让人猝不及防～",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8852551412525842,
+          "create_time": "2025-11-21T09:23:07.303+0800",
+          "owner": {
+            "user_id": 88842588422552,
+            "name": "wayne",
+            "alias": "红蓝刷子",
+            "avatar_url": "https://images.zsxq.com/FhbKJaiTM90FiP6ImhmQ1PYIn-Xz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hncicjpHsoyrSMesYLzCUK3t49o=",
+            "location": "北京"
+          },
+          "text": "补充，并不是单纯双卖，远月有long call、long put保护的情况下，如何roll",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

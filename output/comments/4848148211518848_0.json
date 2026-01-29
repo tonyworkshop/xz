@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-01-29T21:44:20.915289",
+  "url": "https://api.zsxq.com/v2/topics/4848148211518848/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4848148211518848",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2858814422142521,
+          "create_time": "2025-01-22T09:36:50.936+0800",
+          "owner": {
+            "user_id": 228845212181,
+            "name": "冷心",
+            "avatar_url": "https://images.zsxq.com/FvSH4KLSusfjYebunBPhP41z6YyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P5fbLFK4HuuTVMGpXnmQaPvFCIQ=",
+            "location": "广东"
+          },
+          "text": "感觉一直在被删，经常看到更新，点进来却没有",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "captured_at": "2026-01-29T21:30:35.424963",
+  "url": "https://api.zsxq.com/v2/topics/4845445841255288/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4845445841255288",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1525442155251112,
+          "create_time": "2025-03-21T14:26:26.102+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "covered call等价于short put",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 9,
+          "replied_comments": [
+            {
+              "comment_id": 2858225482118411,
+              "parent_comment_id": 1525442155251112,
+              "create_time": "2025-03-21T18:08:11.426+0800",
+              "owner": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+                "location": "上海"
+              },
+              "text": "高利率环境下前者更优一些",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 2858225484251551,
+              "parent_comment_id": 1525442155251112,
+              "create_time": "2025-03-21T19:08:56.648+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "是的",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM="
+              }
+            },
+            {
+              "comment_id": 4848558411854588,
+              "parent_comment_id": 1525442155251112,
+              "create_time": "2025-03-25T09:39:11.414+0800",
+              "owner": {
+                "user_id": 4281522828,
+                "name": "潇潇",
+                "avatar_url": "https://images.zsxq.com/Fj_O5q2uLIigDOML8OXEnTXpdYeS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JGC2FEmDO9NCjYq5yoLzX_GGoDM=",
+                "location": "浙江"
+              },
+              "text": "高利率下，不是买正股占用资金更多么，为啥是covered call更有利？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM="
+              }
+            },
+            {
+              "comment_id": 5121551525448224,
+              "parent_comment_id": 1525442155251112,
+              "create_time": "2025-03-25T12:14:13.299+0800",
+              "owner": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+                "location": "上海"
+              },
+              "text": "在计入利率导致的升水后，远期的call更贵、put更便宜，而且用这个升水吃到的利率会比你在任何地方能吃到的利率更接近相应期限的利率（存款利率也会被中间商赚差价的）",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 4281522828,
+                "name": "潇潇",
+                "avatar_url": "https://images.zsxq.com/Fj_O5q2uLIigDOML8OXEnTXpdYeS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JGC2FEmDO9NCjYq5yoLzX_GGoDM="
+              }
+            },
+            {
+              "comment_id": 8858222524281882,
+              "parent_comment_id": 1525442155251112,
+              "create_time": "2025-03-30T15:27:39.248+0800",
+              "owner": {
+                "user_id": 4281522828,
+                "name": "潇潇",
+                "avatar_url": "https://images.zsxq.com/Fj_O5q2uLIigDOML8OXEnTXpdYeS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JGC2FEmDO9NCjYq5yoLzX_GGoDM=",
+                "location": "浙江"
+              },
+              "text": "比如我看put 只要票价的2-3倍的保证金，如果一年不行权相当于年化30-50%   当然被越早行权肯定都一样。但如果是接近年末再行权，卖put的年化就很高啊，应该远大于利率和covered call吧？   现在同期同价位call是21.1，相当于21.1/(109-21.1)=24%。  \n\n截图卖put 21.75/45.78=47.5%  \n\n当然最近连着跌，卖put溢价肯定更高，但利率差距其实很大啊。\n\n我不知道是不是哪里算错了或者没考虑，还望帮忙看下谢谢，许大有空能解释下更好了<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" /> 谢谢你的时间",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "images": [
+                {
+                  "image_id": 211444415112441,
+                  "type": "jpg",
+                  "thumbnail": {
+                    "url": "https://images.zsxq.com/FlqnuUZeZA8QR0_0MQ01PejPpOB6?imageMogr2/auto-orient/thumbnail/380x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:046aUJmkKzZjwDvR5rPSNWaw6Sk=",
+                    "width": 380,
+                    "height": 692
+                  },
+                  "large": {
+                    "url": "https://images.zsxq.com/FlqnuUZeZA8QR0_0MQ01PejPpOB6?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AO5g_UFtapju_0k6bbVgbhw2TC4=",
+                    "width": 800,
+                    "height": 1457
+                  },
+                  "original": {
+                    "url": "https://images.zsxq.com/FlqnuUZeZA8QR0_0MQ01PejPpOB6?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XDeev-MfFk64t883vJqWbucgyV8=",
+                    "width": 1170,
+                    "height": 2131,
+                    "size": 254650
+                  }
+                }
+              ],
+              "repliee": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM="
+              }
+            },
+            {
+              "comment_id": 4848555452554428,
+              "parent_comment_id": 1525442155251112,
+              "create_time": "2025-03-30T15:31:33.038+0800",
+              "owner": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM=",
+                "location": "上海"
+              },
+              "text": "sell put也应该按照货值来算的，不能按照保证金来算，你sell put是真的想要这个资产，而不是杠杆拉满赌它不跌到行权价\n\n越早行权周转率会越高，年化收益率算下来也会越高",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 4281522828,
+                "name": "潇潇",
+                "avatar_url": "https://images.zsxq.com/Fj_O5q2uLIigDOML8OXEnTXpdYeS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JGC2FEmDO9NCjYq5yoLzX_GGoDM="
+              }
+            },
+            {
+              "comment_id": 4848555452525558,
+              "parent_comment_id": 1525442155251112,
+              "create_time": "2025-03-30T15:53:55.957+0800",
+              "owner": {
+                "user_id": 4281522828,
+                "name": "潇潇",
+                "avatar_url": "https://images.zsxq.com/Fj_O5q2uLIigDOML8OXEnTXpdYeS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JGC2FEmDO9NCjYq5yoLzX_GGoDM=",
+                "location": "浙江"
+              },
+              "text": "考虑两个极端，第一天行权和最后一天行权，以及过期不行权。\n\n第一天行权，由于call和put 是21.1和21.7差不多，可以认为年化收益一致。\n\n最后一天行权，covered call是109-21=88资金占用一年，卖put是46(保证金)用一年，高利率其实相当于多了88-46)×年利率5%=2.1的收益\n\n\n最后不行权，和最后一天行权类似。\n\n也就是说，实际无论何时行权，应该put收益更大啊，就是行权后才相当于买入正股的资金，之前都可以用去周转做无风险的收益。\n\n所以等价应该是不考虑资金周转无风险利率情况下等价么？  实际如果资金拿出来做无风险利率就是确保多出来的利润。\n\n但如果考虑资金周转，卖put有好的一面，应该也有更多的风险和downside 吧",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818855821841522,
+                "name": "PATH",
+                "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iXiMy5d3i3ZxUcxdsOyAJOULCbM="
+              }
+            },
+            {
+              "comment_id": 5121555254481884,
+              "parent_comment_id": 1525442155251112,
+              "create_time": "2025-03-30T16:40:46.139+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "<e type=\"mention\" uid=\"818855821841522\" title=\"%40PATH\" /> 的算法是对的，衍生品内涵的利率最接近无风险利率比券商给你的无风险收益肯定是要高的，并且我们在对比的时候一定要以等underlying的前提下计算，否则你只是利用了杠杆效应而已。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 4281522828,
+                "name": "潇潇",
+                "avatar_url": "https://images.zsxq.com/Fj_O5q2uLIigDOML8OXEnTXpdYeS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JGC2FEmDO9NCjYq5yoLzX_GGoDM="
+              }
+            },
+            {
+              "comment_id": 1525444241181542,
+              "parent_comment_id": 1525442155251112,
+              "create_time": "2025-03-30T16:42:40.946+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "买正股占的Cash，我们就算不额外承担下跌风险卖等underlying的Put，那么我们确实有更多的闲置资金可以吃券商给的无风险利息，这也是对的。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 4281522828,
+                "name": "潇潇",
+                "avatar_url": "https://images.zsxq.com/Fj_O5q2uLIigDOML8OXEnTXpdYeS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JGC2FEmDO9NCjYq5yoLzX_GGoDM="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2858225488212221,
+          "create_time": "2025-03-21T15:09:07.065+0800",
+          "owner": {
+            "user_id": 2452542441,
+            "name": "Zac",
+            "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+            "location": "上海"
+          },
+          "text": "哈哈，在许大这边我们早就烂熟于心了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5125582184422254,
+          "create_time": "2026-01-06T06:43:42.584+0800",
+          "owner": {
+            "user_id": 182245228224182,
+            "name": "hellojcb",
+            "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+            "location": "北京"
+          },
+          "text": "现在回头看这个，要是中间没平仓，真是亏大发了。还不如买入持有了。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

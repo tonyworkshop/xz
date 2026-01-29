@@ -1,0 +1,326 @@
+{
+  "captured_at": "2026-01-29T21:11:24.505642",
+  "url": "https://api.zsxq.com/v2/topics/8852422254554812/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8852422254554812",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4848282441812128,
+          "create_time": "2025-06-04T12:06:38.522+0800",
+          "owner": {
+            "user_id": 554555211544,
+            "name": "Binhan_X",
+            "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wb2WfiX8oWn9R_b9nV__aJN8kBc=",
+            "location": "浙江"
+          },
+          "text": "你要使用提问功能。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8858484515221182,
+              "parent_comment_id": 4848282441812128,
+              "create_time": "2025-06-05T14:01:27.176+0800",
+              "owner": {
+                "user_id": 141418485182,
+                "name": "苏州德易安环保科技 *",
+                "avatar_url": "https://images.zsxq.com/FoTIf8T97w-OHYY7-D7HPyIGDzUU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tmMuFU8uFm-X1TM5DlwRmTDCZyo=",
+                "location": "江苏"
+              },
+              "text": "提问功能 是什么意思？在哪里？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wb2WfiX8oWn9R_b9nV__aJN8kBc="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2858484581544241,
+          "create_time": "2025-06-04T19:01:45.186+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "-put +call = 期货多头\n+put -call = 期货空头\n\n期权合成期货可能存在和期货合约的无风险套利空间吗？显然存在就会被资金套平。\n\n那么显然期权合成期货也会复制实际的基差。升水期货在期权表现是什么呢？就是call显著比put贵，所以short call的权利金是包含期货升水的。",
+          "likes_count": 7,
+          "group_owner_liked": false,
+          "topic_owner_liked": true,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 9,
+          "replied_comments": [
+            {
+              "comment_id": 4848282452824428,
+              "parent_comment_id": 2858484581544241,
+              "create_time": "2025-06-05T01:05:03.787+0800",
+              "owner": {
+                "user_id": 415882151224188,
+                "name": "Ask",
+                "avatar_url": "https://images.zsxq.com/Fl5pj5UsbACW69awN5lq6Ey5JrC5?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:b1ujP4h6wizhN8Rv_pgxZjPo2P4=",
+                "location": "湖南"
+              },
+              "text": "那short call 加上long等价值股指期货是不是吃两道升水？对手方是做阿尔法策略的量化",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 4848282415554248,
+              "parent_comment_id": 2858484581544241,
+              "create_time": "2025-06-05T17:21:17.161+0800",
+              "owner": {
+                "user_id": 141418485182,
+                "name": "苏州德易安环保科技 *",
+                "avatar_url": "https://images.zsxq.com/FoTIf8T97w-OHYY7-D7HPyIGDzUU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tmMuFU8uFm-X1TM5DlwRmTDCZyo=",
+                "location": "江苏"
+              },
+              "text": "Short Call  期货里有升水，这个我是能想的明白的，我说的是许大 后面建的那条腿用的是 vix的指数期权 ,为什么还能吃到升水的回归……",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 5121414285588154,
+              "parent_comment_id": 2858484581544241,
+              "create_time": "2025-06-05T17:37:30.251+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "指数期权到期按vix实际值交割的，call都贵了那么多，到期一交割不就吃到了吗？",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": true,
+              "rewards_count": 0,
+              "sticky": false,
+              "images": [
+                {
+                  "image_id": 1522544818855252,
+                  "type": "jpg",
+                  "thumbnail": {
+                    "url": "https://images.zsxq.com/Fov5pS3kg8zKDFfTl9rQxQgx0tae?imageMogr2/auto-orient/thumbnail/380x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2Y8to9UEHGXKBtJOt7dQP_VYv-Q=",
+                    "width": 380,
+                    "height": 762
+                  },
+                  "large": {
+                    "url": "https://images.zsxq.com/Fov5pS3kg8zKDFfTl9rQxQgx0tae?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tHG6SbWxcB1dW9mduatSx_iC_XE=",
+                    "width": 800,
+                    "height": 1604
+                  },
+                  "original": {
+                    "url": "https://images.zsxq.com/Fov5pS3kg8zKDFfTl9rQxQgx0tae?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYf3N4QypuyCF6Yyjrq3R5KR7_c=",
+                    "width": 1290,
+                    "height": 2586,
+                    "size": 378290
+                  }
+                }
+              ],
+              "repliee": {
+                "user_id": 141418485182,
+                "name": "苏州德易安环保科技 *",
+                "avatar_url": "https://images.zsxq.com/FoTIf8T97w-OHYY7-D7HPyIGDzUU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tmMuFU8uFm-X1TM5DlwRmTDCZyo="
+              }
+            },
+            {
+              "comment_id": 5121414285588544,
+              "parent_comment_id": 2858484581544241,
+              "create_time": "2025-06-05T17:38:03.843+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "指数期权合成的期货和实际同期到期的期货合约是几乎完全等效的。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 141418485182,
+                "name": "苏州德易安环保科技 *",
+                "avatar_url": "https://images.zsxq.com/FoTIf8T97w-OHYY7-D7HPyIGDzUU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tmMuFU8uFm-X1TM5DlwRmTDCZyo="
+              }
+            },
+            {
+              "comment_id": 5121414285424424,
+              "parent_comment_id": 2858484581544241,
+              "create_time": "2025-06-05T17:44:01.132+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "吃升水要做空的，你long期货就把升水交回去很多了。covered call和short put是等效的，比较好的做法是用升水去养更多数量的bull spread或者call",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": true,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 415882151224188,
+                "name": "Ask",
+                "avatar_url": "https://images.zsxq.com/Fl5pj5UsbACW69awN5lq6Ey5JrC5?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:b1ujP4h6wizhN8Rv_pgxZjPo2P4="
+              }
+            },
+            {
+              "comment_id": 2858484511184551,
+              "parent_comment_id": 2858484581544241,
+              "create_time": "2025-06-05T19:08:13.222+0800",
+              "owner": {
+                "user_id": 141418485182,
+                "name": "苏州德易安环保科技 *",
+                "avatar_url": "https://images.zsxq.com/FoTIf8T97w-OHYY7-D7HPyIGDzUU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tmMuFU8uFm-X1TM5DlwRmTDCZyo=",
+                "location": "江苏"
+              },
+              "text": "这个问题我想通了，谢谢，还有个问题想请教，凸性策略构建是许大说把make value配平，我怎么只能Get到把手数配平呢，我不能理解，makevalue配平，两边的underlying的手数不是配不起你了吗？那往后波动起来，两边怎么能对冲的掉呢，望解惑……",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 2858484511181821,
+              "parent_comment_id": 2858484581544241,
+              "create_time": "2025-06-05T19:09:48.127+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "你要穿透到底层资产的当前market value，然后把它算回期权的手数，按这个手数来做，不是期权的市值。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": true,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 141418485182,
+                "name": "苏州德易安环保科技 *",
+                "avatar_url": "https://images.zsxq.com/FoTIf8T97w-OHYY7-D7HPyIGDzUU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tmMuFU8uFm-X1TM5DlwRmTDCZyo="
+              }
+            },
+            {
+              "comment_id": 8858484855288412,
+              "parent_comment_id": 2858484581544241,
+              "create_time": "2025-06-05T20:48:41.608+0800",
+              "owner": {
+                "user_id": 415882151224188,
+                "name": "Ask",
+                "avatar_url": "https://images.zsxq.com/Fl5pj5UsbACW69awN5lq6Ey5JrC5?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:b1ujP4h6wizhN8Rv_pgxZjPo2P4=",
+                "location": "湖南"
+              },
+              "text": "我说的是中国的股指，期货比现货要贴水很多，所以long 期货吃期货到期后的升水，然后卖call，可能是表述问题，应该叫做吃贴水。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 4848282541888518,
+              "parent_comment_id": 2858484581544241,
+              "create_time": "2025-06-06T01:07:10.041+0800",
+              "owner": {
+                "user_id": 141418485182,
+                "name": "苏州德易安环保科技 *",
+                "avatar_url": "https://images.zsxq.com/FoTIf8T97w-OHYY7-D7HPyIGDzUU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tmMuFU8uFm-X1TM5DlwRmTDCZyo=",
+                "location": "江苏"
+              },
+              "text": "是不是比较愚钝还是不能理解，许大课里讲 价值26的Tqqq用13.9购买，如果买一手 是100个Tqqq另一腿卖45的Sqqq的Put，一手不是也对应100个Sqqq吗？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1525151241584282,
+          "create_time": "2025-06-05T03:32:50.516+0800",
+          "owner": {
+            "user_id": 144254841842,
+            "name": "许哲",
+            "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+            "location": "美国"
+          },
+          "text": "使用提问功能，Ray回答的是正确的",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8858484511188142,
+          "create_time": "2025-06-05T19:04:29.453+0800",
+          "owner": {
+            "user_id": 141418485182,
+            "name": "苏州德易安环保科技 *",
+            "avatar_url": "https://images.zsxq.com/FoTIf8T97w-OHYY7-D7HPyIGDzUU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tmMuFU8uFm-X1TM5DlwRmTDCZyo=",
+            "location": "江苏"
+          },
+          "text": "我想明白 谢谢",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

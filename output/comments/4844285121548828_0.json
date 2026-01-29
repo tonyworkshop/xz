@@ -1,0 +1,103 @@
+{
+  "captured_at": "2026-01-29T22:29:33.134285",
+  "url": "https://api.zsxq.com/v2/topics/4844285121548828/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "4844285121548828",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8855212885452112,
+          "create_time": "2024-06-19T10:01:16.915+0800",
+          "owner": {
+            "user_id": 2452542441,
+            "name": "Zac",
+            "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+            "location": "上海"
+          },
+          "text": "许大思路好清晰[强]\n我: 肯定还得涨。 原因: 个人感觉[囧]",
+          "likes_count": 2,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855212885484222,
+          "create_time": "2024-06-19T10:06:01.505+0800",
+          "owner": {
+            "user_id": 28882258154421,
+            "name": "Max_峯",
+            "avatar_url": "https://images.zsxq.com/FhKkSU8CJAAx67nRH0qjE21A-vqq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s6ttUTEAfwD-cI04Qhd5_Bia0FQ=",
+            "location": "湖北"
+          },
+          "text": "等回调再入，哈哈",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8855212884111542,
+          "create_time": "2024-06-19T13:04:12.453+0800",
+          "owner": {
+            "user_id": 225858145221,
+            "name": "彭磊Jimmy",
+            "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+            "location": "北京"
+          },
+          "text": "许大回答得非常好，要看各大厂的军备竞赛去看。推荐再结合表哥的这一篇，理解更深刻：<e type=\"web\" href=\"https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F647709306%2Fanswer%2F3424643999%3Futm_psn%3D1786745537943298048\" title=\"https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F647709306%2Fanswer%2F34...\" />",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5122585181158584,
+          "create_time": "2024-06-20T12:03:18.947+0800",
+          "owner": {
+            "user_id": 818512848824882,
+            "name": "kars",
+            "avatar_url": "https://images.zsxq.com/Fir_JMUYO8AtBEXYNn6qubPFE2bG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0HytiphXLI6YBZAmtQPTssTgA6Y=",
+            "location": "北京"
+          },
+          "text": "思科和nv的生态还是有差距的吧，思科路由器上面的路由协议都是公开的，其他厂商买硬件适配协议就行; cuda 是nv私有的，在n卡上跑的软件肯定要适配cuda",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4844515818515428,
+              "parent_comment_id": 5122585181158584,
+              "create_time": "2024-06-20T12:35:39.736+0800",
+              "owner": {
+                "user_id": 15558282185242,
+                "name": "青弦",
+                "avatar_url": "https://images.zsxq.com/FlmANoiH6TYDBTYV-uiHEcRfCSz-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-EzVzmYAuQqbm8RzXhGmb23U0sk=",
+                "location": "江苏"
+              },
+              "text": "CUBA api是公开的，能实现类似算法就行",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 818512848824882,
+                "name": "kars",
+                "avatar_url": "https://images.zsxq.com/Fir_JMUYO8AtBEXYNn6qubPFE2bG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0HytiphXLI6YBZAmtQPTssTgA6Y="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

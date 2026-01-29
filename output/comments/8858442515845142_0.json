@@ -1,0 +1,46 @@
+{
+  "captured_at": "2026-01-29T21:47:45.255621",
+  "url": "https://api.zsxq.com/v2/topics/8858442515845142/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "8858442515845142",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844128255221218,
+          "create_time": "2025-01-06T11:18:14.049+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "湖南"
+          },
+          "text": "做了一笔货币兑换，发现借入软妹币利率高得可怕\n到10%\nibkr狠啊\n美元存款3.8%\n货币兑换的期权不知道怎么开",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5122841454225484,
+          "create_time": "2025-01-06T11:46:39.969+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "湖南"
+          },
+          "text": "货币兑的期权\nibkr说标的很少\n是否可以考虑汇率期货？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

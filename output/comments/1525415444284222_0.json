@@ -1,0 +1,77 @@
+{
+  "captured_at": "2026-01-29T21:55:57.289686",
+  "url": "https://api.zsxq.com/v2/topics/1525415444284222/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "1525415444284222",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4844144858188418,
+          "create_time": "2024-10-31T09:25:06.111+0800",
+          "owner": {
+            "user_id": 28518858425181,
+            "name": "三亿",
+            "avatar_url": "https://images.zsxq.com/Fq3lrTSMchcca_b7ygf-FcP8c5Jt?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FGhHiuNo0D6mPHrFfgIZvPLw1Zg=",
+            "location": "山东"
+          },
+          "text": "请问许大，这种证券公司有没有类似银行存款保险这样的东西？是多少？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 5122822542885444,
+              "parent_comment_id": 4844144858188418,
+              "create_time": "2024-10-31T13:02:41.142+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "有的，具体数字我记不清了，反正赔的有上限",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28518858425181,
+                "name": "三亿",
+                "avatar_url": "https://images.zsxq.com/Fq3lrTSMchcca_b7ygf-FcP8c5Jt?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FGhHiuNo0D6mPHrFfgIZvPLw1Zg="
+              }
+            },
+            {
+              "comment_id": 8855155248811152,
+              "parent_comment_id": 4844144858188418,
+              "create_time": "2024-10-31T13:45:03.081+0800",
+              "owner": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+                "location": "海南"
+              },
+              "text": "SIPC - Securities Investor Protection Corporation",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 28518858425181,
+                "name": "三亿",
+                "avatar_url": "https://images.zsxq.com/Fq3lrTSMchcca_b7ygf-FcP8c5Jt?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FGhHiuNo0D6mPHrFfgIZvPLw1Zg="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}
