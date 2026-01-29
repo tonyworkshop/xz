@@ -31,8 +31,11 @@ xz/
 # 首次：打开浏览器登录
 uv run python src/fetch_topics.py --open
 
-# 自动抓取
+# 自动抓取（全量）
 uv run python src/fetch_topics.py --auto
+
+# 更新抓取（最新 N 个）
+uv run python src/fetch_topics.py --update 30
 
 # 等待登录后自动抓取
 uv run python src/fetch_topics.py --auto --wait-login=30

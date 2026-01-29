@@ -40,6 +40,7 @@ COMMENTS_API_PATTERN = "api.zsxq.com/v2/topics/"
 TOPICS_OUTPUT_DIR = Path(__file__).parent.parent / "output" / "topics"
 COMMENTS_OUTPUT_DIR = Path(__file__).parent.parent / "output" / "comments"
 CLICK_CACHE_PATH = Path(__file__).parent.parent / "output" / "click_detail.json"
+UPDATE_CACHE_PATH = Path(__file__).parent.parent / "output" / "update_click_detail.json"
 USER_DATA_DIR = Path(__file__).parent / ".browser_data"
 
 # 统计
@@ -69,10 +70,10 @@ def load_click_cache() -> dict:
     return {}
 
 
-def save_click_cache(cache: dict):
+def save_click_cache(cache: dict, cache_path: Path = CLICK_CACHE_PATH):
     """保存点击缓存到磁盘"""
     try:
-        with open(CLICK_CACHE_PATH, "w", encoding="utf-8") as f:
+        with open(cache_path, "w", encoding="utf-8") as f:
             json.dump(cache, f, ensure_ascii=False, indent=2)
     except Exception as e:
         logger.error(f"保存点击缓存失败: {e}")
@@ -297,10 +298,12 @@ def close_modal(page):
         return False
 
 
-def process_all_topics_on_page(page, click_cache: dict) -> int:
+def process_all_topics_on_page(page, click_cache: dict, cache_path: Path = CLICK_CACHE_PATH, max_clicks: int = None) -> tuple:
     """
     处理当前页面上所有 app-topic 元素
-    返回: 本次处理（点击）的 topic 数量
+    返回: (clicked_count, reached_limit)
+        - clicked_count: 本次处理（点击）的 topic 数量
+        - reached_limit: 是否达到 max_clicks 限制
     """
     global comments_finished, current_topic_page_id
 
@@ -311,6 +314,11 @@ def process_all_topics_on_page(page, click_cache: dict) -> int:
     clicked_count = 0
 
     for info in topic_infos:
+        # 检查是否达到点击限制
+        if max_clicks is not None and clicked_count >= max_clicks:
+            logger.info(f"已达到点击限制 ({max_clicks})，停止处理")
+            return clicked_count, True
+
         index = info["index"]
         key = info["key"]
         has_content = info["hasContent"]
@@ -323,7 +331,7 @@ def process_all_topics_on_page(page, click_cache: dict) -> int:
             logger.error(f"  contentType: {content_type}")
             logger.error(f"  outerHTML 片段: {html_snippet}")
             # 保存缓存并退出
-            save_click_cache(click_cache)
+            save_click_cache(click_cache, cache_path)
             logger.error("已保存 click_cache，程序退出。请检查页面结构。")
             sys.exit(1)
 
@@ -339,7 +347,7 @@ def process_all_topics_on_page(page, click_cache: dict) -> int:
         if not button:
             logger.warning(f"  未找到查看详情按钮，标记为已处理并跳过")
             click_cache[key] = datetime.now().isoformat()
-            save_click_cache(click_cache)
+            save_click_cache(click_cache, cache_path)
             continue
 
         # 重置评论状态
@@ -350,7 +358,7 @@ def process_all_topics_on_page(page, click_cache: dict) -> int:
         if not click_detail_button(page, button):
             logger.warning(f"  打开模态框失败，标记为已处理并跳过")
             click_cache[key] = datetime.now().isoformat()
-            save_click_cache(click_cache)
+            save_click_cache(click_cache, cache_path)
             continue
 
         logger.debug("等待初始评论加载...")
@@ -368,7 +376,7 @@ def process_all_topics_on_page(page, click_cache: dict) -> int:
 
         # 标记为已点击并立即保存
         click_cache[key] = datetime.now().isoformat()
-        save_click_cache(click_cache)
+        save_click_cache(click_cache, cache_path)
         clicked_count += 1
         logger.info(f"  ✓ 已处理并保存 (累计点击: {clicked_count})")
 
@@ -377,7 +385,7 @@ def process_all_topics_on_page(page, click_cache: dict) -> int:
         logger.debug(f"随机延时 {delay}ms")
         page.wait_for_timeout(delay)
 
-    return clicked_count
+    return clicked_count, False
 
 
 def auto_fetch_all(page):
@@ -397,7 +405,7 @@ def auto_fetch_all(page):
     while True:
         # 处理当前页面上的所有 topics
         print(f"\n处理当前页面 topics... (缓存中已有: {len(click_cache)})")
-        clicked = process_all_topics_on_page(page, click_cache)
+        clicked, _ = process_all_topics_on_page(page, click_cache)
         total_clicked += clicked
 
         if clicked > 0:
@@ -429,6 +437,59 @@ def auto_fetch_all(page):
     print("=" * 60)
 
 
+def update_fetch(page, max_clicks: int):
+    """更新模式：抓取最新 N 个 topics 的评论"""
+    print("\n" + "=" * 60)
+    print(f"开始更新抓取 (最多 {max_clicks} 个 topics)...")
+    print("=" * 60)
+
+    # 删除旧的 update cache
+    if UPDATE_CACHE_PATH.exists():
+        UPDATE_CACHE_PATH.unlink()
+        logger.info(f"已删除旧的 update cache: {UPDATE_CACHE_PATH}")
+
+    # 使用空 cache 开始
+    click_cache = {}
+    total_clicked = 0
+
+    while total_clicked < max_clicks:
+        print(f"\n处理当前页面 topics... (已点击: {total_clicked}/{max_clicks})")
+        clicked, reached_limit = process_all_topics_on_page(
+            page, click_cache,
+            cache_path=UPDATE_CACHE_PATH,
+            max_clicks=max_clicks - total_clicked
+        )
+        total_clicked += clicked
+
+        if reached_limit:
+            logger.info("已达到点击限制")
+            break
+
+        if clicked == 0:
+            # 没有新的可点击内容，滚动加载更多
+            print("滚动加载更多内容...")
+            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            page.wait_for_timeout(2500)
+
+            # 再次检查是否有新内容
+            clicked, reached_limit = process_all_topics_on_page(
+                page, click_cache,
+                cache_path=UPDATE_CACHE_PATH,
+                max_clicks=max_clicks - total_clicked
+            )
+            total_clicked += clicked
+
+            if clicked == 0 or reached_limit:
+                break
+
+    print("\n" + "=" * 60)
+    print(f"更新抓取完成！")
+    print(f"本次点击: {total_clicked} 个 topics")
+    print(f"Topics 文件: {topics_captured_count} 个")
+    print(f"Comments 文件: {comments_captured_count} 个")
+    print("=" * 60)
+
+
 def signal_handler(sig, frame):
     """处理 Ctrl+C 退出"""
     global running
@@ -443,6 +504,7 @@ def main():
     import argparse
     parser = argparse.ArgumentParser(description="知识星球 Topics & Comments 抓取工具")
     parser.add_argument("--auto", action="store_true", help="自动模式：自动滚动抓取所有内容")
+    parser.add_argument("--update", type=int, metavar="N", help="更新模式：抓取最新 N 个 topics 的评论")
     parser.add_argument("--wait-login", type=int, default=0, help="等待登录的秒数（自动模式下使用）")
     parser.add_argument("--open", action="store_true", help="仅打开浏览器，不做任何操作")
     parser.add_argument("--debug", action="store_true", help="启用 DEBUG 日志（详细）")
@@ -466,7 +528,7 @@ def main():
     if not args.open:
         print(f"Topics 输出: {TOPICS_OUTPUT_DIR.absolute()}")
         print(f"Comments 输出: {COMMENTS_OUTPUT_DIR.absolute()}")
-    mode_str = "仅打开" if args.open else ("自动" if args.auto else "手动")
+    mode_str = "仅打开" if args.open else ("更新" if args.update else ("自动" if args.auto else "手动"))
     print(f"模式: {mode_str}")
     print("=" * 60)
     print("\n启动浏览器中...")
@@ -502,7 +564,17 @@ def main():
             # 注册响应拦截（正常模式）
             page.on("response", handle_response)
 
-            if args.auto:
+            if args.update:
+                # 更新模式
+                logger.warning("=" * 50)
+                logger.warning(f"【更新模式】将抓取最新 {args.update} 个 topics 的评论")
+                logger.warning("=" * 50)
+                if args.wait_login > 0:
+                    print(f"\n等待 {args.wait_login} 秒进行登录...")
+                    page.wait_for_timeout(args.wait_login * 1000)
+
+                update_fetch(page, args.update)
+            elif args.auto:
                 # 自动模式
                 logger.warning("=" * 50)
                 logger.warning("【自动模式】将自动滚动并抓取所有 topics 和 comments")
