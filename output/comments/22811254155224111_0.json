@@ -1,0 +1,311 @@
+{
+  "captured_at": "2026-01-29T20:33:31.047785",
+  "url": "https://api.zsxq.com/v2/topics/22811254155224111/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "22811254155224111",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8852212188218842,
+          "create_time": "2026-01-15T15:40:26.914+0800",
+          "owner": {
+            "user_id": 48888218821448,
+            "name": "后中先",
+            "avatar_url": "https://images.zsxq.com/FgMU4F6QPUmflR3useJkg84ci1zi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o0dwW_iV0MVOnxzlk7z1whiVWY0=",
+            "location": "江苏"
+          },
+          "text": "牛",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4845515188288558,
+          "create_time": "2026-01-15T15:50:18.465+0800",
+          "owner": {
+            "user_id": 5444841884,
+            "name": "不贰",
+            "avatar_url": "https://images.zsxq.com/FjsO3-Xk0N8TvXtlJSkJv85ONCjQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RopH4Mq80XRc5qQtd7X2Ic7LA_E=",
+            "location": "广东"
+          },
+          "text": "涨了100倍，买的时候是多虚的呀",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5125585811411454,
+          "create_time": "2026-01-15T15:50:34.235+0800",
+          "owner": {
+            "user_id": 422214855212818,
+            "name": "sky",
+            "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c=",
+            "location": "美国"
+          },
+          "text": "请问<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" /> 那个call 一开始是deep otm 吗？ 还是买的时候就是 itm？ 牛逼",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 2852212188484221,
+              "parent_comment_id": 5125585811411454,
+              "create_time": "2026-01-15T15:52:17.442+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "一开始就是 otm 的，然后变成 itm 后平仓，再用这个钱买新的 otm，然后再变成itm 后继续。这样滚动就变成了指数级增长了。但其实极限的损失是不可能超过一开始的投入的，因为所有的本金累加其实都是靠一次次的盈利滚起来的。",
+              "likes_count": 3,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c="
+              }
+            },
+            {
+              "comment_id": 1524484855184482,
+              "parent_comment_id": 5125585811411454,
+              "create_time": "2026-01-15T15:53:41.146+0800",
+              "owner": {
+                "user_id": 142181518452,
+                "name": "Ewan",
+                "avatar_url": "https://images.zsxq.com/Fpcv5IcySOyKNJ7N-JHUPZ48kqDT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yaxAk-4G6ZEWC__XmvypH5mlrXo=",
+                "location": "浙江"
+              },
+              "text": "不可能 itm 的，itm 也做不到100块吧，成本call 不到1块钱，就算是 itm 也早到期了\n注：伦敦银计量单位",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c="
+              }
+            },
+            {
+              "comment_id": 2852212188412141,
+              "parent_comment_id": 5125585811411454,
+              "create_time": "2026-01-15T15:54:13.818+0800",
+              "owner": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c=",
+                "location": "美国"
+              },
+              "text": "<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" /> 请问许大，不怕iv 很高吗？ 买otm 不亏在高iv 上吗前段时间？ 谢谢",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 8852212188411242,
+              "parent_comment_id": 5125585811411454,
+              "create_time": "2026-01-15T15:55:18.759+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "小账户，这个钱投了就投了，所以才敢拉这么极限。大账户可不敢这么做。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VwQXd0b-Igq20NyflCr2HXRAR8c="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4845515188158858,
+          "create_time": "2026-01-15T16:05:05.789+0800",
+          "owner": {
+            "user_id": 421424828814588,
+            "name": "智-",
+            "avatar_url": "https://images.zsxq.com/Fig5w4-sfHn8-hCthMldJvykAYaw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FvoMjlhPbDGlJ88sJYcfSSjHg0Y=",
+            "location": "广东"
+          },
+          "text": "请问许大 这是 SLV 的 call 吗",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 5125585811854584,
+              "parent_comment_id": 4845515188158858,
+              "create_time": "2026-01-15T16:07:35.272+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "是的，SLV的CALL做出来的",
+              "likes_count": 3,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 421424828814588,
+                "name": "智-",
+                "avatar_url": "https://images.zsxq.com/Fig5w4-sfHn8-hCthMldJvykAYaw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FvoMjlhPbDGlJ88sJYcfSSjHg0Y="
+              }
+            },
+            {
+              "comment_id": 1524484841522142,
+              "parent_comment_id": 4845515188158858,
+              "create_time": "2026-01-16T01:17:00.604+0800",
+              "owner": {
+                "user_id": 5444841884,
+                "name": "不贰",
+                "avatar_url": "https://images.zsxq.com/FjsO3-Xk0N8TvXtlJSkJv85ONCjQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RopH4Mq80XRc5qQtd7X2Ic7LA_E=",
+                "location": "广东"
+              },
+              "text": "许大想问一下这次操作止盈计划是怎么样的，收回本金后就不断往更高行权价的call移吗？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5125585815581154,
+          "create_time": "2026-01-15T16:51:20.772+0800",
+          "owner": {
+            "user_id": 582218842411214,
+            "name": "大童",
+            "avatar_url": "https://images.zsxq.com/FrHKK7FBUHQGK3jFzNPWgCAZVpaS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7zscvMXJGlIGJHoMYqQvYrGtStk=",
+            "location": "浙江"
+          },
+          "text": "昨天冼老师往外挪，平掉近的以后买不回来了哈哈，估计今天晚上又要接回来了",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 8852212182451282,
+              "parent_comment_id": 5125585815581154,
+              "create_time": "2026-01-15T17:00:40.250+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "他挪之前没算一卦吗？哈哈哈哈",
+              "likes_count": 3,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 582218842411214,
+                "name": "大童",
+                "avatar_url": "https://images.zsxq.com/FrHKK7FBUHQGK3jFzNPWgCAZVpaS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7zscvMXJGlIGJHoMYqQvYrGtStk="
+              }
+            },
+            {
+              "comment_id": 5125585815411244,
+              "parent_comment_id": 5125585815581154,
+              "create_time": "2026-01-15T17:02:18.066+0800",
+              "owner": {
+                "user_id": 582218842411214,
+                "name": "大童",
+                "avatar_url": "https://images.zsxq.com/FrHKK7FBUHQGK3jFzNPWgCAZVpaS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7zscvMXJGlIGJHoMYqQvYrGtStk=",
+                "location": "浙江"
+              },
+              "text": "不排除直接因爱成恨买put！",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2852212184288421,
+          "create_time": "2026-01-15T18:28:23.968+0800",
+          "owner": {
+            "user_id": 2452542441,
+            "name": "Zac",
+            "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+            "location": "上海"
+          },
+          "text": "牛翻了。许大，这个推算总体收益的功能是软件自带的吗？因为中间有roll的动作，其实是很多笔头寸的加总收益率",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1524484845582582,
+          "create_time": "2026-01-15T20:56:25.437+0800",
+          "owner": {
+            "user_id": 88488281111222,
+            "name": "不金雲",
+            "avatar_url": "https://images.zsxq.com/Fr5Jew-FasnP-znQHBYjpFiB_Iwz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dKmAY2Teq9CRge1L6XX1mPS_eE0=",
+            "location": "湖南"
+          },
+          "text": "10万乘以100就是1000万[嘿哈]",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

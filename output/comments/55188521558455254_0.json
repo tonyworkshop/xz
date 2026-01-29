@@ -1,0 +1,46 @@
+{
+  "captured_at": "2026-01-29T20:35:15.327387",
+  "url": "https://api.zsxq.com/v2/topics/55188521558455254/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "55188521558455254",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2852218288554581,
+          "create_time": "2026-01-10T06:33:41.231+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "广东"
+          },
+          "text": "据传言，一定要看明白，据传言，说某东方大客户在COMEX一次性下单4亿多盎司折合1.2万吨的白银，要求按时交付实物。白银已经涨了三年了，空手对手盘死伤惨重，这个1.2万吨的大单就直接要了空头的命。美帝拔网线目的就是制造恐慌情绪，趁机砸盘流动性小的伦敦银，围魏救赵。",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8852218225528422,
+          "create_time": "2026-01-10T13:41:40.930+0800",
+          "owner": {
+            "user_id": 28514885188551,
+            "name": "李宇辰",
+            "avatar_url": "https://images.zsxq.com/FppruBoRHJosjRXA-eRxbiSj-R-L?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cdrEgEs4fgvvqmOVaODV2QIHqHo=",
+            "location": "山东"
+          },
+          "text": "如无必要，勿增实体",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

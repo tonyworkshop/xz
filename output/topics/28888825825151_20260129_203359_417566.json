@@ -1,0 +1,288 @@
+{
+  "captured_at": "2026-01-29T20:33:59.417594",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 82811228215548422,
+          "topic_uid": "82811228215548422",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 841152481545112,
+              "name": "李",
+              "avatar_url": "https://images.zsxq.com/FmyT-9LRkM8Id6tpW2uP9XJOobY-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IOSGzftXLzvwyvjJTbKCXT-I2BI=",
+              "location": "广东"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "许哲大大，请教一下 一，近一年来我使用以下策略:sell etf近月5%虚值put,标的下跌变到期仍为虚值就收权利金，否则买入标的，之后再sell 近月5%虚值call，变实值则卖出标的；同步long半年后深虚值put，数量为近月期权张数的两倍。实际操作后，仍有小量亏损。 二，我感觉主要原因是:一是标的价格下跌幅度远大于期权费收入。二是买远月合约作废。三是卖出近月合约时点波动率都较低，权利金相对少，但我没法预测何时波动率低。 三，问题:一是选择etf标的有哪些硬指标要求，包括历史走势要求如何，历史波动率如何等等？二是long远月期权合约数量和sell近月期权合约的数量关系该怎样，才能覆盖long期权合约的成本？",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 1,
+              "join_time": "2025-05-07T08:22:44.966+0800",
+              "status": "joined"
+            },
+            "owner_location": "广东"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "感觉大量的问题都是重复在问我一直说的期权做法，还是不能偷懒，得写个完整的，避免反复问。\n\n一想到要码那么多字，整个人都不好了。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-01-29T18:01:07.106+0800",
+              "owner": {
+                "user_id": 88255842518412,
+                "name": "罗爷",
+                "avatar_url": "https://images.zsxq.com/FjNN1dyvKBQjDoRJa1Hls8JhW3eR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6CWcFkcYxlaONIoBylXlgjdmsv0="
+              }
+            },
+            {
+              "create_time": "2026-01-29T10:30:55.947+0800",
+              "owner": {
+                "user_id": 48285218125828,
+                "name": "Shepherd",
+                "avatar_url": "https://images.zsxq.com/Fi16f3-CNYXbyVmauD3KIxK9KhGZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:67FZSgRVWcUfdm6eEN7PNGCI1-M="
+              }
+            },
+            {
+              "create_time": "2026-01-29T09:18:17.049+0800",
+              "owner": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fp8Z2mElz4XDsFUsYPJ_x3l5H8U="
+              }
+            },
+            {
+              "create_time": "2026-01-29T08:52:32.693+0800",
+              "owner": {
+                "user_id": 544822241458584,
+                "name": "邱千玺",
+                "avatar_url": "https://images.zsxq.com/Fp8SMdqIeD4KyzPJd08ksOc_myjT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:m4RUpXAuIy-dug44Nd2BpHG8n8U="
+              }
+            },
+            {
+              "create_time": "2026-01-28T23:09:15.326+0800",
+              "owner": {
+                "user_id": 825852585542,
+                "name": "烁影",
+                "avatar_url": "https://images.zsxq.com/Fn5ZCPtTiRB69WW28ownXzceCIJq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DkIhaGR_7fdo9Hr_tbWwKRY7ewA="
+              }
+            },
+            {
+              "create_time": "2026-01-28T18:24:50.740+0800",
+              "owner": {
+                "user_id": 48888122111518,
+                "name": "123立正",
+                "avatar_url": "https://images.zsxq.com/FvfvllqHF9H--Qxt3XMz1RH-sogT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bAHMJiRPmYrJDTMtB6h4vAezFYs="
+              }
+            },
+            {
+              "create_time": "2026-01-28T17:55:32.303+0800",
+              "owner": {
+                "user_id": 48852554148128,
+                "name": "雪川流金",
+                "avatar_url": "https://images.zsxq.com/Fm1KrahKStyuKa_zpu_3_v5fva6s?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ooNE2yzDom0w5rDj7_uaMwGMqO4="
+              }
+            },
+            {
+              "create_time": "2026-01-28T15:45:03.004+0800",
+              "owner": {
+                "user_id": 484482888,
+                "name": "chenng",
+                "avatar_url": "https://images.zsxq.com/FvtO3Fg-yq8fO0tatNHPzDm_7KTQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:r5ds4fycwCDlAgZcASr8KW8B5Iw="
+              }
+            },
+            {
+              "create_time": "2026-01-28T15:39:31.936+0800",
+              "owner": {
+                "user_id": 15514111222412,
+                "name": "Yue",
+                "avatar_url": "https://images.zsxq.com/FjvrCf1NUVNV_aoEtMEh5Bo7PKHW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sLFL2Q0veeKLHwhdZwHtllzUxBI="
+              }
+            },
+            {
+              "create_time": "2026-01-28T15:36:57.995+0800",
+              "owner": {
+                "user_id": 142522282222,
+                "name": "向北",
+                "avatar_url": "https://images.zsxq.com/FmbozvjLjU49yDiFh0LPN1nClmKh?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:p68jDZvISN2NAhaXEz-LplgXB7o="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 1524121118885822,
+              "create_time": "2026-01-27T22:19:21.687+0800",
+              "owner": {
+                "user_id": 182585488458582,
+                "name": "20%",
+                "avatar_url": "https://images.zsxq.com/Foh496mRwyltdPanhd3kLMfaWaR8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-lKtwdLYfaVijeLBb_WVWG1ZDms=",
+                "location": "广东"
+              },
+              "text": "哈哈好好笑",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 1524121118888552,
+              "create_time": "2026-01-27T22:22:25.129+0800",
+              "owner": {
+                "user_id": 841521482858182,
+                "name": "大头鱼（Piggy）",
+                "avatar_url": "https://images.zsxq.com/FouIY7XlXxkItTt15qXtfbTFfndo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9lohAUf1FkIWVk0CB7RhAlukzDM=",
+                "location": "广东"
+              },
+              "text": "哈哈哈，一天写一点点🤏[偷笑]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 5125424482255244,
+              "create_time": "2026-01-27T22:38:54.552+0800",
+              "owner": {
+                "user_id": 51541128285284,
+                "name": "瑞琦 Ricky",
+                "avatar_url": "https://images.zsxq.com/Ft72TmxFrJuuGkhgJnD5dJx2oxVS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4TSdPA66t31wdsnREm7cbE0yta0=",
+                "location": "广东"
+              },
+              "text": "哈哈哈，许大大好可爱[偷笑]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 2852454415842851,
+              "create_time": "2026-01-27T23:01:46.801+0800",
+              "owner": {
+                "user_id": 142181518452,
+                "name": "Ewan",
+                "avatar_url": "https://images.zsxq.com/Fpcv5IcySOyKNJ7N-JHUPZ48kqDT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yaxAk-4G6ZEWC__XmvypH5mlrXo=",
+                "location": "浙江"
+              },
+              "text": "许大，向您推荐Typeless这款语音输入法。AI 自动润色，能极大提升您的输出效率；国外开发团队出品，明确数据本地处理，不过云；充分保障您创作连续性和思考的私密性，让您安心输出。\nP.S.没有登录中国区App store，中国区是李鬼",
+              "likes_count": 2,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 5125424482558854,
+              "create_time": "2026-01-27T23:15:09.595+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "我帮许大回答一下这个问题，说说我的理解：\n首先你要先搞清楚亏损的原因，是卖的这一头标的下跌了导致亏了delta，买的那头兜不住亏损；还是卖的权利金太少覆盖不了开支导致亏了theta；还是你在高iv的时候卖结果iv掉下来亏了vega？搞清楚原因才能对症下药。\n\n听你的描述，我感觉症结在你的卖的这一侧到期时间不够短（比如你没有用周期权、日期权来卖，而是用的月期权）且买的那一头时间不够长且你没有在近月移仓。\n\n这就导致，首先你卖的期权时间太长，你的周转率上不来，且远期权的权利金累计效率不够高，导致正股随便一跌你几个月就白卖了。\n\n其次，你买的put一直在亏theta，可能由于上面的原因你卖的这一头刚好就报销掉买的支出就到期了，且行情不够极端，买的期权兜不住没那么肥的事件，导致delta和theta全亏掉了。而你也没有在买侧到近月theta加速的时候移到更远来节省开销。\n\n另外你现在只是遇到了下跌行情，如果你这么做不买call的话，遇到单边上涨你就会一直踏空，这也是一个潜在问题。\n\n至于选择标的的标准，我个人认为是要期权能选择的到期日越近越好（最起码得有周级别的）、标的的内生性iv越大越好（风平浪静的时候波动都很大）、标的尽可能大概率走慢牛趋势且可能存在不小概率的巨幅回调行情、流动性要好。",
+              "likes_count": 8,
+              "rewards_count": 0,
+              "sticky": false,
+              "replies_count": 8
+            },
+            {
+              "comment_id": 2852454411852281,
+              "parent_comment_id": 5125424482558854,
+              "create_time": "2026-01-28T09:35:46.751+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "特爱看老哥的回复，每次都很有收获",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 5125424488514414,
+              "create_time": "2026-01-28T09:52:00.251+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "许大，不怕，我们是绝对不会催稿的[旺柴]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 5125424488552884,
+              "parent_comment_id": 5125424482558854,
+              "create_time": "2026-01-28T09:53:15.060+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "求教老哥，Vega风险如何适当对冲？最近GLD/SLV获益不少，但是手里的头寸移仓后IV很高，不知道怎么提前对冲。我自己是针对手上的远期call多头做了一手bull call spread，试图锁定一下收益和高IV，求教有没有其他做法？",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            }
+          ],
+          "likes_count": 36,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 36
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 15,
+          "reading_count": 1,
+          "readers_count": 623,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-01-27T22:17:50.546+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "感觉大量的问题都是重复在问我一..."
+        }
+      ]
+    }
+  }
+}

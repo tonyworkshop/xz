@@ -1,0 +1,305 @@
+{
+  "captured_at": "2026-01-29T20:31:31.341240",
+  "url": "https://api.zsxq.com/v2/topics/82811228215548422/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "82811228215548422",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1524121118885822,
+          "create_time": "2026-01-27T22:19:21.687+0800",
+          "owner": {
+            "user_id": 182585488458582,
+            "name": "20%",
+            "avatar_url": "https://images.zsxq.com/Foh496mRwyltdPanhd3kLMfaWaR8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-lKtwdLYfaVijeLBb_WVWG1ZDms=",
+            "location": "广东"
+          },
+          "text": "哈哈好好笑",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1524121118888552,
+          "create_time": "2026-01-27T22:22:25.129+0800",
+          "owner": {
+            "user_id": 841521482858182,
+            "name": "大头鱼（Piggy）",
+            "avatar_url": "https://images.zsxq.com/FouIY7XlXxkItTt15qXtfbTFfndo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9lohAUf1FkIWVk0CB7RhAlukzDM=",
+            "location": "广东"
+          },
+          "text": "哈哈哈，一天写一点点🤏[偷笑]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5125424482255244,
+          "create_time": "2026-01-27T22:38:54.552+0800",
+          "owner": {
+            "user_id": 51541128285284,
+            "name": "瑞琦 Ricky",
+            "avatar_url": "https://images.zsxq.com/Ft72TmxFrJuuGkhgJnD5dJx2oxVS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4TSdPA66t31wdsnREm7cbE0yta0=",
+            "location": "广东"
+          },
+          "text": "哈哈哈，许大大好可爱[偷笑]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2852454415842851,
+          "create_time": "2026-01-27T23:01:46.801+0800",
+          "owner": {
+            "user_id": 142181518452,
+            "name": "Ewan",
+            "avatar_url": "https://images.zsxq.com/Fpcv5IcySOyKNJ7N-JHUPZ48kqDT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yaxAk-4G6ZEWC__XmvypH5mlrXo=",
+            "location": "浙江"
+          },
+          "text": "许大，向您推荐Typeless这款语音输入法。AI 自动润色，能极大提升您的输出效率；国外开发团队出品，明确数据本地处理，不过云；充分保障您创作连续性和思考的私密性，让您安心输出。\nP.S.没有登录中国区App store，中国区是李鬼",
+          "likes_count": 2,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5125424482558854,
+          "create_time": "2026-01-27T23:15:09.595+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "我帮许大回答一下这个问题，说说我的理解：\n首先你要先搞清楚亏损的原因，是卖的这一头标的下跌了导致亏了delta，买的那头兜不住亏损；还是卖的权利金太少覆盖不了开支导致亏了theta；还是你在高iv的时候卖结果iv掉下来亏了vega？搞清楚原因才能对症下药。\n\n听你的描述，我感觉症结在你的卖的这一侧到期时间不够短（比如你没有用周期权、日期权来卖，而是用的月期权）且买的那一头时间不够长且你没有在近月移仓。\n\n这就导致，首先你卖的期权时间太长，你的周转率上不来，且远期权的权利金累计效率不够高，导致正股随便一跌你几个月就白卖了。\n\n其次，你买的put一直在亏theta，可能由于上面的原因你卖的这一头刚好就报销掉买的支出就到期了，且行情不够极端，买的期权兜不住没那么肥的事件，导致delta和theta全亏掉了。而你也没有在买侧到近月theta加速的时候移到更远来节省开销。\n\n另外你现在只是遇到了下跌行情，如果你这么做不买call的话，遇到单边上涨你就会一直踏空，这也是一个潜在问题。\n\n至于选择标的的标准，我个人认为是要期权能选择的到期日越近越好（最起码得有周级别的）、标的的内生性iv越大越好（风平浪静的时候波动都很大）、标的尽可能大概率走慢牛趋势且可能存在不小概率的巨幅回调行情、流动性要好。",
+          "likes_count": 8,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 8,
+          "replied_comments": [
+            {
+              "comment_id": 2852454411852281,
+              "parent_comment_id": 5125424482558854,
+              "create_time": "2026-01-28T09:35:46.751+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "特爱看老哥的回复，每次都很有收获",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 5125424488552884,
+              "parent_comment_id": 5125424482558854,
+              "create_time": "2026-01-28T09:53:15.060+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "求教老哥，Vega风险如何适当对冲？最近GLD/SLV获益不少，但是手里的头寸移仓后IV很高，不知道怎么提前对冲。我自己是针对手上的远期call多头做了一手bull call spread，试图锁定一下收益和高IV，求教有没有其他做法？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 5125424488451424,
+              "parent_comment_id": 5125424482558854,
+              "create_time": "2026-01-28T10:02:02.887+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "我的经验是vega很难对冲，做美股的还能考虑一下适当卖vix call（高位也要注意风险），别的我试过很多种方法，最后的结论就是适时赚够获利了解最简单，不一定要鱼头吃到鱼尾，想吃鱼尾巴不如直接拿一部分利润买spread一直移仓追涨。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18="
+              }
+            },
+            {
+              "comment_id": 2852454411158151,
+              "parent_comment_id": 5125424482558854,
+              "create_time": "2026-01-28T10:11:43.604+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "嗯，同感，有点无从下手，还是适当了结为宜，小彩票也留点。感谢老哥分享！",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 5125424822222554,
+              "parent_comment_id": 5125424482558854,
+              "create_time": "2026-01-28T10:17:39.669+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A=",
+                "location": "北京"
+              },
+              "text": "可以尝试许大的做法，用put构建bull spread",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18="
+              }
+            },
+            {
+              "comment_id": 4845242142845448,
+              "parent_comment_id": 5125424482558854,
+              "create_time": "2026-01-28T11:28:06.317+0800",
+              "owner": {
+                "user_id": 51542488184854,
+                "name": "Johnson",
+                "avatar_url": "https://images.zsxq.com/FuK4er97yEPJOk0wvpmVuyRFN3It?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYq9SVJnlOk-rkC89A7EDN5acoc=",
+                "location": "上海"
+              },
+              "text": "老哥能不能贡献下，otm期权的性价比选择的思考啊……",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 4845242155814458,
+              "parent_comment_id": 5125424482558854,
+              "create_time": "2026-01-28T18:23:59.114+0800",
+              "owner": {
+                "user_id": 841152481545112,
+                "name": "李",
+                "avatar_url": "https://images.zsxq.com/FmyT-9LRkM8Id6tpW2uP9XJOobY-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IOSGzftXLzvwyvjJTbKCXT-I2BI=",
+                "location": "广东"
+              },
+              "text": "感谢，很有收获",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 4845242114215528,
+              "parent_comment_id": 5125424482558854,
+              "create_time": "2026-01-29T08:56:02.891+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "嗯，感谢，增加一个卖权相当于long vega",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdtNSeINj_0_gk7cfFtrgPrSg3A="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5125424488514414,
+          "create_time": "2026-01-28T09:52:00.251+0800",
+          "owner": {
+            "user_id": 2452542441,
+            "name": "Zac",
+            "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+            "location": "上海"
+          },
+          "text": "许大，不怕，我们是绝对不会催稿的[旺柴]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8852454122522422,
+          "create_time": "2026-01-28T17:56:24.091+0800",
+          "owner": {
+            "user_id": 48852554148128,
+            "name": "雪川流金",
+            "avatar_url": "https://images.zsxq.com/Fm1KrahKStyuKa_zpu_3_v5fva6s?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ooNE2yzDom0w5rDj7_uaMwGMqO4=",
+            "location": "湖北"
+          },
+          "text": "期待大大作品，其实很多都是碎片化的信息，我这样的小白很期待有系统性的内容全面学习",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

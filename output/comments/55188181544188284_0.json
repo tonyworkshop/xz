@@ -1,0 +1,187 @@
+{
+  "captured_at": "2026-01-29T20:35:40.641823",
+  "url": "https://api.zsxq.com/v2/topics/55188181544188284/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "55188181544188284",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1524485284114422,
+          "create_time": "2026-01-08T12:53:21.786+0800",
+          "owner": {
+            "user_id": 2441812821,
+            "name": "毛熊",
+            "avatar_url": "https://images.zsxq.com/FudC4L1qGU18LstMDqDfh9dsQubA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cTFtyxa7lucfd-D1OdhufzMrlrg=",
+            "location": "广东"
+          },
+          "text": "到期反向卖期权，以合成代替 roll 的效果这一句看的不是很明白，具体是什么操作？\nroll 不是应该同向卖下月吗？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 7,
+          "replied_comments": [
+            {
+              "comment_id": 1524485284845222,
+              "parent_comment_id": 1524485284114422,
+              "create_time": "2026-01-08T13:00:17.256+0800",
+              "owner": {
+                "user_id": 212251844248511,
+                "name": "amize",
+                "avatar_url": "https://images.zsxq.com/FhvY86x85JgKCUZ_szaOGgN9kuS3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J4zkwiQ-K1SAgrUaHo-MITFu4zg=",
+                "location": "北京"
+              },
+              "text": "同没看懂[微笑]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 2441812821,
+                "name": "毛熊",
+                "avatar_url": "https://images.zsxq.com/FudC4L1qGU18LstMDqDfh9dsQubA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cTFtyxa7lucfd-D1OdhufzMrlrg="
+              }
+            },
+            {
+              "comment_id": 8852218512148442,
+              "parent_comment_id": 1524485284114422,
+              "create_time": "2026-01-08T13:05:34.358+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "比如一个卖CALL到期了ITM了，变成一个空头了，反向再卖一个PUT，相当于合成了一个续期的卖CALL",
+              "likes_count": 3,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 2441812821,
+                "name": "毛熊",
+                "avatar_url": "https://images.zsxq.com/FudC4L1qGU18LstMDqDfh9dsQubA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cTFtyxa7lucfd-D1OdhufzMrlrg="
+              }
+            },
+            {
+              "comment_id": 4845518412251518,
+              "parent_comment_id": 1524485284114422,
+              "create_time": "2026-01-08T14:02:29.078+0800",
+              "owner": {
+                "user_id": 48844458585888,
+                "name": "朱黎黎",
+                "avatar_url": "https://images.zsxq.com/FrrWLdjLxHTaFSYH1vcPyEpicubG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JSftn3h94m5vKKW-ZyzGgN_6ALo=",
+                "location": "上海"
+              },
+              "text": "就是有时候看到借券的利息不太爽",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 4845518848818848,
+              "parent_comment_id": 1524485284114422,
+              "create_time": "2026-01-08T15:02:33.638+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "期货类的好处就是空头方没这些乱乱糟糟的",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48844458585888,
+                "name": "朱黎黎",
+                "avatar_url": "https://images.zsxq.com/FrrWLdjLxHTaFSYH1vcPyEpicubG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JSftn3h94m5vKKW-ZyzGgN_6ALo="
+              }
+            },
+            {
+              "comment_id": 1524485524142182,
+              "parent_comment_id": 1524485284114422,
+              "create_time": "2026-01-08T16:26:38.947+0800",
+              "owner": {
+                "user_id": 51542488184854,
+                "name": "Johnson",
+                "avatar_url": "https://images.zsxq.com/FuK4er97yEPJOk0wvpmVuyRFN3It?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VYq9SVJnlOk-rkC89A7EDN5acoc=",
+                "location": "上海"
+              },
+              "text": "你融券是收到现金，现金理财收益可以cover融券利息",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48844458585888,
+                "name": "朱黎黎",
+                "avatar_url": "https://images.zsxq.com/FrrWLdjLxHTaFSYH1vcPyEpicubG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JSftn3h94m5vKKW-ZyzGgN_6ALo="
+              }
+            },
+            {
+              "comment_id": 8852218885884112,
+              "parent_comment_id": 1524485284114422,
+              "create_time": "2026-01-08T18:00:57.362+0800",
+              "owner": {
+                "user_id": 2441812821,
+                "name": "毛熊",
+                "avatar_url": "https://images.zsxq.com/FudC4L1qGU18LstMDqDfh9dsQubA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cTFtyxa7lucfd-D1OdhufzMrlrg=",
+                "location": "广东"
+              },
+              "text": "为什么不直接平了 itm 的 sell call，再继续 roll 卖 otm 的 call 呢？\n反向卖一个 put，就等于是 itm 的 sell call 空单拿着，补一口 sell put 的下跌回补空单是吧。\n\n那用期货行权代替是不是等价的: 平了 itm 的 sell call，同时开对应数量的期货空单，然后 sell put 做一个下跌回补。\n或者说不用期货行权而是直接拿着 itm 的 sell call 优势在哪里？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 2852218885845181,
+              "parent_comment_id": 1524485284114422,
+              "create_time": "2026-01-08T18:14:35.233+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "有时候itm了之后点差老大了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 2441812821,
+                "name": "毛熊",
+                "avatar_url": "https://images.zsxq.com/FudC4L1qGU18LstMDqDfh9dsQubA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cTFtyxa7lucfd-D1OdhufzMrlrg="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

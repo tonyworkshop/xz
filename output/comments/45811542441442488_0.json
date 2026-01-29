@@ -1,0 +1,272 @@
+{
+  "captured_at": "2026-01-29T20:33:47.788885",
+  "url": "https://api.zsxq.com/v2/topics/45811542441442488/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "45811542441442488",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8852212845845152,
+          "create_time": "2026-01-13T18:42:47.035+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "靠谱，很难用，小心CRS。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 6,
+          "replied_comments": [
+            {
+              "comment_id": 1524484515222282,
+              "parent_comment_id": 8852212845845152,
+              "create_time": "2026-01-13T20:00:16.093+0800",
+              "owner": {
+                "user_id": 51115214584144,
+                "name": "Sparker",
+                "avatar_url": "https://images.zsxq.com/FqoxlPiM0ksKGG1uSJFJT_KzYer4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2yi61B9Xell7ZpxL4l3xd_0zERQ=",
+                "location": "上海"
+              },
+              "text": "香港那里现在是都要CRS啦？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 5125585141118824,
+              "parent_comment_id": 8852212845845152,
+              "create_time": "2026-01-13T20:28:13.259+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "是的",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51115214584144,
+                "name": "Sparker",
+                "avatar_url": "https://images.zsxq.com/FqoxlPiM0ksKGG1uSJFJT_KzYer4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2yi61B9Xell7ZpxL4l3xd_0zERQ="
+              }
+            },
+            {
+              "comment_id": 2852212221148441,
+              "parent_comment_id": 8852212845845152,
+              "create_time": "2026-01-14T19:58:25.285+0800",
+              "owner": {
+                "user_id": 455821584558,
+                "name": "00:00",
+                "avatar_url": "https://images.zsxq.com/FlV-ZgoVpOko9ogCweEqOLTXx8eT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4igTfcZ54fy_vwPBpyO903iEcVs=",
+                "location": "广东"
+              },
+              "text": "你好，如果没有接到税务的电话，是否需要主动报税，我目前用的是富途",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51115214584144,
+                "name": "Sparker",
+                "avatar_url": "https://images.zsxq.com/FqoxlPiM0ksKGG1uSJFJT_KzYer4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2yi61B9Xell7ZpxL4l3xd_0zERQ="
+              }
+            },
+            {
+              "comment_id": 1524484412555252,
+              "parent_comment_id": 8852212845845152,
+              "create_time": "2026-01-14T20:31:40.204+0800",
+              "owner": {
+                "user_id": 51115214584144,
+                "name": "Sparker",
+                "avatar_url": "https://images.zsxq.com/FqoxlPiM0ksKGG1uSJFJT_KzYer4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2yi61B9Xell7ZpxL4l3xd_0zERQ=",
+                "location": "上海"
+              },
+              "text": "富途已经CRS了吧？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 455821584558,
+                "name": "00:00",
+                "avatar_url": "https://images.zsxq.com/FlV-ZgoVpOko9ogCweEqOLTXx8eT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4igTfcZ54fy_vwPBpyO903iEcVs="
+              }
+            },
+            {
+              "comment_id": 5125585541121584,
+              "parent_comment_id": 8852212845845152,
+              "create_time": "2026-01-14T21:48:52.280+0800",
+              "owner": {
+                "user_id": 455821584558,
+                "name": "00:00",
+                "avatar_url": "https://images.zsxq.com/FlV-ZgoVpOko9ogCweEqOLTXx8eT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4igTfcZ54fy_vwPBpyO903iEcVs=",
+                "location": "广东"
+              },
+              "text": "应该是的",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51115214584144,
+                "name": "Sparker",
+                "avatar_url": "https://images.zsxq.com/FqoxlPiM0ksKGG1uSJFJT_KzYer4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2yi61B9Xell7ZpxL4l3xd_0zERQ="
+              }
+            },
+            {
+              "comment_id": 1524484415524222,
+              "parent_comment_id": 8852212845845152,
+              "create_time": "2026-01-14T21:49:35.188+0800",
+              "owner": {
+                "user_id": 455821584558,
+                "name": "00:00",
+                "avatar_url": "https://images.zsxq.com/FlV-ZgoVpOko9ogCweEqOLTXx8eT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4igTfcZ54fy_vwPBpyO903iEcVs=",
+                "location": "广东"
+              },
+              "text": "手续费很高",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51115214584144,
+                "name": "Sparker",
+                "avatar_url": "https://images.zsxq.com/FqoxlPiM0ksKGG1uSJFJT_KzYer4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2yi61B9Xell7ZpxL4l3xd_0zERQ="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2852212248414251,
+          "create_time": "2026-01-14T22:38:39.732+0800",
+          "owner": {
+            "user_id": 51442555484884,
+            "name": "耐心如金",
+            "avatar_url": "https://images.zsxq.com/FqtY58styJv5np-RXLFU6vbve7HZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kCTdR-2yi1wAmO7OzR0DKLNzIHA=",
+            "location": "北京"
+          },
+          "text": "ibkr吧，可以开",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 2852212154451851,
+              "parent_comment_id": 2852212248414251,
+              "create_time": "2026-01-15T14:13:54.267+0800",
+              "owner": {
+                "user_id": 422188128825828,
+                "name": "焱焱",
+                "avatar_url": "https://images.zsxq.com/FqtR99iINf7w0twDjKKJCqSabVg0?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3Hn4YTYouU-uYHuapXwGFNIjbPQ=",
+                "location": "浙江"
+              },
+              "text": "怎么开，ibkr需要工作地址证明",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51442555484884,
+                "name": "耐心如金",
+                "avatar_url": "https://images.zsxq.com/FqtY58styJv5np-RXLFU6vbve7HZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kCTdR-2yi1wAmO7OzR0DKLNzIHA="
+              }
+            },
+            {
+              "comment_id": 5125588251811424,
+              "parent_comment_id": 2852212248414251,
+              "create_time": "2026-01-21T21:15:56.930+0800",
+              "owner": {
+                "user_id": 841411454851182,
+                "name": "Lemon",
+                "avatar_url": "https://images.zsxq.com/Ftkm4mSpJYK4iXMYQLkaQQjJfSCE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Yj43mfLj7FSYp-FoSvSEtTtLXqg=",
+                "location": "江苏"
+              },
+              "text": "最后一步要海外地址证明吧",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51442555484884,
+                "name": "耐心如金",
+                "avatar_url": "https://images.zsxq.com/FqtY58styJv5np-RXLFU6vbve7HZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kCTdR-2yi1wAmO7OzR0DKLNzIHA="
+              }
+            },
+            {
+              "comment_id": 4845511455218188,
+              "parent_comment_id": 2852212248414251,
+              "create_time": "2026-01-21T22:24:42.055+0800",
+              "owner": {
+                "user_id": 51442555484884,
+                "name": "耐心如金",
+                "avatar_url": "https://images.zsxq.com/FqtY58styJv5np-RXLFU6vbve7HZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kCTdR-2yi1wAmO7OzR0DKLNzIHA=",
+                "location": "北京"
+              },
+              "text": "是 某宝搞个。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 841411454851182,
+                "name": "Lemon",
+                "avatar_url": "https://images.zsxq.com/Ftkm4mSpJYK4iXMYQLkaQQjJfSCE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Yj43mfLj7FSYp-FoSvSEtTtLXqg="
+              }
+            },
+            {
+              "comment_id": 4845511452855858,
+              "parent_comment_id": 2852212248414251,
+              "create_time": "2026-01-21T23:13:03.721+0800",
+              "owner": {
+                "user_id": 841411454851182,
+                "name": "Lemon",
+                "avatar_url": "https://images.zsxq.com/Ftkm4mSpJYK4iXMYQLkaQQjJfSCE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Yj43mfLj7FSYp-FoSvSEtTtLXqg=",
+                "location": "江苏"
+              },
+              "text": "[抱拳][啤酒]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51442555484884,
+                "name": "耐心如金",
+                "avatar_url": "https://images.zsxq.com/FqtY58styJv5np-RXLFU6vbve7HZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kCTdR-2yi1wAmO7OzR0DKLNzIHA="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

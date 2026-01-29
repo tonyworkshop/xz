@@ -1,0 +1,282 @@
+{
+  "captured_at": "2026-01-29T20:31:48.764058",
+  "url": "https://api.zsxq.com/v2/topics/45811584844221248/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "45811584844221248",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1524121112852142,
+          "create_time": "2026-01-27T18:03:57.267+0800",
+          "owner": {
+            "user_id": 144254841842,
+            "name": "许哲",
+            "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+            "location": "美国"
+          },
+          "text": "另外我认识的在金融市场上赚到大钱的人，无一例外都不是读金融学专业的[捂脸]",
+          "likes_count": 7,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 5,
+          "replied_comments": [
+            {
+              "comment_id": 4845242224188548,
+              "parent_comment_id": 1524121112852142,
+              "create_time": "2026-01-27T18:05:36.039+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "金融专业等于没有专业[偷笑]",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 4845242224154418,
+              "parent_comment_id": 1524121112852142,
+              "create_time": "2026-01-27T18:10:16.267+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "太好了，自己非金融专业，这事成了一半了[旺柴]",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 5125424442855124,
+              "parent_comment_id": 1524121112852142,
+              "create_time": "2026-01-27T18:12:23.014+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "按照贝叶斯的世界观，你成功的置信度蹭蹭升",
+              "likes_count": 3,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18="
+              }
+            },
+            {
+              "comment_id": 1524121188522222,
+              "parent_comment_id": 1524121112852142,
+              "create_time": "2026-01-28T09:32:47.824+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "哈哈哈哈，贝叶斯好啊，贝叶斯得学[得意]",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5125424442841244,
+          "create_time": "2026-01-27T18:17:42.523+0800",
+          "owner": {
+            "user_id": 841521482858182,
+            "name": "大头鱼（Piggy）",
+            "avatar_url": "https://images.zsxq.com/FouIY7XlXxkItTt15qXtfbTFfndo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9lohAUf1FkIWVk0CB7RhAlukzDM=",
+            "location": "广东"
+          },
+          "text": "我也是把许老师的每一篇文章都打印出来，每次看都觉得自己好多还得从头梳理。感谢许老师[强]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 5,
+          "replied_comments": [
+            {
+              "comment_id": 1524121185845812,
+              "parent_comment_id": 5125424442841244,
+              "create_time": "2026-01-28T08:29:10.647+0800",
+              "owner": {
+                "user_id": 48548152251228,
+                "name": "露露",
+                "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aGnF__7MPCA0sdOjfUp4dVdT6o8=",
+                "location": "上海"
+              },
+              "text": "对的。我觉得需要反复看 而且许大还在生产新内容 我在后面追也追不上…[流泪][流泪][流泪]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 841521482858182,
+                "name": "大头鱼（Piggy）",
+                "avatar_url": "https://images.zsxq.com/FouIY7XlXxkItTt15qXtfbTFfndo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9lohAUf1FkIWVk0CB7RhAlukzDM="
+              }
+            },
+            {
+              "comment_id": 2852454414124541,
+              "parent_comment_id": 5125424442841244,
+              "create_time": "2026-01-28T09:07:08.902+0800",
+              "owner": {
+                "user_id": 841521482858182,
+                "name": "大头鱼（Piggy）",
+                "avatar_url": "https://images.zsxq.com/FouIY7XlXxkItTt15qXtfbTFfndo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9lohAUf1FkIWVk0CB7RhAlukzDM=",
+                "location": "广东"
+              },
+              "text": "是啊，有好些是需要自己去从头学的，其实我也想问许老师是怎么从零开始学习金融（或者说交易）知识的，后来发现老师既懂数学计算机编程懂建模，学过金融，更有很多实操和经验积累，更重要的还深入思考深研哲学，这真不是普通人能复制的路径，只好一点点对照，自己去找适合的角度和学习方法，学不会的方面也就放过自己吧[捂脸]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48548152251228,
+                "name": "露露",
+                "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aGnF__7MPCA0sdOjfUp4dVdT6o8="
+              }
+            },
+            {
+              "comment_id": 8852454111122582,
+              "parent_comment_id": 5125424442841244,
+              "create_time": "2026-01-29T11:08:03.219+0800",
+              "owner": {
+                "user_id": 582144518225124,
+                "name": "云顶山下",
+                "avatar_url": "https://images.zsxq.com/FrChr_sgS2HiBssVQp7oIUp5Y3X1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MvpYhGguRlaXN9pMj24HPRLi_lc=",
+                "location": "河北"
+              },
+              "text": "打扰下您，您能把许哲老师这些打印的东西发个链接吗？我方便直接打印，免得再去整理了？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 841521482858182,
+                "name": "大头鱼（Piggy）",
+                "avatar_url": "https://images.zsxq.com/FouIY7XlXxkItTt15qXtfbTFfndo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9lohAUf1FkIWVk0CB7RhAlukzDM="
+              }
+            },
+            {
+              "comment_id": 2852451555521141,
+              "parent_comment_id": 5125424442841244,
+              "create_time": "2026-01-29T11:17:17.436+0800",
+              "owner": {
+                "user_id": 841521482858182,
+                "name": "大头鱼（Piggy）",
+                "avatar_url": "https://images.zsxq.com/FouIY7XlXxkItTt15qXtfbTFfndo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9lohAUf1FkIWVk0CB7RhAlukzDM=",
+                "location": "广东"
+              },
+              "text": "没有链接哦，都是自己整理。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 582144518225124,
+                "name": "云顶山下",
+                "avatar_url": "https://images.zsxq.com/FrChr_sgS2HiBssVQp7oIUp5Y3X1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MvpYhGguRlaXN9pMj24HPRLi_lc="
+              }
+            },
+            {
+              "comment_id": 1524128222151282,
+              "parent_comment_id": 5125424442841244,
+              "create_time": "2026-01-29T11:42:22.717+0800",
+              "owner": {
+                "user_id": 582144518225124,
+                "name": "云顶山下",
+                "avatar_url": "https://images.zsxq.com/FrChr_sgS2HiBssVQp7oIUp5Y3X1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MvpYhGguRlaXN9pMj24HPRLi_lc=",
+                "location": "河北"
+              },
+              "text": "好的，谢谢了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 841521482858182,
+                "name": "大头鱼（Piggy）",
+                "avatar_url": "https://images.zsxq.com/FouIY7XlXxkItTt15qXtfbTFfndo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9lohAUf1FkIWVk0CB7RhAlukzDM="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1524121114128422,
+          "create_time": "2026-01-27T21:15:42.198+0800",
+          "owner": {
+            "user_id": 48548152251228,
+            "name": "露露",
+            "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aGnF__7MPCA0sdOjfUp4dVdT6o8=",
+            "location": "上海"
+          },
+          "text": "哈哈哈 好的好的！再次感谢大佬回复！！🌹🌹🌹",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8852451885215422,
+          "create_time": "2026-01-29T14:41:50.171+0800",
+          "owner": {
+            "user_id": 48844458585888,
+            "name": "朱黎黎",
+            "avatar_url": "https://images.zsxq.com/FrrWLdjLxHTaFSYH1vcPyEpicubG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JSftn3h94m5vKKW-ZyzGgN_6ALo=",
+            "location": "上海"
+          },
+          "text": "就是喜欢听许大说大实话",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

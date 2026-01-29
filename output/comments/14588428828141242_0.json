@@ -1,0 +1,140 @@
+{
+  "captured_at": "2026-01-29T20:32:45.803602",
+  "url": "https://api.zsxq.com/v2/topics/14588428828141242/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "14588428828141242",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2852211451255151,
+          "create_time": "2026-01-23T21:47:43.519+0800",
+          "owner": {
+            "user_id": 51115214584144,
+            "name": "Sparker",
+            "avatar_url": "https://images.zsxq.com/FqoxlPiM0ksKGG1uSJFJT_KzYer4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2yi61B9Xell7ZpxL4l3xd_0zERQ=",
+            "location": "上海"
+          },
+          "text": "是的，银并不是用在芯片上，银的需求主要还是能源领域",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 1524488158814182,
+              "parent_comment_id": 2852211451255151,
+              "create_time": "2026-01-24T12:37:05.175+0800",
+              "owner": {
+                "user_id": 548158888252814,
+                "name": "沈某人",
+                "avatar_url": "https://images.zsxq.com/FpTa7ju8crYDtW0UeoRLxM1J_IU-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oAnLMHozc9DKGID7kg1RjktpbDU=",
+                "location": "浙江"
+              },
+              "text": "那是不是看到光伏批量停产就是见顶信号",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51115214584144,
+                "name": "Sparker",
+                "avatar_url": "https://images.zsxq.com/FqoxlPiM0ksKGG1uSJFJT_KzYer4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2yi61B9Xell7ZpxL4l3xd_0zERQ="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 8852211451144542,
+          "create_time": "2026-01-23T22:31:34.982+0800",
+          "owner": {
+            "user_id": 281185525881,
+            "name": "胖头虎",
+            "avatar_url": "https://images.zsxq.com/Fh0f37yHsYLNSZtV5AT95lbz8wKP?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qHh_YMHT18MagmzEhO30MeimdXo=",
+            "location": "福建"
+          },
+          "text": "借此地，问问大家，银真的在Ai时代用量激增吗？看了些小视频，算力中心啊，光伏啊都预测缺口很大，但不是缺口连续五年多了吗？是故事还是真的变化缺口这么大呢？岂不是银比金值得在100美元下重仓？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 1524488152815422,
+              "parent_comment_id": 8852211451144542,
+              "create_time": "2026-01-24T00:43:31.372+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "缺口5年多了，这5年一直是库存消耗中，25年年底终于库存彻底击穿了，于是逼仓行情开始了",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 281185525881,
+                "name": "胖头虎",
+                "avatar_url": "https://images.zsxq.com/Fh0f37yHsYLNSZtV5AT95lbz8wKP?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qHh_YMHT18MagmzEhO30MeimdXo="
+              }
+            },
+            {
+              "comment_id": 4845511281125528,
+              "parent_comment_id": 8852211451144542,
+              "create_time": "2026-01-24T12:36:18.646+0800",
+              "owner": {
+                "user_id": 548158888252814,
+                "name": "沈某人",
+                "avatar_url": "https://images.zsxq.com/FpTa7ju8crYDtW0UeoRLxM1J_IU-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oAnLMHozc9DKGID7kg1RjktpbDU=",
+                "location": "浙江"
+              },
+              "text": "请问许大，逼仓出现什么指标才会显示结束，从去年到现在逼仓可以持续这么久么",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 4845511252241888,
+              "parent_comment_id": 8852211451144542,
+              "create_time": "2026-01-24T18:20:41.824+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "是空头缴械投降OI大幅降低",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 548158888252814,
+                "name": "沈某人",
+                "avatar_url": "https://images.zsxq.com/FpTa7ju8crYDtW0UeoRLxM1J_IU-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oAnLMHozc9DKGID7kg1RjktpbDU="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "captured_at": "2026-01-29T20:32:12.817607",
+  "url": "https://api.zsxq.com/v2/topics/82811288282415412/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "82811288282415412",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5125424115241524,
+          "create_time": "2026-01-26T00:51:34.668+0800",
+          "owner": {
+            "user_id": 51445228241214,
+            "name": "凤梨罐头",
+            "avatar_url": "https://images.zsxq.com/FuLvzpXMw7VSaQmQ820LYvJTsEsd?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J8ExAwGHS5cIC4JNuRpp-NP_phs=",
+            "location": "辽宁"
+          },
+          "text": "是小乘佛法吗",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 5125424115145854,
+              "parent_comment_id": 5125424115241524,
+              "create_time": "2026-01-26T05:40:37.619+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "佛法并没有大小乘之分，那个是后来人发明的，佛法就是佛法",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51445228241214,
+                "name": "凤梨罐头",
+                "avatar_url": "https://images.zsxq.com/FuLvzpXMw7VSaQmQ820LYvJTsEsd?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J8ExAwGHS5cIC4JNuRpp-NP_phs="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2852454822185481,
+          "create_time": "2026-01-26T12:02:22.651+0800",
+          "owner": {
+            "user_id": 225885588481,
+            "name": "kzbey",
+            "avatar_url": "https://images.zsxq.com/FrEGPY5yiyEMRMpn9TDb8gR02YZi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Gh-6cm0QH5q969wfL3dVHQvr1SM=",
+            "location": "美国"
+          },
+          "text": "许大在知乎专栏里翻译了全本《如实接纳的慈心禅》（Metta as Acceptance），建议阅读。本来想复制下来学习，可惜知乎只能一小段一小段复制，实在太麻烦了。",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}
