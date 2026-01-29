@@ -142,8 +142,16 @@ def handle_response(response: Response):
                         comments = data.get("resp_data", {}).get("comments", [])
                         query = parse_qs(urlparse(url).query)
                         count = int(query.get("count", [30])[0])
-                        if len(comments) == 0 or len(comments) < count:
+                        comments_len = len(comments)
+
+                        if comments_len == 0:
+                            logger.debug(f"comments API: 返回 0 条评论，停止滚动")
                             comments_finished = True
+                        elif comments_len < count:
+                            logger.debug(f"comments API: 返回 {comments_len} 条 < 请求的 {count} 条，停止滚动")
+                            comments_finished = True
+                        else:
+                            logger.debug(f"comments API: 返回 {comments_len} 条 = 请求的 {count} 条，继续滚动加载更多")
         except Exception as e:
             print(f"解析 comments 响应失败: {e}")
 
