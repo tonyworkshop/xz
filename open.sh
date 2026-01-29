@@ -1,1 +1,1 @@
-python py/fetch_topic.py --open
+source ./py/.venv/bin/activate && python ./py/fetch_topics.py --open

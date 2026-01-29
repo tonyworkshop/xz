@@ -1,1 +1,1 @@
-npx tsx src/index.ts --mode=full --limit=3 > out.log
+source ./py/.venv/bin/activate && python ./py/fetch_topics.py
