@@ -12,6 +12,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse, parse_qs
+import glob
 
 from playwright.sync_api import sync_playwright, Response
 
@@ -40,6 +41,7 @@ running = True
 pending_topics = []              # 待处理的 topic 队列，每项为 {topic_id, text}
 processed_topic_ids = set()      # 已处理的 topic_id
 comments_finished = False        # 当前 topic 评论是否加载完毕
+current_topic_page_id = 0        # 当前 topic 的评论页码（每个 topic 独立计数）
 
 
 def ensure_output_dirs():
@@ -70,18 +72,24 @@ def save_topics_response(data: dict, url: str):
     print(f"[Topics #{topics_captured_count}] 已保存: {filename} (topics: {topics_count})")
 
 
-def save_comments_response(data: dict, url: str, topic_id: str):
-    """保存 comments API 响应为 JSON 文件"""
-    global comments_captured_count
+def comments_file_exists(topic_id: str) -> bool:
+    """检查 topic 的 comments 文件是否已存在（匹配 {topic_id}_*.json）"""
+    pattern = str(COMMENTS_OUTPUT_DIR / f"{topic_id}_*.json")
+    return len(glob.glob(pattern)) > 0
 
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
-    filename = f"{topic_id}_{timestamp}.json"
+
+def save_comments_response(data: dict, url: str, topic_id: str):
+    """保存 comments API 响应为 JSON 文件（每页单独保存）"""
+    global comments_captured_count, current_topic_page_id
+
+    filename = f"{topic_id}_{current_topic_page_id}.json"
     filepath = COMMENTS_OUTPUT_DIR / filename
 
     wrapper = {
         "captured_at": datetime.now().isoformat(),
         "url": url,
         "topic_id": topic_id,
+        "page_id": current_topic_page_id,
         "data": data
     }
 
@@ -89,6 +97,7 @@ def save_comments_response(data: dict, url: str, topic_id: str):
         json.dump(wrapper, f, ensure_ascii=False, indent=2)
 
     comments_captured_count += 1
+    current_topic_page_id += 1
     comments_count = len(data.get("resp_data", {}).get("comments", []))
     print(f"  [Comments #{comments_captured_count}] 已保存: {filename} (comments: {comments_count})")
 
@@ -258,7 +267,7 @@ def close_modal(page):
 
 def process_pending_comments(page):
     """处理待处理队列中的所有 topic（通过点击模态框方式）"""
-    global comments_finished
+    global comments_finished, current_topic_page_id
 
     batch = list(pending_topics)  # 复制当前批次
     pending_topics.clear()
@@ -272,6 +281,14 @@ def process_pending_comments(page):
             logger.debug(f"process_pending_comments: topic_id={topic_id} 已处理，跳过")
             continue
 
+        # 检查 comments 文件是否已存在
+        if comments_file_exists(topic_id):
+            logger.info(f"  ⏭ 评论文件已存在，跳过: {topic_id}_*.json")
+            processed_topic_ids.add(topic_id)
+            continue
+
+        # 每个新 topic 开始时重置页码
+        current_topic_page_id = 0
         comments_finished = False
         logger.info(f"\n→ 抓取评论: topic_id={topic_id} ({i+1}/{len(batch)})")
 
