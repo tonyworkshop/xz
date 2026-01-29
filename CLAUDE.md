@@ -9,17 +9,23 @@
 - TOML (配置文件)
 
 ## 项目结构
-src/
-├── fetch_topics.py     # 主脚本
-├── config.toml         # 配置（星球 ID）
-├── .browser_data/      # 浏览器持久化数据（登录状态）
-├── .venv/              # 虚拟环境
+xz/
+├── CLAUDE.md
 ├── pyproject.toml      # Python 项目配置
-└── uv.lock             # 依赖锁定
-
-output/
-├── topics/      # topics API 响应 JSON
-└── comments/    # comments API 响应 JSON
+├── uv.lock             # 依赖锁定
+├── run.sh
+├── open.sh
+├── .gitignore
+├── .python-version     # Python 版本
+├── .venv/              # 虚拟环境（uv 自动创建）
+├── src/
+│   ├── fetch_topics.py # 主脚本
+│   ├── config.toml     # 配置（星球 ID）
+│   └── .browser_data/  # 浏览器持久化数据（登录状态）
+├── input/
+└── output/
+    ├── topics/         # topics API 响应 JSON
+    └── comments/       # comments API 响应 JSON
 
 ## 运行方式
 # 首次：打开浏览器登录

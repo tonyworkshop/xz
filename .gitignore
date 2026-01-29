@@ -1,8 +1,5 @@
-node_modules/
-dist/
-.xz/sync_state.json
-*.log
+.venv/
+.browser_data/
 .DS_Store
-.xz
-.playwright-mcp
-py/.browser_data/
+*.log
+.playwright-mcp/
