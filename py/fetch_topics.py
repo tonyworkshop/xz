@@ -9,6 +9,7 @@ import logging
 import random
 import signal
 import sys
+import tomllib
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse, parse_qs
@@ -23,8 +24,16 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+def load_config() -> dict:
+    """读取配置文件"""
+    config_path = Path(__file__).parent / "config.toml"
+    with open(config_path, "rb") as f:
+        return tomllib.load(f)
+
+
 # 配置
-GROUP_ID = "28888825825151"
+CONFIG = load_config()
+GROUP_ID = CONFIG["group_id"]
 TARGET_URL = f"https://wx.zsxq.com/group/{GROUP_ID}"
 TOPICS_API_PATTERN = f"api.zsxq.com/v2/groups/{GROUP_ID}/topics"
 COMMENTS_API_PATTERN = "api.zsxq.com/v2/topics/"
