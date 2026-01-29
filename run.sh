@@ -1,1 +1,1 @@
-source ./py/.venv/bin/activate && python ./py/fetch_topics.py
+source ./py/.venv/bin/activate && python ./py/fetch_topics.py --auto
