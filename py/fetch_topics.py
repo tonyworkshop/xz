@@ -207,7 +207,6 @@ def click_detail_button(page, button):
 def scroll_modal_for_comments(page):
     """在模态框内滚动，触发 comments API 请求"""
     global comments_finished
-    comments_finished = False
     logger.debug("scroll_modal_for_comments: 开始滚动加载评论")
 
     max_scrolls = 50
