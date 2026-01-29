@@ -303,8 +303,8 @@ def process_pending_comments(page):
         processed_topic_ids.add(topic_id)
         logger.debug(f"process_pending_comments: topic_id={topic_id} 处理完成")
 
-        # 随机延时
-        delay = random.randint(1000, 2000)
+        # 随机延时 (topic 间隔 5-8 秒)
+        delay = random.randint(5000, 8000)
         logger.debug(f"process_pending_comments: 随机延时 {delay}ms")
         page.wait_for_timeout(delay)
 
