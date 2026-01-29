@@ -13,22 +13,32 @@ xz/
 ├── CLAUDE.md
 ├── pyproject.toml      # Python 项目配置
 ├── uv.lock             # 依赖锁定
-├── run.sh
-├── update.sh
+├── run.sh              # 全量抓取 + 导入
+├── update.sh           # 增量抓取 + 导入
 ├── open.sh
+├── todo.md             # 待办事项
 ├── .gitignore
 ├── .python-version     # Python 版本
 ├── .venv/              # 虚拟环境（uv 自动创建）
 ├── src/
-│   ├── fetch_topics.py # 主脚本
-│   ├── config.toml     # 配置（星球 ID）
-│   └── .browser_data/  # 浏览器持久化数据（登录状态）
+│   ├── fetch_topics.py      # 抓取脚本
+│   ├── import_data.py       # JSON 导入数据库
+│   ├── download_resources.py # 资源下载脚本
+│   ├── db.py                # 数据库操作模块
+│   ├── config.toml          # 配置（星球 ID）
+│   └── .browser_data/       # 浏览器持久化数据（登录状态）
 ├── input/
 └── output/
     ├── topics/         # topics API 响应 JSON
-    └── comments/       # comments API 响应 JSON
+    ├── comments/       # comments API 响应 JSON
+    ├── xz.db           # SQLite 数据库
+    ├── images/         # 下载的图片
+    ├── files/          # 下载的文件（PDF/音频）
+    └── articles/       # 下载的文章 HTML
 
 ## 运行方式
+
+### 抓取数据
 # 首次：打开浏览器登录
 uv run python src/fetch_topics.py --open
 
@@ -46,6 +56,25 @@ uv run python src/fetch_topics.py --update 30 --manual
 
 # 等待登录后自动抓取
 uv run python src/fetch_topics.py --wait-login=30
+
+### 导入数据库
+uv run python src/import_data.py
+
+### 下载资源
+# 下载全部（图片 + 文章）
+uv run python src/download_resources.py
+
+# 仅下载图片
+uv run python src/download_resources.py --images
+
+# 仅下载文章
+uv run python src/download_resources.py --articles
+
+# 限制下载数量（测试用）
+uv run python src/download_resources.py --limit 5
+
+# 启用调试日志
+uv run python src/download_resources.py --debug
 
 ## 浏览器调试与验证
 **禁止使用 `uv run python src/fetch_topics.py` 启动浏览器进行调试验证。**
@@ -66,3 +95,24 @@ uv run python src/fetch_topics.py --wait-login=30
 | 帖子容器 | `app-topic` |
 | 查看详情按钮 | `div.details-container .text` |
 | 模态框 | `div.topic-detail` |
+
+## 资源下载原则
+
+**核心约束：资源需要登录后才能下载**
+- ❌ 禁止直接用 `requests` / `httpx` / `aiohttp` 发 HTTP 请求
+- ✅ 必须使用 Playwright 浏览器，复用 `.browser_data/` 中的登录状态
+- ✅ 通过 `page.goto(url)` 导航到资源 URL，获取响应内容
+
+### 资源类型与 URL
+| 资源 | URL 字段 | 文件名规则 |
+|------|----------|-----------|
+| images | `original_url` | `{image_id}.{image_type}` |
+| articles | `inline_article_url` | `{article_id}.html` |
+| files | 待抓包确认 | 直接用 `name` 字段 |
+
+### 下载状态追踪
+数据库中每个资源表都有：
+- `downloaded` (INTEGER): 0=未下载, 1=已下载
+- `local_path` (TEXT): 本地存储路径
+
+导入脚本不会重置已下载状态。
