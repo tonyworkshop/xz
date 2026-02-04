@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-01-29T20:31:31.341240",
+  "captured_at": "2026-02-03T23:14:06.994383",
   "url": "https://api.zsxq.com/v2/topics/82811228215548422/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "82811228215548422",
   "page_id": 0,
@@ -81,7 +81,7 @@
             "location": "四川"
           },
           "text": "我帮许大回答一下这个问题，说说我的理解：\n首先你要先搞清楚亏损的原因，是卖的这一头标的下跌了导致亏了delta，买的那头兜不住亏损；还是卖的权利金太少覆盖不了开支导致亏了theta；还是你在高iv的时候卖结果iv掉下来亏了vega？搞清楚原因才能对症下药。\n\n听你的描述，我感觉症结在你的卖的这一侧到期时间不够短（比如你没有用周期权、日期权来卖，而是用的月期权）且买的那一头时间不够长且你没有在近月移仓。\n\n这就导致，首先你卖的期权时间太长，你的周转率上不来，且远期权的权利金累计效率不够高，导致正股随便一跌你几个月就白卖了。\n\n其次，你买的put一直在亏theta，可能由于上面的原因你卖的这一头刚好就报销掉买的支出就到期了，且行情不够极端，买的期权兜不住没那么肥的事件，导致delta和theta全亏掉了。而你也没有在买侧到近月theta加速的时候移到更远来节省开销。\n\n另外你现在只是遇到了下跌行情，如果你这么做不买call的话，遇到单边上涨你就会一直踏空，这也是一个潜在问题。\n\n至于选择标的的标准，我个人认为是要期权能选择的到期日越近越好（最起码得有周级别的）、标的的内生性iv越大越好（风平浪静的时候波动都很大）、标的尽可能大概率走慢牛趋势且可能存在不小概率的巨幅回调行情、流动性要好。",
-          "likes_count": 8,
+          "likes_count": 10,
           "group_owner_liked": false,
           "topic_owner_liked": false,
           "rewards_count": 0,
@@ -121,7 +121,7 @@
                 "location": "上海"
               },
               "text": "求教老哥，Vega风险如何适当对冲？最近GLD/SLV获益不少，但是手里的头寸移仓后IV很高，不知道怎么提前对冲。我自己是针对手上的远期call多头做了一手bull call spread，试图锁定一下收益和高IV，求教有没有其他做法？",
-              "likes_count": 0,
+              "likes_count": 1,
               "group_owner_liked": false,
               "topic_owner_liked": false,
               "rewards_count": 0,
@@ -143,7 +143,7 @@
                 "location": "四川"
               },
               "text": "我的经验是vega很难对冲，做美股的还能考虑一下适当卖vix call（高位也要注意风险），别的我试过很多种方法，最后的结论就是适时赚够获利了解最简单，不一定要鱼头吃到鱼尾，想吃鱼尾巴不如直接拿一部分利润买spread一直移仓追涨。",
-              "likes_count": 0,
+              "likes_count": 1,
               "group_owner_liked": false,
               "topic_owner_liked": false,
               "rewards_count": 0,
@@ -292,6 +292,38 @@
             "location": "湖北"
           },
           "text": "期待大大作品，其实很多都是碎片化的信息，我这样的小白很期待有系统性的内容全面学习",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1524128181255152,
+          "create_time": "2026-01-31T16:43:04.023+0800",
+          "owner": {
+            "user_id": 215285414424821,
+            "name": "傻懒懒",
+            "avatar_url": "https://images.zsxq.com/Fp_Zrt0Kecx3N04f7DclyeP33vfG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pLn3NYdoW3gUPx4XRMUspyGaXFY=",
+            "location": "山东"
+          },
+          "text": "期待学习[玫瑰]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1524152251844552,
+          "create_time": "2026-02-02T21:43:27.218+0800",
+          "owner": {
+            "user_id": 141418485182,
+            "name": "苏州德易安环保科技 *",
+            "avatar_url": "https://images.zsxq.com/FoTIf8T97w-OHYY7-D7HPyIGDzUU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tmMuFU8uFm-X1TM5DlwRmTDCZyo=",
+            "location": "江苏"
+          },
+          "text": "这个坑，许大啥时候能填一下，迫切需要",
           "likes_count": 0,
           "group_owner_liked": false,
           "topic_owner_liked": false,

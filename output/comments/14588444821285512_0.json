@@ -1,0 +1,153 @@
+{
+  "captured_at": "2026-02-03T23:13:42.127787",
+  "url": "https://api.zsxq.com/v2/topics/14588444821285512/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "14588444821285512",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5125428544521284,
+          "create_time": "2026-01-31T10:56:12.549+0800",
+          "owner": {
+            "user_id": 218811851822481,
+            "name": "大蒜开门",
+            "avatar_url": "https://images.zsxq.com/FlN3k4qpzybTZ50AYTwwXg8gkSk9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XIj-pZBFSs195F1CtgXFBypaeAU=",
+            "location": "浙江"
+          },
+          "text": "同问，会止盈吗。如果止盈后再怎么操作呢",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1524128824282222,
+          "create_time": "2026-01-31T22:33:38.527+0800",
+          "owner": {
+            "user_id": 144254841842,
+            "name": "许哲",
+            "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+            "location": "美国"
+          },
+          "text": "没有特别好的办法，因为我们本来就假定未来不可预测。\n\n当这种特别离谱的行情发生时，你不知道它是在一半还是已经接近终点了。所以有比较大的浮盈时，可以先止盈一点，但依然保持持仓。如果行情继续往这个方向疯狂发展，那就再止盈一点。\n\n最后一段吃不到也没有关系，这样做肯定比永远拿着赚得少，那是肯定的。但只要我们接受了“未来不可预测”这个设定，这样做就没有什么值得后悔的。",
+          "likes_count": 5,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 5125428828118144,
+              "parent_comment_id": 1524128824282222,
+              "create_time": "2026-01-31T23:38:25.760+0800",
+              "owner": {
+                "user_id": 421424828814588,
+                "name": "智-",
+                "avatar_url": "https://images.zsxq.com/Fig5w4-sfHn8-hCthMldJvykAYaw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FvoMjlhPbDGlJ88sJYcfSSjHg0Y=",
+                "location": "广东"
+              },
+              "text": "请教一下许大，止盈的那一部分（比如昨天晚上的slv暴跌 止盈变成itm的put ），还需要再相应的去开OTM的put吗",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 8852451151448142,
+              "parent_comment_id": 1524128824282222,
+              "create_time": "2026-02-01T01:40:11.667+0800",
+              "owner": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+                "location": "美国"
+              },
+              "text": "止盈的时候就应该把itm put roll成otm put，至于roll到多otm这个要看你对整体的delta gamma还有gamma性价比的掌控了。因为盘中你也不知道底在哪里，如果继续跌你roll成otm的put又会吃一波凸性的加速增长，如果回涨上去那目的也达到了资产价值恢复了一些且你的put止盈了。",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 421424828814588,
+                "name": "智-",
+                "avatar_url": "https://images.zsxq.com/Fig5w4-sfHn8-hCthMldJvykAYaw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FvoMjlhPbDGlJ88sJYcfSSjHg0Y="
+              }
+            },
+            {
+              "comment_id": 4845241141218588,
+              "parent_comment_id": 1524128824282222,
+              "create_time": "2026-02-01T03:50:38.999+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "看你想不想追",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 421424828814588,
+                "name": "智-",
+                "avatar_url": "https://images.zsxq.com/Fig5w4-sfHn8-hCthMldJvykAYaw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FvoMjlhPbDGlJ88sJYcfSSjHg0Y="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5125428852225224,
+          "create_time": "2026-02-01T17:59:42.304+0800",
+          "owner": {
+            "user_id": 825114811222,
+            "name": "喧嚣",
+            "avatar_url": "https://images.zsxq.com/Fsjidk0bUbDrqyjx3DJ2Q20O1lCw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Xg6ZzfQ9GHRoPOLUX3rQNmZOAzU=",
+            "location": "重庆"
+          },
+          "text": "例子来了：五天三倍不止盈，转眼一天就归零",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "images": [
+            {
+              "image_id": 5122822288481814,
+              "type": "jpg",
+              "thumbnail": {
+                "url": "https://images.zsxq.com/Furdyi6NzIRCAWm75x2Ufw58D45i?imageMogr2/auto-orient/thumbnail/380x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:byJezr1HG0MODqdH4jszr-Vg7-8=",
+                "width": 380,
+                "height": 654
+              },
+              "large": {
+                "url": "https://images.zsxq.com/Furdyi6NzIRCAWm75x2Ufw58D45i?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pZHiz4fYMIfi12QCiE8ESG2KpzU=",
+                "width": 800,
+                "height": 1378
+              },
+              "original": {
+                "url": "https://images.zsxq.com/Furdyi6NzIRCAWm75x2Ufw58D45i?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Kbt7FEGQp0VeK3pUaC2A5RS4-lM=",
+                "width": 1080,
+                "height": 1860,
+                "size": 453456
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

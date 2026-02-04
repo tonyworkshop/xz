@@ -19,7 +19,8 @@
       "mcp__plugin_playwright_playwright__browser_evaluate",
       "mcp__plugin_playwright_playwright__browser_wait_for",
       "Bash(uv run:*)",
-      "Bash(sqlite3:*)"
+      "Bash(sqlite3:*)",
+      "Bash(head:*)"
     ]
   }
 }

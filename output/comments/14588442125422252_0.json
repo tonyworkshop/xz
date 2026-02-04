@@ -1,0 +1,62 @@
+{
+  "captured_at": "2026-02-03T23:13:58.366126",
+  "url": "https://api.zsxq.com/v2/topics/14588442125422252/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "14588442125422252",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5125428182581114,
+          "create_time": "2026-01-30T08:55:37.706+0800",
+          "owner": {
+            "user_id": 818512848824882,
+            "name": "kars",
+            "avatar_url": "https://images.zsxq.com/Fir_JMUYO8AtBEXYNn6qubPFE2bG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0HytiphXLI6YBZAmtQPTssTgA6Y=",
+            "location": "北京"
+          },
+          "text": "反重力还是太笨了 不如cursor",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4845241581452258,
+          "create_time": "2026-01-30T17:34:23.940+0800",
+          "owner": {
+            "user_id": 88818181241512,
+            "name": "沉默的猪",
+            "avatar_url": "https://images.zsxq.com/FmUFkIZDlnVDAUPoGDa5um1np5vM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lMJEM4h1g4le_ZAZW2J2a0KgqZc=",
+            "location": "北京"
+          },
+          "text": "许大可以分享下设置的prompt么 或者适合一般人做投资分析的prompt",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1524128411488522,
+          "create_time": "2026-01-31T11:09:53.007+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "广东"
+          },
+          "text": "您用过国产大模型比如DeepSeek吗？评价如何？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

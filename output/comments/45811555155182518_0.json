@@ -1,0 +1,77 @@
+{
+  "captured_at": "2026-02-03T23:13:11.331755",
+  "url": "https://api.zsxq.com/v2/topics/45811555155182518/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "45811555155182518",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 8852485525885152,
+          "create_time": "2026-02-03T00:51:34.690+0800",
+          "owner": {
+            "user_id": 48418222824818,
+            "name": "格蕾丝",
+            "avatar_url": "https://images.zsxq.com/FlcUzvwrpkEQwsfVadlTmUujf2Ot?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Cp-gZxTg_HLjRhusLgu-NRUOjb8=",
+            "location": "上海"
+          },
+          "text": "上周四的上午看完QQQAI的视频，仔细研究了期权结构下的期限错配策略，还看好了5个月以后OTM的PUT标的，犹豫了一下没马上买，结果到晚上美股开盘，加密直接崩盘[流泪][流泪][流泪]反思了一下，还是知行不够合一啊[流泪][流泪][流泪]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 2852485822441281,
+              "parent_comment_id": 8852485525885152,
+              "create_time": "2026-02-03T08:29:51.329+0800",
+              "owner": {
+                "user_id": 48548152251228,
+                "name": "露露",
+                "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aGnF__7MPCA0sdOjfUp4dVdT6o8=",
+                "location": "上海"
+              },
+              "text": "请问qqqai的视频在哪里看呀？[玫瑰][玫瑰][玫瑰]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48418222824818,
+                "name": "格蕾丝",
+                "avatar_url": "https://images.zsxq.com/FlcUzvwrpkEQwsfVadlTmUujf2Ot?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Cp-gZxTg_HLjRhusLgu-NRUOjb8="
+              }
+            },
+            {
+              "comment_id": 1524152544884212,
+              "parent_comment_id": 8852485525885152,
+              "create_time": "2026-02-03T08:46:49.185+0800",
+              "owner": {
+                "user_id": 48418222824818,
+                "name": "格蕾丝",
+                "avatar_url": "https://images.zsxq.com/FlcUzvwrpkEQwsfVadlTmUujf2Ot?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Cp-gZxTg_HLjRhusLgu-NRUOjb8=",
+                "location": "上海"
+              },
+              "text": "B站有完整版，还有许哲大大的演讲视频",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48548152251228,
+                "name": "露露",
+                "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aGnF__7MPCA0sdOjfUp4dVdT6o8="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

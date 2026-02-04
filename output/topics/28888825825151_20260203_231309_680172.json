@@ -1,0 +1,238 @@
+{
+  "captured_at": "2026-02-03T23:13:09.680199",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 45811555155182518,
+          "topic_uid": "45811555155182518",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 48418222824818,
+              "name": "格蕾丝",
+              "avatar_url": "https://images.zsxq.com/FlcUzvwrpkEQwsfVadlTmUujf2Ot?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Cp-gZxTg_HLjRhusLgu-NRUOjb8=",
+              "location": "上海"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "还想问下选择投资标的的标准，之前我卖期权时主要是选择相对权利金比较高的，波动率比较大的标的，但买远期的虚值期权也会相对更贵。受许大大的买期权的期权凸性更高的启发，类似TQQQ这种加杠杆的ETF标的和VIX相关的衍生品（VXX、UVXY等）有加杠杆，还有其他推荐适合的标的吗？另外也会担心期权的深度不够，Spread会太大",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 1,
+              "join_time": "2026-01-30T12:55:53.984+0800",
+              "status": "joined"
+            },
+            "owner_location": "上海"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "TQQQ的好处是可以更快的把标的的成本降低到0，这里面含着一个凸性的意思在里面，即资产的价格无法低于0\n\n其实做成本选择标的最重要的是你想要持有什么标的，期权只是工具，我最近做成本的一个是芯片类的，因为HBM的持续效应和未来能源不足必须重新启动核电站，甚至是小型反应堆的一些标的，主要看你想持有什么。\n\n并且，最重要的，无论你多看好你的标的，永远用足够多的OTM PUT发生你完全认知之外的事情依然保持凸性，如果做不到至少要有足够的韧性。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-02-03T20:21:02.624+0800",
+              "owner": {
+                "user_id": 218884828258281,
+                "name": "宁",
+                "avatar_url": "https://images.zsxq.com/Ft5csrqi_vZqa0dCWlxQFMyn76E_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hpiFcUbXi_WbpMGsr8RCriKSCtI="
+              }
+            },
+            {
+              "create_time": "2026-02-03T17:37:14.060+0800",
+              "owner": {
+                "user_id": 218224188452481,
+                "name": "人民艺术家",
+                "avatar_url": "https://images.zsxq.com/Fhj9Rh93138tbj5Ge814HFIbS2ql?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fYSrXnGDjg_4TbeKxI-2ANEcfXU="
+              }
+            },
+            {
+              "create_time": "2026-02-03T16:31:50.169+0800",
+              "owner": {
+                "user_id": 548488552488254,
+                "name": "杨帆 1596199*",
+                "avatar_url": "https://images.zsxq.com/FvQRzJYLrPZ2BP8w7h_ylQGNC4r4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nILgCEkFsaKWAoVn6UJZz5M575c="
+              }
+            },
+            {
+              "create_time": "2026-02-03T15:27:56.824+0800",
+              "owner": {
+                "user_id": 48888218821448,
+                "name": "后中先",
+                "avatar_url": "https://images.zsxq.com/FgMU4F6QPUmflR3useJkg84ci1zi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o0dwW_iV0MVOnxzlk7z1whiVWY0="
+              }
+            },
+            {
+              "create_time": "2026-02-03T14:40:45.357+0800",
+              "owner": {
+                "user_id": 484482888,
+                "name": "chenng",
+                "avatar_url": "https://images.zsxq.com/FvtO3Fg-yq8fO0tatNHPzDm_7KTQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:r5ds4fycwCDlAgZcASr8KW8B5Iw="
+              }
+            },
+            {
+              "create_time": "2026-02-03T12:49:33.656+0800",
+              "owner": {
+                "user_id": 548848585244144,
+                "name": "知己",
+                "avatar_url": "https://images.zsxq.com/FinHNNaiJ_9uXMKLvIb3CiiXKA4p?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XLuYgdz8Z4t9-QyGhe0LnhjUJXs="
+              }
+            },
+            {
+              "create_time": "2026-02-03T12:03:45.173+0800",
+              "owner": {
+                "user_id": 51288541822854,
+                "name": "专注未来",
+                "avatar_url": "https://images.zsxq.com/FgiX2yOSmwfnrwug8kwkayL1q5ym?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:poaMSACA56dgWvwyT86lUEgKDQc="
+              }
+            },
+            {
+              "create_time": "2026-02-03T09:38:12.950+0800",
+              "owner": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fp8Z2mElz4XDsFUsYPJ_x3l5H8U="
+              }
+            },
+            {
+              "create_time": "2026-02-03T09:09:42.905+0800",
+              "owner": {
+                "user_id": 548882225458844,
+                "name": "loho",
+                "avatar_url": "https://images.zsxq.com/Fmry26DEgac_1SnYbP9xt7gZf87X?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OXbYuoDW20UlMs4Ir8NOcUxp8LI="
+              }
+            },
+            {
+              "create_time": "2026-02-03T08:32:49.809+0800",
+              "owner": {
+                "user_id": 48548152251228,
+                "name": "露露",
+                "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aGnF__7MPCA0sdOjfUp4dVdT6o8="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 8852485525885152,
+              "create_time": "2026-02-03T00:51:34.690+0800",
+              "owner": {
+                "user_id": 48418222824818,
+                "name": "格蕾丝",
+                "avatar_url": "https://images.zsxq.com/FlcUzvwrpkEQwsfVadlTmUujf2Ot?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Cp-gZxTg_HLjRhusLgu-NRUOjb8=",
+                "location": "上海"
+              },
+              "text": "上周四的上午看完QQQAI的视频，仔细研究了期权结构下的期限错配策略，还看好了5个月以后OTM的PUT标的，犹豫了一下没马上买，结果到晚上美股开盘，加密直接崩盘[流泪][流泪][流泪]反思了一下，还是知行不够合一啊[流泪][流泪][流泪]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "replies_count": 2
+            },
+            {
+              "comment_id": 2852485822441281,
+              "parent_comment_id": 8852485525885152,
+              "create_time": "2026-02-03T08:29:51.329+0800",
+              "owner": {
+                "user_id": 48548152251228,
+                "name": "露露",
+                "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aGnF__7MPCA0sdOjfUp4dVdT6o8=",
+                "location": "上海"
+              },
+              "text": "请问qqqai的视频在哪里看呀？[玫瑰][玫瑰][玫瑰]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48418222824818,
+                "name": "格蕾丝",
+                "avatar_url": "https://images.zsxq.com/FlcUzvwrpkEQwsfVadlTmUujf2Ot?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Cp-gZxTg_HLjRhusLgu-NRUOjb8="
+              }
+            },
+            {
+              "comment_id": 1524152544884212,
+              "parent_comment_id": 8852485525885152,
+              "create_time": "2026-02-03T08:46:49.185+0800",
+              "owner": {
+                "user_id": 48418222824818,
+                "name": "格蕾丝",
+                "avatar_url": "https://images.zsxq.com/FlcUzvwrpkEQwsfVadlTmUujf2Ot?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Cp-gZxTg_HLjRhusLgu-NRUOjb8=",
+                "location": "上海"
+              },
+              "text": "B站有完整版，还有许哲大大的演讲视频",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48548152251228,
+                "name": "露露",
+                "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aGnF__7MPCA0sdOjfUp4dVdT6o8="
+              }
+            },
+            {
+              "comment_id": 2852485844554111,
+              "parent_comment_id": 4845284822444188,
+              "create_time": "2026-02-03T12:24:23.436+0800",
+              "owner": {
+                "user_id": 48418222824818,
+                "name": "格蕾丝",
+                "avatar_url": "https://images.zsxq.com/FlcUzvwrpkEQwsfVadlTmUujf2Ot?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Cp-gZxTg_HLjRhusLgu-NRUOjb8=",
+                "location": "上海"
+              },
+              "text": "幸亏没裸卖，到期准备接货[尴尬]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 415821422152488,
+                "name": "构建遍历性",
+                "avatar_url": "https://images.zsxq.com/FsMoXEQe4khurPTIyhd2UhWXO0z1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J-6PuhWJEeZK8Xit-c7k6aAX4uI="
+              }
+            }
+          ],
+          "likes_count": 19,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 19
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 5,
+          "reading_count": 1,
+          "readers_count": 452,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-02-03T00:42:31.954+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "TQQQ的好处是可以更快的把标..."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "captured_at": "2026-02-03T23:13:19.570768",
+  "url": "https://api.zsxq.com/v2/topics/82811224848454252/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "82811224848454252",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4845284481422288,
+          "create_time": "2026-02-02T22:06:02.080+0800",
+          "owner": {
+            "user_id": 241115811521841,
+            "name": "可可她爸",
+            "avatar_url": "https://images.zsxq.com/Fh7TKJIqvqwAtnZ0EL5uKE8FyWEf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NFlME0Hcus5iDBHjNaSz0E_8XXE=",
+            "location": "山东"
+          },
+          "text": "利差额额缺口应该是来自基准利率下降和购买力缺口导致的国债价格下降吧？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4845284481548528,
+              "parent_comment_id": 4845284481422288,
+              "create_time": "2026-02-02T22:30:31.746+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "对，基准利率下降了，但国债少了个大买家价格下跌了收益率上涨了，这就有一个套利空间出现了。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 241115811521841,
+                "name": "可可她爸",
+                "avatar_url": "https://images.zsxq.com/Fh7TKJIqvqwAtnZ0EL5uKE8FyWEf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NFlME0Hcus5iDBHjNaSz0E_8XXE="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2852485581858141,
+          "create_time": "2026-02-02T22:17:10.137+0800",
+          "owner": {
+            "user_id": 51115214584144,
+            "name": "Sparker",
+            "avatar_url": "https://images.zsxq.com/FqoxlPiM0ksKGG1uSJFJT_KzYer4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2yi61B9Xell7ZpxL4l3xd_0zERQ=",
+            "location": "上海"
+          },
+          "text": "如果这一切技术上得以实施，那么是不是如一些分析认为的缩表导致的大规模抽水使得资本市场要被动“消泡沫”？还是说现在的市场反应有些过激了呢？或者市场的反应可以被认为是源于对缩表速度和规模的未知？于是先出来避险？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 1524152258424152,
+              "parent_comment_id": 2852485581858141,
+              "create_time": "2026-02-02T22:31:18.221+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "这种事后解释大部分都是事后圆的，完全相反的市场行情一样可以“被解释”，对于这些市场评论我一贯的态度就是无视。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51115214584144,
+                "name": "Sparker",
+                "avatar_url": "https://images.zsxq.com/FqoxlPiM0ksKGG1uSJFJT_KzYer4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2yi61B9Xell7ZpxL4l3xd_0zERQ="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "captured_at": "2026-02-03T23:13:51.074108",
+  "url": "https://api.zsxq.com/v2/topics/45811555144841228/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "45811555144841228",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1524128414488482,
+          "create_time": "2026-01-31T09:38:53.832+0800",
+          "owner": {
+            "user_id": 182245228224182,
+            "name": "hellojcb",
+            "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+            "location": "美国"
+          },
+          "text": "恭喜老兄啊！请问你长短put是严格2比1配的吗还是比2比1更大？我自己有SLV感觉2比1不够啊，short put全挂 long的otm call也几乎全挂了，今天盘中真的是惊心动魄，roll长期put的时候你不心慌吗？因为我短期的short put全挂了同时也不知道底在哪里。",
+          "likes_count": 1,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 5125428814284584,
+              "parent_comment_id": 1524128414488482,
+              "create_time": "2026-02-01T12:38:39.087+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "我自己喜欢2.5～3：1，跟你otm多远，到期时间都有关，不可一概而论。roll的时候long/short IV都高倒也不害怕。如果想多对冲一下vega，可以做一手垂直价差，补点short 头寸，坏处是如果行情继续，挣得就打折不少，这个看自己判断了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8="
+              }
+            },
+            {
+              "comment_id": 5125428814124524,
+              "parent_comment_id": 1524128414488482,
+              "create_time": "2026-02-01T12:49:08.146+0800",
+              "owner": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8=",
+                "location": "美国"
+              },
+              "text": "感谢回复啊！我感觉你跟Ray都老棒了！",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18="
+              }
+            },
+            {
+              "comment_id": 2852451111111411,
+              "parent_comment_id": 1524128414488482,
+              "create_time": "2026-02-02T14:24:50.154+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "兄弟谬赞，我差远了[破涕为笑]共勉[奋斗]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}
