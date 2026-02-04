@@ -23,4 +23,8 @@ uv run ./src/download_resources.py --articles --debug >> output/update.log 2>&1
 log "下载图片..."
 uv run ./src/download_resources.py --images --debug >> output/update.log 2>&1
 
+log "提交更新..."
+git add output/
+git commit -m "auto: update $(date '+%Y-%m-%d %H:%M')" --allow-empty || true
+
 log "=== 更新完成 ==="
