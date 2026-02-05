@@ -1,0 +1,97 @@
+{
+  "captured_at": "2026-02-05T12:18:33.260595",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 14588441514121122,
+          "topic_uid": "14588441514121122",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 822844485252,
+              "name": "阿为Away",
+              "avatar_url": "https://images.zsxq.com/FtQO2jz9XdLmXhjU0eU0NfNF5DQc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f0G2ByQLjcbqd9fl32t3tr-198U=",
+              "location": "北京"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "许大好，想请教您对近期 Coinbase 与传统银行关于“稳定币收益（Yield/Interest）”之争的看法：\n\n​最近《<e type=\"web\" href=\"https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Fweread%2Fsearch.html%3Fkeyword%3DCLARITY%20%E6%B3%95%E6%A1%88\" title=\"CLARITY%20%E6%B3%95%E6%A1%88\" style=\"book\" />》的修订引发了巨大争议，核心在于是否允许 Coinbase 等非银行机构向稳定币用户支付利息。\n\n传统银行接受资本充足率监管是因为有信贷杠杆和放贷风险，或许还有一些资产的流动性风险。但 Coinbase 提供的是 1:1 储备，并不通过放贷创造信用。\n\n​Coinbase 的稳定币底层资产主要是美债。现在的逻辑是：用户享受了“与美元挂钩”的稳定性（避险），却没有承担美债的价格波动风险（由 Coinbase 运营承担，承担不了可能冲击整个金融市场去承担，确实存在这个负外部效应）\n\n​银行是通过信贷创造货币，货币由美联储提供担保。而 Coinbase 这种模式似乎更接近美联储，但是它却没有美联储的这种强力的权力保障。\n\n​您觉得最终的平衡点会在哪里？",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 3,
+              "join_time": "2024-03-14T12:42:40.620+0800",
+              "status": "joined"
+            },
+            "owner_location": "北京"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "所有稳定币法案中不允许发行公司向终端客户派发利息的规定，本质上是反市场的，也是不可能成功的。\n\n就像质押 ETH 最后会产生 stETH 一样，总会有金融手法让终端客户享受到资产持有者应得的权益。持有美元的客户应该能拿到美元利息，这才是符合市场原则的。否则，如果有 A、B 两家稳定币发行商：\n1. A 不给客户利息，将利息作为利润全额吞掉；\n2. B 以变相方式为客户提供利息。\n\n最终 B 一定会胜出，这就是市场规律。市场是最终的裁判者，不以法律法规为转移。就像某些失败国家，无论法律如何严限定只能使用本币，实际流通的货币可能依然是美元。\n\n因此，法规最后一定会屈从于规律本身。至于承担国债波动的风险，这是所有银行都在承担的。核心关键在于，我们存入美元现金，银行在背后购买美国国债，其资产表现就会受到美元利率的影响。\n\n如果真的出现问题，美联储（联邦储备银行）会提供紧急贴现窗口。稳定币发行公司事实上扮演的是商业银行而非央行的角色。问题的关键在于：美联储会对 Circle 这样的公司提供紧急贴现窗口吗？如果会，那么稳定币发行方与大型商业银行就没有任何区别，你可以将稳定币视作一种美元存款。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-02-05T12:01:54.584+0800",
+              "owner": {
+                "user_id": 415454152452228,
+                "name": "Good",
+                "avatar_url": "https://images.zsxq.com/FmFU0MAKiDXvO8VKzp-VwwpABbFW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4NRuRRejfE8pLZfTHwjF9NGSqAE="
+              }
+            },
+            {
+              "create_time": "2026-02-05T10:46:36.195+0800",
+              "owner": {
+                "user_id": 51512554155154,
+                "name": "苏sui安娜🌰🌰🌴在*",
+                "avatar_url": "https://images.zsxq.com/FrfogaQsO6nqbAYS9CfpglCj1xNh?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XVMX_sjc_JwrCVlDUctlXkRzCjA="
+              }
+            }
+          ],
+          "likes_count": 2,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 2
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 180,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-02-05T10:37:22.434+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "所有稳定币法案中不允许发行公司..."
+        }
+      ]
+    }
+  }
+}

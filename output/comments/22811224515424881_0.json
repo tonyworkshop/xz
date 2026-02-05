@@ -1,0 +1,93 @@
+{
+  "captured_at": "2026-02-05T12:18:43.821043",
+  "url": "https://api.zsxq.com/v2/topics/22811224515424881/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "22811224515424881",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1524152124415522,
+          "create_time": "2026-02-05T10:35:49.186+0800",
+          "owner": {
+            "user_id": 228588842551,
+            "name": "480",
+            "avatar_url": "https://images.zsxq.com/FjnxNQOFd039YkJyearKzpmsaqPq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BmSlmYjiQVErAg_PK2boAsbPx-I=",
+            "location": "广东"
+          },
+          "text": "许大是懂拿捏AI的",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2852485452242581,
+          "create_time": "2026-02-05T10:36:59.682+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "对，我写代码的一个核心技巧就是它写完，我再让它换个立场来Review，在人肉验证提出问题，然后再改，再Review，自己互搏几次代码就会非常健壮",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 1524152124418282,
+              "parent_comment_id": 2852485452242581,
+              "create_time": "2026-02-05T10:38:47.454+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "我觉得这个技巧以后应该被写进 Codex 或者 Cloud Code 这样的工具里面，让它自己隐式地不断进行几次迭代。这会是未来自动化编程工具里面必备的一个 Prompt 技巧。",
+              "likes_count": 2,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+              }
+            },
+            {
+              "comment_id": 1524152124185812,
+              "parent_comment_id": 2852485452242581,
+              "create_time": "2026-02-05T10:49:55.703+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "location": "四川"
+              },
+              "text": "不过工具不能替代的是有时候Review我会带来增量信息，比如重申一遍需求一类的，这可能是难以自动化的部分",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}
