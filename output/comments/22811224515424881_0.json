@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-02-06T00:24:32.174746",
+  "captured_at": "2026-02-06T06:27:34.337312",
   "url": "https://api.zsxq.com/v2/topics/22811224515424881/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "22811224515424881",
   "page_id": 0,
@@ -38,7 +38,7 @@
           "topic_owner_liked": false,
           "rewards_count": 0,
           "sticky": false,
-          "replies_count": 2,
+          "replies_count": 3,
           "replied_comments": [
             {
               "comment_id": 1524152124418282,
@@ -82,6 +82,28 @@
                 "user_id": 144254841842,
                 "name": "许哲",
                 "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 1524152812154422,
+              "parent_comment_id": 2852485452242581,
+              "create_time": "2026-02-06T00:27:08.669+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "Human in the loop 也是现在的共识，我想未来码农的位置就在这里了[破涕为笑]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
               }
             }
           ]
