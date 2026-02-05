@@ -17,8 +17,24 @@ from db import (
     upsert_user,
 )
 
-TOPICS_DIR = Path(__file__).parent.parent / "output" / "topics"
-COMMENTS_DIR = Path(__file__).parent.parent / "output" / "comments"
+OUTPUT_DIR = Path(__file__).parent.parent / "output"
+TOPICS_DIR = OUTPUT_DIR / "topics"
+COMMENTS_DIR = OUTPUT_DIR / "comments"
+STATS_FILE = OUTPUT_DIR / ".import_stats"
+
+
+def get_counts(conn) -> dict[str, int]:
+    """获取帖子和评论总数"""
+    topics = conn.execute("SELECT COUNT(*) FROM topics").fetchone()[0]
+    comments = conn.execute("SELECT COUNT(*) FROM comments").fetchone()[0]
+    return {"topics": topics, "comments": comments}
+
+
+def write_stats(new_topics: int, new_comments: int):
+    """写入统计文件供 shell 脚本读取"""
+    with open(STATS_FILE, "w") as f:
+        f.write(f"NEW_TOPICS={new_topics}\n")
+        f.write(f"NEW_COMMENTS={new_comments}\n")
 
 
 def extract_users_from_topic(topic: dict) -> list[dict]:
@@ -180,6 +196,9 @@ def import_all():
 
     conn = get_connection()
 
+    # 记录导入前的数量
+    before = get_counts(conn)
+
     # 导入 topics
     topics_files = sorted(TOPICS_DIR.glob("*.json"))
     total_topics = 0
@@ -235,6 +254,15 @@ def import_all():
             f"SELECT COUNT(*) FROM {table} WHERE downloaded = 1"
         ).fetchone()[0]
         print(f"  {name}: {downloaded}/{total} 已下载")
+
+    # 计算新增数量并写入统计文件
+    after = get_counts(conn)
+    new_topics = after["topics"] - before["topics"]
+    new_comments = after["comments"] - before["comments"]
+    write_stats(new_topics, new_comments)
+    print(f"\n=== 本次新增 ===")
+    print(f"  帖子: +{new_topics}")
+    print(f"  评论: +{new_comments}")
 
     conn.close()
 

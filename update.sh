@@ -25,7 +25,19 @@ uv run ./src/download_resources.py --images --debug >> output/update.log 2>&1
 
 log "提交更新..."
 git add output/
-git commit -m "auto: update $(date '+%Y-%m-%d %H:%M')" --allow-empty || true
+
+# 读取统计文件
+NEW_TOPICS=0
+NEW_COMMENTS=0
+[ -f output/.import_stats ] && source output/.import_stats
+
+# 构建 commit message
+MSG="auto: update $(date '+%Y-%m-%d %H:%M')"
+if [ "$NEW_TOPICS" -gt 0 ] || [ "$NEW_COMMENTS" -gt 0 ]; then
+    MSG="$MSG | +${NEW_TOPICS} topics, +${NEW_COMMENTS} comments"
+fi
+
+git commit -m "$MSG" --allow-empty || true
 git push
 
 log "=== 更新完成 ==="
