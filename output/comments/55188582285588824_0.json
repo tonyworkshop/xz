@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-02-13T13:51:26.802693",
+  "captured_at": "2026-02-13T19:54:19.456724",
   "url": "https://api.zsxq.com/v2/topics/55188582285588824/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "55188582285588824",
   "page_id": 0,
@@ -79,7 +79,7 @@
           "topic_owner_liked": false,
           "rewards_count": 0,
           "sticky": false,
-          "replies_count": 1,
+          "replies_count": 2,
           "replied_comments": [
             {
               "comment_id": 5125415218885884,
@@ -92,7 +92,7 @@
                 "location": "美国"
               },
               "text": "目前只支持盈透API，因为我熟悉也有测试环境，其他券商的没让写（但我觉得AI完全可以做到）",
-              "likes_count": 0,
+              "likes_count": 1,
               "group_owner_liked": false,
               "topic_owner_liked": false,
               "rewards_count": 0,
@@ -101,6 +101,28 @@
                 "user_id": 2452542441,
                 "name": "Zac",
                 "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18="
+              }
+            },
+            {
+              "comment_id": 5125415258554114,
+              "parent_comment_id": 8852482584888512,
+              "create_time": "2026-02-13T18:32:27.583+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18=",
+                "location": "上海"
+              },
+              "text": "那就够了，用IB的应该不在少数，许大威武[呲牙]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
               }
             }
           ]
