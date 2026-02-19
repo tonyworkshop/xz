@@ -1,0 +1,77 @@
+{
+  "captured_at": "2026-02-19T15:03:15.728819",
+  "url": "https://api.zsxq.com/v2/topics/45811514152221818/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "45811514152221818",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1524154145121812,
+          "create_time": "2026-02-19T13:32:22.853+0800",
+          "owner": {
+            "user_id": 215554511452881,
+            "name": "J.",
+            "avatar_url": "https://images.zsxq.com/Fj7BJ2nXf-44jvsrxXKnJRKlJcV6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WmjFPUkyuAoc3dkBtg5HzRO7pmY=",
+            "location": "广东"
+          },
+          "text": "许老大，过年时使用了ai服务开发项目，我感觉非常焦虑。我在云服务器上部署了ai agent服务，微信作为入口。过年时，我全程用手机与ai交流开发。其中一个项目我是在饭桌上吃饭喝酒完成的，整个过程我没有看过一行代码。平均一两小时就能达到很高完成度，项目开发难度是中级工程师水平，而整个ai服务成本一个月几百块而已。ai对一般牛马完全是碾压。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 1524154145128242,
+              "parent_comment_id": 1524154145121812,
+              "create_time": "2026-02-19T13:34:10.389+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "但真遇到技术实现原理层面的决策，还是要有经验的架构师的。纯牛马码农，确实被淘汰了。升级自己吧，否则丢饭碗是必然的了。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 215554511452881,
+                "name": "J.",
+                "avatar_url": "https://images.zsxq.com/Fj7BJ2nXf-44jvsrxXKnJRKlJcV6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WmjFPUkyuAoc3dkBtg5HzRO7pmY="
+              }
+            },
+            {
+              "comment_id": 4845285258185848,
+              "parent_comment_id": 1524154145121812,
+              "create_time": "2026-02-19T14:46:00.995+0800",
+              "owner": {
+                "user_id": 844122181828582,
+                "name": "打酱油嘀",
+                "avatar_url": "https://images.zsxq.com/FmrZy0Wd395wZPFKDpMBS7tNHdGj?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:V9jYS4dn8AWo3ylL6X7j_tnmaUM=",
+                "location": "天津"
+              },
+              "text": "AI已经具备engineering能力了么？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

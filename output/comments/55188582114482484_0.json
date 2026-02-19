@@ -1,0 +1,77 @@
+{
+  "captured_at": "2026-02-19T15:03:22.579890",
+  "url": "https://api.zsxq.com/v2/topics/55188582114482484/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "55188582114482484",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1524154145551212,
+          "create_time": "2026-02-19T11:41:53.835+0800",
+          "owner": {
+            "user_id": 142458225252,
+            "name": "耿一铭",
+            "avatar_url": "https://images.zsxq.com/Ft_gu7zlezkMrg2lgE_Dd7DlmppW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T42dvtowL1Iu3bA_Uavt0R_Xnaw=",
+            "location": "美国"
+          },
+          "text": "许大，是不是买call和买put都在低IV时买入，然后卖put和卖call都是高IV多卖，低IV少卖？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 8852482428844442,
+              "parent_comment_id": 1524154145551212,
+              "create_time": "2026-02-19T12:13:56.407+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "location": "美国"
+              },
+              "text": "肯定是这样",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 142458225252,
+                "name": "耿一铭",
+                "avatar_url": "https://images.zsxq.com/Ft_gu7zlezkMrg2lgE_Dd7DlmppW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T42dvtowL1Iu3bA_Uavt0R_Xnaw="
+              }
+            },
+            {
+              "comment_id": 2852482428188151,
+              "parent_comment_id": 1524154145551212,
+              "create_time": "2026-02-19T14:42:51.836+0800",
+              "owner": {
+                "user_id": 244111541218441,
+                "name": "！",
+                "avatar_url": "https://images.zsxq.com/Fs4_UW2jvcUWjxdmR8-jaSb2_rCr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:LNtOE-2qxu-f80ZNr68fMVEgKmI=",
+                "location": "福建"
+              },
+              "text": "许大还有上下集吗。我是不是少看了什么",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}
