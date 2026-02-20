@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-02-20T09:12:02.216270",
+  "captured_at": "2026-02-20T15:14:50.175058",
   "url": "https://api.zsxq.com/v2/topics/45811514152221818/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "45811514152221818",
   "page_id": 0,
@@ -170,6 +170,38 @@
                 "user_id": 51511412418454,
                 "name": "Li Zhao",
                 "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5125415441144124,
+          "create_time": "2026-02-20T11:42:10.054+0800",
+          "owner": {
+            "user_id": 48221855418558,
+            "name": "润土",
+            "avatar_url": "https://images.zsxq.com/FuWb4fEzdjApuVKLt6XF69UU_vzh?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vE9bvhSu2sr4LQuYPyG-wT64JEc=",
+            "location": "北京"
+          },
+          "text": "所谓架构师，基本就是结合需求做成本、速度、未来扩展性等问题的折中。目测 AI 搞定这些也就是时间问题。将来可能真没有攻城狮了，都是需求狮了。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "images": [
+            {
+              "image_id": 8855185115541482,
+              "type": "jpg",
+              "thumbnail": {
+                "url": "https://images.zsxq.com/Forsqb3One39otGnX4pbrtYh0uxy?imageMogr2/auto-orient/thumbnail/380x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gWn89kIYhCcoqAqrIvHxSwoc1So=",
+                "width": 380,
+                "height": 214
+              },
+              "large": {
+                "url": "https://images.zsxq.com/Forsqb3One39otGnX4pbrtYh0uxy?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5PYzNOVWUO12bkjiQBYH9Xb8kJg=",
+                "width": 728,
+                "height": 410
               }
             }
           ]
