@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-02-21T15:27:02.926550",
+  "captured_at": "2026-02-21T21:30:03.537062",
   "url": "https://api.zsxq.com/v2/topics/55188582114482484/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "55188582114482484",
   "page_id": 0,
@@ -22,7 +22,7 @@
           "topic_owner_liked": false,
           "rewards_count": 0,
           "sticky": false,
-          "replies_count": 3,
+          "replies_count": 4,
           "replied_comments": [
             {
               "comment_id": 8852482428844442,
@@ -89,8 +89,46 @@
                 "name": "许哲",
                 "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
               }
+            },
+            {
+              "comment_id": 2852484555254211,
+              "parent_comment_id": 1524154145551212,
+              "create_time": "2026-02-21T18:04:18.921+0800",
+              "owner": {
+                "user_id": 118511218281852,
+                "name": "好大一个饼",
+                "avatar_url": "https://images.zsxq.com/FrgUPHGzScMtJ4VQHk48E0YrGtca?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:C3TFTMeNsrrf56I5JBzIczD8Tlw=",
+                "location": "广东"
+              },
+              "text": "我也好像没看到下集 TOT",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 244111541218441,
+                "name": "！",
+                "avatar_url": "https://images.zsxq.com/Fs4_UW2jvcUWjxdmR8-jaSb2_rCr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:LNtOE-2qxu-f80ZNr68fMVEgKmI="
+              }
             }
           ]
+        },
+        {
+          "comment_id": 5125414222584544,
+          "create_time": "2026-02-21T18:31:55.985+0800",
+          "owner": {
+            "user_id": 118511218281852,
+            "name": "好大一个饼",
+            "avatar_url": "https://images.zsxq.com/FrgUPHGzScMtJ4VQHk48E0YrGtca?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:C3TFTMeNsrrf56I5JBzIczD8Tlw=",
+            "location": "广东"
+          },
+          "text": "许大，用期权降低资产持有成本的方法，除了这个还一集吗~[哇]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
         }
       ],
       "index": ""
