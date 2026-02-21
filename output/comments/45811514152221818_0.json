@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-02-21T09:23:38.240075",
+  "captured_at": "2026-02-21T15:26:54.596054",
   "url": "https://api.zsxq.com/v2/topics/45811514152221818/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "45811514152221818",
   "page_id": 0,
@@ -22,7 +22,7 @@
           "topic_owner_liked": false,
           "rewards_count": 0,
           "sticky": false,
-          "replies_count": 3,
+          "replies_count": 5,
           "replied_comments": [
             {
               "comment_id": 1524154145128242,
@@ -79,6 +79,72 @@
                 "location": "美国"
               },
               "text": "有的，真有",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 844122181828582,
+                "name": "打酱油嘀",
+                "avatar_url": "https://images.zsxq.com/FmrZy0Wd395wZPFKDpMBS7tNHdGj?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:V9jYS4dn8AWo3ylL6X7j_tnmaUM="
+              }
+            },
+            {
+              "comment_id": 8852482111242542,
+              "parent_comment_id": 1524154145121812,
+              "create_time": "2026-02-21T13:53:41.725+0800",
+              "owner": {
+                "user_id": 215554511452881,
+                "name": "J.",
+                "avatar_url": "https://images.zsxq.com/Fj7BJ2nXf-44jvsrxXKnJRKlJcV6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WmjFPUkyuAoc3dkBtg5HzRO7pmY=",
+                "location": "广东"
+              },
+              "text": "许大，我用旧电脑给云服务器的ai搭建存储服务，给我的效果太震撼了。数据库存储，对象存储方案和内网穿透方案都是他自己思考出来的。然后当我打通网络问题后，他全权控制旧电脑的控制，然后他自己将所有程序都安装好。中间我只需要按照他的命令复制粘贴到旧电脑上，他自己能测试是否连通。接着我让他在旧电脑上再建一个agent，也能很完美的完成。\n另外，和agent交互时，真的非常像在跟同事合作。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "images": [
+                {
+                  "image_id": 2855188554885511,
+                  "type": "jpg",
+                  "thumbnail": {
+                    "url": "https://images.zsxq.com/FnarfkM0iuJPJk8Jsrsxa0Ld1BRb?imageMogr2/auto-orient/thumbnail/380x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-5eBT9n4zyT92Hc7pHVKfgSZ4Ws=",
+                    "width": 380,
+                    "height": 1027
+                  },
+                  "large": {
+                    "url": "https://images.zsxq.com/FnarfkM0iuJPJk8Jsrsxa0Ld1BRb?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4B0I9VOedY6U7CE4t93bASn6F_g=",
+                    "width": 800,
+                    "height": 2162
+                  },
+                  "original": {
+                    "url": "https://images.zsxq.com/FnarfkM0iuJPJk8Jsrsxa0Ld1BRb?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:47Ca_IUXv0o82zvI3XAEg6o8WKA=",
+                    "width": 857,
+                    "height": 2316,
+                    "size": 539466
+                  }
+                }
+              ],
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
+            },
+            {
+              "comment_id": 2852482111242281,
+              "parent_comment_id": 1524154145121812,
+              "create_time": "2026-02-21T13:55:37.040+0800",
+              "owner": {
+                "user_id": 215554511452881,
+                "name": "J.",
+                "avatar_url": "https://images.zsxq.com/Fj7BJ2nXf-44jvsrxXKnJRKlJcV6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WmjFPUkyuAoc3dkBtg5HzRO7pmY=",
+                "location": "广东"
+              },
+              "text": "真的有，只要打通网络连接问题后，ai可以帮我搭建一套存储服务，写代码和同步数据",
               "likes_count": 0,
               "group_owner_liked": false,
               "topic_owner_liked": false,
