@@ -1,0 +1,177 @@
+{
+  "captured_at": "2026-02-24T03:55:53.922216",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 22811218825421251,
+          "topic_uid": "22811218825421251",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 2441812821,
+              "name": "毛熊",
+              "avatar_url": "https://images.zsxq.com/FudC4L1qGU18LstMDqDfh9dsQubA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cTFtyxa7lucfd-D1OdhufzMrlrg=",
+              "location": "英国"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "许大好，qqqai 两个视频有一个关键问题没有回答到，就是当出现以下情景的时候要怎么处理持仓\n1:\n标的价格大幅度低于标的持仓成本，且 sell put 都已经全部被行权买入，无法再加仓。\n2: buy put 已经在暴跌时向下滚成更虚值了\n3：价格在当前价位横盘。\n\n这种情境下，因为仓位已经满了不能再 sell put 加仓，高于持仓成本的 call 极度虚值基本上卖不出价格 sell call 也没意义了。\n那我们还能做什么呢？sell 浅虚的 call 被反弹打中就当止损嘛？",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 4,
+              "join_time": "2024-09-23T00:31:27.357+0800",
+              "status": "joined"
+            },
+            "owner_location": "英国"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+              "location": "美国"
+            },
+            "text": "如果这个时候已经比较满仓了，且之前的Long Put 已经发挥了保护的作用（标的价格大幅度低于持仓成本必然是已经跌了一大截了），那么可以在记账上做一次清盘。即准备好让现在的持仓以目前 Long Put 的价格卖掉。通常，如果因为价格掉了一大坨，这一部分资产账面已经盈利了，可以一起清仓在新的价格上重新开始了。\n\n情况如果非常糟糕，买的Long Put 执行价过远，但一开始没计算好，到了这个价格已经过于满仓但Long Put 还没有发挥主导作用。本质上就是在Long Put 的投资上计算失败了。那已经没办法挽回了，这是建仓期间就做错了。那么只有在比综合成本低的位置，还有一定Theta报价的位置卖CALL。这些CALL通常不会很快被行权，造成实质上的交割负价差，但又能吃到一定的Theta把成本给降下来。如果发生迅速的反弹，那么这些CALl会给你造成交割损失，但仓位好歹降下来了，你可以重新在新的位置做对的交易结构了。\n\n这种补救措施并改变不了一开始做错计算的错误，错误已经发生了就是会产生后果的。有因就有果，这是谁都无法改变的。所以这个位置平完重新开始其实也是理性的。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-02-23T20:07:24.332+0800",
+              "owner": {
+                "user_id": 51284811128584,
+                "name": "CTV",
+                "avatar_url": "https://images.zsxq.com/FqlP75ExTC_6xUDzdASyslcwX_FF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HL2HZtTWvdlvypHo0DVYbqoVScA="
+              }
+            },
+            {
+              "create_time": "2026-02-23T18:49:46.564+0800",
+              "owner": {
+                "user_id": 415454152452228,
+                "name": "Good",
+                "avatar_url": "https://images.zsxq.com/FmFU0MAKiDXvO8VKzp-VwwpABbFW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4NRuRRejfE8pLZfTHwjF9NGSqAE="
+              }
+            },
+            {
+              "create_time": "2026-02-23T17:26:43.584+0800",
+              "owner": {
+                "user_id": 581241545454584,
+                "name": "奕飒",
+                "avatar_url": "https://images.zsxq.com/FqPPhpMKTvuPLcKsJPC1_RFAf72d?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YXv9Mkx_jqEpVGavlHE1GvJPlFc="
+              }
+            },
+            {
+              "create_time": "2026-02-23T15:36:51.310+0800",
+              "owner": {
+                "user_id": 88851154512422,
+                "name": "LY",
+                "avatar_url": "https://images.zsxq.com/FpzOEXvMuoWTLGV1al68KXJp7sCk?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k4MTf_n7_9Eb2ZRNV6SsBmHZDi8="
+              }
+            },
+            {
+              "create_time": "2026-02-23T15:14:06.361+0800",
+              "owner": {
+                "user_id": 51511412418454,
+                "name": "Li Zhao",
+                "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578="
+              }
+            },
+            {
+              "create_time": "2026-02-23T13:33:21.385+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZCLRhN9obhO6zmWQ0tjBkdJL18="
+              }
+            },
+            {
+              "create_time": "2026-02-23T12:25:21.128+0800",
+              "owner": {
+                "user_id": 218224188452481,
+                "name": "人民艺术家",
+                "avatar_url": "https://images.zsxq.com/Fhj9Rh93138tbj5Ge814HFIbS2ql?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fYSrXnGDjg_4TbeKxI-2ANEcfXU="
+              }
+            },
+            {
+              "create_time": "2026-02-23T12:11:56.751+0800",
+              "owner": {
+                "user_id": 48888218821448,
+                "name": "后中先",
+                "avatar_url": "https://images.zsxq.com/FgMU4F6QPUmflR3useJkg84ci1zi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o0dwW_iV0MVOnxzlk7z1whiVWY0="
+              }
+            },
+            {
+              "create_time": "2026-02-23T11:54:15.802+0800",
+              "owner": {
+                "user_id": 421145852815458,
+                "name": "秃鹰船长",
+                "avatar_url": "https://images.zsxq.com/FpIA1AhLZLZxd_T6WaxPTxh2puzU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nNgYgoTxzzYA_vKH2vCO7kAT4ME="
+              }
+            },
+            {
+              "create_time": "2026-02-23T10:54:46.019+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 4845282424242818,
+              "create_time": "2026-02-23T18:08:35.438+0800",
+              "owner": {
+                "user_id": 88845222285482,
+                "name": "Judy",
+                "avatar_url": "https://images.zsxq.com/Fhg4-Dg8tsGwZuNIckbuFAMDVFdB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ihP648dcFCN_yJlVfQRH_d8N3GI=",
+                "location": "广东"
+              },
+              "text": "请教 许大<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" /> 如果初始开仓long put和long call的价位这么重要，那怎么计算什么价位开仓long put和long call合适呢。",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 18,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 18
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 1,
+          "reading_count": 1,
+          "readers_count": 343,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-02-23T06:20:28.201+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "如果这个时候已经比较满仓了，且..."
+        }
+      ]
+    }
+  }
+}
