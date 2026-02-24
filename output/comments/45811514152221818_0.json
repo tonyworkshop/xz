@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-02-24T22:05:14.315424",
+  "captured_at": "2026-02-25T04:08:26.803069",
   "url": "https://api.zsxq.com/v2/topics/45811514152221818/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "45811514152221818",
   "page_id": 0,
@@ -236,7 +236,7 @@
           "topic_owner_liked": false,
           "rewards_count": 0,
           "sticky": false,
-          "replies_count": 1,
+          "replies_count": 2,
           "replied_comments": [
             {
               "comment_id": 8852482422124242,
@@ -259,6 +259,28 @@
                 "name": "Li Zhao",
                 "avatar_url": "https://images.zsxq.com/FjEzv-qxGjB_1iA0BVYkoneigcns?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Hb9DCtcH31T9XlbvGPV4izl578="
               }
+            },
+            {
+              "comment_id": 5125414115118254,
+              "parent_comment_id": 1524154144121212,
+              "create_time": "2026-02-25T00:04:13.114+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg=",
+                "location": "美国"
+              },
+              "text": "我就是这个看法，我们是最后一代senior software engineer，之后这个概念就不存在了，完全被颠覆",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+              }
             }
           ]
         },
@@ -269,7 +291,7 @@
             "user_id": 48221855418558,
             "name": "润土",
             "avatar_url": "https://images.zsxq.com/FuWb4fEzdjApuVKLt6XF69UU_vzh?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vE9bvhSu2sr4LQuYPyG-wT64JEc=",
-            "location": "黑龙江"
+            "location": "北京"
           },
           "text": "所谓架构师，基本就是结合需求做成本、速度、未来扩展性等问题的折中。目测 AI 搞定这些也就是时间问题。将来可能真没有攻城狮了，都是需求狮了。",
           "likes_count": 0,
@@ -290,6 +312,31 @@
                 "url": "https://images.zsxq.com/Forsqb3One39otGnX4pbrtYh0uxy?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1774972799&s=jmtmyyyjyv&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5PYzNOVWUO12bkjiQBYH9Xb8kJg=",
                 "width": 728,
                 "height": 410
+              }
+            }
+          ],
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4845282885881418,
+              "parent_comment_id": 5125415441144124,
+              "create_time": "2026-02-25T00:04:42.651+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64XzeUzj0dqtxg3gSabJoFYUBhg=",
+                "location": "美国"
+              },
+              "text": "人人都是产品经理的时代真的要来了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48221855418558,
+                "name": "润土",
+                "avatar_url": "https://images.zsxq.com/FuWb4fEzdjApuVKLt6XF69UU_vzh?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vE9bvhSu2sr4LQuYPyG-wT64JEc="
               }
             }
           ]
