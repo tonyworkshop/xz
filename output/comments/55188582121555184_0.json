@@ -1,12 +1,29 @@
 {
-  "captured_at": "2026-02-24T09:58:52.081964",
+  "captured_at": "2026-02-24T16:01:53.787612",
   "url": "https://api.zsxq.com/v2/topics/55188582121555184/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "55188582121555184",
   "page_id": 0,
   "data": {
     "succeeded": true,
     "resp_data": {
-      "comments": [],
+      "comments": [
+        {
+          "comment_id": 1524151281145152,
+          "create_time": "2026-02-24T12:27:05.352+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "location": "四川"
+          },
+          "text": "其实长短结合最容易遇到的问题是“跌了，但没有完全跌”的情况，-Put跌了不少但又远远没到+Put能赚钱的位置，然后标的横在这震荡几个月，成本还没刷下来（因为成本价的执行价的Call卖不上价），+Put和+Call还在掉Theta，卖低执行价Call又怕“做反T”，然后过几个月再来一次这种行情，这会导致本金永久性回撤。\n\n所以策略的标的选择感觉也同样重要，要找慢牛快且深的熊+高波动的标的。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
       "index": ""
     }
   }
