@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-02-26T10:22:07.541190",
+  "captured_at": "2026-02-26T16:25:03.634984",
   "url": "https://api.zsxq.com/v2/topics/82811218141415212/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "82811218141415212",
   "page_id": 0,
@@ -22,7 +22,7 @@
           "topic_owner_liked": false,
           "rewards_count": 0,
           "sticky": false,
-          "replies_count": 1,
+          "replies_count": 2,
           "replied_comments": [
             {
               "comment_id": 5125451825415824,
@@ -44,6 +44,28 @@
                 "user_id": 15581481544422,
                 "name": "红花红果",
                 "avatar_url": "https://images.zsxq.com/Fkj19hZYfOPXRh99F1l84FH_wclV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jOvNkSUqzh63MZyw9MUlodQgNqU="
+              }
+            },
+            {
+              "comment_id": 2852428182451211,
+              "parent_comment_id": 8852428152221242,
+              "create_time": "2026-02-26T14:34:41.816+0800",
+              "owner": {
+                "user_id": 15581481544422,
+                "name": "红花红果",
+                "avatar_url": "https://images.zsxq.com/Fkj19hZYfOPXRh99F1l84FH_wclV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jOvNkSUqzh63MZyw9MUlodQgNqU=",
+                "location": "河南"
+              },
+              "text": "谢谢，我看了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 182245228224182,
+                "name": "hellojcb",
+                "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8LMirSMAh7_dLGBcd-JhmZh5j_8="
               }
             }
           ]
