@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-02-26T22:28:20.065395",
+  "captured_at": "2026-02-27T04:31:14.198956",
   "url": "https://api.zsxq.com/v2/topics/22811218825421251/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "22811218825421251",
   "page_id": 0,
@@ -47,6 +47,22 @@
               }
             }
           ]
+        },
+        {
+          "comment_id": 5125451841215854,
+          "create_time": "2026-02-27T00:42:55.753+0800",
+          "owner": {
+            "user_id": 184551142122222,
+            "name": "Animal Lov*",
+            "avatar_url": "https://images.zsxq.com/FmX-6J5gLT2tIChrpL5WoMxq1VNf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k9OuIi_T8JXd-RvYld00OQekOuo=",
+            "location": "北京"
+          },
+          "text": "我觉得如果横盘就看波动率是否降下来了，降下来可以新建仓otm call，做long option的delta配平。然后正股持仓看有theta价值的就short call，这部分肯定会有账面亏损，我觉得没关系，因为横盘大不了再sp接回来就行了。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
         }
       ],
       "index": ""
