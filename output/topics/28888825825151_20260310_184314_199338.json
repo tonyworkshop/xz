@@ -1,0 +1,121 @@
+{
+  "captured_at": "2026-03-10T18:43:14.199367",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 82811454148424842,
+          "topic_uid": "82811454148424842",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 142814885552,
+              "name": "灯火阑珊",
+              "avatar_url": "https://images.zsxq.com/Fl5Hs5SxnewLNROi3SqEUEuoiCD8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7kW5r8cokgmNJFTsp8X4lmBDlWM=",
+              "location": "湖南"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yD7Bvimteup0aWVP-sJA37o-ekA=",
+              "location": "美国"
+            },
+            "text": "许大您好，周末参考您的LLM-Subtitles部署了自己的翻译程序，用视频下载+本地whisper+deepseek翻译的模型进行了更加适合自己的调整。\n本人完全编程小白，但把需求给codex说明以后，让其指定了方案计划，执行结束后居然能用。这属实给了我不小的震撼。我日常会有一些测序数据的分析。有两个问题想要请教您：\n1. 现在积累项目经验，学习一些编程相关的知识，是不是直接把github上的明星包扔给codex，让其分析包整体架构搭建跟运行逻辑，逐条解释代码含义是个不错的选择。\n2. ai辅助下的智能编程，如何给出一个清晰的需求框架，明确运行环境的要求感觉很关键，对于上述两方面能力的提升，许大这方面您有没有什么心得，或是建议。\n3. 对我来说，ai编程水平远超自己，在程序能够运行的情况下，如何检验他输出的代码会有哪些潜在风险？\n4.AI辅助编程的情况下，许大您现在是怎么debug的呀？",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 5,
+              "join_time": "2024-03-31T23:08:58.048+0800",
+              "status": "joined"
+            },
+            "owner_location": "湖南"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yD7Bvimteup0aWVP-sJA37o-ekA=",
+              "location": "美国"
+            },
+            "text": "1.逐句有点过了，你会过载的，但让AI帮助你理解软件的框架我想是很好的\n2.这方面网上有的经验总结比我好很多，铺天盖地的，我懒得学，因为大概率学会了会被模型的进步覆盖掉的，等等党永远胜利\n3.我会让几个AI互相锐评代码，只要告诉Gemini是Codex写的，他会格外严苛，如果让Codex检查Claude的代码也是一样的挑刺专家\n4.其实和过去Debug差不多的，观察到错误-稳定复现-观察错误产生的机制-猜测可能的原因（这部分AI不一定一直对，有时候甚至鬼打墙），然后尝试提出修复的方案提交给AI-测试修改后的效果，然后循环。\n\n目前AI做编程工具没办法替代人类软件工程师的决色，更像是一个极好的执行器，再过几个月不好说。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-03-10T13:09:21.691+0800",
+              "owner": {
+                "user_id": 548214152484284,
+                "name": "Carolina",
+                "avatar_url": "https://images.zsxq.com/FvpnxOY52A42N0qgN7MGVr6_CbC-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IxF_wWEUTX_Sl5Zhcx1lIkY9m9Y="
+              }
+            },
+            {
+              "create_time": "2026-03-10T12:09:48.023+0800",
+              "owner": {
+                "user_id": 218884828258281,
+                "name": "宁",
+                "avatar_url": "https://images.zsxq.com/Ft5csrqi_vZqa0dCWlxQFMyn76E_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZDhxGmiTSEoGGxQ2kkU8yEhDtjY="
+              }
+            },
+            {
+              "create_time": "2026-03-10T09:17:10.507+0800",
+              "owner": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:z7o-vecCejZh6QqNtbxP9_MisGI="
+              }
+            },
+            {
+              "create_time": "2026-03-10T08:44:33.006+0800",
+              "owner": {
+                "user_id": 218224188452481,
+                "name": "人民艺术家",
+                "avatar_url": "https://images.zsxq.com/Fhj9Rh93138tbj5Ge814HFIbS2ql?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gbLZfJWAqcBYoeQpDfySUcGbnbc="
+              }
+            },
+            {
+              "create_time": "2026-03-10T04:58:45.849+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:asr1a4IuYwFE_uRPU-dkH-bne3g="
+              }
+            }
+          ],
+          "likes_count": 6,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 6
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 349,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-03-10T04:31:32.566+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "1.逐句有点过了，你会过载的，..."
+        }
+      ]
+    }
+  }
+}
