@@ -40,4 +40,7 @@ fi
 git commit -m "$MSG" --allow-empty || true
 git push
 
+log "检查抓取结果..."
+uv run ./src/check_fetch_result.py >> output/update.log 2>&1
+
 log "=== 更新完成 ==="
