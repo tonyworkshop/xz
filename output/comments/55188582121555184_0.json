@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-02-28T10:45:52.899171",
+  "captured_at": "2026-03-10T13:24:11.630498",
   "url": "https://api.zsxq.com/v2/topics/55188582121555184/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "55188582121555184",
   "page_id": 0,
@@ -13,7 +13,7 @@
           "owner": {
             "user_id": 815584118214512,
             "name": "Ray",
-            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hruqGPk9OtqjB4q-tghLiz2KlGU=",
             "location": "四川"
           },
           "text": "其实长短结合最容易遇到的问题是“跌了，但没有完全跌”的情况，-Put跌了不少但又远远没到+Put能赚钱的位置，然后标的横在这震荡几个月，成本还没刷下来（因为成本价的执行价的Call卖不上价），+Put和+Call还在掉Theta，卖低执行价Call又怕“做反T”，然后过几个月再来一次这种行情，这会导致本金永久性回撤。\n\n所以策略的标的选择感觉也同样重要，要找慢牛快且深的熊+高波动的标的。",
@@ -31,7 +31,7 @@
               "owner": {
                 "user_id": 144254841842,
                 "name": "许哲",
-                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw=",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yD7Bvimteup0aWVP-sJA37o-ekA=",
                 "location": "美国"
               },
               "text": "你说的就是上面那个问题在讨论的",
@@ -43,7 +43,7 @@
               "repliee": {
                 "user_id": 815584118214512,
                 "name": "Ray",
-                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hruqGPk9OtqjB4q-tghLiz2KlGU="
               }
             },
             {
@@ -53,7 +53,7 @@
               "owner": {
                 "user_id": 815584118214512,
                 "name": "Ray",
-                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0=",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hruqGPk9OtqjB4q-tghLiz2KlGU=",
                 "location": "四川"
               },
               "text": "其实我理解这个操作最大的难度在于如果theta差够大，买长的敏感度会很低，那么很多行情是保护不了下跌的，因为跌一段不高不低的位置会继续磨长期权的theta，短期权也卖不上价；而如果长期权足够敏感，可能短期权就养不起了。核心还是theta性价比的问题，如何测算这个性价比来调仓才是真正的策略核心[呲牙]",
@@ -65,7 +65,7 @@
               "repliee": {
                 "user_id": 144254841842,
                 "name": "许哲",
-                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rveFU6XoGDVhHP-fbecrpkEhiyw="
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yD7Bvimteup0aWVP-sJA37o-ekA="
               }
             },
             {
@@ -75,11 +75,11 @@
               "owner": {
                 "user_id": 48844458585888,
                 "name": "朱黎黎",
-                "avatar_url": "https://images.zsxq.com/FrrWLdjLxHTaFSYH1vcPyEpicubG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JSftn3h94m5vKKW-ZyzGgN_6ALo=",
+                "avatar_url": "https://images.zsxq.com/FrrWLdjLxHTaFSYH1vcPyEpicubG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XOltRrzgH7v3ttqzrJAKpMUJQ0o=",
                 "location": "上海"
               },
               "text": "看了讨论，很精彩，直切要害。我加一条评论，就是许大做这个策略的前提，就是标的本身是值得购买的，这就是文中说的buy and hold理论上也能赚钱，这个策略的目的是在遇到大波动时能反脆弱赚到buy and hold赚不到的钱，使得长期来看年化复利优于普通买入持有。所以技巧是需要的，但这一定不是时时都在cash in的，也有波动，只是如许大说的，有alpha了。",
-              "likes_count": 1,
+              "likes_count": 2,
               "group_owner_liked": false,
               "topic_owner_liked": false,
               "rewards_count": 0,
@@ -87,7 +87,7 @@
               "repliee": {
                 "user_id": 815584118214512,
                 "name": "Ray",
-                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1774972799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4ahj7aHfNz540cwGEWFit3GFce0="
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hruqGPk9OtqjB4q-tghLiz2KlGU="
               }
             }
           ]

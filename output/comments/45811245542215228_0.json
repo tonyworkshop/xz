@@ -1,0 +1,71 @@
+{
+  "captured_at": "2026-03-10T13:22:47.335560",
+  "url": "https://api.zsxq.com/v2/topics/45811245542215228/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "45811245542215228",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2852424245484811,
+          "create_time": "2026-03-06T15:31:34.827+0800",
+          "owner": {
+            "user_id": 214742878,
+            "name": "匿名用户",
+            "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+            "location": "福建"
+          },
+          "text": "请问如何做到“没有觉知者”的觉知呢？[疑问]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4845252284822258,
+              "parent_comment_id": 2852424245484811,
+              "create_time": "2026-03-07T23:31:31.974+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yD7Bvimteup0aWVP-sJA37o-ekA=",
+                "location": "美国"
+              },
+              "text": "一般来说，你这种问题是太用力了，先放松，用平常的心态去。\n\n最简单的就是挥一挥自己的手，然后觉察到自己手部的动作。在这么简单的任务上，很少有人会再额外去创造出一个“觉知者”。\n\n之所以会出现这种情况，通常是因为做的时候，我们身体里的“东亚基因”发作了，想要做得完美、做得好。当你觉得是在正儿八经地做一件事时，就容易创造出一个额外的觉知者。",
+              "likes_count": 3,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 214742878,
+                "name": "匿名用户",
+                "avatar_url": "https://file.zsxq.com/anonymous_avatar.png"
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 4845252528515148,
+          "create_time": "2026-03-06T16:54:05.200+0800",
+          "owner": {
+            "user_id": 48888218821448,
+            "name": "后中先",
+            "avatar_url": "https://images.zsxq.com/FgMU4F6QPUmflR3useJkg84ci1zi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fPw1sa5t-EwXxmwkH6_YfbbGn_Y=",
+            "location": "江苏"
+          },
+          "text": "我的理解就是放松的觉知吧，如果感觉又重新树立了一个觉知者可能是因为心太紧绷了。不知道这么理解对不对。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

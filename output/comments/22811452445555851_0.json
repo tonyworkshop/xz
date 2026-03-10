@@ -1,0 +1,121 @@
+{
+  "captured_at": "2026-03-10T13:22:30.173248",
+  "url": "https://api.zsxq.com/v2/topics/22811452445555851/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "22811452445555851",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2852424482822541,
+          "create_time": "2026-03-08T04:18:35.622+0800",
+          "owner": {
+            "user_id": 144254841842,
+            "name": "许哲",
+            "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yD7Bvimteup0aWVP-sJA37o-ekA=",
+            "location": "美国"
+          },
+          "text": "深度实值的Call，不是Put",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 4,
+          "replied_comments": [
+            {
+              "comment_id": 1524141154588222,
+              "parent_comment_id": 2852424482822541,
+              "create_time": "2026-03-08T07:55:35.954+0800",
+              "owner": {
+                "user_id": 582521525822524,
+                "name": "無雙",
+                "avatar_url": "https://images.zsxq.com/FstLKTCWenzqGPyvGge4VUUVzJWj?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j_9q9ImzzQ1j8LMvUlK2euj7WNM=",
+                "location": "四川"
+              },
+              "text": "是的，就是流动性很差，谢谢许老师。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yD7Bvimteup0aWVP-sJA37o-ekA="
+              }
+            },
+            {
+              "comment_id": 4845252152858258,
+              "parent_comment_id": 2852424482822541,
+              "create_time": "2026-03-08T21:01:08.131+0800",
+              "owner": {
+                "user_id": 48844458585888,
+                "name": "朱黎黎",
+                "avatar_url": "https://images.zsxq.com/FrrWLdjLxHTaFSYH1vcPyEpicubG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XOltRrzgH7v3ttqzrJAKpMUJQ0o=",
+                "location": "上海"
+              },
+              "text": "那许大之前曾提到过的用leap call替代现货，减少资金成本是买的哪类call呀？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yD7Bvimteup0aWVP-sJA37o-ekA="
+              }
+            },
+            {
+              "comment_id": 8852424141148522,
+              "parent_comment_id": 2852424482822541,
+              "create_time": "2026-03-09T10:21:15.691+0800",
+              "owner": {
+                "user_id": 582521525822524,
+                "name": "無雙",
+                "avatar_url": "https://images.zsxq.com/FstLKTCWenzqGPyvGge4VUUVzJWj?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j_9q9ImzzQ1j8LMvUlK2euj7WNM=",
+                "location": "四川"
+              },
+              "text": "美股Ieap call应该还好，a股流动性不好",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48844458585888,
+                "name": "朱黎黎",
+                "avatar_url": "https://images.zsxq.com/FrrWLdjLxHTaFSYH1vcPyEpicubG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XOltRrzgH7v3ttqzrJAKpMUJQ0o="
+              }
+            },
+            {
+              "comment_id": 1524141882128882,
+              "parent_comment_id": 2852424482822541,
+              "create_time": "2026-03-09T11:02:44.269+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yD7Bvimteup0aWVP-sJA37o-ekA=",
+                "location": "美国"
+              },
+              "text": "那个我一般买OTM CALL",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48844458585888,
+                "name": "朱黎黎",
+                "avatar_url": "https://images.zsxq.com/FrrWLdjLxHTaFSYH1vcPyEpicubG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XOltRrzgH7v3ttqzrJAKpMUJQ0o="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}

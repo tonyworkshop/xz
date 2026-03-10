@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-03-10T13:22:15.479794",
+  "url": "https://api.zsxq.com/v2/topics/55188425484144144/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "55188425484144144",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2852421581581251,
+          "create_time": "2026-03-10T09:06:44.348+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hruqGPk9OtqjB4q-tghLiz2KlGU=",
+            "location": "四川"
+          },
+          "text": "谢谢许大，我就是发现突然保护期权涨价了一倍还多，Theta覆盖不了了，我目前的解决方案是把裸Call换成了一个宽的Bull Spread，Delta在0.25左右，价格和以前便宜的时候的Call持平，我计划是如果上涨足够多我就向更高位置移仓，一下跳空大涨60%以上会踏空，但我认为出现这种情况也赚够了，牺牲一部分肥尾收益来补贴这个问题。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}
