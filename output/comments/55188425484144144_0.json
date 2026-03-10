@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-03-10T18:43:57.576099",
+  "captured_at": "2026-03-11T00:46:48.044245",
   "url": "https://api.zsxq.com/v2/topics/55188425484144144/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "55188425484144144",
   "page_id": 0,
@@ -21,7 +21,32 @@
           "group_owner_liked": false,
           "topic_owner_liked": false,
           "rewards_count": 0,
-          "sticky": false
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8852421518581442,
+              "parent_comment_id": 2852421581581251,
+              "create_time": "2026-03-10T20:28:32.131+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yD7Bvimteup0aWVP-sJA37o-ekA=",
+                "location": "美国"
+              },
+              "text": "按照买Put时候的成本算",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hruqGPk9OtqjB4q-tghLiz2KlGU="
+              }
+            }
+          ]
         }
       ],
       "index": ""
