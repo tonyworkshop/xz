@@ -5,25 +5,53 @@ import json
 import re
 import subprocess
 import urllib.request
+from datetime import date, timedelta
 from pathlib import Path
 
-ALERT_COUNT_FILE = Path(__file__).parent.parent / "output" / ".alert_count"
+PROJECT_ROOT = Path(__file__).parent.parent
+ALERT_COUNT_FILE = PROJECT_ROOT / "output" / ".alert_count"
+LAST_CHECK_FILE = PROJECT_ROOT / "output" / ".last_check_date"
 SLACK_CONFIG_FILE = Path.home() / "slack_user.json"
 MAX_ALERTS = 10
+ALERT_THRESHOLD_DAYS = 3
+
+
+def get_last_real_update_date() -> date | None:
+    """从 git log 中找到最后一次有真实更新的 commit 日期"""
+    result = subprocess.run(
+        ["git", "log", "--format=%ai %s", "-200"],
+        capture_output=True, text=True,
+        cwd=PROJECT_ROOT,
+    )
+    for line in result.stdout.splitlines():
+        if re.search(r'\+([1-9]\d*)\s+topics', line) or re.search(r'\+([1-9]\d*)\s+comments', line):
+            # 日期格式: 2026-03-16 01:43:00 +0800 auto: update ...
+            date_str = line[:10]
+            return date.fromisoformat(date_str)
+    return None
+
+
+def read_last_check_date() -> date | None:
+    """读取人工确认的日期"""
+    try:
+        return date.fromisoformat(LAST_CHECK_FILE.read_text().strip())
+    except (FileNotFoundError, ValueError):
+        return None
 
 
 def has_real_updates_recently() -> bool:
-    """检查最近 3 天的 commit 中是否有真实数据更新"""
-    result = subprocess.run(
-        ["git", "log", "--since=3 days ago", "--oneline"],
-        capture_output=True, text=True,
-        cwd=Path(__file__).parent.parent,
-    )
-    for line in result.stdout.splitlines():
-        # 匹配 +N topics 或 +N comments，N > 0
-        if re.search(r'\+([1-9]\d*)\s+topics', line) or re.search(r'\+([1-9]\d*)\s+comments', line):
-            return True
-    return False
+    """检查是否需要告警：以最后真实更新日期和人工确认日期中较晚者为基准"""
+    last_update = get_last_real_update_date()
+    last_check = read_last_check_date()
+
+    # 取两者中较晚的日期作为 baseline
+    candidates = [d for d in (last_update, last_check) if d is not None]
+    if not candidates:
+        return False  # 无任何记录，触发告警
+
+    baseline = max(candidates)
+    days_since = (date.today() - baseline).days
+    return days_since < ALERT_THRESHOLD_DAYS
 
 
 def read_alert_count() -> int:
