@@ -5,7 +5,7 @@ from datetime import date
 from pathlib import Path
 
 OUTPUT_DIR = Path(__file__).parent.parent / "output"
-LAST_CHECK_FILE = OUTPUT_DIR / ".last_check_date"
+LAST_CHECK_FILE = OUTPUT_DIR / "last_check_date"
 ALERT_COUNT_FILE = OUTPUT_DIR / ".alert_count"
 
 
