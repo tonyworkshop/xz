@@ -1,0 +1,80 @@
+{
+  "captured_at": "2026-03-18T02:04:24.142906",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 45811285414115518,
+          "topic_uid": "45811285414115518",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 215111124485511,
+              "name": "Lucas",
+              "avatar_url": "https://images.zsxq.com/FlK2biteh6hSjIwCCKmYR6mtSG_A?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SNYKKZ1LtrKrfK-i6iJoFMuncSU=",
+              "location": "日本"
+            },
+            "text": "日元还会继续跌吗？跌倒美日180？可否用期权去套利？"
+          },
+          "latest_likes": [
+            {
+              "create_time": "2026-03-18T00:29:17.849+0800",
+              "owner": {
+                "user_id": 212815222852181,
+                "name": "li",
+                "avatar_url": "https://images.zsxq.com/FsiwgH7IvaHvkFAmokv_A3Q-6Lin?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JSkcTz560uWYg81uSXPzRVqs9GQ="
+              }
+            },
+            {
+              "create_time": "2026-03-17T21:49:50.770+0800",
+              "owner": {
+                "user_id": 215111124485511,
+                "name": "Lucas",
+                "avatar_url": "https://images.zsxq.com/FlK2biteh6hSjIwCCKmYR6mtSG_A?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SNYKKZ1LtrKrfK-i6iJoFMuncSU="
+              }
+            },
+            {
+              "create_time": "2026-03-17T21:25:13.339+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:asr1a4IuYwFE_uRPU-dkH-bne3g="
+              }
+            }
+          ],
+          "likes_count": 3,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 3
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 114,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-03-17T21:14:52.484+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "日元还会继续跌吗？跌倒美日18..."
+        }
+      ]
+    }
+  }
+}
