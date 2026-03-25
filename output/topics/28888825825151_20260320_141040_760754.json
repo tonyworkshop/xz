@@ -1,0 +1,61 @@
+{
+  "captured_at": "2026-03-20T14:10:40.760793",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 55188415111514224,
+          "topic_uid": "55188415111514224",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 4515222428,
+              "name": "迷人的小眼神",
+              "avatar_url": "https://images.zsxq.com/Fhn-iZXut0jriHwpyVELAb6LGkt8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZsTSdK9pFNYnDEeoO8IhpEIoqCs=",
+              "location": "上海"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yD7Bvimteup0aWVP-sJA37o-ekA=",
+              "location": "美国"
+            },
+            "text": "许大，美股上执行short put + long otm策略可以。我想在A股上也复制类似的思想，那么对于A股上怎么操作您有什么建议吗？是不是个人只能做上证50ETF这种的期权呢？",
+            "expired": false,
+            "anonymous": true,
+            "owner_detail": {
+              "questions_count": 4,
+              "estimated_join_time": ">1Y",
+              "status": "joined"
+            },
+            "owner_location": "上海"
+          },
+          "answered": false,
+          "likes_count": 0,
+          "tourist_likes_count": 0,
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 2,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-03-18T08:42:58.308+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "许大，美股上执行short p..."
+        }
+      ]
+    }
+  }
+}

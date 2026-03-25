@@ -1,0 +1,55 @@
+{
+  "captured_at": "2026-03-25T14:06:06.633338",
+  "url": "https://api.zsxq.com/v2/topics/45811241151245488/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "45811241151245488",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2852448211522211,
+          "create_time": "2026-03-21T17:00:05.794+0800",
+          "owner": {
+            "user_id": 414848254185128,
+            "name": "Cauchy",
+            "avatar_url": "https://images.zsxq.com/FtWBN6b9uREaaZGoRT1DiLjTITOE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-sll1jxktCyvQEY163Z35Xcfuko=",
+            "location": "北京"
+          },
+          "text": "许大，那我roll下去的执行价怎么选择呢？是让组合继续保持负的delta和正gamma，还是回到建仓时的正delta和负gamma",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2852448452151251,
+              "parent_comment_id": 2852448211522211,
+              "create_time": "2026-03-21T22:12:04.998+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yD7Bvimteup0aWVP-sJA37o-ekA=",
+                "location": "美国"
+              },
+              "text": "做个what if，看看如果吃到价格你是否满意",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 414848254185128,
+                "name": "Cauchy",
+                "avatar_url": "https://images.zsxq.com/FtWBN6b9uREaaZGoRT1DiLjTITOE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-sll1jxktCyvQEY163Z35Xcfuko="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}
