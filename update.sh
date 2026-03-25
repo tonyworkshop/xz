@@ -42,7 +42,7 @@ if [ "$NEW_TOPICS" -gt 0 ] || [ "$NEW_COMMENTS" -gt 0 ]; then
     MSG="$MSG | +${NEW_TOPICS} topics, +${NEW_COMMENTS} comments"
 fi
 
-if [ "$FETCH_EXIT" -ne 0 ]; then
+if [ "$FETCH_EXIT" -ne 0 ] || [ -f output/last_error.txt ]; then
     MSG="$MSG | FETCH FAILED"
 fi
 

@@ -115,12 +115,16 @@ def get_latest_commit_message() -> str:
 
 
 def check_fetch_failure():
-    """检查最新 commit 是否包含 FETCH FAILED，立即通知"""
+    """检查最新 commit 是否包含 FETCH FAILED，立即通知（附错误详情）"""
     msg = get_latest_commit_message()
     if "FETCH FAILED" not in msg:
         return
     print(f"[告警] 检测到抓取失败: {msg}")
-    send_slack_dm(f"⚠️ 知识星球抓取失败（fetch crashed）\ncommit: {msg}")
+    error_detail = ""
+    error_file = PROJECT_ROOT / "output" / "last_error.txt"
+    if error_file.exists():
+        error_detail = "\n" + error_file.read_text().strip()
+    send_slack_dm(f"⚠️ 知识星球抓取失败\ncommit: {msg}{error_detail}")
 
 
 def main():

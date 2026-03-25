@@ -41,6 +41,7 @@ TOPICS_OUTPUT_DIR = Path(__file__).parent.parent / "output" / "topics"
 COMMENTS_OUTPUT_DIR = Path(__file__).parent.parent / "output" / "comments"
 CLICK_CACHE_PATH = Path(__file__).parent.parent / "output" / "click_detail.json"
 UPDATE_CACHE_PATH = Path(__file__).parent.parent / "output" / "update_click_detail.json"
+ERROR_FILE_PATH = Path(__file__).parent.parent / "output" / "last_error.txt"
 USER_DATA_DIR = Path(__file__).parent / ".browser_data"
 
 # 统计
@@ -327,13 +328,15 @@ def process_all_topics_on_page(page, click_cache: dict, cache_path: Path = CLICK
 
         # 检查是否有 content 元素
         if not has_content or not key:
-            logger.error(f"[严重错误] app-topic index={index} 没有 content 元素!")
-            logger.error(f"  contentType: {content_type}")
-            logger.error(f"  outerHTML 片段: {html_snippet}")
-            # 保存缓存并退出
-            save_click_cache(click_cache, cache_path)
-            logger.error("已保存 click_cache，程序退出。请检查页面结构。")
-            sys.exit(1)
+            logger.warning(f"app-topic index={index} 没有 content 元素，跳过")
+            logger.warning(f"  contentType: {content_type}")
+            logger.warning(f"  outerHTML 片段: {html_snippet}")
+            # 记录错误到文件，供通知使用
+            with open(ERROR_FILE_PATH, "a", encoding="utf-8") as f:
+                f.write(f"[{datetime.now().isoformat()}] unknown topic type at index={index}\n")
+                f.write(f"  contentType: {content_type}\n")
+                f.write(f"  outerHTML: {html_snippet}\n\n")
+            continue
 
         # 检查是否已点击过
         if key in click_cache:
@@ -596,6 +599,8 @@ def main():
         logger.setLevel(logging.INFO)
 
     ensure_output_dirs()
+    if ERROR_FILE_PATH.exists():
+        ERROR_FILE_PATH.unlink()
     signal.signal(signal.SIGINT, signal_handler)
 
     print("=" * 60)
