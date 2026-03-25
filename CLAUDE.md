@@ -1,7 +1,8 @@
 # 知识星球抓取脚本
 
-## plan mode
-不要给我代码，首先我们先讨论思路，思路跟我确认没问题后，再给我代码
+## Rules
+- Git commit messages must be in English
+- 不要给我代码，首先我们先讨论思路，思路跟我确认没问题后，再给我代码（plan mode）
 
 ## 技术栈
 - Python 3.11+ (tomllib 内置)
