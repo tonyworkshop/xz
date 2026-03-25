@@ -12,7 +12,12 @@ log() {
 log "=== 开始更新 ==="
 
 log "抓取最新话题..."
-uv run ./src/fetch_topics.py --update 20 --debug >> output/update.log 2>&1
+FETCH_EXIT=0
+uv run ./src/fetch_topics.py --update 20 --debug >> output/update.log 2>&1 || FETCH_EXIT=$?
+
+if [ "$FETCH_EXIT" -ne 0 ]; then
+    log "抓取失败 (exit=$FETCH_EXIT)"
+fi
 
 log "导入数据库..."
 uv run ./src/import_data.py >> output/update.log 2>&1
@@ -35,6 +40,10 @@ NEW_COMMENTS=0
 MSG="auto: update $(date '+%Y-%m-%d %H:%M')"
 if [ "$NEW_TOPICS" -gt 0 ] || [ "$NEW_COMMENTS" -gt 0 ]; then
     MSG="$MSG | +${NEW_TOPICS} topics, +${NEW_COMMENTS} comments"
+fi
+
+if [ "$FETCH_EXIT" -ne 0 ]; then
+    MSG="$MSG | FETCH FAILED"
 fi
 
 git commit -m "$MSG" --allow-empty || true

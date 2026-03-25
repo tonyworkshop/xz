@@ -104,7 +104,30 @@ def send_slack_dm(message: str) -> bool:
         return False
 
 
+def get_latest_commit_message() -> str:
+    """获取最新一条 commit message"""
+    result = subprocess.run(
+        ["git", "log", "--format=%s", "-1"],
+        capture_output=True, text=True,
+        cwd=PROJECT_ROOT,
+    )
+    return result.stdout.strip()
+
+
+def check_fetch_failure():
+    """检查最新 commit 是否包含 FETCH FAILED，立即通知"""
+    msg = get_latest_commit_message()
+    if "FETCH FAILED" not in msg:
+        return
+    print(f"[告警] 检测到抓取失败: {msg}")
+    send_slack_dm(f"⚠️ 知识星球抓取失败（fetch crashed）\ncommit: {msg}")
+
+
 def main():
+    # 检查 fetch 失败（立即通知）
+    check_fetch_failure()
+
+    # 检查连续无数据更新（3天阈值）
     if has_real_updates_recently():
         if ALERT_COUNT_FILE.exists():
             ALERT_COUNT_FILE.unlink()
