@@ -26,7 +26,9 @@
       "WebFetch(domain:registry.npmjs.org)",
       "WebFetch(domain:http-intake.logs.us5.datadoghq.com)",
       "Bash(sudo chown:*)",
-      "mcp__playwright__browser_navigate"
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__playwright__browser_evaluate"
     ]
   },
   "sandbox": {

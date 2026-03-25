@@ -108,6 +108,11 @@ def get_all_topic_keys(page) -> list:
                 contentType: contentType,
                 outerHTMLSnippet: topic.outerHTML.substring(0, 200)
             };
+        }).filter(item => {
+            const topic = topics[item.index];
+            const statusEl = topic.querySelector('div.question-status');
+            if (statusEl && statusEl.textContent.trim() === '等待回答') return false;
+            return true;
         });
     }''')
 
