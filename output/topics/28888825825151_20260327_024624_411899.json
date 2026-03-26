@@ -1,0 +1,74 @@
+{
+  "captured_at": "2026-03-27T02:46:24.411926",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 55188451824252814,
+          "topic_uid": "55188451824252814",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 48828252114858,
+              "name": "HLily",
+              "avatar_url": "https://images.zsxq.com/FoGflX5mKOdFx_Bg7wTv0SuWHa-1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:atUYNebFl9MssuI5bTJP1jan0tE=",
+              "location": "北京"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yD7Bvimteup0aWVP-sJA37o-ekA=",
+              "location": "美国"
+            },
+            "text": "许总，在B站看您一期访谈，其中讲到全天候底层逻辑并不及预期，但绝大多数普通人都不可能具备您那样的能力，甚至很多专业投资人也无法达到您的水平，那针对我们这样极其普通的人来讲，如何做才能实现资产增值？可否提供一些普通人也可以落地执行的建议？谢谢[抱拳][抱拳]",
+            "fee": {
+              "amount": 800
+            },
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 1,
+              "join_time": "2025-12-29T13:33:35.135+0800",
+              "status": "joined"
+            },
+            "owner_location": "北京"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yD7Bvimteup0aWVP-sJA37o-ekA=",
+              "location": "美国"
+            },
+            "text": "最简单的办法是股灾的时候买家基本面良好的公司放着不动，或者买指数基金不动"
+          },
+          "answered": true,
+          "silenced": false,
+          "likes_count": 0,
+          "tourist_likes_count": 0,
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 28,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-03-27T00:13:45.802+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "最简单的办法是股灾的时候买家基..."
+        }
+      ]
+    }
+  }
+}
