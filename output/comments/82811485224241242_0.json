@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-03-27T08:50:14.023235",
+  "captured_at": "2026-03-27T14:53:08.107642",
   "url": "https://api.zsxq.com/v2/topics/82811485224241242/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "82811485224241242",
   "page_id": 0,
@@ -62,7 +62,54 @@
           "group_owner_liked": false,
           "topic_owner_liked": false,
           "rewards_count": 0,
-          "sticky": false
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 4845214112188588,
+              "parent_comment_id": 5125441448214884,
+              "create_time": "2026-03-27T09:46:22.678+0800",
+              "owner": {
+                "user_id": 215515485282251,
+                "name": "trader韩阳",
+                "avatar_url": "https://images.zsxq.com/Fkv7IEuZFpWMXim3WmEnYtsmqB7b?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bFxK-SIweR05_mX9LSiSG4Z-yrY=",
+                "location": "山东"
+              },
+              "text": "这是不是可以结合仓位 比如现金多可接货 就不做long put 仓位重就不错long call 顺带着出货/接货了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 544481241114514,
+                "name": "编辑阿琨",
+                "avatar_url": "https://images.zsxq.com/FuMiceDPSMmAHj5D3MS6zQQGS4FE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:brMavrqR0LU_zyyskhGvIKaZEsY="
+              }
+            },
+            {
+              "comment_id": 5125482884855214,
+              "parent_comment_id": 5125441448214884,
+              "create_time": "2026-03-27T09:50:32.274+0800",
+              "owner": {
+                "user_id": 544481241114514,
+                "name": "编辑阿琨",
+                "avatar_url": "https://images.zsxq.com/FuMiceDPSMmAHj5D3MS6zQQGS4FE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:brMavrqR0LU_zyyskhGvIKaZEsY=",
+                "location": "广东"
+              },
+              "text": "那就是另外一个底层逻辑了，这里讲的是纯做ironcondor做空波动率的底层逻辑以及经验。接货这个也是许大星球里讨论过很多次的，找到平衡点也是不容易，哪一种策略都得躬身入局才能体会",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 215515485282251,
+                "name": "trader韩阳",
+                "avatar_url": "https://images.zsxq.com/Fkv7IEuZFpWMXim3WmEnYtsmqB7b?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bFxK-SIweR05_mX9LSiSG4Z-yrY="
+              }
+            }
+          ]
         },
         {
           "comment_id": 8852448412415482,
