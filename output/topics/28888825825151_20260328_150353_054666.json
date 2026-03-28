@@ -1,0 +1,172 @@
+{
+  "captured_at": "2026-03-28T15:03:53.054696",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 55188451824252814,
+          "topic_uid": "55188451824252814",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 48828252114858,
+              "name": "HLily",
+              "avatar_url": "https://images.zsxq.com/FoGflX5mKOdFx_Bg7wTv0SuWHa-1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:2nv7LKIXoCvCfXDGueUaFn8dwsk=",
+              "location": "北京"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:v3favydesHwDTIn5tcRZeq9tEME=",
+              "location": "美国"
+            },
+            "text": "许总，在B站看您一期访谈，其中讲到全天候底层逻辑并不及预期，但绝大多数普通人都不可能具备您那样的能力，甚至很多专业投资人也无法达到您的水平，那针对我们这样极其普通的人来讲，如何做才能实现资产增值？可否提供一些普通人也可以落地执行的建议？谢谢[抱拳][抱拳]",
+            "fee": {
+              "amount": 800
+            },
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 1,
+              "join_time": "2025-12-29T13:33:35.135+0800",
+              "status": "joined"
+            },
+            "owner_location": "北京"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:v3favydesHwDTIn5tcRZeq9tEME=",
+              "location": "美国"
+            },
+            "text": "最简单的办法是股灾的时候买家基本面良好的公司放着不动，或者买指数基金不动"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-03-28T08:24:37.704+0800",
+              "owner": {
+                "user_id": 548848585244144,
+                "name": "知己",
+                "avatar_url": "https://images.zsxq.com/FinHNNaiJ_9uXMKLvIb3CiiXKA4p?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:MDAmjVTHNLX6y24YuAlmJFN23Aw="
+              }
+            },
+            {
+              "create_time": "2026-03-27T22:28:19.649+0800",
+              "owner": {
+                "user_id": 48888182222528,
+                "name": "小民的自由之路",
+                "avatar_url": "https://images.zsxq.com/FgfUp_VRDEvKTH32hcRj5hujjVUB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:wcDiSXWQSqOJspSrKbt72Ya4JNU="
+              }
+            },
+            {
+              "create_time": "2026-03-27T20:29:46.784+0800",
+              "owner": {
+                "user_id": 215558124855441,
+                "name": "xmss",
+                "avatar_url": "https://images.zsxq.com/FhI_z2HEApvb_L7mR2SREHBNLAbR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:q5k08qxku7qwz-r3de5KwU1Him8="
+              }
+            },
+            {
+              "create_time": "2026-03-27T20:15:36.789+0800",
+              "owner": {
+                "user_id": 241158584281881,
+                "name": "张蒙",
+                "avatar_url": "https://images.zsxq.com/FipgZH0jyz-QHmJ7LiaXITLAGMAH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:JExtL8u0aP8WvPNJGi8h4lV23Q8="
+              }
+            },
+            {
+              "create_time": "2026-03-27T17:06:20.563+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:uZiUb7HLJAeqfBHAXW8kXPeyBZg="
+              }
+            },
+            {
+              "create_time": "2026-03-27T13:39:53.244+0800",
+              "owner": {
+                "user_id": 88814288881152,
+                "name": "关平",
+                "avatar_url": "https://images.zsxq.com/FoE_HQDIQifaEcZMqM_nBS_hKTO-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:y0prbn4s1IX2jjo9nrz0e7SS7C4="
+              }
+            },
+            {
+              "create_time": "2026-03-27T10:23:25.049+0800",
+              "owner": {
+                "user_id": 51442555484884,
+                "name": "耐心如金",
+                "avatar_url": "https://images.zsxq.com/FqtY58styJv5np-RXLFU6vbve7HZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:p1rdNaXsmt9S2_J1R6BLmOPRnrU="
+              }
+            },
+            {
+              "create_time": "2026-03-27T08:52:57.799+0800",
+              "owner": {
+                "user_id": 48888218821448,
+                "name": "后中先",
+                "avatar_url": "https://images.zsxq.com/FgMU4F6QPUmflR3useJkg84ci1zi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:kjNSw1fHPpUeVCLNaV_TGMgmUKE="
+              }
+            },
+            {
+              "create_time": "2026-03-27T08:17:22.553+0800",
+              "owner": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:j0CHve9uSIji4OezEqIhVvwGrcw="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 4845214115584558,
+              "create_time": "2026-03-27T06:02:28.436+0800",
+              "owner": {
+                "user_id": 48828252114858,
+                "name": "HLily",
+                "avatar_url": "https://images.zsxq.com/FoGflX5mKOdFx_Bg7wTv0SuWHa-1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1777564799&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:2nv7LKIXoCvCfXDGueUaFn8dwsk=",
+                "location": "北京"
+              },
+              "text": "多谢许总[抱拳][抱拳]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 11,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 11
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 1,
+          "reading_count": 1,
+          "readers_count": 368,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-03-27T00:13:45.802+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "最简单的办法是股灾的时候买家基..."
+        }
+      ]
+    }
+  }
+}
