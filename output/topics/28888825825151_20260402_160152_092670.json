@@ -1,0 +1,121 @@
+{
+  "captured_at": "2026-04-02T16:01:52.092696",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 14588112124814142,
+          "topic_uid": "14588112124814142",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 118511218281852,
+              "name": "好大一个饼",
+              "avatar_url": "https://images.zsxq.com/FkTcrsxL0_T7zCCOI9S-WtaBRtTA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:9Kj7YiVUJgvxs_J5JZhHeIwtd3g=",
+              "location": "广东"
+            },
+            "text": "求推荐：请问大家执行许大期权成本组合策略是￼用哪个平台或者渠道？"
+          },
+          "latest_likes": [
+            {
+              "create_time": "2026-04-01T16:23:15.975+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:dQI0Pg2p6qhLBInigEHo7A25DMc="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 5125481884842884,
+              "create_time": "2026-04-01T15:40:55.559+0800",
+              "owner": {
+                "user_id": 815855445122422,
+                "name": "无为",
+                "avatar_url": "https://images.zsxq.com/FmVQvYU16PQTyjbsNrJ510HNSHq-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:2u3M4NnCozgzdSZJqJsmvg0Laf0=",
+                "location": "北京"
+              },
+              "text": "我是在国内做股指",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "replies_count": 2
+            },
+            {
+              "comment_id": 5125485225122144,
+              "parent_comment_id": 5125481884842884,
+              "create_time": "2026-04-01T18:45:54.719+0800",
+              "owner": {
+                "user_id": 118511218281852,
+                "name": "好大一个饼",
+                "avatar_url": "https://images.zsxq.com/FkTcrsxL0_T7zCCOI9S-WtaBRtTA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:9Kj7YiVUJgvxs_J5JZhHeIwtd3g=",
+                "location": "广东"
+              },
+              "text": "谢谢分享，是许大以前说的上证50吗？",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815855445122422,
+                "name": "无为",
+                "avatar_url": "https://images.zsxq.com/FmVQvYU16PQTyjbsNrJ510HNSHq-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:2u3M4NnCozgzdSZJqJsmvg0Laf0="
+              }
+            },
+            {
+              "comment_id": 1524184224548512,
+              "parent_comment_id": 5125481884842884,
+              "create_time": "2026-04-01T19:11:26.241+0800",
+              "owner": {
+                "user_id": 815855445122422,
+                "name": "无为",
+                "avatar_url": "https://images.zsxq.com/FmVQvYU16PQTyjbsNrJ510HNSHq-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:2u3M4NnCozgzdSZJqJsmvg0Laf0=",
+                "location": "北京"
+              },
+              "text": "都有，我还结合技术分析带点儿方向",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 118511218281852,
+                "name": "好大一个饼",
+                "avatar_url": "https://images.zsxq.com/FkTcrsxL0_T7zCCOI9S-WtaBRtTA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:9Kj7YiVUJgvxs_J5JZhHeIwtd3g="
+              }
+            }
+          ],
+          "likes_count": 1,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 1
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 3,
+          "reading_count": 1,
+          "readers_count": 342,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-04-01T13:03:54.053+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "求推荐：请问大家执行许大期权成..."
+        }
+      ]
+    }
+  }
+}
