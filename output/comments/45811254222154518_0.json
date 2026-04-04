@@ -1,12 +1,45 @@
 {
-  "captured_at": "2026-04-04T10:22:54.145564",
+  "captured_at": "2026-04-04T16:25:45.686469",
   "url": "https://api.zsxq.com/v2/topics/45811254222154518/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "45811254222154518",
   "page_id": 0,
   "data": {
     "succeeded": true,
     "resp_data": {
-      "comments": [],
+      "comments": [
+        {
+          "comment_id": 4845215524281118,
+          "create_time": "2026-04-04T12:32:54.838+0800",
+          "owner": {
+            "user_id": 415454244411288,
+            "name": "MBR 🍎",
+            "avatar_url": "https://images.zsxq.com/Fl8TErvtPEpPvqFFF8hlSt_YPbjJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:D-fYioyso1JgDOLwjD7CN0LyRSk=",
+            "location": "湖南"
+          },
+          "text": "是否是用指数ETF+买入对应指数看跌期权的组合？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1524184412881122,
+          "create_time": "2026-04-04T13:54:02.662+0800",
+          "owner": {
+            "user_id": 881842141242,
+            "name": "Dobserver",
+            "avatar_url": "https://images.zsxq.com/FtjrpNabF1wlBxft0xKWMuoDsSxR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:dGhSNC1FuNLS93vIa_vFkhMgbe4=",
+            "location": "上海"
+          },
+          "text": "许大，请教个问题，买深度虚值期权的同时卖出平值期权，虽然有正carry，但是如果underlying的价格落到了两个执行价中间，是有可能产生亏损的。请问这种情况该如何处理？谢谢！",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
       "index": ""
     }
   }
