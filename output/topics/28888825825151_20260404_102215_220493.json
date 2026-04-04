@@ -1,0 +1,97 @@
+{
+  "captured_at": "2026-04-04T10:22:15.220549",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 22811422122181881,
+          "topic_uid": "22811422122181881",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 818221851841542,
+              "name": "jelawat",
+              "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:HXx6PYHFHSZ45AE8BcAHkIdYJwk=",
+              "location": "浙江"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:T0ks40dWCbjjktSDFMsNxFCae30=",
+              "location": "美国"
+            },
+            "text": "请教一下许大，组合在上涨时delta变小，是否说明call保护不够？",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 37,
+              "join_time": "2024-04-12T08:19:27.317+0800",
+              "status": "joined"
+            },
+            "owner_location": "浙江"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:T0ks40dWCbjjktSDFMsNxFCae30=",
+              "location": "美国"
+            },
+            "text": "说明你的Gamma现在小于0"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-04-04T08:03:27.143+0800",
+              "owner": {
+                "user_id": 181281852281242,
+                "name": "D",
+                "avatar_url": "https://images.zsxq.com/FoK_2I22reFRWj2O9TTZu2ckFBiX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:I1lULi4zHW4jdgEN2CJFRmkXOwM="
+              }
+            },
+            {
+              "create_time": "2026-04-04T01:48:18.116+0800",
+              "owner": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:HXx6PYHFHSZ45AE8BcAHkIdYJwk="
+              }
+            }
+          ],
+          "likes_count": 3,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 3
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 82,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-04-04T01:44:34.007+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "说明你的Gamma现在小于0"
+        }
+      ]
+    }
+  }
+}
