@@ -1,12 +1,29 @@
 {
-  "captured_at": "2026-04-08T17:12:06.637843",
+  "captured_at": "2026-04-08T23:14:55.942099",
   "url": "https://api.zsxq.com/v2/topics/82811428555144882/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "82811428555144882",
   "page_id": 0,
   "data": {
     "succeeded": true,
     "resp_data": {
-      "comments": [],
+      "comments": [
+        {
+          "comment_id": 5125484254244124,
+          "create_time": "2026-04-08T21:54:56.589+0800",
+          "owner": {
+            "user_id": 212815222852181,
+            "name": "li",
+            "avatar_url": "https://images.zsxq.com/FsiwgH7IvaHvkFAmokv_A3Q-6Lin?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:zwV5RyqY5oX-AZJGq-8u-Mxx36A=",
+            "location": "辽宁"
+          },
+          "text": "Dear 许大 ，假设不考虑标的涨跌和IV的变化，如果把time decay定义为后一天比前一天减少的百分比，比如说今天的权利金为100，明天的权利金变为95，则把time decay记为-5%。横坐标为时间，纵坐标为权利金减少的百分比，如果让您粗略的画出平值，浅虚，深虚三条线，您会怎样画？我看了一些书好像并没有讲这个的，但我觉得这又是很重要的，真心请教，感谢",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
       "index": ""
     }
   }
