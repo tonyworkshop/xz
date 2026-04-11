@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-04-09T11:20:10.582298",
+  "captured_at": "2026-04-11T23:37:50.786024",
   "url": "https://api.zsxq.com/v2/topics/82811422241218452/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "82811422241218452",
   "page_id": 0,
@@ -21,7 +21,32 @@
           "group_owner_liked": false,
           "topic_owner_liked": false,
           "rewards_count": 0,
-          "sticky": false
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 5125484115888484,
+              "parent_comment_id": 8852412454521542,
+              "create_time": "2026-04-10T09:33:36.260+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:7kBtcbJi1a4Xl6OzHwu940mEvaY=",
+                "location": "四川"
+              },
+              "text": "用put买，买完回落你平掉获利了结，没回落亏完。\n用call买一样，但是平的时候你可以把没有残值的+call留着，万一vix后面又起飞了你还能赚第二笔。\n\n核心就是这个差别",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48418222824818,
+                "name": "格蕾丝",
+                "avatar_url": "https://images.zsxq.com/FlcUzvwrpkEQwsfVadlTmUujf2Ot?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ISj5AhcMDu4nUPvyDYvEnbi5MKE="
+              }
+            }
+          ]
         }
       ],
       "index": ""

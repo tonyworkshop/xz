@@ -1,0 +1,109 @@
+{
+  "captured_at": "2026-04-11T23:37:34.348616",
+  "url": "https://api.zsxq.com/v2/topics/82255514454848412/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "82255514454848412",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2852414458551111,
+          "create_time": "2026-04-11T17:50:15.093+0800",
+          "owner": {
+            "user_id": 5458884184,
+            "name": "山药",
+            "avatar_url": "https://images.zsxq.com/Fo-0XkeKFT7VC4FZreg-L1zVOUqR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:f9L6HYYu8D5MpI1IdWAaK4RQmiY=",
+            "location": "北京"
+          },
+          "text": "许大对最后一段的解释是什么呢？就是因为人们对肥尾的估计是远远不足所以才有套利空间的嘛？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 8852414454521452,
+              "parent_comment_id": 2852414458551111,
+              "create_time": "2026-04-11T19:23:38.691+0800",
+              "owner": {
+                "user_id": 88488281111222,
+                "name": "不金雲",
+                "avatar_url": "https://images.zsxq.com/Fr5Jew-FasnP-znQHBYjpFiB_Iwz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:QFSOBBlnYiGxLUY_bprSAgBFbF4=",
+                "location": "湖南"
+              },
+              "text": "我猜测是因为炼金术：詹森不等式。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 5458884184,
+                "name": "山药",
+                "avatar_url": "https://images.zsxq.com/Fo-0XkeKFT7VC4FZreg-L1zVOUqR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:f9L6HYYu8D5MpI1IdWAaK4RQmiY="
+              }
+            },
+            {
+              "comment_id": 2852414451211821,
+              "parent_comment_id": 2852414458551111,
+              "create_time": "2026-04-11T23:27:03.985+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:T0ks40dWCbjjktSDFMsNxFCae30=",
+                "location": "美国"
+              },
+              "text": "这只写到一小半，耐心等我再有闲功夫继续写",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 5458884184,
+                "name": "山药",
+                "avatar_url": "https://images.zsxq.com/Fo-0XkeKFT7VC4FZreg-L1zVOUqR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:f9L6HYYu8D5MpI1IdWAaK4RQmiY="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5125484424251244,
+          "create_time": "2026-04-11T19:16:45.953+0800",
+          "owner": {
+            "user_id": 15154448524882,
+            "name": "豪",
+            "avatar_url": "https://images.zsxq.com/FtcipErD_wXG04L_KGlORlRJWiyN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:_OW11uCxLG0z6KpBtIK6CrD3Qq0=",
+            "location": "浙江"
+          },
+          "text": "国内etf期权，当远月时间价值为负或者说购沽波动率差太大的时候，其实往往是远月股指贴水巨大，带入远月股指价格作为标的物，表面数据都合理了。是否可以这么理解，iv最低点那个行权价，接近于远月股指的价格，而国外远月股指看做是升水？请指教",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8852414451284552,
+          "create_time": "2026-04-11T23:16:06.194+0800",
+          "owner": {
+            "user_id": 28488881452811,
+            "name": "April",
+            "avatar_url": "https://images.zsxq.com/FqQiaXZxa518xfTSHxbUJKwr8B5q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:F5M_L6uzsCbIqV8nifgAR7CSMG0=",
+            "location": "天津"
+          },
+          "text": "这个软件让原理变得直观了，原来是个小章鱼🐙哈哈，同时期望收益也一目了然。\n\n有两个问题请教一下。第一个问题，如果按照您开头说的市场情况不同的时候是不一样的，那么这个工具的作用就是让绿色占比尽可能高，为了达到这个目的，是否需要不同到期日错配或者波动率上择时？第二个问题，在不勾选Random Walk 时，short straddle执行价是否要选择iv最低点？\n\n对最后您留的问题大胆猜测一下，对手盘不是傻子，因为获取了股息吗。期待后续大作",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}
