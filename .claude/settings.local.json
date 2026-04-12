@@ -29,7 +29,8 @@
       "mcp__playwright__browser_navigate",
       "mcp__playwright__browser_take_screenshot",
       "mcp__playwright__browser_evaluate",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "WebFetch(domain:ssh.github.com)"
     ]
   },
   "sandbox": {
