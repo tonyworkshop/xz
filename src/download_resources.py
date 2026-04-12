@@ -74,7 +74,7 @@ def download_image(page, conn, image: dict) -> bool:
 
             conn.execute(
                 "UPDATE images SET downloaded = 1, local_path = ? WHERE image_id = ?",
-                (str(local_path), image_id),
+                (str(local_path.relative_to(OUTPUT_DIR)), image_id),
             )
             conn.commit()
             logger.info(f"  ✓ 已保存: {local_path} ({len(content)} bytes)")
@@ -109,7 +109,7 @@ def download_article(page, conn, article: dict) -> bool:
 
             conn.execute(
                 "UPDATE articles SET downloaded = 1, local_path = ? WHERE article_id = ?",
-                (str(local_path), article_id),
+                (str(local_path.relative_to(OUTPUT_DIR)), article_id),
             )
             conn.commit()
             logger.info(f"  ✓ 已保存: {local_path} ({len(html)} chars)")

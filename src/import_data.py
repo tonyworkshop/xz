@@ -189,6 +189,43 @@ def import_comments_file(conn, file_path: Path):
     return count
 
 
+def migrate_local_paths(conn):
+    """将数据库中的绝对路径修复为相对路径（相对于 output/ 目录）"""
+    tables = ["images", "articles", "files"]
+    total_fixed = 0
+
+    for table in tables:
+        pk = "image_id" if table == "images" else ("article_id" if table == "articles" else "file_id")
+        rows = conn.execute(
+            f"SELECT {pk}, local_path FROM {table} WHERE local_path IS NOT NULL AND local_path LIKE '/%'"
+        ).fetchall()
+
+        fixed = 0
+        for row in rows:
+            row_id = row[pk]
+            old_path = row["local_path"]
+            # 提取 /output/ 之后的部分
+            marker = "/output/"
+            idx = old_path.find(marker)
+            if idx >= 0:
+                new_path = old_path[idx + len(marker):]
+                conn.execute(
+                    f"UPDATE {table} SET local_path = ? WHERE {pk} = ?",
+                    (new_path, row_id),
+                )
+                fixed += 1
+            else:
+                print(f"  ⚠ 无法解析路径，跳过: {old_path}")
+
+        if fixed > 0:
+            print(f"  {table}: 修复 {fixed} 条路径")
+            total_fixed += fixed
+
+    if total_fixed > 0:
+        conn.commit()
+        print(f"  共修复 {total_fixed} 条路径")
+
+
 def import_all():
     """导入所有数据"""
     # 初始化数据库
@@ -254,6 +291,10 @@ def import_all():
             f"SELECT COUNT(*) FROM {table} WHERE downloaded = 1"
         ).fetchone()[0]
         print(f"  {name}: {downloaded}/{total} 已下载")
+
+    # 修复绝对路径
+    print("\n=== 路径迁移 ===")
+    migrate_local_paths(conn)
 
     # 计算新增数量并写入统计文件
     after = get_counts(conn)
