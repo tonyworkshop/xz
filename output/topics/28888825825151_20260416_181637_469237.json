@@ -1,0 +1,109 @@
+{
+  "captured_at": "2026-04-16T18:16:37.469259",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 82255855258451882,
+          "topic_uid": "82255855258451882",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 51115214584144,
+              "name": "Sparker",
+              "avatar_url": "https://images.zsxq.com/FqoxlPiM0ksKGG1uSJFJT_KzYer4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Ak-TGAM7lfMgiIwlAkNuKVLTii4=",
+              "location": "上海"
+            },
+            "text": "请问QQQAI的年报或者四季报什么时候会发布？"
+          },
+          "latest_likes": [
+            {
+              "create_time": "2026-04-16T15:36:01.131+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:dQI0Pg2p6qhLBInigEHo7A25DMc="
+              }
+            },
+            {
+              "create_time": "2026-04-16T14:48:32.099+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:kZ2HIFuTm85NEoNskCpeio5KquU="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 2852411842144121,
+              "create_time": "2026-04-16T14:05:11.958+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:T0ks40dWCbjjktSDFMsNxFCae30=",
+                "location": "美国"
+              },
+              "text": "2026一季度审计后变动挺大的，我合并一下数据",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "replies_count": 1
+            },
+            {
+              "comment_id": 5125488144124554,
+              "parent_comment_id": 2852411842144121,
+              "create_time": "2026-04-16T14:28:39.095+0800",
+              "owner": {
+                "user_id": 51115214584144,
+                "name": "Sparker",
+                "avatar_url": "https://images.zsxq.com/FqoxlPiM0ksKGG1uSJFJT_KzYer4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Ak-TGAM7lfMgiIwlAkNuKVLTii4=",
+                "location": "上海"
+              },
+              "text": "期待，每一次的qqqai报告都可以当书来读",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:T0ks40dWCbjjktSDFMsNxFCae30="
+              }
+            }
+          ],
+          "likes_count": 2,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 2
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 2,
+          "reading_count": 1,
+          "readers_count": 140,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-04-16T13:02:03.986+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "请问QQQAI的年报或者四季报..."
+        }
+      ]
+    }
+  }
+}
