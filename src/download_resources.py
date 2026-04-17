@@ -296,6 +296,8 @@ def main():
         # 下载文件
         if files:
             print(f"\n开始下载文件 ({len(files)} 个)...")
+            # 导航到 zsxq 域以便后续 page.evaluate(fetch) 能带上 cookie 和签名头
+            page.goto("https://wx.zsxq.com/", wait_until="load", timeout=30000)
             success_count = 0
             for i, file in enumerate(files, 1):
                 if not running:
