@@ -173,11 +173,11 @@ def download_file(page, conn, file: dict) -> bool:
 
         logger.debug(f"  URL: {download_url}")
 
-        # 第二步：通过 page.goto 下载二进制
+        # 第二步：通过 APIRequestContext 下载二进制（避免触发浏览器的下载事件）
         # 文件可能较大，超时设为 60s
-        response = page.goto(download_url, wait_until="load", timeout=60000)
+        response = page.context.request.get(download_url, timeout=60000)
 
-        if response and response.status == 200:
+        if response.ok:
             content = response.body()
             local_path = FILES_DIR / filename
             local_path.write_bytes(content)
@@ -190,8 +190,7 @@ def download_file(page, conn, file: dict) -> bool:
             logger.info(f"  ✓ 已保存: {local_path} ({len(content)} bytes)")
             return True
         else:
-            status = response.status if response else "无响应"
-            logger.warning(f"  ✗ 下载失败: HTTP {status}")
+            logger.warning(f"  ✗ 下载失败: HTTP {response.status}")
             return False
 
     except Exception as e:
