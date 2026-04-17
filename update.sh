@@ -28,6 +28,9 @@ uv run ./src/download_resources.py --articles --debug >> output/update.log 2>&1
 log "下载图片..."
 uv run ./src/download_resources.py --images --debug >> output/update.log 2>&1
 
+log "下载文件..."
+uv run ./src/download_resources.py --files --debug >> output/update.log 2>&1
+
 log "提交更新..."
 git add output/
 
