@@ -55,6 +55,23 @@ def get_pending_articles(conn, limit: int = None):
     return conn.execute(sql).fetchall()
 
 
+def get_pending_files(conn, limit: int = None):
+    """获取未下载的文件"""
+    sql = "SELECT * FROM files WHERE downloaded = 0"
+    if limit:
+        sql += f" LIMIT {limit}"
+    return conn.execute(sql).fetchall()
+
+
+def sanitize_filename(name: str) -> str:
+    """替换文件系统保留字符，避免落盘失败"""
+    if not name:
+        return ""
+    for ch in '/\\:*?"<>|':
+        name = name.replace(ch, "_")
+    return name
+
+
 def download_image(page, conn, image: dict) -> bool:
     """下载单张图片"""
     image_id = image["image_id"]
@@ -124,6 +141,63 @@ def download_article(page, conn, article: dict) -> bool:
         return False
 
 
+def download_file(page, conn, file: dict) -> bool:
+    """下载单个文件（PDF / 音频等）"""
+    file_id = file["file_id"]
+    name = file["name"] or str(file_id)
+    safe_name = sanitize_filename(name)
+    filename = f"{file_id}_{safe_name}"
+
+    logger.info(f"下载文件: {name}")
+
+    try:
+        # 第一步：在页面上下文中调 API 获取临时签名 URL
+        api_url = f"https://api.zsxq.com/v2/files/{file_id}/download_url"
+        logger.debug(f"  API: {api_url}")
+        result = page.evaluate(
+            """async (url) => {
+                const r = await fetch(url, { credentials: 'include' });
+                return await r.json();
+            }""",
+            api_url,
+        )
+
+        if not result or not result.get("succeeded"):
+            logger.warning(f"  ✗ 获取下载 URL 失败: {result}")
+            return False
+
+        download_url = result.get("resp_data", {}).get("download_url")
+        if not download_url:
+            logger.warning(f"  ✗ 响应缺少 download_url: {result}")
+            return False
+
+        logger.debug(f"  URL: {download_url}")
+
+        # 第二步：通过 page.goto 下载二进制
+        response = page.goto(download_url, wait_until="load", timeout=60000)
+
+        if response and response.status == 200:
+            content = response.body()
+            local_path = FILES_DIR / filename
+            local_path.write_bytes(content)
+
+            conn.execute(
+                "UPDATE files SET downloaded = 1, local_path = ? WHERE file_id = ?",
+                (str(local_path.relative_to(OUTPUT_DIR)), file_id),
+            )
+            conn.commit()
+            logger.info(f"  ✓ 已保存: {local_path} ({len(content)} bytes)")
+            return True
+        else:
+            status = response.status if response else "无响应"
+            logger.warning(f"  ✗ 下载失败: HTTP {status}")
+            return False
+
+    except Exception as e:
+        logger.error(f"  ✗ 下载异常: {e}")
+        return False
+
+
 def random_delay(page, min_ms: int = 3000, max_ms: int = 5000):
     """随机延时"""
     delay = random.randint(min_ms, max_ms)
@@ -143,7 +217,7 @@ def main():
     parser = argparse.ArgumentParser(description="知识星球资源下载工具")
     parser.add_argument("--images", action="store_true", help="仅下载图片")
     parser.add_argument("--articles", action="store_true", help="仅下载文章")
-    parser.add_argument("--files", action="store_true", help="仅下载文件（暂不支持）")
+    parser.add_argument("--files", action="store_true", help="仅下载文件")
     parser.add_argument("--limit", type=int, metavar="N", help="限制下载数量")
     parser.add_argument("--debug", action="store_true", help="启用 DEBUG 日志")
     args = parser.parse_args()
@@ -157,11 +231,6 @@ def main():
     # 如果没有指定类型，则下载全部
     download_all = not (args.images or args.articles or args.files)
 
-    if args.files:
-        logger.warning("文件下载暂不支持，需要先通过抓包确认下载 URL 格式")
-        if not (args.images or args.articles):
-            return
-
     ensure_output_dirs()
     signal.signal(signal.SIGINT, signal_handler)
 
@@ -174,12 +243,14 @@ def main():
     # 统计待下载数量
     images = get_pending_images(conn, args.limit) if (download_all or args.images) else []
     articles = get_pending_articles(conn, args.limit) if (download_all or args.articles) else []
+    files = get_pending_files(conn, args.limit) if (download_all or args.files) else []
 
     print(f"待下载图片: {len(images)}")
     print(f"待下载文章: {len(articles)}")
+    print(f"待下载文件: {len(files)}")
     print("=" * 60)
 
-    if not images and not articles:
+    if not images and not articles and not files:
         print("没有待下载的资源")
         conn.close()
         return
@@ -221,6 +292,19 @@ def main():
                 random_delay(page)
             print(f"\n文章下载完成: {success_count}/{len(articles)}")
 
+        # 下载文件
+        if files:
+            print(f"\n开始下载文件 ({len(files)} 个)...")
+            success_count = 0
+            for i, file in enumerate(files, 1):
+                if not running:
+                    break
+                print(f"\n[{i}/{len(files)}]", end=" ")
+                if download_file(page, conn, dict(file)):
+                    success_count += 1
+                random_delay(page)
+            print(f"\n文件下载完成: {success_count}/{len(files)}")
+
         context.close()
 
     conn.close()
@@ -230,6 +314,7 @@ def main():
     print("下载完成！")
     print(f"图片目录: {IMAGES_DIR}")
     print(f"文章目录: {ARTICLES_DIR}")
+    print(f"文件目录: {FILES_DIR}")
     print("=" * 60)
 
 
