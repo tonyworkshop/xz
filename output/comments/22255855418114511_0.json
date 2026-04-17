@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-04-17T18:28:48.045990",
+  "captured_at": "2026-04-18T00:31:43.687768",
   "url": "https://api.zsxq.com/v2/topics/22255855418114511/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "22255855418114511",
   "page_id": 0,
@@ -155,6 +155,47 @@
           "topic_owner_liked": false,
           "rewards_count": 0,
           "sticky": false
+        },
+        {
+          "comment_id": 8852411415258122,
+          "create_time": "2026-04-17T23:11:47.686+0800",
+          "owner": {
+            "user_id": 15484118411552,
+            "name": "钟",
+            "avatar_url": "https://images.zsxq.com/Fr_sRQNRHTp9GIFUKizEP7DxMdS-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:05nHT_fspqnzf6IgaLGQtiEhnj8=",
+            "location": "广东"
+          },
+          "text": "我可以理解成许大被 vega 伤了足足半年吗，可能这就是这个手法的命门，不知道后续有没机会听到许大展开谈谈相关内容",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2852411415451111,
+              "parent_comment_id": 8852411415258122,
+              "create_time": "2026-04-17T23:40:09.553+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:T0ks40dWCbjjktSDFMsNxFCae30=",
+                "location": "美国"
+              },
+              "text": "其实就是用VIX对冲，但因为VIX低想博一把VEGA回归，现在看来确实赚到了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 15484118411552,
+                "name": "钟",
+                "avatar_url": "https://images.zsxq.com/Fr_sRQNRHTp9GIFUKizEP7DxMdS-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:05nHT_fspqnzf6IgaLGQtiEhnj8="
+              }
+            }
+          ]
         }
       ],
       "index": ""
