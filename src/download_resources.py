@@ -174,6 +174,7 @@ def download_file(page, conn, file: dict) -> bool:
         logger.debug(f"  URL: {download_url}")
 
         # 第二步：通过 page.goto 下载二进制
+        # 文件可能较大，超时设为 60s
         response = page.goto(download_url, wait_until="load", timeout=60000)
 
         if response and response.status == 200:
