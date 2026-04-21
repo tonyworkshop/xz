@@ -1,12 +1,29 @@
 {
-  "captured_at": "2026-04-22T01:18:14.342722",
+  "captured_at": "2026-04-22T07:21:09.876670",
   "url": "https://api.zsxq.com/v2/topics/14422288254441552/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "14422288254441552",
   "page_id": 0,
   "data": {
     "succeeded": true,
     "resp_data": {
-      "comments": [],
+      "comments": [
+        {
+          "comment_id": 8852155815141112,
+          "create_time": "2026-04-22T03:37:25.542+0800",
+          "owner": {
+            "user_id": 818855821841522,
+            "name": "PATH",
+            "avatar_url": "https://images.zsxq.com/FvZDRmImGhI6MSbn3AUOilrvILoO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:LZW7j8Qfe6oPmmpD2tY8LaB1Cj0=",
+            "location": "香港"
+          },
+          "text": "SEC的规则限制ETF杠杆倍数的，超过三倍杠杆的只能是ETN结构了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
       "index": ""
     }
   }
