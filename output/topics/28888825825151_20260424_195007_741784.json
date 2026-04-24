@@ -1,0 +1,153 @@
+{
+  "captured_at": "2026-04-24T19:50:07.741808",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 82255885554142152,
+          "topic_uid": "82255885554142152",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 841122581858482,
+              "name": "大冬瓜",
+              "avatar_url": "https://images.zsxq.com/FrbTaZWuiy4RpSEUFtQSPGKKjVDa?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Xd3XBElscB-36jxRKWDErcAgV1w=",
+              "location": "江苏"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:T0ks40dWCbjjktSDFMsNxFCae30=",
+              "location": "美国"
+            },
+            "text": "许大好，构建跨式后，标的价格当天就下跌了一个行权价档位，但是skew曲线不但没有右移甚至还下移了，结果就是头寸非但没有浮盈甚至还有少许浮亏，这是个什么情况！",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 1,
+              "join_time": "2026-03-28T11:21:33.917+0800",
+              "status": "joined"
+            },
+            "owner_location": "江苏"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:T0ks40dWCbjjktSDFMsNxFCae30=",
+              "location": "美国"
+            },
+            "text": "就是你说的情况啊，还能怎么样"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-04-23T22:36:48.039+0800",
+              "owner": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:HXx6PYHFHSZ45AE8BcAHkIdYJwk="
+              }
+            },
+            {
+              "create_time": "2026-04-23T20:03:01.712+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:dQI0Pg2p6qhLBInigEHo7A25DMc="
+              }
+            },
+            {
+              "create_time": "2026-04-23T14:49:27.939+0800",
+              "owner": {
+                "user_id": 881188252152,
+                "name": "哈丝丝",
+                "avatar_url": "https://images.zsxq.com/Fptn9cbJJUPQDf4ViDsdwkwB2quc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:sQ7xNVXwYgfzV5RTA9jjittL6QA="
+              }
+            },
+            {
+              "create_time": "2026-04-23T13:25:21.163+0800",
+              "owner": {
+                "user_id": 15122188124282,
+                "name": "赵zhao",
+                "avatar_url": "https://images.zsxq.com/FifSonLyndoEbSj7QqBIbKkBTAWr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZIVIyLAJXgFtO8NtoJ3C869muH4="
+              }
+            },
+            {
+              "create_time": "2026-04-23T13:11:53.680+0800",
+              "owner": {
+                "user_id": 825114811222,
+                "name": "喧嚣",
+                "avatar_url": "https://images.zsxq.com/Fsjidk0bUbDrqyjx3DJ2Q20O1lCw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:gkSp65ATUGcJWk4D4Pgz4fFFBOs="
+              }
+            },
+            {
+              "create_time": "2026-04-23T12:21:22.517+0800",
+              "owner": {
+                "user_id": 415814458285888,
+                "name": "Januaryy",
+                "avatar_url": "https://images.zsxq.com/FpeEOBdRFthOkh4WOYLbrJLgAJrq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:8hb3dmtFmFjrKf-cvhKGiQCLW4I="
+              }
+            },
+            {
+              "create_time": "2026-04-23T10:21:42.213+0800",
+              "owner": {
+                "user_id": 88255842518412,
+                "name": "罗爷",
+                "avatar_url": "https://images.zsxq.com/FjNN1dyvKBQjDoRJa1Hls8JhW3eR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:k7BDT7Z9DWrGXofd4U7w17QIRA4="
+              }
+            },
+            {
+              "create_time": "2026-04-23T07:49:56.419+0800",
+              "owner": {
+                "user_id": 548848585244144,
+                "name": "知己",
+                "avatar_url": "https://images.zsxq.com/FinHNNaiJ_9uXMKLvIb3CiiXKA4p?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ogu6VxOkW-AlZEsgs37Bvu9ttyU="
+              }
+            },
+            {
+              "create_time": "2026-04-23T07:01:02.570+0800",
+              "owner": {
+                "user_id": 181281852281242,
+                "name": "D",
+                "avatar_url": "https://images.zsxq.com/FoK_2I22reFRWj2O9TTZu2ckFBiX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:I1lULi4zHW4jdgEN2CJFRmkXOwM="
+              }
+            }
+          ],
+          "likes_count": 11,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 11
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 431,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-04-23T05:15:15.386+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "就是你说的情况啊，还能怎么样"
+        }
+      ]
+    }
+  }
+}
