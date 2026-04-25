@@ -1,12 +1,29 @@
 {
-  "captured_at": "2026-04-25T20:01:45.260892",
+  "captured_at": "2026-04-26T02:04:47.497481",
   "url": "https://api.zsxq.com/v2/topics/55522112441842144/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "55522112441842144",
   "page_id": 0,
   "data": {
     "succeeded": true,
     "resp_data": {
-      "comments": [],
+      "comments": [
+        {
+          "comment_id": 5125828112181884,
+          "create_time": "2026-04-25T22:02:57.546+0800",
+          "owner": {
+            "user_id": 815855445122422,
+            "name": "无为",
+            "avatar_url": "https://images.zsxq.com/FmVQvYU16PQTyjbsNrJ510HNSHq-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:2u3M4NnCozgzdSZJqJsmvg0Laf0=",
+            "location": "北京"
+          },
+          "text": "我是这么理解的，做空国债主要是通过国债期货来进行，国债期货这个工具本身就对空头更有利一些，利率很低时，国债期货的价差应该也会比较小，这对空头也更有利，我主要参考的是2020年3月30年美债期货的数据",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
       "index": ""
     }
   }
