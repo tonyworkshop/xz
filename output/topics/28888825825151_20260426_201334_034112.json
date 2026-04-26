@@ -1,0 +1,184 @@
+{
+  "captured_at": "2026-04-26T20:13:34.034142",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 55522112441842144,
+          "topic_uid": "55522112441842144",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 815855445122422,
+              "name": "无为",
+              "avatar_url": "https://images.zsxq.com/FmVQvYU16PQTyjbsNrJ510HNSHq-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:2u3M4NnCozgzdSZJqJsmvg0Laf0=",
+              "location": "北京"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:T0ks40dWCbjjktSDFMsNxFCae30=",
+              "location": "美国"
+            },
+            "text": "请教许大，按理说直接做多国债的凸性为正，但从反脆弱的角度来说，历史上的恶性通胀能到几十万倍，而通货膨胀从目前水平继续下降，最多也就是零以下，而且在负值也不会特别极端，可能也就是负的个位数水平，对于未来的通胀情况我们也很难预测，所以问题来了，是不是从长期来说，对于长期国债，我们是不是更应该多去寻找做空的机会，而非是去寻找做多的机会？",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 3,
+              "join_time": "2026-02-20T12:34:00.112+0800",
+              "status": "joined"
+            },
+            "owner_location": "北京"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:T0ks40dWCbjjktSDFMsNxFCae30=",
+              "location": "美国"
+            },
+            "text": "卖国债就得持续付利息了，可能付到你受不了了国债还没崩。而且通胀爆炸了只要国债是按照本币支付的那么就不违约，通胀爆炸了其实国债更容易兑付，因为实际偿付更少了。\n\n但你这个对反脆弱凸性的理解是对的，我做国债的时候一直买很远很虚的国债看跌期权，结果疫情来了暴力加息的时候发现救命的就是这些期权。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-04-26T08:40:25.236+0800",
+              "owner": {
+                "user_id": 28514885188551,
+                "name": "李宇辰",
+                "avatar_url": "https://images.zsxq.com/FppruBoRHJosjRXA-eRxbiSj-R-L?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:1wf9oUoJm7nz4SSPqwAVnIdtDT0="
+              }
+            },
+            {
+              "create_time": "2026-04-25T16:14:56.497+0800",
+              "owner": {
+                "user_id": 15122188124282,
+                "name": "赵zhao",
+                "avatar_url": "https://images.zsxq.com/FifSonLyndoEbSj7QqBIbKkBTAWr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZIVIyLAJXgFtO8NtoJ3C869muH4="
+              }
+            },
+            {
+              "create_time": "2026-04-25T12:51:03.978+0800",
+              "owner": {
+                "user_id": 281444248481,
+                "name": "正期望",
+                "avatar_url": "https://images.zsxq.com/FtofdZczo2UH70oqrGKeS4XairbD?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:5g9Rm4TMMYdp4XvLgIFGTzl_4z0="
+              }
+            },
+            {
+              "create_time": "2026-04-25T10:47:01.002+0800",
+              "owner": {
+                "user_id": 51284521888844,
+                "name": "小青鱼",
+                "avatar_url": "https://images.zsxq.com/FgB3WqDOR3-VV6dS7qdWVexb1R4s?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:7OBedCpKcHg5mVWIMHTjUgTP8G0="
+              }
+            },
+            {
+              "create_time": "2026-04-25T10:24:52.848+0800",
+              "owner": {
+                "user_id": 15581481544422,
+                "name": "红花红果",
+                "avatar_url": "https://images.zsxq.com/Fkj19hZYfOPXRh99F1l84FH_wclV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:nNFE5jHy4ytF6jYVQDX6_T7Idw4="
+              }
+            },
+            {
+              "create_time": "2026-04-25T09:33:11.490+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:dQI0Pg2p6qhLBInigEHo7A25DMc="
+              }
+            },
+            {
+              "create_time": "2026-04-25T07:49:09.541+0800",
+              "owner": {
+                "user_id": 88255842518412,
+                "name": "罗爷",
+                "avatar_url": "https://images.zsxq.com/FjNN1dyvKBQjDoRJa1Hls8JhW3eR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:k7BDT7Z9DWrGXofd4U7w17QIRA4="
+              }
+            },
+            {
+              "create_time": "2026-04-25T07:43:04.717+0800",
+              "owner": {
+                "user_id": 422184558515458,
+                "name": "凸面万岁",
+                "alias": "Unknown",
+                "avatar_url": "https://images.zsxq.com/FmXktJLqiyoryC6VUmDBFINju3MN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:85SzWencrw4R7RC_ah0WMRTGPDE="
+              }
+            },
+            {
+              "create_time": "2026-04-25T07:07:40.290+0800",
+              "owner": {
+                "user_id": 815852155411842,
+                "name": "语嫣",
+                "avatar_url": "https://images.zsxq.com/FjMVz4Br5OcqldJRovBomlb0zNHv?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:6gfS3q8rBlF4dO1v0BxZl4OW274="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 5125828112181884,
+              "create_time": "2026-04-25T22:02:57.546+0800",
+              "owner": {
+                "user_id": 815855445122422,
+                "name": "无为",
+                "avatar_url": "https://images.zsxq.com/FmVQvYU16PQTyjbsNrJ510HNSHq-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:2u3M4NnCozgzdSZJqJsmvg0Laf0=",
+                "location": "北京"
+              },
+              "text": "我是这么理解的，做空国债主要是通过国债期货来进行，国债期货这个工具本身就对空头更有利一些，利率很低时，国债期货的价差应该也会比较小，这对空头也更有利，我主要参考的是2020年3月30年美债期货的数据",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 4845141582412828,
+              "create_time": "2026-04-26T08:41:10.401+0800",
+              "owner": {
+                "user_id": 28514885188551,
+                "name": "李宇辰",
+                "avatar_url": "https://images.zsxq.com/FppruBoRHJosjRXA-eRxbiSj-R-L?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:1wf9oUoJm7nz4SSPqwAVnIdtDT0=",
+                "location": "山东"
+              },
+              "text": "长期看必然是通胀占上风，这里的长期至少是10年起吧。",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 10,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 10
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 2,
+          "reading_count": 1,
+          "readers_count": 390,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-04-25T07:01:34.895+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "卖国债就得持续付利息了，可能付..."
+        }
+      ]
+    }
+  }
+}
