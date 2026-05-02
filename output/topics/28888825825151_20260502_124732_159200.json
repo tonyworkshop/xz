@@ -1,0 +1,64 @@
+{
+  "captured_at": "2026-05-02T12:47:32.159228",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 45544881522488158,
+          "topic_uid": "45544881522488158",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 51558582545824,
+              "name": "Emperor",
+              "avatar_url": "https://images.zsxq.com/Fv9qbYfWmYmR13JCaQML6e82R_yE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Xux9HALcEFMdvUmWKF_A-q_EXUg=",
+              "location": "山东"
+            },
+            "text": "许老师您好，近期沸沸扬扬的强国股票年报大调整事件，能锐评一下吗？要是比较敏感就当我没问"
+          },
+          "latest_likes": [
+            {
+              "create_time": "2026-05-02T10:43:52.485+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:gSOfqiBytsvfSVKeWLoNuoPZLv4="
+              }
+            }
+          ],
+          "likes_count": 1,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 1
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 154,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-05-01T22:43:46.085+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "许老师您好，近期沸沸扬扬的强国..."
+        }
+      ]
+    }
+  }
+}
