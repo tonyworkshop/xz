@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-05-06T13:37:00.344350",
+  "captured_at": "2026-05-06T19:39:51.335609",
   "url": "https://api.zsxq.com/v2/topics/82255514454848412/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "82255514454848412",
   "page_id": 0,
@@ -156,6 +156,22 @@
             "location": "北京"
           },
           "text": "考虑开源出来，让大家一起推进不",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5125812812458454,
+          "create_time": "2026-05-06T15:06:02.458+0800",
+          "owner": {
+            "user_id": 142814885552,
+            "name": "灯火阑珊",
+            "avatar_url": "https://images.zsxq.com/Fl5Hs5SxnewLNROi3SqEUEuoiCD8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:-7torS4KGnzgW-vArsf-L2BI90M=",
+            "location": "湖南"
+          },
+          "text": "最后一段的原因是不是：同一时刻，不同行权价期权对应标的物的分布趋向于正态分布。但时间区间里面的拟合更符合肥尾分布，才导致的利润空间",
           "likes_count": 0,
           "group_owner_liked": false,
           "topic_owner_liked": false,
