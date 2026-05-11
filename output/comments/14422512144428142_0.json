@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-05-11T08:30:08.525940",
+  "captured_at": "2026-05-11T14:33:08.676914",
   "url": "https://api.zsxq.com/v2/topics/14422512144428142/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "14422512144428142",
   "page_id": 0,
@@ -17,7 +17,7 @@
             "location": "加拿大"
           },
           "text": "当然有兴趣[强]",
-          "likes_count": 0,
+          "likes_count": 1,
           "group_owner_liked": false,
           "topic_owner_liked": false,
           "rewards_count": 0,
@@ -85,7 +85,54 @@
           "group_owner_liked": false,
           "topic_owner_liked": false,
           "rewards_count": 0,
-          "sticky": false
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 2852188152584151,
+              "parent_comment_id": 2852188441252211,
+              "create_time": "2026-05-11T13:53:32.186+0800",
+              "owner": {
+                "user_id": 212251844248511,
+                "name": "amize",
+                "avatar_url": "https://images.zsxq.com/FhvY86x85JgKCUZ_szaOGgN9kuS3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:XaoMGLm254Yzz2lX1VstkBKmTkI=",
+                "location": "北京"
+              },
+              "text": "做市商会用期权对冲期权，但这往往不是首选或唯一手段。原因主要在于成本和效率：\n\n1. 期权流动性差、买卖价差宽\n   用同一种期权对冲，需要频繁买卖。但期权市场流动性通常远低于期货或现货。用期权对冲会付出高昂的买卖价差，并可能直接推高价格、冲击市场，导致对冲成本过高。\n2. 隐含波动率风险更难对冲\n   若用不同行权价或到期日的期权对冲，需要对冲的是隐含波动率曲面的变化，而不仅仅是标的资产价格。这是多维度的风险，很难用少数期权完美锁定。一旦波动率曲面形态改变，对冲效果会大打折扣。\n3. 对冲希腊字母的效率问题\n   做市商的对冲目标是管理期权组合的希腊字母（Delta、Gamma、Vega等）。\n   · Delta：用标的资产（如期货、正股）对冲最便宜、最直接。\n   · Gamma与Vega：理论上可考虑用平值期权对冲，但交易成本高，不如用波动率互换或期货+动态Delta对冲来间接管理。实践中，做市商常通过每日动态调整标的资产，来消化大部分Gamma风险。\n4. 实际做法：动态Delta为主，期权为辅\n   · 核心策略：用高流动性的标的资产（期货、ETF、正股）高频调整Delta，并结合波动率头寸的整体管理。\n   · 有限使用期权对冲：仅在风险极端集中时。例如，卖出了大量深度虚值看跌期权后，为防止尾部风险，会买入更虚值的看跌期权作为“尾部保险”。\n   · 场内 vs 场外：场外期权做市商为对冲客户头寸，会更频繁使用场内期权，因为场内期权流动性相对更好。\n\n简单总结：不是不能用期权对冲期权，而是成本更高、效率更低。用流动性更好的标的资产（期货/现货）+动态Delta调整，是更便宜、更精确的日常做法。只有在管理Gamma、Vega或尾部风险时，做市商才会策略性地使用期权来对冲期权。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 184525885445412,
+                "name": "kiwa",
+                "avatar_url": "https://images.zsxq.com/Fv5rxJfMiTjOVos6X3t_U3TzwJjt?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:V-XGc8cmX3_lljzoTQ_xIHHWBk0="
+              }
+            },
+            {
+              "comment_id": 4845188145454218,
+              "parent_comment_id": 2852188441252211,
+              "create_time": "2026-05-11T13:55:30.087+0800",
+              "owner": {
+                "user_id": 212251844248511,
+                "name": "amize",
+                "avatar_url": "https://images.zsxq.com/FhvY86x85JgKCUZ_szaOGgN9kuS3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:XaoMGLm254Yzz2lX1VstkBKmTkI=",
+                "location": "北京"
+              },
+              "text": "这是ai的回答，期权的流动性是比不了现货的，做市商这种大资金规模，用期权对冲的spread太大了，而且要有对手盘",
+              "likes_count": 1,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 184525885445412,
+                "name": "kiwa",
+                "avatar_url": "https://images.zsxq.com/Fv5rxJfMiTjOVos6X3t_U3TzwJjt?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:V-XGc8cmX3_lljzoTQ_xIHHWBk0="
+              }
+            }
+          ]
         },
         {
           "comment_id": 2852188441451211,
@@ -97,6 +144,214 @@
             "location": "北京"
           },
           "text": "有",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8852188441424122,
+          "create_time": "2026-05-11T08:35:08.344+0800",
+          "owner": {
+            "user_id": 222118285211,
+            "name": "行健",
+            "avatar_url": "https://images.zsxq.com/FiiZkaJz7-bk0SGFrJ2lhggHrqyj?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:0Dkb7nn6-BHv1cIWZEjyoAqhOwM=",
+            "location": "湖南"
+          },
+          "text": "非常有兴趣！！",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2852188441444541,
+          "create_time": "2026-05-11T08:41:10.969+0800",
+          "owner": {
+            "user_id": 225181822281,
+            "name": "梁山",
+            "avatar_url": "https://images.zsxq.com/FlMmzJkwanLN8QQ4y8M_UF85vG0h?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:N00RwSbsbkvjf_aNB1y-BJmc_DM=",
+            "location": "上海"
+          },
+          "text": "那太需要了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8852188441112852,
+          "create_time": "2026-05-11T09:00:13.806+0800",
+          "owner": {
+            "user_id": 88821811242452,
+            "name": "Shawn",
+            "avatar_url": "https://images.zsxq.com/FtEhvgs5-zafyI90CIO1ZtCRdJf9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:mbsjInIGAlcXqQmuPMRB8UxYvoE=",
+            "location": "海南"
+          },
+          "text": "有！",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4845188214444158,
+          "create_time": "2026-05-11T09:04:06.095+0800",
+          "owner": {
+            "user_id": 415421848221548,
+            "name": "Neeee",
+            "avatar_url": "https://images.zsxq.com/FklTUtDT5SdgKzPjuWbmIfrICGlE?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:07dwYVlUCCPa9Ujp2pZj2YOTw58=",
+            "location": "湖南"
+          },
+          "text": "太需要了 许老师",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5125811482124214,
+          "create_time": "2026-05-11T09:20:42.261+0800",
+          "owner": {
+            "user_id": 224445248521,
+            "name": "阿莱克西斯",
+            "avatar_url": "https://images.zsxq.com/FkJQUVK9h5HNpqCS7Z5v5w8m8BDg?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:cvFJDG3djtBrBBGqValofEFauQA=",
+            "location": "广东"
+          },
+          "text": "太有了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 2852188418112541,
+          "create_time": "2026-05-11T09:30:23.754+0800",
+          "owner": {
+            "user_id": 51415514558414,
+            "name": "诸行无常",
+            "avatar_url": "https://images.zsxq.com/FjL20VL91IJXLXLbL6HM1Go0gNC9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:FmnEPV1RkP4vXo4OiaTp3q8oEys=",
+            "location": "香港"
+          },
+          "text": "必须搞啊，许大",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5125811485584214,
+          "create_time": "2026-05-11T10:11:19.220+0800",
+          "owner": {
+            "user_id": 421424828814588,
+            "name": "智-",
+            "avatar_url": "https://images.zsxq.com/Fig5w4-sfHn8-hCthMldJvykAYaw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:e_1kOOXrjI0DNr_MbzujJrmO8xY=",
+            "location": "广东"
+          },
+          "text": "有！！",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 5125811485428284,
+          "create_time": "2026-05-11T10:15:38.401+0800",
+          "owner": {
+            "user_id": 15122188124282,
+            "name": "赵zhao",
+            "avatar_url": "https://images.zsxq.com/FifSonLyndoEbSj7QqBIbKkBTAWr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:kheHQigXVM-oq8gJ5Dsil0g7JYU=",
+            "location": "广东"
+          },
+          "text": "太有了",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1524855188522852,
+          "create_time": "2026-05-11T12:01:38.861+0800",
+          "owner": {
+            "user_id": 88455824551882,
+            "name": "MOMOKA",
+            "avatar_url": "https://images.zsxq.com/FodgiF2ORHzLVuaI9g0umaz7DHhv?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Sd_RRwO5OIIGy8qDiDzKV9P1568=",
+            "location": "吉林"
+          },
+          "text": "太有兴趣了[爱心]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8852188158252212,
+          "create_time": "2026-05-11T12:51:23.350+0800",
+          "owner": {
+            "user_id": 181281852281242,
+            "name": "D",
+            "avatar_url": "https://images.zsxq.com/FoK_2I22reFRWj2O9TTZu2ckFBiX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ilABZG1ExPIbpg1WHcCABqZo7b8=",
+            "location": "北京"
+          },
+          "text": "许大来一个[玫瑰]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1524855825444542,
+          "create_time": "2026-05-11T13:01:49.131+0800",
+          "owner": {
+            "user_id": 422188128825828,
+            "name": "焱焱",
+            "avatar_url": "https://images.zsxq.com/FqtR99iINf7w0twDjKKJCqSabVg0?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:VxZjZL61NH1DyprrhAwbUg4KcEg=",
+            "location": "浙江"
+          },
+          "text": "[嘿哈]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 1524855825881242,
+          "create_time": "2026-05-11T13:41:53.722+0800",
+          "owner": {
+            "user_id": 48844458585888,
+            "name": "朱黎黎",
+            "avatar_url": "https://images.zsxq.com/FrrWLdjLxHTaFSYH1vcPyEpicubG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:WYpGT_hPOu3ES8OrcgNrFy9zAds=",
+            "location": "上海"
+          },
+          "text": "那必须啊～",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4845188145558128,
+          "create_time": "2026-05-11T14:19:10.552+0800",
+          "owner": {
+            "user_id": 484482888,
+            "name": "chenng",
+            "avatar_url": "https://images.zsxq.com/FvtO3Fg-yq8fO0tatNHPzDm_7KTQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:4aXSfoam_KFGB0i6QRW7N08_FV0=",
+            "location": "上海"
+          },
+          "text": "蹲",
           "likes_count": 0,
           "group_owner_liked": false,
           "topic_owner_liked": false,
