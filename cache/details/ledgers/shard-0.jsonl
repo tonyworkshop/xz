@@ -1,0 +1,1 @@
+{"unit_type": "shard", "unit_id": "shard-0", "status": "completed_empty", "topic_modulo": "topic_id % 5 == 0", "topics_processed": 0, "articles_processed": 0, "files_processed": 0, "comments_processed": 0, "parse_failed": [], "needs_review": ["No topics in xz.db satisfy topic_id % 5 == 0; verified via SQLite and Python integer modulo."], "verified_at": "2026-05-09T14:23+0800"}

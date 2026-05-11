@@ -1,0 +1,47 @@
+---
+source_type: "article"
+source_id: "5a9reaauzlrn"
+parent_topic_id: 2855148855445541
+title: "关于汇率问题的看法"
+local_path: "articles/5a9reaauzlrn.html"
+reading_status: "source_cache_created"
+investment_relevance: "adjacent"
+generated_at: "2026-05-09T14:29:39+08:00"
+---
+
+# Source Cache
+
+## Coverage
+- Parent topic: `2855148855445541`.
+- Extracted text length: `1390` characters.
+- Status: source cache created because the source is attached to this shard and is large/high-value enough to preserve separately.
+
+## Investment Relevance
+- Classification: `adjacent`.
+- Reason: adjacent market/risk keywords present: 人民币; 央行; 市场; 投资; 汇率; 美元; 通胀; 风险.
+
+## Detailed Notes
+### 核心观点
+- 主导过去多年的人民币上升的周期的贸易项下的因素主要是出口企业的结汇问题，因为东大出口额不断创新高，央行的账上美元是不断多出来的，但人民币的发行速度也要控制（是的，东大央行并没有肆无忌惮，是克制的），所以必须让涌入的美元对应的人民币的数量不能太多，人民币是上升的。
+- 这些条件目前都变了，FDI等口径都开始了改开以来前所未见的逆转，也就是来东大投资的人要Cash Out了，不仅不再投入美元，还要从央行的账本里提走比当初投入更多的美元。
+- 货币的供给不是央行单方面决定的，除了少有的奇葩国家，所有国家的央行都是要考虑通胀和政府预算平衡的约束条件且拥有正常银行体系的国家地区也有派生货币的功能。
+- 如果考虑汇率问题的话，那就要考虑他国为什么需要人民币货币存款，也就是货币的需求问题。
+- 所以人民币汇率未来的走向其实是没啥悬念的，如果这些因素不变化的话。
+
+### 交易/组合结构
+- 主导过去多年的人民币上升的周期的贸易项下的因素主要是出口企业的结汇问题，因为东大出口额不断创新高，央行的账上美元是不断多出来的，但人民币的发行速度也要控制（是的，东大央行并没有肆无忌惮，是克制的），所以必须让涌入的美元对应的人民币的数量不能太多，人民币是上升的。
+
+### 期权/凸性/波动率/风控手法
+- 主导过去多年的人民币上升的周期的贸易项下的因素主要是出口企业的结汇问题，因为东大出口额不断创新高，央行的账上美元是不断多出来的，但人民币的发行速度也要控制（是的，东大央行并没有肆无忌惮，是克制的），所以必须让涌入的美元对应的人民币的数量不能太多，人民币是上升的。
+
+### 失败模式
+- 主导过去多年的人民币上升的周期的贸易项下的因素主要是出口企业的结汇问题，因为东大出口额不断创新高，央行的账上美元是不断多出来的，但人民币的发行速度也要控制（是的，东大央行并没有肆无忌惮，是克制的），所以必须让涌入的美元对应的人民币的数量不能太多，人民币是上升的。
+- 所以最根本的改变是：东大这里逼着眼睛创造更高收益率的代差已经没了，并且外企因为俄罗斯的事情已经打过样了而对政治风险有了更多的考量；
+
+## Traceability
+- source_id: `5a9reaauzlrn`
+- parent_topic_id: `2855148855445541`
+- local_path: `articles/5a9reaauzlrn.html`
+
+## Open Questions
+- None from extraction; verify against original source if exact wording matters.
