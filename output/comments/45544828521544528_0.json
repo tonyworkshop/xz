@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-05-14T14:41:25.590445",
+  "url": "https://api.zsxq.com/v2/topics/45544828521544528/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "45544828521544528",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4845185824552858,
+          "create_time": "2026-05-13T14:45:46.734+0800",
+          "owner": {
+            "user_id": 28488188528821,
+            "name": "百年好合",
+            "avatar_url": "https://images.zsxq.com/Fm8WqcHeDlE-VXzZVunpTwSM9Q0G?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:thfc9Hmsb4xsHq7XbdIA_toLIWs=",
+            "location": "美国"
+          },
+          "text": "知道顶在哪里，这个消息老值钱了[发呆]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}
