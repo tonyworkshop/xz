@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-05-14T14:41:35.774241",
+  "captured_at": "2026-05-14T20:44:55.022150",
   "url": "https://api.zsxq.com/v2/topics/14422512144428142/comments?sort=asc&count=30&with_sticky=true&begin_time=2026-05-12T12%3A36%3A37.957%2B0800",
   "topic_id": "14422512144428142",
   "page_id": 1,
@@ -102,7 +102,7 @@
           "topic_owner_liked": false,
           "rewards_count": 0,
           "sticky": false,
-          "replies_count": 1,
+          "replies_count": 2,
           "replied_comments": [
             {
               "comment_id": 1524854588824452,
@@ -124,6 +124,28 @@
                 "user_id": 182882155181252,
                 "name": "Patrick",
                 "avatar_url": "https://images.zsxq.com/FgbZysHHjHjWBybgNSEsoa54zCuK?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:pApe_KNAgzWF0B-s9mYOo1BRunk="
+              }
+            },
+            {
+              "comment_id": 8852182422288122,
+              "parent_comment_id": 4845185821515448,
+              "create_time": "2026-05-14T17:20:12.248+0800",
+              "owner": {
+                "user_id": 182882155181252,
+                "name": "Patrick",
+                "avatar_url": "https://images.zsxq.com/FgbZysHHjHjWBybgNSEsoa54zCuK?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:pApe_KNAgzWF0B-s9mYOo1BRunk=",
+                "location": "香港"
+              },
+              "text": "等许大指导术法，自己想还是没想出好方法[苦涩]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:sXkd6g78VwbAsGJE3rVPxedevlg="
               }
             }
           ]
