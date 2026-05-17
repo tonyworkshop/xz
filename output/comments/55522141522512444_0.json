@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-05-17T14:15:42.361683",
+  "captured_at": "2026-05-17T20:18:40.631290",
   "url": "https://api.zsxq.com/v2/topics/55522141522512444/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "55522141522512444",
   "page_id": 0,
@@ -37,7 +37,32 @@
           "group_owner_liked": false,
           "topic_owner_liked": false,
           "rewards_count": 0,
-          "sticky": false
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4845182444485128,
+              "parent_comment_id": 2852182448454181,
+              "create_time": "2026-05-17T17:11:59.189+0800",
+              "owner": {
+                "user_id": 841141585521852,
+                "name": "林恩诺",
+                "avatar_url": "https://images.zsxq.com/Fntb28Ei8L4wFxzciWHEDn-ovSzz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:brtAvkyAsIsPWAiu7IWzH3cki9Y=",
+                "location": "澳大利亚"
+              },
+              "text": "问问AI开个海外券商和银行卡",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:kIQdsti4KXL1WI0zAoASFm5i7FA="
+              }
+            }
+          ]
         }
       ],
       "index": ""
