@@ -1,0 +1,64 @@
+{
+  "captured_at": "2026-05-18T08:24:25.047646",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 82255818458518842,
+          "topic_uid": "82255818458518842",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 215554511452881,
+              "name": "J.",
+              "avatar_url": "https://images.zsxq.com/Fj7BJ2nXf-44jvsrxXKnJRKlJcV6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ePrOd-Hds5KMhElkb4IgkqKUtNU=",
+              "location": "北京"
+            },
+            "text": "许大，您用ai分析金融市场时，沉淀了什么成熟的skill或者工作流，能不能分享一下？"
+          },
+          "latest_likes": [
+            {
+              "create_time": "2026-05-18T07:02:58.552+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:gSOfqiBytsvfSVKeWLoNuoPZLv4="
+              }
+            }
+          ],
+          "likes_count": 1,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 1
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 171,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-05-17T20:29:44.600+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "许大，您用ai分析金融市场时，..."
+        }
+      ]
+    }
+  }
+}
