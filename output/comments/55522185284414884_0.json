@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-05-26T22:06:25.775272",
+  "captured_at": "2026-05-27T04:09:26.667579",
   "url": "https://api.zsxq.com/v2/topics/55522185284414884/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "55522185284414884",
   "page_id": 0,
@@ -21,7 +21,32 @@
           "group_owner_liked": false,
           "topic_owner_liked": false,
           "rewards_count": 0,
-          "sticky": false
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4845152888115218,
+              "parent_comment_id": 1524844481555242,
+              "create_time": "2026-05-26T23:33:19.704+0800",
+              "owner": {
+                "user_id": 118511218281852,
+                "name": "好大一个饼",
+                "avatar_url": "https://images.zsxq.com/FkTcrsxL0_T7zCCOI9S-WtaBRtTA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:18iOFVUH2F1Dp8MbgS31LiJVsd4=",
+                "location": "广东"
+              },
+              "text": "求电脑梯子推荐[流泪]",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 142458225252,
+                "name": "耿一铭",
+                "avatar_url": "https://images.zsxq.com/Fgk4WPCASe2QnIpNjNE1VPZn1vyf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:pge3z-uKMzDAVsrWQlC7bd4ZCK4="
+              }
+            }
+          ]
         },
         {
           "comment_id": 8852122214888512,
@@ -173,7 +198,7 @@
             "user_id": 88818181241512,
             "name": "沉默的猪",
             "avatar_url": "https://images.zsxq.com/FmUFkIZDlnVDAUPoGDa5um1np5vM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Ns_qHD8R7atk00j9aRsfRdI2Bcw=",
-            "location": "美国"
+            "location": "北京"
           },
           "text": "许大写完用ai加密下 我们自己再用ai解密",
           "likes_count": 0,
