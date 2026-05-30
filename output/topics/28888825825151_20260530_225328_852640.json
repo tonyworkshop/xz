@@ -1,0 +1,46 @@
+{
+  "captured_at": "2026-05-30T22:53:28.852665",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 45544584882855558,
+          "topic_uid": "45544584882855558",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 142814858512,
+              "name": "一起聊聊天",
+              "avatar_url": "https://images.zsxq.com/FtFr7QKq33shZnhoW2Z1AObJ4SLn?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1782835199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:0cX5hT6nSqQk0yOVyi8B2yURT9c=",
+              "location": "广西"
+            },
+            "text": "日元会变成瑞郎事件翻版吗"
+          },
+          "likes_count": 0,
+          "tourist_likes_count": 0,
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 50,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-05-30T21:09:22.679+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "日元会变成瑞郎事件翻版吗"
+        }
+      ]
+    }
+  }
+}
