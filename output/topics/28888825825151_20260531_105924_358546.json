@@ -1,0 +1,64 @@
+{
+  "captured_at": "2026-05-31T10:59:24.358571",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 45544584882855558,
+          "topic_uid": "45544584882855558",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 142814858512,
+              "name": "一起聊聊天",
+              "avatar_url": "https://images.zsxq.com/FtFr7QKq33shZnhoW2Z1AObJ4SLn?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:OsdhrjMVwgYoEfhRHzib-j8tbCU=",
+              "location": "广西"
+            },
+            "text": "日元会变成瑞郎事件翻版吗"
+          },
+          "latest_likes": [
+            {
+              "create_time": "2026-05-31T00:07:02.264+0800",
+              "owner": {
+                "user_id": 88811452512442,
+                "name": "刘吉安",
+                "avatar_url": "https://images.zsxq.com/FuqPe_-9NerZIP7OWNDpxz1ZuhSQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:OpOHIGHjVDeAZ4-Q_A-6xiKEf5s="
+              }
+            }
+          ],
+          "likes_count": 1,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 1
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 172,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-05-30T21:09:22.679+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "日元会变成瑞郎事件翻版吗"
+        }
+      ]
+    }
+  }
+}
