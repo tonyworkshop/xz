@@ -1,0 +1,91 @@
+{
+  "captured_at": "2026-06-01T23:17:12.278848",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 22255811148541181,
+          "topic_uid": "22255811148541181",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "最重磅的还是今年的 Mate 90 系列身上的新麒麟SoC，也就是麒麟 2026（代号），将完整采用逻辑折叠技术。\n具体来看，晶体管密由 155MTr/mm² 提升至 238MTr/mm²，幅度超过50%！\n（台积电 N3E（3nm）密度为 273MTr/mm²。）\nP核能效比 +41％，峰值频率 +12.7％，主频冲击到 3.1GHz。\n\n\n\n老师怎么看？",
+            "expired": false,
+            "anonymous": true,
+            "owner_detail": {
+              "questions_count": 65,
+              "estimated_join_time": ">1Y",
+              "status": "joined"
+            },
+            "owner_location": "广东"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "堆叠不是什么新技术，最近比较令人震惊的是三星的存储芯片能叠200层了\n\n那个韬定律，怎么说呢？基本就是没说"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-06-01T23:11:06.934+0800",
+              "owner": {
+                "user_id": 881188252152,
+                "name": "哈丝丝",
+                "avatar_url": "https://images.zsxq.com/Fptn9cbJJUPQDf4ViDsdwkwB2quc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:fmOneYkMwrPIkk9IIaOte2kP_Uk="
+              }
+            },
+            {
+              "create_time": "2026-06-01T23:05:30.152+0800",
+              "owner": {
+                "user_id": 185555885188212,
+                "name": "雾里看花",
+                "avatar_url": "https://images.zsxq.com/FjhjSp3Ztv3n_6cdteIC5ZfzAJsN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:XTd0I_9iNbOfnPjhZr5m606pUWY="
+              }
+            }
+          ],
+          "likes_count": 3,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 3
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 84,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-01T22:33:21.153+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "堆叠不是什么新技术，最近比较令..."
+        }
+      ]
+    }
+  }
+}
