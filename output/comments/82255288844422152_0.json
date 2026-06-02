@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-06-02T17:26:09.459319",
+  "url": "https://api.zsxq.com/v2/topics/82255288844422152/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "82255288844422152",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2852121481584821,
+          "create_time": "2026-06-02T16:39:52.844+0800",
+          "owner": {
+            "user_id": 48225281881258,
+            "name": "哇咔咔",
+            "avatar_url": "https://images.zsxq.com/Fvbwy0smAWexhHnSMuRMZs1cgkPX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:nnK-1yxTDW5xNu6LZNBEONdcg6U=",
+            "location": "河南"
+          },
+          "text": "你要有都能换出的本事，当掮客就行了[捂脸]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

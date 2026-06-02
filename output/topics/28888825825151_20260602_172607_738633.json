@@ -1,0 +1,88 @@
+{
+  "captured_at": "2026-06-02T17:26:07.738662",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 82255288844422152,
+          "topic_uid": "82255288844422152",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 111885815144512,
+              "name": "平安是福",
+              "avatar_url": "https://images.zsxq.com/FofNvs2MQ5bXQL9hQhTaVw4JxclZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:pOIntjQC1AsAuNjb1Lve9Zwzhzo=",
+              "location": "山东"
+            },
+            "text": "你好老师，我有个问题想问一下。现在美元美元汇率呈下降的趋势，然后我想等到6.5的时候，人民币全换成美元，等到美元汇率再提高的时候再换成人民币，这样是不是能赚一笔呢？"
+          },
+          "latest_likes": [
+            {
+              "create_time": "2026-06-02T16:39:13.109+0800",
+              "owner": {
+                "user_id": 48225281881258,
+                "name": "哇咔咔",
+                "avatar_url": "https://images.zsxq.com/Fvbwy0smAWexhHnSMuRMZs1cgkPX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:nnK-1yxTDW5xNu6LZNBEONdcg6U="
+              }
+            },
+            {
+              "create_time": "2026-06-02T16:38:34.876+0800",
+              "owner": {
+                "user_id": 241524485228151,
+                "name": "万柳",
+                "avatar_url": "https://images.zsxq.com/Fmr8vCU54wu12492jb8qhY_BQOW9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:fhLPpne7dhTgiB9C4fZB6bHXxDk="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 2852121481584821,
+              "create_time": "2026-06-02T16:39:52.844+0800",
+              "owner": {
+                "user_id": 48225281881258,
+                "name": "哇咔咔",
+                "avatar_url": "https://images.zsxq.com/Fvbwy0smAWexhHnSMuRMZs1cgkPX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:nnK-1yxTDW5xNu6LZNBEONdcg6U=",
+                "location": "河南"
+              },
+              "text": "你要有都能换出的本事，当掮客就行了[捂脸]",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 2,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 2
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 1,
+          "reading_count": 1,
+          "readers_count": 52,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-02T16:02:10.301+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "你好老师，我有个问题想问一下。..."
+        }
+      ]
+    }
+  }
+}
