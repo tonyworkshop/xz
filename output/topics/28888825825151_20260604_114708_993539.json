@@ -1,0 +1,65 @@
+{
+  "captured_at": "2026-06-04T11:47:08.993570",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 14422455824184442,
+          "topic_uid": "14422455824184442",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "许大，本人大厂中登程序员，无法长久出卖炭基肉身的结局已经清晰，目前想到的解法是用钱投资硅基对冲。\n\n你提到“以反脆弱能力为前提的纳斯达克跟踪策略就是我的方舟”，我很认同。期权是表达丰富观点的好工具，目前学了一个月，有实操问题请教：\n\n杠铃大端（比如95%）买入纳斯达克ETF，小端买入深度虚值的PUT并叠加少量VIX Call，定期滚动。\n\n这个方案是否可行，有没有坑和改进建议？感谢！",
+            "expired": false,
+            "anonymous": true,
+            "owner_detail": {
+              "questions_count": 1,
+              "estimated_join_time": "<3M",
+              "status": "joined"
+            },
+            "owner_location": "北京"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "如同上一条分析的那样，你这个做法和Universa的做法是类似的，长期来看是没问题的，而且易操作。\n\n短期你可能要长期忍受不赚钱甚至亏钱的区间，如果你觉得OK的话，那么这个操作完全是个人可行的。\n\n思虑比较周全的类似QQQAI的具体做法，我肯定是不会公开的。"
+          },
+          "answered": true,
+          "silenced": false,
+          "likes_count": 0,
+          "tourist_likes_count": 0,
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 32,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-04T11:40:36.077+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "如同上一条分析的那样，你这个做..."
+        }
+      ]
+    }
+  }
+}
