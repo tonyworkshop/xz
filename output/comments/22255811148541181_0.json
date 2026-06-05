@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-06-05T12:00:06.932433",
+  "captured_at": "2026-06-05T18:03:01.927459",
   "url": "https://api.zsxq.com/v2/topics/22255811148541181/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "22255811148541181",
   "page_id": 0,
@@ -47,6 +47,38 @@
               }
             }
           ]
+        },
+        {
+          "comment_id": 2852145888524511,
+          "create_time": "2026-06-05T12:11:33.991+0800",
+          "owner": {
+            "user_id": 118288224122822,
+            "name": "潇洒哥",
+            "avatar_url": "https://images.zsxq.com/FlykLTstDmOIv4XxwSHJGDWjFw7d?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:jAKH-Sryd3wfxg0ZN5kbb8dI9b4=",
+            "location": "福建"
+          },
+          "text": "三星 200 层 NAND：一本书 236 页，每页全是存数据的格子，一页页叠厚变厚、存更多字（只存数据）；\n华为韬定律逻辑折叠：把一张平面图纸上的复杂电路，对折成上下两面布线，导线大幅变短、电流跑得更快（负责算数运算）。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 4845124888451158,
+          "create_time": "2026-06-05T12:13:22.357+0800",
+          "owner": {
+            "user_id": 118288224122822,
+            "name": "潇洒哥",
+            "avatar_url": "https://images.zsxq.com/FlykLTstDmOIv4XxwSHJGDWjFw7d?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:jAKH-Sryd3wfxg0ZN5kbb8dI9b4=",
+            "location": "福建"
+          },
+          "text": "如果soc逻辑门电路，可以轻松入存储堆叠的话，为什么英特尔，英伟达不去这么做呢？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
         }
       ],
       "index": ""
