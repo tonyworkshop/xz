@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-06-05T18:01:54.651985",
+  "captured_at": "2026-06-06T00:05:12.457206",
   "url": "https://api.zsxq.com/v2/topics/45544588145214128/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "45544588145214128",
   "page_id": 0,
@@ -53,7 +53,32 @@
           "group_owner_liked": false,
           "topic_owner_liked": false,
           "rewards_count": 0,
-          "sticky": false
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2852145824224541,
+              "parent_comment_id": 4845124848181258,
+              "create_time": "2026-06-05T18:29:50.576+0800",
+              "owner": {
+                "user_id": 88842421514242,
+                "name": "鴖",
+                "avatar_url": "https://images.zsxq.com/Fnk97AgXmBubEYd2l2wdwGK6bF8h?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:fixwRTrLC-YMcrUF8CFKL3NpCdI=",
+                "location": "福建"
+              },
+              "text": "六氟化钨",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 551148242114,
+                "name": "毕老师",
+                "avatar_url": "https://images.zsxq.com/Fn15NOCVAWt8JYAN9Wb9QGbFxbFG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:gYlp89rdKdIrIsYmPsoa4WfU-mo="
+              }
+            }
+          ]
         }
       ],
       "index": ""

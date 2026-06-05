@@ -1,12 +1,54 @@
 {
-  "captured_at": "2026-06-05T18:01:45.628278",
+  "captured_at": "2026-06-06T00:05:03.578060",
   "url": "https://api.zsxq.com/v2/topics/82255282282818142/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "82255282282818142",
   "page_id": 0,
   "data": {
     "succeeded": true,
     "resp_data": {
-      "comments": [],
+      "comments": [
+        {
+          "comment_id": 4845124851144188,
+          "create_time": "2026-06-05T21:58:53.211+0800",
+          "owner": {
+            "user_id": 144254841842,
+            "name": "许哲",
+            "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+            "location": "上海"
+          },
+          "text": "最近一期会是6月底半年报审计后，二级市场买可以有人工大额赎回的通道的，使用提问功能",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 4845124828144488,
+              "parent_comment_id": 4845124851144188,
+              "create_time": "2026-06-05T22:27:14.686+0800",
+              "owner": {
+                "user_id": 51118442125254,
+                "name": "黄金手套",
+                "avatar_url": "https://images.zsxq.com/Frs07b72G7EuUmobnX_F0kDjvkxT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:dT7sHN6RgAsvMyP4T0lEI538LKM=",
+                "location": "上海"
+              },
+              "text": "谢谢许大",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4="
+              }
+            }
+          ]
+        }
+      ],
       "index": ""
     }
   }
