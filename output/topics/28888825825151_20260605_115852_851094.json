@@ -1,0 +1,72 @@
+{
+  "captured_at": "2026-06-05T11:58:52.851118",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 82255282282818142,
+          "topic_uid": "82255282282818142",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 51118442125254,
+              "name": "黄金手套",
+              "avatar_url": "https://images.zsxq.com/Frs07b72G7EuUmobnX_F0kDjvkxT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:dT7sHN6RgAsvMyP4T0lEI538LKM=",
+              "location": "上海"
+            },
+            "text": "许大好，最新一期的 QQQAI 基金报告什么时候会发布？我目前只找到了去年三季度的小结报告。另外了解一下在二级市场购买的 QQQAI ，大额资金是否可以进行赎回？谢谢<e type=\"hashtag\" hid=\"15588211882142\" title=\"%23QQQAI%20%E7%9B%B8%E5%85%B3%23\" />"
+          },
+          "latest_likes": [
+            {
+              "create_time": "2026-06-05T11:57:48.307+0800",
+              "owner": {
+                "user_id": 48844818158518,
+                "name": "赵飞",
+                "avatar_url": "https://images.zsxq.com/FmsTQileDabr7suKTzNJDesKfi3O?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:I4zxH80kUrvE2P5pJ40wGnWMkcg="
+              }
+            },
+            {
+              "create_time": "2026-06-05T08:55:57.035+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:UmRqdl9q-aqEQgb9JLRx6gdFfIw="
+              }
+            }
+          ],
+          "likes_count": 2,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 2
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 167,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-05T06:29:44.367+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "许大好，最新一期的 QQQAI..."
+        }
+      ]
+    }
+  }
+}
