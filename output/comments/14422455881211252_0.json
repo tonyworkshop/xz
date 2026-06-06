@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-06-06T18:13:34.354383",
+  "url": "https://api.zsxq.com/v2/topics/14422455881211252/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "14422455881211252",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 1524812581215512,
+          "create_time": "2026-06-06T18:06:31.053+0800",
+          "owner": {
+            "user_id": 51118442125254,
+            "name": "黄金手套",
+            "avatar_url": "https://images.zsxq.com/Frs07b72G7EuUmobnX_F0kDjvkxT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:dT7sHN6RgAsvMyP4T0lEI538LKM=",
+            "location": "上海"
+          },
+          "text": "借着请教一下，如果通过 uniswap 二级市场购买，那卖方是做市商吗？交易体量较大的话冲击成本差异会比较大，我研究了一下好像不能像股票市场一样挂买卖委托价格。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}

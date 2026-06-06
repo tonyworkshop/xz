@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-06-06T18:13:43.418474",
+  "url": "https://api.zsxq.com/v2/topics/82255842558585282/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "82255842558585282",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 4845124815852418,
+          "create_time": "2026-06-06T14:58:36.611+0800",
+          "owner": {
+            "user_id": 544458888252154,
+            "name": "小香猪",
+            "avatar_url": "https://images.zsxq.com/Fmt4InnjfJFh_yyyxsPDCUksBKuM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:NwCtx0COf2YIUChbSiYYj3t-wWs=",
+            "location": "墨西哥"
+          },
+          "text": "非常感谢许大回复，把许打成徐纯属笔误，不好意思[捂脸][捂脸]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}
