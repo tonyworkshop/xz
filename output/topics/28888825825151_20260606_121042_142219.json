@@ -1,0 +1,121 @@
+{
+  "captured_at": "2026-06-06T12:10:42.142251",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 45544588188284518,
+          "topic_uid": "45544588188284518",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 818221851841542,
+              "name": "jelawat",
+              "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:MilgyMdBf3JQ3N8EHsXGMnsY9Uc=",
+              "location": "浙江"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "请教一下许大，从目前来看，SPX纳入spacex也要几个月后了\n是否应该分成NDX和SPX两批来进行套利",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 39,
+              "join_time": "2024-04-12T08:19:27.317+0800",
+              "status": "joined"
+            },
+            "owner_location": "浙江"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "SPX还是比较有节操，按照SPX的这个方法可能只有没节操的给快速通道和三倍市值的NDX值得套了\n\n我最近听到一些不好的信息，好像有些人指望这个梭哈一波，这个心态很不好，别这样干"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-06-06T12:04:39.224+0800",
+              "owner": {
+                "user_id": 212228185421151,
+                "name": "好名字",
+                "avatar_url": "https://images.zsxq.com/FgDFBA-2FtUAt9OEVeD6OINwAi5N?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:kxIE8lEmLZb1UhRooSapMUBn28o="
+              }
+            },
+            {
+              "create_time": "2026-06-06T05:13:30.586+0800",
+              "owner": {
+                "user_id": 181281852281242,
+                "name": "D",
+                "avatar_url": "https://images.zsxq.com/FoK_2I22reFRWj2O9TTZu2ckFBiX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ze15ozrJ9c0qvouypMlslSzBDn0="
+              }
+            },
+            {
+              "create_time": "2026-06-06T03:15:58.961+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:UmRqdl9q-aqEQgb9JLRx6gdFfIw="
+              }
+            },
+            {
+              "create_time": "2026-06-05T23:09:59.313+0800",
+              "owner": {
+                "user_id": 182214414442152,
+                "name": "沧浪之水",
+                "avatar_url": "https://images.zsxq.com/Fj9rhHUyQQutaXUlwJAF7yj_-tNN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:G5sTkccjO3tXjfCp0pxQXJ-A96k="
+              }
+            },
+            {
+              "create_time": "2026-06-05T22:06:55.411+0800",
+              "owner": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:MilgyMdBf3JQ3N8EHsXGMnsY9Uc="
+              }
+            }
+          ],
+          "likes_count": 6,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 6
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 329,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-05T22:00:34.963+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "SPX还是比较有节操，按照SP..."
+        }
+      ]
+    }
+  }
+}
