@@ -1,0 +1,169 @@
+{
+  "captured_at": "2026-06-08T06:31:16.358569",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 14422455881211252,
+          "topic_uid": "14422455881211252",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 28518888554421,
+              "name": "哈哈",
+              "avatar_url": "https://images.zsxq.com/Fvtx_bxiA2aLrXlUykY__hg7nFjT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:9GokraouJIibymyXAYUJ9Bx-Iec=",
+              "location": "香港"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "纯新小白对QQQAI非常感兴趣，提问：\n1. 基于RWA平台，看到的token，如何证明其和真实世界金融市场的金融标的资产的对应关系？对token的ownership如何体现在对现实金融资产的ownership?\n2.我在我的钱包里搜索QQQAI，能够看到它的整个持有地址数量和市值，这部分市值在真实的金融市场中，对应的QQQAI的比例是多少？\n3.在许大设立QQQAI基金时，我们能否在公开渠道查询到基金的起始规模等基本信息？\n我的问题可能太初级，还请指教。本质目的是期望了解购买的token在真实金融世界的实际ownership。感谢🙏",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 1,
+              "join_time": "2026-06-03T15:46:39.363+0800",
+              "status": "joined"
+            },
+            "owner_location": "香港"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "其实就是一个SPV去认购QQQAI基金，然后SPV发Token记债，对应的资产是持有的基金份额\n\n这个不是很复杂的模式，但链上链下的对应在法律上我不觉得很硬，但确实有且律师都认可了\n\n市值和QQQAI的份额理论上是1:1的，但现在二级市场折价的，基金净值比Token价格高\n\n基金规模这些不公开的，BVI架构类似国内的私募概念而不是类ETF那种"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-06-07T13:02:52.043+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:UrNepSqzbub-hH17C1kvMroCRQ8="
+              }
+            },
+            {
+              "create_time": "2026-06-07T07:32:37.183+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:UmRqdl9q-aqEQgb9JLRx6gdFfIw="
+              }
+            },
+            {
+              "create_time": "2026-06-06T19:57:18.217+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "中年小马",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:zTvTfAz1wdjk7aXmKPUybOkHFCM="
+              }
+            },
+            {
+              "create_time": "2026-06-06T17:58:13.399+0800",
+              "owner": {
+                "user_id": 51118442125254,
+                "name": "黄金手套",
+                "avatar_url": "https://images.zsxq.com/Frs07b72G7EuUmobnX_F0kDjvkxT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:dT7sHN6RgAsvMyP4T0lEI538LKM="
+              }
+            },
+            {
+              "create_time": "2026-06-06T17:01:49.415+0800",
+              "owner": {
+                "user_id": 15281882812142,
+                "name": "赵铭喵",
+                "avatar_url": "https://images.zsxq.com/FiVBaDRTQULNtkHroKo6xH9JFOp1?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:yH9Q0rloQhdOjqeMTBE4X3hYtjM="
+              }
+            },
+            {
+              "create_time": "2026-06-06T15:08:32.549+0800",
+              "owner": {
+                "user_id": 48548152251228,
+                "name": "露露",
+                "avatar_url": "https://images.zsxq.com/FoWDjvXYCB1eX_0v8kYHi5jKRXCQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:RYLPerEtEDT6f18FmbhHKZmvcAA="
+              }
+            },
+            {
+              "create_time": "2026-06-06T14:50:21.125+0800",
+              "owner": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:MilgyMdBf3JQ3N8EHsXGMnsY9Uc="
+              }
+            },
+            {
+              "create_time": "2026-06-06T13:55:25.998+0800",
+              "owner": {
+                "user_id": 212228185421151,
+                "name": "好名字",
+                "avatar_url": "https://images.zsxq.com/FgDFBA-2FtUAt9OEVeD6OINwAi5N?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:kxIE8lEmLZb1UhRooSapMUBn28o="
+              }
+            },
+            {
+              "create_time": "2026-06-06T13:48:16.674+0800",
+              "owner": {
+                "user_id": 28842518252441,
+                "name": "Diana",
+                "avatar_url": "https://images.zsxq.com/FpVvL52XJ25Lc8HxZEG8ulO85Cij?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:8YTqQKAckO3TRS816V4IZwgcFUQ="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 1524812581215512,
+              "create_time": "2026-06-06T18:06:31.053+0800",
+              "owner": {
+                "user_id": 51118442125254,
+                "name": "黄金手套",
+                "avatar_url": "https://images.zsxq.com/Frs07b72G7EuUmobnX_F0kDjvkxT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:dT7sHN6RgAsvMyP4T0lEI538LKM=",
+                "location": "江苏"
+              },
+              "text": "借着请教一下，如果通过 uniswap 二级市场购买，那卖方是做市商吗？交易体量较大的话冲击成本差异会比较大，我研究了一下好像不能像股票市场一样挂买卖委托价格。",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 14,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 14
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 1,
+          "reading_count": 1,
+          "readers_count": 489,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-06T13:25:19.563+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "其实就是一个SPV去认购QQQ..."
+        }
+      ]
+    }
+  }
+}
