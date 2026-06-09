@@ -1,0 +1,138 @@
+{
+  "captured_at": "2026-06-09T12:45:50.121588",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 82255811145181542,
+          "topic_uid": "82255811145181542",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 15425528812822,
+              "name": "Cloud",
+              "avatar_url": "https://images.zsxq.com/FlKIxUdlMwto7KoVTMqDJtG1FzMU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:-38KR0W4lt8wv0ydFaK17kkHt9w=",
+              "location": "上海"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "许老师，您好，我阅读了知识星球的文章和您写给投资者的三封信，我大体说一下我对QQQAI的理解，您看看哪里有问题。\n①策略本身不预测期权标的的涨跌，但是挑选出来做期权的标的一定是个长期看会上涨，短期暴跌有底的东西\n②策略本身会对iv做一些预测（觉得目前是iv阶段性顶部，就会择机空一下），但是最主要是确保出现很肥尾的事件，策略总体持仓要获利\n然后有个疑问请教下：\n如果遇到长时间的降波下跌的情况，策略会不会很难受（被「+delta +vega」结构拖累）",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 1,
+              "join_time": "2026-02-03T16:14:16.625+0800",
+              "status": "joined"
+            },
+            "owner_location": "上海"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "1. 肯定优先选择这种标的的，纳斯达克指数是这个选择标准下的优秀代表\n2.这个其实是添头，本质上是利用了IV有底没有顶的性质\n\n是的，当IV连续走低走低再走低的时候，净值表现是不太好的"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-06-09T11:52:09.300+0800",
+              "owner": {
+                "user_id": 15111148588852,
+                "name": "Travis",
+                "avatar_url": "https://images.zsxq.com/FkCfSEMhxXkznnf7obt4Ri_hogek?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:YTzW9hIE0Zgg73FKQPCIKUlbXew="
+              }
+            },
+            {
+              "create_time": "2026-06-09T11:49:29.756+0800",
+              "owner": {
+                "user_id": 458514448488,
+                "name": "kk",
+                "avatar_url": "https://images.zsxq.com/FhczXfDNxZsJPg5JQi683gZ1cPQq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:VWN5Ed8FgZRPc-9-mA7Lh_KZlbM="
+              }
+            },
+            {
+              "create_time": "2026-06-09T11:49:24.849+0800",
+              "owner": {
+                "user_id": 88811452512442,
+                "name": "刘吉安",
+                "avatar_url": "https://images.zsxq.com/FuqPe_-9NerZIP7OWNDpxz1ZuhSQ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:OpOHIGHjVDeAZ4-Q_A-6xiKEf5s="
+              }
+            },
+            {
+              "create_time": "2026-06-09T11:46:15.137+0800",
+              "owner": {
+                "user_id": 422184558515458,
+                "name": "凸面万岁",
+                "alias": "Unknown",
+                "avatar_url": "https://images.zsxq.com/FmXktJLqiyoryC6VUmDBFINju3MN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:YM3M6YozEvJyT90imNrdwI8RC9s="
+              }
+            },
+            {
+              "create_time": "2026-06-09T11:45:39.514+0800",
+              "owner": {
+                "user_id": 224445248521,
+                "name": "阿莱克西斯",
+                "avatar_url": "https://images.zsxq.com/FkJQUVK9h5HNpqCS7Z5v5w8m8BDg?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:42qLbZXV4M4n6EPvaixuUlXPcTQ="
+              }
+            },
+            {
+              "create_time": "2026-06-09T11:45:10.372+0800",
+              "owner": {
+                "user_id": 88255842518412,
+                "name": "罗爷",
+                "avatar_url": "https://images.zsxq.com/FjNN1dyvKBQjDoRJa1Hls8JhW3eR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:NtVmuiAT61etmlDY6ABgWI03UyI="
+              }
+            },
+            {
+              "create_time": "2026-06-09T11:45:03.514+0800",
+              "owner": {
+                "user_id": 181281852281242,
+                "name": "D",
+                "avatar_url": "https://images.zsxq.com/FoK_2I22reFRWj2O9TTZu2ckFBiX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ze15ozrJ9c0qvouypMlslSzBDn0="
+              }
+            }
+          ],
+          "likes_count": 8,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 8
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 148,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-09T11:42:45.877+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "1. 肯定优先选择这种标的的，..."
+        }
+      ]
+    }
+  }
+}
