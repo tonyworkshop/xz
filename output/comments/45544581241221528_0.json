@@ -1,0 +1,87 @@
+{
+  "captured_at": "2026-06-10T19:00:38.428887",
+  "url": "https://api.zsxq.com/v2/topics/45544581241221528/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "45544581241221528",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5125841228814114,
+          "create_time": "2026-06-10T18:32:07.633+0800",
+          "owner": {
+            "user_id": 88212181142112,
+            "name": "freakybrid*",
+            "avatar_url": "https://images.zsxq.com/FgF1zOXyqMSh1enH9CGM5plOI1YX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:1eHIo3UPyilEhlAGEwMTahCOnD0=",
+            "location": "湖北"
+          },
+          "text": "出来之后opus憨的没法用了，fable烧的有点快，扛不住[可怜][可怜]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8852148551122152,
+              "parent_comment_id": 5125841228814114,
+              "create_time": "2026-06-10T18:42:57.372+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+                "location": "上海"
+              },
+              "text": "从经济的角度考虑比雇佣西海岸的有经验的软件工程师可便宜太多了",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88212181142112,
+                "name": "freakybrid*",
+                "avatar_url": "https://images.zsxq.com/FgF1zOXyqMSh1enH9CGM5plOI1YX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:1eHIo3UPyilEhlAGEwMTahCOnD0="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 1524815228815442,
+          "create_time": "2026-06-10T18:51:00.785+0800",
+          "owner": {
+            "user_id": 48248242141128,
+            "name": "Mr.L",
+            "avatar_url": "https://images.zsxq.com/FqkSBJanTFzLP70W0-XmhHZeg37j?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:pMAw2kfQYack4mYPNL7Y6ntMgfI=",
+            "location": "浙江"
+          },
+          "text": "我做电商的，有一些曾经占用时间的工作，比如做直播排班表，几百个品几十个店铺的数据分析，售后数据分析等，都可以让 ai 代劳了，做的又快又好。像排班表这种没有什么技术含量的，work buddy 可以一键秒杀；数据分析也很夸张，大部分运营是做不到那个程度的。我们的经验仅仅在“揣测上意确定汇报形式”暂时有一点点优势",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        },
+        {
+          "comment_id": 8852148551142552,
+          "create_time": "2026-06-10T18:52:30.679+0800",
+          "owner": {
+            "user_id": 215554511452881,
+            "name": "J.",
+            "avatar_url": "https://images.zsxq.com/Fj7BJ2nXf-44jvsrxXKnJRKlJcV6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:wnSNPrhnUA2IW-2EP36EBiXpuuI=",
+            "location": "北京"
+          },
+          "text": "许大，有个问题请问一下，就是有了ai和机器人以后，国家养活普通人有什么用？国家以前建立了一套套小系统保证国家这套大系统高速运作，这个过程需要大量人力当螺丝钉。但是有了ai和机器人后，国家不需要大量人力且养活一大批人应该是负收益的，此时大量低端人力就是属于负资产了。国家这时会如何处理这笔负资产？",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}
