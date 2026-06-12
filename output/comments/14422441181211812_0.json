@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-06-12T22:16:14.254076",
+  "captured_at": "2026-06-13T07:12:21.606621",
   "url": "https://api.zsxq.com/v2/topics/14422441181211812/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "14422441181211812",
   "page_id": 0,
@@ -69,7 +69,32 @@
           "group_owner_liked": false,
           "topic_owner_liked": false,
           "rewards_count": 0,
-          "sticky": false
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 8852148242158422,
+              "parent_comment_id": 8852148245224222,
+              "create_time": "2026-06-12T22:53:02.478+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+                "location": "上海"
+              },
+              "text": "世界的本质是信息，只有关系存在而无实体，现在的AI模型对于信息处理的能力的拓展远超之前所有人类创造出来的工具，就对认识世界和改造世界的效率而言，就是一种超能力。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 88851154512422,
+                "name": "LY",
+                "avatar_url": "https://images.zsxq.com/FpzOEXvMuoWTLGV1al68KXJp7sCk?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:co8lZBt3JGlg9nsxVvXLrMw8tXQ="
+              }
+            }
+          ]
         }
       ],
       "index": ""
