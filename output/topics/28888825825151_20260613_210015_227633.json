@@ -1,0 +1,68 @@
+{
+  "captured_at": "2026-06-13T21:00:15.227659",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 82255224114111122,
+          "topic_uid": "82255224114111122",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 28881525442241,
+              "name": "CC",
+              "avatar_url": "https://images.zsxq.com/Fj9qsULJE_WmGHXyBCpuWV2SyZvF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:c7Yr-5b6psxkqQzc16wpyNe7cT0=",
+              "location": "北京"
+            },
+            "text": "输在起跑线了。。。",
+            "images": [
+              {
+                "image_id": 4848558421142548,
+                "type": "jpg",
+                "thumbnail": {
+                  "url": "https://images.zsxq.com/FhfvSunHKOqmoB-G9ZYVRu8-7xSI?imageMogr2/auto-orient/thumbnail/750x/format/jpg/blur/1x0/quality/75&e=1785513599&s=jmtmyyyjyv&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ftkyhCREwBUo6L_pBEV719jI-1o=",
+                  "width": 750,
+                  "height": 1069
+                },
+                "large": {
+                  "url": "https://images.zsxq.com/FhfvSunHKOqmoB-G9ZYVRu8-7xSI?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1785513599&s=jmtmyyyjyv&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:RtQFyvfC3VpHfyImWtfUDfw09gs=",
+                  "width": 800,
+                  "height": 1140
+                },
+                "original": {
+                  "url": "https://images.zsxq.com/FhfvSunHKOqmoB-G9ZYVRu8-7xSI?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1785513599&s=jmtmyyyjyv&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:VSqgHw3JcOJmnFuEVeIISKJfs7Q=",
+                  "width": 1206,
+                  "height": 1719,
+                  "size": 140616
+                }
+              }
+            ]
+          },
+          "likes_count": 0,
+          "tourist_likes_count": 0,
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 148,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-13T17:08:05.704+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "输在起跑线了。。。"
+        }
+      ]
+    }
+  }
+}
