@@ -11,7 +11,7 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).parent.parent
 ALERT_COUNT_FILE = PROJECT_ROOT / "output" / ".alert_count"
 LAST_CHECK_FILE = PROJECT_ROOT / "output" / "last_check_date"
-SLACK_CONFIG_FILE = Path.home() / "slack_user.json"
+SLACK_CONFIG_FILE = Path.home() / "dev" / "bin" / "config" / "slack_user.json"
 MAX_ALERTS = 10
 ALERT_THRESHOLD_DAYS = 3
 
