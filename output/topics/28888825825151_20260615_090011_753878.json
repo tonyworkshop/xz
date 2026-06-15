@@ -1,0 +1,108 @@
+{
+  "captured_at": "2026-06-15T09:00:11.753906",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 82255221254215222,
+          "topic_uid": "82255221254215222",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 185552485411542,
+              "name": "蜗牛🐌飞快",
+              "avatar_url": "https://images.zsxq.com/FtphKD83oSd--fo6nzPlr2QBnLNK?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:g_pwFR_D8BBr2RZANlDwTv--SoI=",
+              "location": "乌克兰"
+            },
+            "text": "许大，拿买世界杯球赛输赢来说，如果我要很凸的策略那我就应该每次小资金下单超级冷门，损失有限，坐等黑天鹅[呲牙]"
+          },
+          "latest_likes": [
+            {
+              "create_time": "2026-06-15T08:39:13.285+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:UmRqdl9q-aqEQgb9JLRx6gdFfIw="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 2852148181225881,
+              "create_time": "2026-06-15T05:04:07.504+0800",
+              "owner": {
+                "user_id": 555548144514,
+                "name": "广予",
+                "avatar_url": "https://images.zsxq.com/FhPn5OKn48KRSNBMSby1Ba0IzMpL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Ro5DgSOY6GmJxxdKycMBQFul1ps=",
+                "location": "美国"
+              },
+              "text": "但这是负期望的，感觉非常脆弱呀。",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 5125841818555154,
+              "create_time": "2026-06-15T06:00:41.180+0800",
+              "owner": {
+                "user_id": 118511218281852,
+                "name": "好大一个饼",
+                "avatar_url": "https://images.zsxq.com/FkTcrsxL0_T7zCCOI9S-WtaBRtTA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:HdQNGpeUseoRhUUXB9dvyPpJS5k=",
+                "location": "澳门"
+              },
+              "text": "这不就是买末日期权......非常凹了",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            },
+            {
+              "comment_id": 4845128181221228,
+              "create_time": "2026-06-15T07:45:31.887+0800",
+              "owner": {
+                "user_id": 225858145221,
+                "name": "彭磊Jimmy",
+                "avatar_url": "https://images.zsxq.com/FuJB76NdkSGGM1FDDWY31sk-Lqd9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:DFbkiPLekKN5TG_eStcCPG6HAEA=",
+                "location": "北京"
+              },
+              "text": "这个是负期望的，并且没现金流",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 1,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 1
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 3,
+          "reading_count": 1,
+          "readers_count": 112,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-15T01:54:20.926+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "许大，拿买世界杯球赛输赢来说，..."
+        }
+      ]
+    }
+  }
+}

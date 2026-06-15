@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-06-14T21:00:13.553428",
+  "captured_at": "2026-06-15T09:00:20.063183",
   "url": "https://api.zsxq.com/v2/topics/55522554841881584/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "55522554841881584",
   "page_id": 0,
@@ -117,7 +117,7 @@
                 "user_id": 228845212181,
                 "name": "冷心",
                 "avatar_url": "https://images.zsxq.com/FvSH4KLSusfjYebunBPhP41z6YyF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:msJcJGWKafyIAV6jS2hiRbA6gfk=",
-                "location": "河北"
+                "location": "山东"
               },
               "text": "我也是。。。",
               "likes_count": 0,
@@ -229,7 +229,32 @@
           "group_owner_liked": false,
           "topic_owner_liked": false,
           "rewards_count": 0,
-          "sticky": false
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 2852148182282181,
+              "parent_comment_id": 8852148212885852,
+              "create_time": "2026-06-14T23:19:40.213+0800",
+              "owner": {
+                "user_id": 184551142122222,
+                "name": "Animal Lov*",
+                "avatar_url": "https://images.zsxq.com/FmX-6J5gLT2tIChrpL5WoMxq1VNf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:dlzEW_uspuCa8VwMElQK-YMRSao=",
+                "location": "北京"
+              },
+              "text": "成为股东不是要去改变公司什么，而是有变化的时候能比不是股东更能跟上变化",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 51511218528184,
+                "name": "Ming",
+                "avatar_url": "https://images.zsxq.com/FmqLTqia7qCkctIsGB4NfSYxZzyc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:XUvihqVJbPBpzVk1MAo3nOWFPTI="
+              }
+            }
+          ]
         },
         {
           "comment_id": 4845128515888188,
@@ -295,7 +320,7 @@
           "topic_owner_liked": false,
           "rewards_count": 0,
           "sticky": false,
-          "replies_count": 4,
+          "replies_count": 5,
           "replied_comments": [
             {
               "comment_id": 2852148212418451,
@@ -374,6 +399,28 @@
                 "location": "湖南"
               },
               "text": "谢谢许大，我了解到的是:fatca超5万，个人信息也要交换回来，好似无解",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4="
+              }
+            },
+            {
+              "comment_id": 8852148181442482,
+              "parent_comment_id": 4845128515515258,
+              "create_time": "2026-06-15T07:39:25.272+0800",
+              "owner": {
+                "user_id": 142458225252,
+                "name": "耿一铭",
+                "avatar_url": "https://images.zsxq.com/Fgk4WPCASe2QnIpNjNE1VPZn1vyf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:H-ddb6GYamDfqTexfa0Lmu7n7uE=",
+                "location": "新加坡"
+              },
+              "text": "许大，香港的美字可以吗？比如C开头的花某",
               "likes_count": 0,
               "group_owner_liked": false,
               "topic_owner_liked": false,
