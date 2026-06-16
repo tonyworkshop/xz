@@ -1,0 +1,177 @@
+{
+  "captured_at": "2026-06-16T09:00:12.802364",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 55522558142558184,
+          "topic_uid": "55522558142558184",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 581281885881124,
+              "name": "柯弘正",
+              "avatar_url": "https://images.zsxq.com/FqkRopzfu4LNPtNBc8F8nVaB7HBV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:3RfcquqzS3pm0OnLTsvK8voh9rY=",
+              "location": "广东"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "许大，我想问一下，目前超大公司的资本开支增速是否可持续？从财报的角度看，利润的增速虽然也很快，但远没有资本开支的增速快。",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 1,
+              "join_time": "2024-09-30T14:52:29.747+0800",
+              "status": "joined"
+            },
+            "owner_location": "广东"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "这个恐怕是现在全世界所有人都最关心的问题了。\n\n这个问题本质上依然是一个预测类问题，原则上是不能给你准确答案的，只能跟大家分享一下我是认知。\n\n我想最关键的问题不是资本开支增速是不是能由现在的利润增长来覆盖，因为两者都是变量。最关键的依然是目前关于算力的支出未来能不能形成正的毛利率。\n\n这点在我看来，未来一定是能到，而短期一定是不能到。这就绝对了目前的资本开支的速度一定是会有天花板的，那就是现金流的硬约束，考虑到美债收益率的上升和新的联储主席明确的缩表政策倾向，我想撞墙时刻多半是会有的。\n\n这无关乎AI技术多有用，这是一个博弈结构。当有余力去竞跑的时候，不把自己卷到负毛利率的情况下去竞争的话，是会输的，因为这是囚徒困境的，所以Anthropic和Open AI 就算为了IPO要粉饰财报我们多半看到的也是亏损。然而一旦卷出到双寡头或者其他稳定结构的时候，那么不可能持续亏损来维持的，这一个出清的过程会是残酷的。\n\n\n资本支出对增速取决于这个产业的竞争结构还在囚徒困境的早期负毛利率为王的时代，还是最后变成经典的双寡头格局的大家卷成本控制的正毛利率EPS竞赛的时代。后面这个时代的资本支出通常是好预测的，投行们的猜测是大差不差的。到那个时候英伟达们就必须要想办法在游戏，矿机和AI这些之外再找一个增长曲线了。别问我会是什么，没人知道的。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-06-16T08:46:02.308+0800",
+              "owner": {
+                "user_id": 88818181241512,
+                "name": "沉默的猪",
+                "avatar_url": "https://images.zsxq.com/FmUFkIZDlnVDAUPoGDa5um1np5vM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:GhtFnilCEGqbKazIUBwxJm_95lM="
+              }
+            },
+            {
+              "create_time": "2026-06-16T08:16:53.175+0800",
+              "owner": {
+                "user_id": 825814851182,
+                "name": "成哥谁敢抢",
+                "avatar_url": "https://images.zsxq.com/FsHqmE2EzkTCqbRyDamHORAnMyfz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:_MhhEVof1PRhMWVMPaYs7ojiLns="
+              }
+            },
+            {
+              "create_time": "2026-06-15T23:58:19.533+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:UmRqdl9q-aqEQgb9JLRx6gdFfIw="
+              }
+            },
+            {
+              "create_time": "2026-06-15T23:57:34.235+0800",
+              "owner": {
+                "user_id": 818842184851182,
+                "name": "平平淡淡打工人",
+                "avatar_url": "https://images.zsxq.com/FuPwotoIWyYNwDnFJ9t5ljaihL34?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:5AM4eMKckBj64J9qfOBCH4LTJdE="
+              }
+            },
+            {
+              "create_time": "2026-06-15T22:50:15.204+0800",
+              "owner": {
+                "user_id": 51154552482454,
+                "name": "Yingkun",
+                "avatar_url": "https://images.zsxq.com/FhL57VgNoQ1EXT4jAfM6S7ELMy5r?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:3TlllBaxWiUPJRRkQIaTx76P__0="
+              }
+            },
+            {
+              "create_time": "2026-06-15T21:22:29.519+0800",
+              "owner": {
+                "user_id": 581281885881124,
+                "name": "柯弘正",
+                "avatar_url": "https://images.zsxq.com/FqkRopzfu4LNPtNBc8F8nVaB7HBV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:3RfcquqzS3pm0OnLTsvK8voh9rY="
+              }
+            },
+            {
+              "create_time": "2026-06-15T21:20:41.140+0800",
+              "owner": {
+                "user_id": 844424858222152,
+                "name": "整点薯条",
+                "avatar_url": "https://images.zsxq.com/FiftEu2PQ46BYoL5ayOldUBEsi2U?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:HAlxIi5SLtk9OZC_f0iCHw8qozs="
+              }
+            },
+            {
+              "create_time": "2026-06-15T20:31:46.729+0800",
+              "owner": {
+                "user_id": 48881285244858,
+                "name": "小星划桨到月球",
+                "avatar_url": "https://images.zsxq.com/FpetB5ed6D3D-CVLtLFn5G5FHZqk?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:jxG2rqI4RdvAFa07k8Toj2r1rYU="
+              }
+            },
+            {
+              "create_time": "2026-06-15T20:25:33.233+0800",
+              "owner": {
+                "user_id": 142814885552,
+                "name": "灯火阑珊",
+                "avatar_url": "https://images.zsxq.com/Fl5Hs5SxnewLNROi3SqEUEuoiCD8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:K4Q0LHoe9jAOSEw96OKdVOH120U="
+              }
+            },
+            {
+              "create_time": "2026-06-15T20:21:49.850+0800",
+              "owner": {
+                "user_id": 222118285211,
+                "name": "行健",
+                "avatar_url": "https://images.zsxq.com/FiiZkaJz7-bk0SGFrJ2lhggHrqyj?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:SQWc0I4V7u0rnxt_GjWjbwY5Odw="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 4845128121282858,
+              "create_time": "2026-06-15T17:45:43.275+0800",
+              "owner": {
+                "user_id": 825224815152,
+                "name": "珀斯上尉",
+                "avatar_url": "https://images.zsxq.com/Fnf1Hwm8hOcOMSwOx96hkgsMMT5o?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:oRO0Eb5Lwz9Dt-8yW1eLReNAPBU=",
+                "location": "广东"
+              },
+              "text": "许大，我和你的看法相同，即指望ai应用爆发，短期内拿到足以覆盖基建支出的回报几乎是纯幻想\n但我想谈谈接下来的两个问题，一个是时间，另一个是影响\n首先是时间，以目前这些巨头的投入力度和态度来看，除非撞上真实的财务约束，简单来说就是扛不住了导致开支缩减，不太可能自己主动停下，在目前sk海力士和三星还在扩产的情况下，以血量最多的google为例，看上去就是要撑到2028并且能撑到2028的样子\n其次是影响，缩减有两种可能的情况，一种是从大额减到0，另一种是从大额减到小额，前者其实发生的可能性不大，除非暴雷，后者考虑到扩产和nv持续降本，有没有可能会以相对温和的方式逐渐缩减，规模虽然缩减，但是铺开的建设反而更多\n最终这些巨头缩减capex的影响，以一种对指数相对温和，但长期压制自身股价的方式存在\n目前整个qqq的前瞻pe大约在23左右，相对2000年总体还算是一个比较正常的值\n请许大和各位批评指正",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 23,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 23
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 1,
+          "reading_count": 1,
+          "readers_count": 425,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-15T17:24:47.143+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "这个恐怕是现在全世界所有人都最..."
+        }
+      ]
+    }
+  }
+}
