@@ -1,0 +1,110 @@
+{
+  "captured_at": "2026-06-18T21:00:39.135576",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 55522541121218414,
+          "topic_uid": "55522541121218414",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 244122822114211,
+              "name": "Pretty_fen*",
+              "avatar_url": "https://images.zsxq.com/FnjVI2lqj3bBqamu5h1WF8SvSKAJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:7SYPMuVAjMyfUuQNtTmwpXAqpKc=",
+              "location": "浙江"
+            },
+            "text": "80%的基金经理认为，做多半导体是全球最拥挤的交易\n\n几个月前做多黄金是全球最拥挤交易，但是远远没达到80%。后面的行情都知道了",
+            "images": [
+              {
+                "image_id": 1525444215582442,
+                "type": "png",
+                "thumbnail": {
+                  "url": "https://images.zsxq.com/FoInjZVPrBdvRs0N7m8Vb-RYaKTh?imageMogr2/auto-orient/thumbnail/750x/format/jpg/blur/1x0/quality/75&e=1785513599&s=jmtmyyyjyv&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:6hMMV-KDVfN0kRKuNh5GznPR9ZU=",
+                  "width": 750,
+                  "height": 437
+                },
+                "large": {
+                  "url": "https://images.zsxq.com/FoInjZVPrBdvRs0N7m8Vb-RYaKTh?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1785513599&s=jmtmyyyjyv&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:gUADcQsn0iT7etjksILPqpURGg0=",
+                  "width": 800,
+                  "height": 466
+                },
+                "original": {
+                  "url": "https://images.zsxq.com/FoInjZVPrBdvRs0N7m8Vb-RYaKTh?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1785513599&s=jmtmyyyjyv&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:lYSDMMXRdo4Q-uIKdxvmo7ERNHw=",
+                  "width": 829,
+                  "height": 483,
+                  "size": 91515
+                }
+              }
+            ]
+          },
+          "latest_likes": [
+            {
+              "create_time": "2026-06-18T17:33:16.863+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:UmRqdl9q-aqEQgb9JLRx6gdFfIw="
+              }
+            },
+            {
+              "create_time": "2026-06-18T16:22:21.374+0800",
+              "owner": {
+                "user_id": 48888182222528,
+                "name": "小民的自由之路",
+                "avatar_url": "https://images.zsxq.com/FgfUp_VRDEvKTH32hcRj5hujjVUB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Snz_nqsgXjogdIXcPlC7Lm1rv4U="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 4845125515155828,
+              "create_time": "2026-06-18T15:39:47.453+0800",
+              "owner": {
+                "user_id": 88842421514242,
+                "name": "鴖",
+                "avatar_url": "https://images.zsxq.com/Fnk97AgXmBubEYd2l2wdwGK6bF8h?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:fixwRTrLC-YMcrUF8CFKL3NpCdI=",
+                "location": "福建"
+              },
+              "text": "主要是黄金就是保值作用，ai是改变世界，ai现在是我灵魂伴侣，还可以教我各学科高深知识。我高考数学都不会了，它几秒钟做出最后一题",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 2,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 2
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 1,
+          "reading_count": 1,
+          "readers_count": 188,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-18T15:08:21.823+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "80%的基金经理认为，做多半导..."
+        }
+      ]
+    }
+  }
+}
