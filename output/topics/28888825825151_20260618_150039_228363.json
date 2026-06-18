@@ -1,0 +1,161 @@
+{
+  "captured_at": "2026-06-18T15:00:39.228387",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 55522558845214454,
+          "topic_uid": "55522558845214454",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 48418222824818,
+              "name": "格蕾丝",
+              "avatar_url": "https://images.zsxq.com/FlcUzvwrpkEQwsfVadlTmUujf2Ot?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:iYi0lqclr99xn-MZT9gg8YtIHBY=",
+              "location": "上海"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "许大之前写过SpaceX和Nasdaq100的机制，想问下如果QQQ被迫高位接盘SpaceX，以后还有open AI等好几个AI巨无霸，会影响继续投资QQQ吗？\n\n还是说因为Put和Call都买了，有了期权凸性，所以他的涨跌就无所谓呢？",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 5,
+              "join_time": "2026-01-30T12:55:53.984+0800",
+              "status": "joined"
+            },
+            "owner_location": "上海"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "指数类ETF被套利这件事情也不是一天两天了，不至于破坏掉指数被动投资整个逻辑，因为这些公司确实还在源源不断创造价值。只要这些真正的先进生产力还在加入，那么被套个一次两次的问题不大。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-06-18T02:26:24.939+0800",
+              "owner": {
+                "user_id": 28455284844881,
+                "name": "Jerry Ma",
+                "avatar_url": "https://images.zsxq.com/FgUeOhmpTFxYhOuKj9FaDqO5Rvf_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:zTvTfAz1wdjk7aXmKPUybOkHFCM="
+              }
+            },
+            {
+              "create_time": "2026-06-17T21:59:37.211+0800",
+              "owner": {
+                "user_id": 548848585244144,
+                "name": "知己",
+                "avatar_url": "https://images.zsxq.com/FinHNNaiJ_9uXMKLvIb3CiiXKA4p?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:YDrJzpXn7_lkFfZkAryXt4Oq0Ug="
+              }
+            },
+            {
+              "create_time": "2026-06-17T20:02:50.072+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:UrNepSqzbub-hH17C1kvMroCRQ8="
+              }
+            },
+            {
+              "create_time": "2026-06-17T12:25:09.592+0800",
+              "owner": {
+                "user_id": 48512845118228,
+                "name": "曼慢",
+                "avatar_url": "https://images.zsxq.com/FqKFl-_proLreyyDJLk6IE4MlTDj?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:4e0XOH4-3ZPweGG-uvtzbCyp2Zc="
+              }
+            },
+            {
+              "create_time": "2026-06-17T11:17:17.119+0800",
+              "owner": {
+                "user_id": 48418222824818,
+                "name": "格蕾丝",
+                "avatar_url": "https://images.zsxq.com/FlcUzvwrpkEQwsfVadlTmUujf2Ot?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:iYi0lqclr99xn-MZT9gg8YtIHBY="
+              }
+            },
+            {
+              "create_time": "2026-06-17T10:55:26.309+0800",
+              "owner": {
+                "user_id": 15281188218842,
+                "name": "Ming",
+                "avatar_url": "https://images.zsxq.com/FtlE0C7mNjYWXsUOrbaNbRrmeh48?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:2oFB4-F-rTUWOA0MpEUsE947GXE="
+              }
+            },
+            {
+              "create_time": "2026-06-17T04:15:30.695+0800",
+              "owner": {
+                "user_id": 48811511812258,
+                "name": "扫地的",
+                "avatar_url": "https://images.zsxq.com/FlRuuBRL5V_EvJOifHtkoMY7WXN6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:5y9p_vDvshHjLoK2mTOFaR2SlT0="
+              }
+            },
+            {
+              "create_time": "2026-06-17T03:03:37.409+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:UmRqdl9q-aqEQgb9JLRx6gdFfIw="
+              }
+            },
+            {
+              "create_time": "2026-06-16T23:49:21.353+0800",
+              "owner": {
+                "user_id": 815251855114582,
+                "name": "范",
+                "avatar_url": "https://images.zsxq.com/FieNizTU8GzK4LTYLPljbtGkD8wM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:pLZ2qyGEF8x-OsULb9Etfrqu30o="
+              }
+            },
+            {
+              "create_time": "2026-06-16T19:41:08.777+0800",
+              "owner": {
+                "user_id": 145222118112,
+                "name": "明月映江",
+                "avatar_url": "https://images.zsxq.com/FtiGGWvLMspMoyMiLzVW-NRjelDF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:mqGopBousjJlawlGSLoIXoj-DKw="
+              }
+            }
+          ],
+          "likes_count": 15,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 15
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 595,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-16T12:59:27.240+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "指数类ETF被套利这件事情也不..."
+        }
+      ]
+    }
+  }
+}
