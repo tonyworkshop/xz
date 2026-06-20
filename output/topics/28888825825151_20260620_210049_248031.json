@@ -1,0 +1,113 @@
+{
+  "captured_at": "2026-06-20T21:00:49.248054",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 45544528525251188,
+          "topic_uid": "45544528525251188",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 824281545552,
+              "name": "tyq",
+              "avatar_url": "https://images.zsxq.com/Fr4aNc-tLz_PojtCoUKPcKj18iO3?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:u5f8QqKPmkP6fQ-i6L2zeqi1kkY=",
+              "location": "上海"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "许大，按照你之前说的 打不过就加入 AI 的思路，如果美股投不了。在国内是不是可以参与算力中心相关的业务，比如做 token 的批发买卖，给算力中心供设备，有实力的话投资算力中心等等",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 6,
+              "join_time": "2024-03-14T14:01:53.285+0800",
+              "status": "joined"
+            },
+            "owner_location": "上海"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "是的，你的这个思路是对的。而且中国制造在电器领域已经是一个绕不考的中心地位了，短时间内的替代是极难做到的（不是西方国家们不想做），所以这里面蕴含着机会。\n\n要去努力挖掘，最近A股里能赚钱的行业因子，基本就是这个主题。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-06-20T20:55:42.654+0800",
+              "owner": {
+                "user_id": 841842851155582,
+                "name": "油豆角",
+                "avatar_url": "https://images.zsxq.com/FufkXhPbpAe4A3TDI3du4l43OOJt?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:OV3uDgJ_Xv5PJSiBxY6uC3RejLI="
+              }
+            },
+            {
+              "create_time": "2026-06-20T20:52:14.175+0800",
+              "owner": {
+                "user_id": 48221855418558,
+                "name": "润土",
+                "avatar_url": "https://images.zsxq.com/FuWb4fEzdjApuVKLt6XF69UU_vzh?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:bK75FlpPi4nZHBqzhwnRU1mEFso="
+              }
+            },
+            {
+              "create_time": "2026-06-20T20:50:43.052+0800",
+              "owner": {
+                "user_id": 812818842822182,
+                "name": "雨辰水州",
+                "avatar_url": "https://images.zsxq.com/FoLurKiWr2X9UU9hMc254uz8ZxHq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:5W43GQElQQnEcCzR3_T46SKMI2Q="
+              }
+            },
+            {
+              "create_time": "2026-06-20T20:47:36.788+0800",
+              "owner": {
+                "user_id": 15122188124282,
+                "name": "赵zhao",
+                "avatar_url": "https://images.zsxq.com/FifSonLyndoEbSj7QqBIbKkBTAWr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:DE4DmY9Wvqjwk3VloQ9K6KAklJI="
+              }
+            }
+          ],
+          "likes_count": 5,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 5
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 100,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-20T20:47:14.800+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "是的，你的这个思路是对的。而且..."
+        }
+      ]
+    }
+  }
+}
