@@ -1,0 +1,71 @@
+{
+  "captured_at": "2026-06-24T15:00:51.352809",
+  "url": "https://api.zsxq.com/v2/topics/45544522884124128/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "45544522884124128",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5125881484455144,
+          "create_time": "2026-06-24T12:12:43.686+0800",
+          "owner": {
+            "user_id": 48221855418558,
+            "name": "润土",
+            "avatar_url": "https://images.zsxq.com/FuWb4fEzdjApuVKLt6XF69UU_vzh?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:bK75FlpPi4nZHBqzhwnRU1mEFso=",
+            "location": "北京"
+          },
+          "text": "Skin in the game[呲牙]",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 1,
+          "replied_comments": [
+            {
+              "comment_id": 5125881484458514,
+              "parent_comment_id": 5125881484455144,
+              "create_time": "2026-06-24T12:14:30.292+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+                "location": "上海"
+              },
+              "text": "哎哟，赶紧勘误一下",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 48221855418558,
+                "name": "润土",
+                "avatar_url": "https://images.zsxq.com/FuWb4fEzdjApuVKLt6XF69UU_vzh?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:bK75FlpPi4nZHBqzhwnRU1mEFso="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 2852118414411221,
+          "create_time": "2026-06-24T12:23:24.907+0800",
+          "owner": {
+            "user_id": 182245228224182,
+            "name": "hellojcb",
+            "avatar_url": "https://images.zsxq.com/Fr-izXLKQq9yGF7oObCq2C2EubQe?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:wpDBqkFugMUgtPCLmHfRg1b9KiI=",
+            "location": "美国"
+          },
+          "text": "是会重新翻译吗？还是只是重印的",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}
