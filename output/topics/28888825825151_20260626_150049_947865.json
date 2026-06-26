@@ -1,0 +1,46 @@
+{
+  "captured_at": "2026-06-26T15:00:49.947892",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 82255212252415142,
+          "topic_uid": "82255212252415142",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 421481524111858,
+              "name": "xucs0116",
+              "avatar_url": "https://images.zsxq.com/FqbEFFgus77nZ4j1_z4tH0Ap0twL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:XzUI-2LjYPOXkhUhKnMACnKOlsM=",
+              "location": "上海"
+            },
+            "text": "许大  一般情况下  原油价格回落  多久会反应到CPI上   下个月公布的CPI大概率会回落到4%以内吧"
+          },
+          "likes_count": 0,
+          "tourist_likes_count": 0,
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 169,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-26T09:37:03.461+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "许大  一般情况下  原油价格..."
+        }
+      ]
+    }
+  }
+}
