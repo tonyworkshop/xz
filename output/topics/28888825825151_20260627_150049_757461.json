@@ -1,0 +1,79 @@
+{
+  "captured_at": "2026-06-27T15:00:49.757484",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 55522142844815554,
+          "topic_uid": "55522142844815554",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 215111124485511,
+              "name": "Lucas",
+              "avatar_url": "https://images.zsxq.com/FlK2biteh6hSjIwCCKmYR6mtSG_A?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:BSt_uC_v5TLXa8tsfSJvikweyTU=",
+              "location": "日本"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "QQQAI基金的策略，也是在特定市场环境下会亏损的吧。感觉就没有圣杯啊。在什么环境下会亏损呢？",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 4,
+              "join_time": "2025-11-15T21:37:20.898+0800",
+              "status": "joined"
+            },
+            "owner_location": "日本"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+              "location": "上海"
+            },
+            "text": "那肯定有不利情况的，当NDX的IV一路降降降的时候，我的VIX对冲肯定是少量的，而NDX本身又不怎么涨，就一路要吃IV折价的苦头了。但凡要做多凸性，这种情况就是必须要挨打的时候。"
+          },
+          "answered": true,
+          "silenced": false,
+          "likes_count": 1,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 1
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 37,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-27T14:57:04.959+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "那肯定有不利情况的，当NDX的..."
+        }
+      ]
+    }
+  }
+}
