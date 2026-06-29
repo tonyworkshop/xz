@@ -1,0 +1,115 @@
+{
+  "captured_at": "2026-06-29T15:00:58.704522",
+  "url": "https://api.zsxq.com/v2/topics/14422484155158282/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "14422484155158282",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 2852112414414581,
+          "create_time": "2026-06-29T12:36:26.569+0800",
+          "owner": {
+            "user_id": 422214855212818,
+            "name": "sky",
+            "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ruMQ6D6DbIsRPgciPA2HA_5rx2M=",
+            "location": "美国"
+          },
+          "text": "<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" />  许大，请教 多倍买近月otm put call, 少量卖出远月 ATM put call 来减轻费用也是 正convexity对吧？ 其实最终也就是trade iv 而不是direction，assuming delta hedge. 谢谢",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 3,
+          "replied_comments": [
+            {
+              "comment_id": 1524884181821522,
+              "parent_comment_id": 2852112414414581,
+              "create_time": "2026-06-29T12:43:56.513+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+                "location": "上海"
+              },
+              "text": "平时Pay Theta很厉害的，你这样卖一点减轻费用真的来大行情又拖累，是不是鸡肋了点？",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ruMQ6D6DbIsRPgciPA2HA_5rx2M="
+              }
+            },
+            {
+              "comment_id": 4845115212118288,
+              "parent_comment_id": 2852112414414581,
+              "create_time": "2026-06-29T12:52:12.309+0800",
+              "owner": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ruMQ6D6DbIsRPgciPA2HA_5rx2M=",
+                "location": "美国"
+              },
+              "text": "<e type=\"mention\" uid=\"144254841842\" title=\"@%E8%AE%B8%E5%93%B2\" /> 谢谢许大回复， 楼主说的不是也有同样问题吗？ “双卖近月ATM CALL+PUT   的同时，双买（倍量于近月量）远月OTM CALL+PUT”",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4="
+              }
+            },
+            {
+              "comment_id": 8852112414112122,
+              "parent_comment_id": 2852112414414581,
+              "create_time": "2026-06-29T12:53:14.006+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CtO2JbHy9eeuv0i9QaZ6hpaogh4=",
+                "location": "上海"
+              },
+              "text": "那个是正Theta且不怕跳空的，Payoff不一样",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 422214855212818,
+                "name": "sky",
+                "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ruMQ6D6DbIsRPgciPA2HA_5rx2M="
+              }
+            }
+          ]
+        },
+        {
+          "comment_id": 5125885484884154,
+          "create_time": "2026-06-29T12:54:11.469+0800",
+          "owner": {
+            "user_id": 422214855212818,
+            "name": "sky",
+            "avatar_url": "https://images.zsxq.com/FhjJ5eNQMAH6zFsugukEo0lqbpdm?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1785513599&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ruMQ6D6DbIsRPgciPA2HA_5rx2M=",
+            "location": "美国"
+          },
+          "text": "对了，比例调对，delta，gamma，theta 几乎为零，只剩下vega .",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
+      "index": ""
+    }
+  }
+}
