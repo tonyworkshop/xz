@@ -1,0 +1,156 @@
+{
+  "captured_at": "2026-07-01T15:00:49.483339",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 45544512445888858,
+          "topic_uid": "45544512445888858",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:F70Uy2UZyZjAebEGsvGFHEvPEoU=",
+              "location": "上海"
+            },
+            "text": "请教老师\n\n技术指标的本质是什么？底层是不是都是一回事？",
+            "expired": false,
+            "anonymous": true,
+            "owner_detail": {
+              "questions_count": 69,
+              "estimated_join_time": ">1Y",
+              "status": "joined"
+            },
+            "owner_location": "广东"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:F70Uy2UZyZjAebEGsvGFHEvPEoU=",
+              "location": "上海"
+            },
+            "text": "是的，底层是一回事情，那就是：人脑对于近期时间的解释强迫症，并且用一种过拟合的姿态轻率得做全称式“总结”"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-07-01T00:11:55.340+0800",
+              "owner": {
+                "user_id": 544822241458584,
+                "name": "邱千玺",
+                "avatar_url": "https://images.zsxq.com/Fp8SMdqIeD4KyzPJd08ksOc_myjT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:NtD382RaD2E9UEdIc5GOiVe5EsY="
+              }
+            },
+            {
+              "create_time": "2026-06-30T15:39:18.640+0800",
+              "owner": {
+                "user_id": 88512424281452,
+                "name": "翅膀",
+                "avatar_url": "https://images.zsxq.com/FnszFR7p6p8wV3Mg0sQlPAEpZpmc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:2hiBEWloGepTXKFY1tXgCHVVFww="
+              }
+            },
+            {
+              "create_time": "2026-06-30T13:15:41.691+0800",
+              "owner": {
+                "user_id": 422184558515458,
+                "name": "凸面万岁",
+                "alias": "Unknown",
+                "avatar_url": "https://images.zsxq.com/FmXktJLqiyoryC6VUmDBFINju3MN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:4EUFLQAzi1arH0VAnIAjEuF9mms="
+              }
+            },
+            {
+              "create_time": "2026-06-30T11:59:58.953+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:cS1V3Qek0u_0NHUu7PEhEMK2r94="
+              }
+            },
+            {
+              "create_time": "2026-06-30T11:49:58.751+0800",
+              "owner": {
+                "user_id": 215258444422221,
+                "name": "彭勇",
+                "avatar_url": "https://images.zsxq.com/FjidqkMOUdSuSzkHBCFZHJr5cSn4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:zaBWy1-MmRBLocw5Cl76u81Ztkc="
+              }
+            },
+            {
+              "create_time": "2026-06-30T11:33:29.485+0800",
+              "owner": {
+                "user_id": 142522282222,
+                "name": "向北",
+                "avatar_url": "https://images.zsxq.com/FmbozvjLjU49yDiFh0LPN1nClmKh?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:RSLzKS4MEos-mAHB4S1c_xmW8lU="
+              }
+            },
+            {
+              "create_time": "2026-06-30T09:57:07.196+0800",
+              "owner": {
+                "user_id": 51515155858444,
+                "name": "朱嘉宇。",
+                "avatar_url": "https://images.zsxq.com/FsaspDnhwCFja8xVaOdFaFDGElDi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:DJCvH7vtbEtX9TCT2xo75txuRCQ="
+              }
+            },
+            {
+              "create_time": "2026-06-30T09:08:05.461+0800",
+              "owner": {
+                "user_id": 88518584111842,
+                "name": "睡猫",
+                "avatar_url": "https://images.zsxq.com/Fj9rhHUyQQutaXUlwJAF7yj_-tNN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:zxZwlEFg1_Rqd6JIAM89A8lq3T8="
+              }
+            },
+            {
+              "create_time": "2026-06-30T03:43:37.881+0800",
+              "owner": {
+                "user_id": 548214152484284,
+                "name": "Carolina",
+                "avatar_url": "https://images.zsxq.com/FvpnxOY52A42N0qgN7MGVr6_CbC-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:wk2MLDzB3J0xfDvDQZvVlj4VJwM="
+              }
+            },
+            {
+              "create_time": "2026-06-29T23:42:05.682+0800",
+              "owner": {
+                "user_id": 241524485228151,
+                "name": "万柳",
+                "avatar_url": "https://images.zsxq.com/Fmr8vCU54wu12492jb8qhY_BQOW9?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:MpO9eOLo-8Hrt-Nm4AqRZ0lb08Q="
+              }
+            }
+          ],
+          "likes_count": 27,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 27
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 529,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-06-29T12:09:22.664+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "是的，底层是一回事情，那就是：..."
+        }
+      ]
+    }
+  }
+}
