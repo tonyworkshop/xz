@@ -1,0 +1,72 @@
+{
+  "captured_at": "2026-07-02T15:00:49.567059",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 14422488144884482,
+          "topic_uid": "14422488144884482",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "talk",
+          "talk": {
+            "owner": {
+              "user_id": 88842421514242,
+              "name": "鴖",
+              "avatar_url": "https://images.zsxq.com/Fnk97AgXmBubEYd2l2wdwGK6bF8h?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:35wLpMDOdoCZ1_1T3MS3l1b_xUM=",
+              "location": "福建"
+            },
+            "text": "怎么看这次meta出租算力？短期内ai算力过剩？"
+          },
+          "latest_likes": [
+            {
+              "create_time": "2026-07-02T14:07:34.297+0800",
+              "owner": {
+                "user_id": 51512554155154,
+                "name": "苏sui安娜🌰🌰🌴在*",
+                "avatar_url": "https://images.zsxq.com/FrfogaQsO6nqbAYS9CfpglCj1xNh?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CmXYK7C55ESxoRVoru92ovm9V30="
+              }
+            },
+            {
+              "create_time": "2026-07-02T12:27:56.355+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:QXAdBAg2RQTbCEKVx7n9G5glxB0="
+              }
+            }
+          ],
+          "likes_count": 2,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 2
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 134,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-07-02T11:34:26.574+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "怎么看这次meta出租算力？短..."
+        }
+      ]
+    }
+  }
+}
