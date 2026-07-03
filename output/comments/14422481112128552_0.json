@@ -1,12 +1,29 @@
 {
-  "captured_at": "2026-07-03T15:01:23.887140",
+  "captured_at": "2026-07-03T21:01:23.678585",
   "url": "https://api.zsxq.com/v2/topics/14422481112128552/comments?sort=asc&count=30&with_sticky=true",
   "topic_id": "14422481112128552",
   "page_id": 0,
   "data": {
     "succeeded": true,
     "resp_data": {
-      "comments": [],
+      "comments": [
+        {
+          "comment_id": 5125884488145414,
+          "create_time": "2026-07-03T19:04:42.022+0800",
+          "owner": {
+            "user_id": 281118554281,
+            "name": "shaobo",
+            "avatar_url": "https://images.zsxq.com/FoO_70ixb6gkaK96hBhrG8w1V_uB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:UDGnnPq7cZ7o47tEGnTpqJ0hbqM=",
+            "location": "浙江"
+          },
+          "text": "论学习能力，在座的都不如许老师。算了，大家的钱还是给许老师来管吧。大家自研的那些策略，就和玩具一样。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false
+        }
+      ],
       "index": ""
     }
   }
