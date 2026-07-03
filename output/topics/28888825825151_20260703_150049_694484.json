@@ -1,0 +1,146 @@
+{
+  "captured_at": "2026-07-03T15:00:49.694514",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 22255211418444421,
+          "topic_uid": "22255211418444421",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 88842421514242,
+              "name": "鴖",
+              "avatar_url": "https://images.zsxq.com/Fnk97AgXmBubEYd2l2wdwGK6bF8h?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:35wLpMDOdoCZ1_1T3MS3l1b_xUM=",
+              "location": "福建"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:F70Uy2UZyZjAebEGsvGFHEvPEoU=",
+              "location": "上海"
+            },
+            "text": "怎么看这次meta出租算力？短期内ai算力过剩？正常理解，你说需要算力紧缺，那应该买更多的卡，可是现在你居然出租算力，说明不缺算力，那么买卡，缺存储的逻辑就值得怀疑。可是我们用ai，能直观感受到ai太强大了，ai能让很多事情变得高效，长期肯定缺。分析师评论这事是说旧卡不缺，新一代卡缺，出租是为了回收资金，更好买新卡。您怎么看这事",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 7,
+              "join_time": "2024-03-17T23:36:14.846+0800",
+              "status": "joined"
+            },
+            "owner_location": "福建"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:F70Uy2UZyZjAebEGsvGFHEvPEoU=",
+              "location": "上海"
+            },
+            "text": "xAI 也是因为算力过剩出租给了Claude使用，所以证明算力是全民过剩吗？那只能说明部分公司算力过剩部分公司不足，而马上能租出去就说明算力依然是紧缺的。\n\nMeta 出租算力和 xAI 一样，无非是羊驼们和Gork没办法吸引大量的用户去使用，而GPT和Claude则不一样，我今天使用Claude Code 又出现了算力不足要排队的情况，这说明xAI 就算把世界上算力卡最多的中心给Athropic也是不够用的。\n\n所以你怎么从Meta出租算力得出算力不足从而推导出存储需求不足的？是不是过于不严谨和混乱了？\n\n这只证明了大模型现在已经变成两强竞争的格局了而非其他。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-07-03T11:42:03.440+0800",
+              "owner": {
+                "user_id": 15284152825542,
+                "name": "日高晏眠人",
+                "alias": "日高晏眠人",
+                "avatar_url": "https://images.zsxq.com/FmgqRiV7eHEKrbLz9Xl-x3x6bxNL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:JeAdV5wL_GKO75-BTEaYuow13eU="
+              }
+            },
+            {
+              "create_time": "2026-07-03T09:52:37.140+0800",
+              "owner": {
+                "user_id": 48581158544558,
+                "name": "chz",
+                "avatar_url": "https://images.zsxq.com/FjwbS_MOQ8kpFA_XBt19zVAbomT8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:sRt0EdI0DJvoELFSdtqPzudDIO0="
+              }
+            },
+            {
+              "create_time": "2026-07-03T09:09:41.199+0800",
+              "owner": {
+                "user_id": 142814885552,
+                "name": "灯火阑珊",
+                "avatar_url": "https://images.zsxq.com/Fl5Hs5SxnewLNROi3SqEUEuoiCD8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:uOpEMOxY_gGVNV6UxTIYgu3YBcY="
+              }
+            },
+            {
+              "create_time": "2026-07-03T08:35:14.999+0800",
+              "owner": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:M0swMRZwTMtCo69Y7cIRu-P7TGg="
+              }
+            },
+            {
+              "create_time": "2026-07-03T08:17:25.476+0800",
+              "owner": {
+                "user_id": 212228185421151,
+                "name": "好名字",
+                "avatar_url": "https://images.zsxq.com/FgDFBA-2FtUAt9OEVeD6OINwAi5N?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:s42BOhyMoh7Pl6PdNrvJpFrjigc="
+              }
+            },
+            {
+              "create_time": "2026-07-03T06:14:50.736+0800",
+              "owner": {
+                "user_id": 181281852281242,
+                "name": "D",
+                "avatar_url": "https://images.zsxq.com/FoK_2I22reFRWj2O9TTZu2ckFBiX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:BGU-DyAzTu9GFZMuU2CRsdnk5yI="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 8852114242252122,
+              "create_time": "2026-07-03T12:55:18.469+0800",
+              "owner": {
+                "user_id": 844424858222152,
+                "name": "整点薯条",
+                "avatar_url": "https://images.zsxq.com/FiftEu2PQ46BYoL5ayOldUBEsi2U?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:CsOGui7WOW7Bqnejesq4rxhEhpo=",
+                "location": "美国"
+              },
+              "text": "更像是meta太菜了，自己的模型没人用",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false
+            }
+          ],
+          "likes_count": 7,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 7
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 1,
+          "reading_count": 1,
+          "readers_count": 254,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-07-03T05:30:04.993+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "xAI 也是因为算力过剩出租给..."
+        }
+      ]
+    }
+  }
+}
