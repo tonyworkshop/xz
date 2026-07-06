@@ -1,0 +1,148 @@
+{
+  "captured_at": "2026-07-06T15:00:29.939381",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 82255455485224112,
+          "topic_uid": "82255455485224112",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:F70Uy2UZyZjAebEGsvGFHEvPEoU=",
+              "location": "上海"
+            },
+            "text": "请问许大，目前来看，针对小账户是不是单纯买UVIX Leaps Put就是懒人的“圣杯”？交易？\n\n平时也基本不用看，到还剩半年的时候移仓，同时也能比较高效率的积累复利先把账户做大？",
+            "expired": false,
+            "anonymous": true,
+            "owner_detail": {
+              "questions_count": 27,
+              "estimated_join_time": ">1Y",
+              "status": "joined"
+            },
+            "owner_location": "四川"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:F70Uy2UZyZjAebEGsvGFHEvPEoU=",
+              "location": "上海"
+            },
+            "text": "没有简单的圣杯可以用，UVXY遇到极端的年份也是很离谱的，它只是超过9成的情况下能赚一个相当不错的赔率，这已经非常难得了。但你指望一个简单的策略年年稳定复利赚钱是不现实的。"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-07-06T12:07:20.170+0800",
+              "owner": {
+                "user_id": 2452542441,
+                "name": "Zac",
+                "avatar_url": "https://images.zsxq.com/Fn0KBkJ5gGHHYnqRoWRh2FBcrg76?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:cS1V3Qek0u_0NHUu7PEhEMK2r94="
+              }
+            },
+            {
+              "create_time": "2026-07-06T08:02:12.779+0800",
+              "owner": {
+                "user_id": 15581481544422,
+                "name": "红花红果",
+                "avatar_url": "https://images.zsxq.com/Fkj19hZYfOPXRh99F1l84FH_wclV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:zsGO3a1XCpeWvgo6Dqk3pW5U-LQ="
+              }
+            },
+            {
+              "create_time": "2026-07-06T05:59:18.573+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:QXAdBAg2RQTbCEKVx7n9G5glxB0="
+              }
+            },
+            {
+              "create_time": "2026-07-05T22:29:39.080+0800",
+              "owner": {
+                "user_id": 548214152484284,
+                "name": "Carolina",
+                "avatar_url": "https://images.zsxq.com/FvpnxOY52A42N0qgN7MGVr6_CbC-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:wk2MLDzB3J0xfDvDQZvVlj4VJwM="
+              }
+            },
+            {
+              "create_time": "2026-07-05T15:10:32.286+0800",
+              "owner": {
+                "user_id": 145222118112,
+                "name": "明月映江",
+                "avatar_url": "https://images.zsxq.com/FtiGGWvLMspMoyMiLzVW-NRjelDF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:9V5MB38h8ATlPZnzboYYoMRmymc="
+              }
+            },
+            {
+              "create_time": "2026-07-05T11:24:15.353+0800",
+              "owner": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:M0swMRZwTMtCo69Y7cIRu-P7TGg="
+              }
+            },
+            {
+              "create_time": "2026-07-05T10:36:43.626+0800",
+              "owner": {
+                "user_id": 548848585244144,
+                "name": "知己",
+                "avatar_url": "https://images.zsxq.com/FinHNNaiJ_9uXMKLvIb3CiiXKA4p?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:pbrvuo0a9rLVkxnHVZ4HQdxQYsc="
+              }
+            },
+            {
+              "create_time": "2026-07-05T10:36:14.452+0800",
+              "owner": {
+                "user_id": 48512845118228,
+                "name": "曼慢",
+                "avatar_url": "https://images.zsxq.com/FqKFl-_proLreyyDJLk6IE4MlTDj?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:dskDWN1ltLHtAFAU4LEw2cPfiek="
+              }
+            },
+            {
+              "create_time": "2026-07-05T10:14:01.473+0800",
+              "owner": {
+                "user_id": 422184558515458,
+                "name": "凸面万岁",
+                "alias": "Unknown",
+                "avatar_url": "https://images.zsxq.com/FmXktJLqiyoryC6VUmDBFINju3MN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:4EUFLQAzi1arH0VAnIAjEuF9mms="
+              }
+            }
+          ],
+          "likes_count": 11,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 11
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 458,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-07-05T10:13:28.315+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "没有简单的圣杯可以用，UVXY..."
+        }
+      ]
+    }
+  }
+}
