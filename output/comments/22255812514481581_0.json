@@ -1,0 +1,77 @@
+{
+  "captured_at": "2026-07-06T21:00:31.749613",
+  "url": "https://api.zsxq.com/v2/topics/22255812514481581/comments?sort=asc&count=30&with_sticky=true",
+  "topic_id": "22255812514481581",
+  "page_id": 0,
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "comments": [
+        {
+          "comment_id": 5125884888482554,
+          "create_time": "2026-07-06T15:29:16.945+0800",
+          "owner": {
+            "user_id": 815584118214512,
+            "name": "Ray",
+            "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ce1tYQ12Zi8lkVZXmqQzi6ajUj4=",
+            "location": "四川"
+          },
+          "text": "其实Skill本质上就是把会复用的Prompt以及对应的Function Call打了一个包而已，我想模型进化到一定程度之后，可能不需要写多么复杂的Prompt去干一件事了，或者这些指令会融入Agent的长期记忆里，不用每次强调才能复用。",
+          "likes_count": 0,
+          "group_owner_liked": false,
+          "topic_owner_liked": false,
+          "rewards_count": 0,
+          "sticky": false,
+          "replies_count": 2,
+          "replied_comments": [
+            {
+              "comment_id": 1524881888181582,
+              "parent_comment_id": 5125884888482554,
+              "create_time": "2026-07-06T15:34:04.204+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:F70Uy2UZyZjAebEGsvGFHEvPEoU=",
+                "location": "上海"
+              },
+              "text": "Context依然很宝贵，Open Clew当初那个预填Prompt意见占了一大半的模式我看着就头大，连麦Token的Anthropic都不太敢推。太离谱了。它就是一个狂热的Prompt解决大模型缺陷的错误工程示范。",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ce1tYQ12Zi8lkVZXmqQzi6ajUj4="
+              }
+            },
+            {
+              "comment_id": 5125884888828114,
+              "parent_comment_id": 5125884888482554,
+              "create_time": "2026-07-06T15:41:47.189+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ce1tYQ12Zi8lkVZXmqQzi6ajUj4=",
+                "location": "四川"
+              },
+              "text": "是的，用Claw类的Agent烧token的速度要比Claude Code快很多很多",
+              "likes_count": 0,
+              "group_owner_liked": false,
+              "topic_owner_liked": false,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:F70Uy2UZyZjAebEGsvGFHEvPEoU="
+              }
+            }
+          ]
+        }
+      ],
+      "index": ""
+    }
+  }
+}
