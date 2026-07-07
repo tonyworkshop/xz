@@ -1,0 +1,186 @@
+{
+  "captured_at": "2026-07-07T09:00:32.099336",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 22255812514481581,
+          "topic_uid": "22255812514481581",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 215554511452881,
+              "name": "J.",
+              "avatar_url": "https://images.zsxq.com/Fj7BJ2nXf-44jvsrxXKnJRKlJcV6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:_zE4Xo9-KXf2kO3DBq2VpugxBuY=",
+              "location": "北京"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:F70Uy2UZyZjAebEGsvGFHEvPEoU=",
+              "location": "上海"
+            },
+            "text": "许大，您用ai分析金融市场时，沉淀了什么成熟的skill或者工作流，能不能分享一下？非常感谢！",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 1,
+              "join_time": "2024-09-18T23:04:49.467+0800",
+              "status": "joined"
+            },
+            "owner_location": "北京"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:F70Uy2UZyZjAebEGsvGFHEvPEoU=",
+              "location": "上海"
+            },
+            "text": "我其实不喜欢那个Skill 的功能，我想未来所有的Skill都会变成子Agent，所谓的MOE专家模型是个雏形，未来不是8个Experts专家模型搞一个路由，而是很多很多个不同场景的子Agent（由不同的基座Experts驱动）在一个较复杂的路由规则下最后暴露给终端用户一个隐形的Interface。而不是和App Store一样的Skills，那个在Context只有0.25M但代码要一大串的Codex下完全宣兵夺主。\n\n我想未来的两个可能性比较高的方向是：大模型类似Google和Bing的地位，做各个垂直行业子Agent专家领域的类似现在千千万万的网站主的角色。LLM基座模型的能力进一步侵蚀现在为了短期效果沉淀的Skill，所以和当初的Function Call一样都只是现在模型能力不足的一个中间状态而已。\n\n\n现在去收集各种Skill，我猜回头看是浪费时间。回想一下你现在开着多少MCP？"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-07-07T02:00:16.834+0800",
+              "owner": {
+                "user_id": 548214152484284,
+                "name": "Carolina",
+                "avatar_url": "https://images.zsxq.com/FvpnxOY52A42N0qgN7MGVr6_CbC-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:wk2MLDzB3J0xfDvDQZvVlj4VJwM="
+              }
+            },
+            {
+              "create_time": "2026-07-06T19:26:56.629+0800",
+              "owner": {
+                "user_id": 142814885552,
+                "name": "灯火阑珊",
+                "avatar_url": "https://images.zsxq.com/Fl5Hs5SxnewLNROi3SqEUEuoiCD8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:uOpEMOxY_gGVNV6UxTIYgu3YBcY="
+              }
+            },
+            {
+              "create_time": "2026-07-06T18:25:46.560+0800",
+              "owner": {
+                "user_id": 554555211544,
+                "name": "Binhan_X",
+                "avatar_url": "https://images.zsxq.com/FjjAC2yXxVuRyVhapfBAViPPoqxJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:QXAdBAg2RQTbCEKVx7n9G5glxB0="
+              }
+            },
+            {
+              "create_time": "2026-07-06T15:55:42.670+0800",
+              "owner": {
+                "user_id": 185528488854512,
+                "name": "8BQ",
+                "avatar_url": "https://images.zsxq.com/Fir_JMUYO8AtBEXYNn6qubPFE2bG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:0msmUoiGc8oFzMTzrbHGK7xJGho="
+              }
+            },
+            {
+              "create_time": "2026-07-06T15:38:39.959+0800",
+              "owner": {
+                "user_id": 181281852281242,
+                "name": "D",
+                "avatar_url": "https://images.zsxq.com/FoK_2I22reFRWj2O9TTZu2ckFBiX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:BGU-DyAzTu9GFZMuU2CRsdnk5yI="
+              }
+            },
+            {
+              "create_time": "2026-07-06T15:27:05.022+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ce1tYQ12Zi8lkVZXmqQzi6ajUj4="
+              }
+            }
+          ],
+          "show_comments": [
+            {
+              "comment_id": 5125884888482554,
+              "create_time": "2026-07-06T15:29:16.945+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ce1tYQ12Zi8lkVZXmqQzi6ajUj4=",
+                "location": "四川"
+              },
+              "text": "其实Skill本质上就是把会复用的Prompt以及对应的Function Call打了一个包而已，我想模型进化到一定程度之后，可能不需要写多么复杂的Prompt去干一件事了，或者这些指令会融入Agent的长期记忆里，不用每次强调才能复用。",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "replies_count": 2
+            },
+            {
+              "comment_id": 1524881888181582,
+              "parent_comment_id": 5125884888482554,
+              "create_time": "2026-07-06T15:34:04.204+0800",
+              "owner": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:F70Uy2UZyZjAebEGsvGFHEvPEoU=",
+                "location": "上海"
+              },
+              "text": "Context依然很宝贵，Open Clew当初那个预填Prompt意见占了一大半的模式我看着就头大，连麦Token的Anthropic都不太敢推。太离谱了。它就是一个狂热的Prompt解决大模型缺陷的错误工程示范。",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ce1tYQ12Zi8lkVZXmqQzi6ajUj4="
+              }
+            },
+            {
+              "comment_id": 5125884888828114,
+              "parent_comment_id": 5125884888482554,
+              "create_time": "2026-07-06T15:41:47.189+0800",
+              "owner": {
+                "user_id": 815584118214512,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fvp-PceaJD-UM_r2a30-Y6yCKjrl?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ce1tYQ12Zi8lkVZXmqQzi6ajUj4=",
+                "location": "四川"
+              },
+              "text": "是的，用Claw类的Agent烧token的速度要比Claude Code快很多很多",
+              "likes_count": 0,
+              "rewards_count": 0,
+              "sticky": false,
+              "repliee": {
+                "user_id": 144254841842,
+                "name": "许哲",
+                "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:F70Uy2UZyZjAebEGsvGFHEvPEoU="
+              }
+            }
+          ],
+          "likes_count": 7,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 7
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 3,
+          "reading_count": 1,
+          "readers_count": 370,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-07-06T15:24:47.771+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "我其实不喜欢那个Skill 的..."
+        }
+      ]
+    }
+  }
+}
