@@ -1,17 +1,15 @@
 #!/usr/bin/env python3
 """检查抓取结果，连续无更新时发送 Slack 告警"""
 
-import json
 import re
 import subprocess
-import urllib.request
 from datetime import date, timedelta
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).parent.parent
 ALERT_COUNT_FILE = PROJECT_ROOT / "output" / ".alert_count"
 LAST_CHECK_FILE = PROJECT_ROOT / "output" / "last_check_date"
-SLACK_CONFIG_FILE = Path.home() / "dev" / "bin" / "config" / "slack_user.json"
+SLACK_SEND_SCRIPT = Path.home() / "dev" / "bin" / "slack-send.py"
 MAX_ALERTS = 10
 ALERT_THRESHOLD_DAYS = 3
 
@@ -67,41 +65,24 @@ def write_alert_count(count: int):
 
 
 def send_slack_dm(message: str) -> bool:
-    """通过 Slack Bot 发送 DM（仅用 urllib，无额外依赖）"""
+    """通过统一的 slack-send.py 发送 DM"""
     try:
-        config = json.loads(SLACK_CONFIG_FILE.read_text())
-    except (FileNotFoundError, json.JSONDecodeError) as e:
-        print(f"[警告] 无法读取 {SLACK_CONFIG_FILE}: {e}")
-        print(f"消息内容: {message}")
-        return False
-
-    token = config.get("SLACK_BOT_TOKEN")
-    user_id = config.get("SLACK_USER_ID")
-    if not token or not user_id:
-        print("[警告] slack_user.json 缺少 SLACK_BOT_TOKEN 或 SLACK_USER_ID")
-        return False
-
-    payload = json.dumps({"channel": user_id, "text": message}).encode()
-    req = urllib.request.Request(
-        "https://slack.com/api/chat.postMessage",
-        data=payload,
-        headers={
-            "Authorization": f"Bearer {token}",
-            "Content-Type": "application/json",
-        },
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=10) as resp:
-            data = json.loads(resp.read())
-            if data.get("ok"):
-                print("[成功] Slack 发送成功")
-                return True
-            else:
-                print(f"[错误] Slack 发送失败: {data.get('error')}")
-                return False
-    except Exception as e:
+        result = subprocess.run(
+            [str(SLACK_SEND_SCRIPT), "-m", message],
+            capture_output=True,
+            text=True,
+        )
+    except OSError as e:
         print(f"[错误] Slack 请求异常: {e}")
         return False
+
+    if result.returncode == 0:
+        print("[成功] Slack 发送成功")
+        return True
+
+    error = result.stderr.strip() or result.stdout.strip() or f"exit={result.returncode}"
+    print(f"[错误] Slack 发送失败: {error}")
+    return False
 
 
 def get_latest_commit_message() -> str:
