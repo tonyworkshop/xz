@@ -1,0 +1,106 @@
+{
+  "captured_at": "2026-07-18T09:00:42.759466",
+  "url": "https://api.zsxq.com/v2/groups/28888825825151/topics?scope=all&count=1",
+  "data": {
+    "succeeded": true,
+    "resp_data": {
+      "topics": [
+        {
+          "topic_id": 22255481851418281,
+          "topic_uid": "22255481851418281",
+          "group": {
+            "group_id": 28888825825151,
+            "name": "天上不会掉馅饼",
+            "type": "pay",
+            "background_url": "builtin://1"
+          },
+          "type": "q&a",
+          "question": {
+            "owner": {
+              "user_id": 88842421514242,
+              "name": "鴖",
+              "avatar_url": "https://images.zsxq.com/Fnk97AgXmBubEYd2l2wdwGK6bF8h?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:35wLpMDOdoCZ1_1T3MS3l1b_xUM=",
+              "location": "福建"
+            },
+            "questionee": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:F70Uy2UZyZjAebEGsvGFHEvPEoU=",
+              "location": "上海"
+            },
+            "text": "许大，怎么看最近暴跌，ai应用范围还在不断扩展，很多公司业绩也不错，怎么就都一股脑暴跌",
+            "expired": false,
+            "anonymous": false,
+            "owner_detail": {
+              "questions_count": 8,
+              "join_time": "2024-03-17T23:36:14.846+0800",
+              "status": "joined"
+            },
+            "owner_location": "福建"
+          },
+          "answer": {
+            "owner": {
+              "user_id": 144254841842,
+              "name": "许哲",
+              "avatar_url": "https://images.zsxq.com/Fo1faLRzTq2JvLOpLJ7CISOP_KdV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:F70Uy2UZyZjAebEGsvGFHEvPEoU=",
+              "location": "上海"
+            },
+            "text": "因为韩国人杠杆爆了，和我2015年分析A股的融资爆仓原理一样"
+          },
+          "answered": true,
+          "silenced": false,
+          "latest_likes": [
+            {
+              "create_time": "2026-07-18T06:50:25.005+0800",
+              "owner": {
+                "user_id": 181281852281242,
+                "name": "D",
+                "avatar_url": "https://images.zsxq.com/FoK_2I22reFRWj2O9TTZu2ckFBiX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:BGU-DyAzTu9GFZMuU2CRsdnk5yI="
+              }
+            },
+            {
+              "create_time": "2026-07-18T03:30:50.523+0800",
+              "owner": {
+                "user_id": 422184558515458,
+                "name": "凸面万岁",
+                "alias": "Unknown",
+                "avatar_url": "https://images.zsxq.com/FmXktJLqiyoryC6VUmDBFINju3MN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:4EUFLQAzi1arH0VAnIAjEuF9mms="
+              }
+            },
+            {
+              "create_time": "2026-07-18T00:17:35.760+0800",
+              "owner": {
+                "user_id": 818221851841542,
+                "name": "jelawat",
+                "avatar_url": "https://images.zsxq.com/FjaGXvOVUONN3f4Ca-KK01Bs3fhV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1788191999&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:M0swMRZwTMtCo69Y7cIRu-P7TGg="
+              }
+            }
+          ],
+          "likes_count": 3,
+          "tourist_likes_count": 0,
+          "likes_detail": {
+            "emojis": [
+              {
+                "emoji_key": "[强]",
+                "likes_count": 3
+              }
+            ]
+          },
+          "rewards_count": 0,
+          "comments_count": 0,
+          "reading_count": 1,
+          "readers_count": 97,
+          "digested": false,
+          "sticky": false,
+          "create_time": "2026-07-18T00:12:45.381+0800",
+          "user_specific": {
+            "liked": false,
+            "liked_emojis": [],
+            "subscribed": false
+          },
+          "title": "因为韩国人杠杆爆了，和我201..."
+        }
+      ]
+    }
+  }
+}
